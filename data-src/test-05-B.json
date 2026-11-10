@@ -1,0 +1,349 @@
+{
+  "questions": [
+    {
+      "id": "t05-psych-01",
+      "part": "B",
+      "section": "psych",
+      "topic": "Motivation & adjustment",
+      "question": "A child who starts bed-wetting after a new sibling is born shows the defence mechanism of ___.",
+      "questionHi": "नए भाई/बहन के जन्म के बाद बिस्तर गीला करने लगने वाला बच्चा ___ नामक रक्षा-युक्ति दिखाता है।",
+      "options": [
+        "Repression",
+        "Regression",
+        "Sublimation",
+        "Denial"
+      ],
+      "optionsHi": [
+        "दमन (Repression)",
+        "प्रत्यावर्तन (Regression)",
+        "उदात्तीकरण (Sublimation)",
+        "अस्वीकरण (Denial)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Regression is returning to an earlier, immature stage of behaviour under stress.",
+      "explanationHi": "तनाव में पहले की अपरिपक्व अवस्था के व्यवहार पर लौट आना प्रत्यावर्तन (regression) कहलाता है।"
+    },
+    {
+      "id": "t05-psych-02",
+      "part": "B",
+      "section": "psych",
+      "topic": "Learning theories",
+      "question": "A dog salivating at the sound of a bell after it was repeatedly paired with food is an example of ___.",
+      "questionHi": "भोजन के साथ बार-बार घंटी बजाने के बाद केवल घंटी की आवाज़ पर कुत्ते की लार टपकना ___ का उदाहरण है।",
+      "options": [
+        "Classical conditioning",
+        "Operant conditioning",
+        "Insight learning",
+        "Trial and error"
+      ],
+      "optionsHi": [
+        "शास्त्रीय अनुबंधन",
+        "क्रियाप्रसूत अनुबंधन",
+        "अंतर्दृष्टि द्वारा अधिगम",
+        "प्रयास और त्रुटि"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pavlov's experiment pairs a neutral stimulus with an unconditioned stimulus until it produces the response, which is classical conditioning. Operant conditioning depends on consequences, insight on sudden understanding, and trial and error on repeated attempts.",
+      "explanationHi": "पावलोव के प्रयोग में तटस्थ उद्दीपक को स्वाभाविक उद्दीपक के साथ जोड़ा जाता है, यह शास्त्रीय अनुबंधन है। क्रियाप्रसूत अनुबंधन परिणामों पर, अंतर्दृष्टि अचानक समझ पर और प्रयास-त्रुटि बार-बार प्रयासों पर आधारित है।"
+    },
+    {
+      "id": "t05-psych-03",
+      "part": "B",
+      "section": "psych",
+      "topic": "Intelligence",
+      "question": "Howard Gardner's theory of intelligence proposes ___.",
+      "questionHi": "हावर्ड गार्डनर का बुद्धि सिद्धांत ___ प्रस्तावित करता है।",
+      "options": [
+        "a single general factor 'g'",
+        "three intelligences: analytic, creative and practical",
+        "at least eight relatively independent intelligences",
+        "that only IQ matters"
+      ],
+      "optionsHi": [
+        "एकल सामान्य कारक 'g'",
+        "तीन बुद्धियाँ: विश्लेषणात्मक, सृजनात्मक और व्यावहारिक",
+        "कम से कम आठ अपेक्षाकृत स्वतंत्र बुद्धियाँ",
+        "कि केवल IQ महत्वपूर्ण है"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gardner's Multiple Intelligences theory lists at least eight independent intelligences. The 'g' factor is Spearman's, the triarchic theory is Sternberg's, and Gardner does not say only IQ matters.",
+      "explanationHi": "गार्डनर का बहुबुद्धि सिद्धांत कम से कम आठ स्वतंत्र बुद्धियाँ बताता है। 'g' कारक स्पीयरमैन का, त्रिचापीय सिद्धांत स्टर्नबर्ग का है और गार्डनर केवल IQ को महत्व नहीं देते।"
+    },
+    {
+      "id": "t05-psych-04",
+      "part": "B",
+      "section": "psych",
+      "topic": "Kohlberg",
+      "question": "Lawrence Kohlberg's theory is concerned with ___.",
+      "questionHi": "लॉरेंस कोहलबर्ग का सिद्धांत ___ से संबंधित है।",
+      "options": [
+        "cognitive development",
+        "psychosexual development",
+        "psychosocial development",
+        "moral development"
+      ],
+      "optionsHi": [
+        "संज्ञानात्मक विकास",
+        "मनोलैंगिक विकास",
+        "मनोसामाजिक विकास",
+        "नैतिक विकास"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kohlberg proposed three levels (pre-conventional, conventional, post-conventional) of moral development. Cognitive is Piaget, psychosexual is Freud, and psychosocial is Erikson.",
+      "explanationHi": "कोहलबर्ग ने नैतिक विकास के तीन स्तर (पूर्व-परंपरागत, परंपरागत, उत्तर-परंपरागत) बताए। संज्ञानात्मक विकास पियाजे, मनोलैंगिक फ्रायड और मनोसामाजिक एरिक्सन से जुड़ा है।"
+    },
+    {
+      "id": "t05-psych-05",
+      "part": "B",
+      "section": "psych",
+      "topic": "Motivation",
+      "question": "At the top of Maslow's hierarchy of needs is ___.",
+      "questionHi": "मैस्लो की आवश्यकता-पदानुक्रम में सबसे ऊपर ___ है।",
+      "options": [
+        "Safety needs",
+        "Self-actualisation",
+        "Esteem needs",
+        "Love and belonging"
+      ],
+      "optionsHi": [
+        "सुरक्षा की आवश्यकताएँ",
+        "आत्म-सिद्धि (Self-actualisation)",
+        "सम्मान की आवश्यकताएँ",
+        "प्रेम और अपनत्व"
+      ],
+      "correctIndex": 1,
+      "explanation": "Maslow's pyramid runs from physiological, safety, love/belonging and esteem up to self-actualisation at the top.",
+      "explanationHi": "मैस्लो का पिरामिड शारीरिक, सुरक्षा, प्रेम/अपनत्व और सम्मान से होकर सबसे ऊपर आत्म-सिद्धि तक जाता है।"
+    },
+    {
+      "id": "t05-psych-06",
+      "part": "B",
+      "section": "psych",
+      "topic": "Personality",
+      "question": "Which of the following is a projective test of personality?",
+      "questionHi": "निम्नलिखित में से व्यक्तित्व का प्रक्षेपी परीक्षण (projective test) कौन-सा है?",
+      "options": [
+        "Stanford-Binet Test",
+        "Raven's Matrices",
+        "Rorschach Inkblot Test",
+        "WISC"
+      ],
+      "optionsHi": [
+        "स्टैनफोर्ड-बिने परीक्षण",
+        "रेवेन मैट्रिसेस",
+        "रोर्शाक स्याही-धब्बा परीक्षण",
+        "WISC"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Rorschach Inkblot Test is a projective test. The others measure intelligence.",
+      "explanationHi": "रोर्शाक इंकब्लॉट परीक्षण प्रक्षेपी परीक्षण है। अन्य बुद्धि मापते हैं।"
+    },
+    {
+      "id": "t05-assess-01",
+      "part": "B",
+      "section": "assess",
+      "topic": "Formative assessment",
+      "question": "Assessment carried out during instruction to improve learning is called ___.",
+      "questionHi": "शिक्षण के दौरान अधिगम को बेहतर बनाने के लिए किया जाने वाला आकलन ___ कहलाता है।",
+      "options": [
+        "Summative assessment",
+        "Norm-referenced test",
+        "Diagnostic test",
+        "Formative assessment"
+      ],
+      "optionsHi": [
+        "योगात्मक आकलन",
+        "मानक-संदर्भित परीक्षण",
+        "निदानात्मक परीक्षण",
+        "रचनात्मक आकलन"
+      ],
+      "correctIndex": 3,
+      "explanation": "Formative assessment is ongoing and gives feedback to improve teaching and learning. Summative assessment is at the end, and a diagnostic test identifies specific difficulties.",
+      "explanationHi": "रचनात्मक आकलन निरंतर चलता है और अधिगम सुधारने के लिए फीडबैक देता है। योगात्मक आकलन अंत में होता है और निदानात्मक परीक्षण विशिष्ट कठिनाइयाँ पहचानता है।"
+    },
+    {
+      "id": "t05-assess-02",
+      "part": "B",
+      "section": "assess",
+      "topic": "Characteristics of a good test",
+      "question": "If a test gives consistent results when repeated under similar conditions, it is said to have ___.",
+      "questionHi": "यदि कोई परीक्षण समान परिस्थितियों में दोहराने पर एक-सी परिणाम देता है, तो उसमें ___ है।",
+      "options": [
+        "Reliability",
+        "Validity",
+        "Objectivity",
+        "Usability"
+      ],
+      "optionsHi": [
+        "विश्वसनीयता",
+        "वैधता",
+        "वस्तुनिष्ठता",
+        "उपयोगिता"
+      ],
+      "correctIndex": 0,
+      "explanation": "Consistency of results is reliability. Validity is measuring what is intended, objectivity is freedom from scorer bias, and usability is practicality.",
+      "explanationHi": "परिणामों की संगति विश्वसनीयता है। वैधता का अर्थ वही मापना जो मापना है, वस्तुनिष्ठता का अर्थ जाँचकर्ता के पक्षपात से मुक्ति और उपयोगिता का अर्थ व्यावहारिकता है।"
+    },
+    {
+      "id": "t05-assess-03",
+      "part": "B",
+      "section": "assess",
+      "topic": "Criterion-referenced tests",
+      "question": "Comparing a learner's performance with a fixed standard of mastery, not with other learners, is the basis of ___.",
+      "questionHi": "किसी शिक्षार्थी के प्रदर्शन की तुलना अन्य शिक्षार्थियों से नहीं बल्कि निश्चित दक्षता-मानक से करना ___ का आधार है।",
+      "options": [
+        "norm-referenced testing",
+        "criterion-referenced testing",
+        "aptitude testing",
+        "sociometric testing"
+      ],
+      "optionsHi": [
+        "मानक-संदर्भित परीक्षण",
+        "मापदंड-संदर्भित परीक्षण",
+        "अभिक्षमता परीक्षण",
+        "समाजमितीय परीक्षण"
+      ],
+      "correctIndex": 1,
+      "explanation": "Criterion-referenced testing judges performance against a predefined standard. Norm-referenced testing compares learners with each other.",
+      "explanationHi": "मापदंड-संदर्भित परीक्षण पूर्वनिर्धारित मानक से प्रदर्शन जाँचता है। मानक-संदर्भित परीक्षण में शिक्षार्थियों की आपस में तुलना होती है।"
+    },
+    {
+      "id": "t05-assess-04",
+      "part": "B",
+      "section": "assess",
+      "topic": "Rubrics",
+      "question": "A scoring guide that lists criteria and levels of performance is called a ___.",
+      "questionHi": "मानदंडों और प्रदर्शन-स्तरों को सूचीबद्ध करने वाली अंकन-मार्गदर्शिका ___ कहलाती है।",
+      "options": [
+        "blueprint",
+        "anecdotal record",
+        "rubric",
+        "cumulative record"
+      ],
+      "optionsHi": [
+        "ब्लूप्रिंट",
+        "उपाख्यानात्मक अभिलेख",
+        "रूब्रिक",
+        "संचयी अभिलेख"
+      ],
+      "correctIndex": 2,
+      "explanation": "A rubric describes criteria and performance levels for scoring. A blueprint plans a test, an anecdotal record notes incidents, and a cumulative record stores long-term data.",
+      "explanationHi": "रूब्रिक अंकन के लिए मानदंड और प्रदर्शन-स्तर बताता है। ब्लूप्रिंट परीक्षण की योजना है, उपाख्यानात्मक अभिलेख घटनाएँ दर्ज करता है और संचयी अभिलेख दीर्घकालीन आँकड़े रखता है।"
+    },
+    {
+      "id": "t05-pedag-01",
+      "part": "B",
+      "section": "pedag",
+      "topic": "NCF 2005",
+      "question": "NCF 2005 recommends ___.",
+      "questionHi": "NCF 2005 ___ की सिफ़ारिश करता है।",
+      "options": [
+        "connecting knowledge to life outside school and moving away from rote learning",
+        "rote memorisation of the textbook",
+        "examination-centred teaching",
+        "a single textbook for all learning"
+      ],
+      "optionsHi": [
+        "ज्ञान को विद्यालय के बाहर के जीवन से जोड़ना और रटने से दूर जाना",
+        "पाठ्यपुस्तक को रटना",
+        "परीक्षा-केंद्रित शिक्षण",
+        "सभी अधिगम के लिए एक ही पाठ्यपुस्तक"
+      ],
+      "correctIndex": 0,
+      "explanation": "NCF 2005 stresses connecting learning with life outside school and reducing rote learning. The other options go against its spirit.",
+      "explanationHi": "NCF 2005 अधिगम को विद्यालय के बाहर के जीवन से जोड़ने और रटने को कम करने पर बल देता है। अन्य विकल्प इसकी भावना के विपरीत हैं।"
+    },
+    {
+      "id": "t05-pedag-02",
+      "part": "B",
+      "section": "pedag",
+      "topic": "Lesson planning",
+      "question": "A lesson plan mainly helps the teacher to ___.",
+      "questionHi": "पाठ योजना शिक्षक की मुख्यतः ___ में सहायता करती है।",
+      "options": [
+        "avoid using textbooks",
+        "reduce class time",
+        "skip evaluation",
+        "organise objectives, content, activities and evaluation systematically"
+      ],
+      "optionsHi": [
+        "पाठ्यपुस्तक के प्रयोग से बचने",
+        "कक्षा का समय कम करने",
+        "मूल्यांकन छोड़ने",
+        "उद्देश्यों, सामग्री, गतिविधियों और मूल्यांकन को व्यवस्थित करने"
+      ],
+      "correctIndex": 3,
+      "explanation": "A lesson plan gives a systematic structure to objectives, content, methods and evaluation. It does not aim at avoiding books, cutting time or skipping evaluation.",
+      "explanationHi": "पाठ योजना उद्देश्यों, सामग्री, विधियों और मूल्यांकन को व्यवस्थित ढाँचा देती है। इसका लक्ष्य पुस्तकों से बचना, समय घटाना या मूल्यांकन छोड़ना नहीं है।"
+    },
+    {
+      "id": "t05-pedag-03",
+      "part": "B",
+      "section": "pedag",
+      "topic": "Group learning",
+      "question": "Group learning in the classroom mainly promotes ___.",
+      "questionHi": "कक्षा में समूह-अधिगम मुख्यतः ___ को बढ़ावा देता है।",
+      "options": [
+        "silent individual work",
+        "collaboration and peer learning",
+        "only competition",
+        "rote memorisation"
+      ],
+      "optionsHi": [
+        "मौन व्यक्तिगत कार्य",
+        "सहयोग और सहपाठी-अधिगम",
+        "केवल प्रतिस्पर्धा",
+        "रटना"
+      ],
+      "correctIndex": 1,
+      "explanation": "Working in groups develops cooperation, discussion and learning from peers. The other options do not describe its main purpose.",
+      "explanationHi": "समूह में कार्य करने से सहयोग, चर्चा और साथियों से सीखना विकसित होता है। अन्य विकल्प इसका मुख्य उद्देश्य नहीं बताते।"
+    },
+    {
+      "id": "t05-attitude-01",
+      "part": "B",
+      "section": "attitude",
+      "topic": "Constructivism",
+      "question": "In a constructivist classroom, the learner is viewed as ___.",
+      "questionHi": "रचनावादी कक्षा में शिक्षार्थी को ___ माना जाता है।",
+      "options": [
+        "a passive recipient",
+        "an empty vessel",
+        "an active constructor of knowledge",
+        "wholly dependent on the teacher"
+      ],
+      "optionsHi": [
+        "निष्क्रिय ग्राही",
+        "खाली बर्तन",
+        "ज्ञान का सक्रिय निर्माता",
+        "पूरी तरह शिक्षक पर निर्भर"
+      ],
+      "correctIndex": 2,
+      "explanation": "Constructivism holds that learners build knowledge actively from experience. The other views belong to the traditional transmission model.",
+      "explanationHi": "रचनावाद के अनुसार शिक्षार्थी अनुभव से ज्ञान स्वयं सक्रिय रूप से बनाते हैं। अन्य विचार परंपरागत प्रेषण मॉडल के हैं।"
+    },
+    {
+      "id": "t05-attitude-02",
+      "part": "B",
+      "section": "attitude",
+      "topic": "Gender perspective",
+      "question": "A gender-sensitive classroom ___.",
+      "questionHi": "लिंग-संवेदनशील कक्षा ___।",
+      "options": [
+        "treats boys and girls equitably and avoids stereotypes",
+        "assigns tasks according to gender",
+        "favours boys in science subjects",
+        "seats boys and girls separately always"
+      ],
+      "optionsHi": [
+        "लड़के-लड़कियों से समान व्यवहार करती है और रूढ़ियों से बचती है",
+        "लिंग के आधार पर कार्य बाँटती है",
+        "विज्ञान में लड़कों को वरीयता देती है",
+        "लड़के-लड़कियों को हमेशा अलग बैठाती है"
+      ],
+      "correctIndex": 0,
+      "explanation": "A gender-sensitive classroom gives equal opportunity and challenges stereotypes. The other options reinforce bias.",
+      "explanationHi": "लिंग-संवेदनशील कक्षा समान अवसर देती है और रूढ़ियों को चुनौती देती है। अन्य विकल्प पक्षपात को बढ़ाते हैं।"
+    }
+  ]
+}

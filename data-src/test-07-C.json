@@ -1,0 +1,499 @@
+{
+ "questions": [
+  {
+   "id": "t07-hindi-01",
+   "part": "C",
+   "section": "hindi",
+   "topic": "एक शब्द",
+   "question": "\"जिस स्त्री का पति मर गया हो\" — के लिए एक शब्द है —",
+   "options": [
+    "सधवा",
+    "विवाहिता",
+    "विधवा",
+    "कुमारी"
+   ],
+   "correctIndex": 2,
+   "explanation": "पति की मृत्यु हो जाने पर स्त्री को \"विधवा\" कहते हैं; \"सधवा\" जिसका पति जीवित हो।"
+  },
+  {
+   "id": "t07-hindi-02",
+   "part": "C",
+   "section": "hindi",
+   "topic": "तत्सम-तद्भव",
+   "question": "निम्नलिखित में से तद्भव शब्द कौन-सा है?",
+   "options": [
+    "आग",
+    "अग्नि",
+    "सूर्य",
+    "पुष्प"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"आग\" संस्कृत के \"अग्नि\" से बना है, इसलिए तद्भव है। अग्नि, सूर्य और पुष्प तत्सम शब्द हैं।"
+  },
+  {
+   "id": "t07-hindi-03",
+   "part": "C",
+   "section": "hindi",
+   "topic": "पर्यायवाची",
+   "question": "\"सागर\" का पर्यायवाची शब्द नहीं है —",
+   "options": [
+    "समुद्र",
+    "जलधि",
+    "रत्नाकर",
+    "सरिता"
+   ],
+   "correctIndex": 3,
+   "explanation": "समुद्र, जलधि और रत्नाकर \"सागर\" के पर्यायवाची हैं। \"सरिता\" का अर्थ नदी है।"
+  },
+  {
+   "id": "t07-hindi-04",
+   "part": "C",
+   "section": "hindi",
+   "topic": "समास",
+   "question": "\"नीलकमल\" में कौन-सा समास है?",
+   "options": [
+    "तत्पुरुष",
+    "कर्मधारय",
+    "द्वंद्व",
+    "बहुव्रीहि"
+   ],
+   "correctIndex": 1,
+   "explanation": "\"नीलकमल\" = नीला है जो कमल। इसमें विशेषण और विशेष्य का संबंध है, इसलिए यह कर्मधारय समास है।"
+  },
+  {
+   "id": "t07-hindi-05",
+   "part": "C",
+   "section": "hindi",
+   "topic": "संधि",
+   "question": "\"सज्जन\" का सही संधि-विच्छेद है —",
+   "options": [
+    "सज + जन",
+    "सद + जन",
+    "सत् + जन",
+    "सत + जन"
+   ],
+   "correctIndex": 2,
+   "explanation": "सत् + जन = सज्जन (व्यंजन संधि: त् + ज = ज्ज)।"
+  },
+  {
+   "id": "t07-english-01",
+   "part": "C",
+   "section": "english",
+   "topic": "Articles",
+   "question": "Choose the correct article: \"He is ___ honest man.\"",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "correctIndex": 1,
+   "explanation": "The word \"honest\" begins with a vowel sound (the h is silent), so \"an\" is used."
+  },
+  {
+   "id": "t07-english-02",
+   "part": "C",
+   "section": "english",
+   "topic": "Antonyms",
+   "question": "Choose the antonym of \"expand\".",
+   "options": [
+    "grow",
+    "enlarge",
+    "extend",
+    "contract"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"Expand\" means to become larger; its opposite is \"contract\", meaning to become smaller."
+  },
+  {
+   "id": "t07-english-03",
+   "part": "C",
+   "section": "english",
+   "topic": "Antonyms",
+   "question": "Choose the antonym of \"generous\".",
+   "options": [
+    "miserly",
+    "kind",
+    "liberal",
+    "noble"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"Generous\" means willing to give; its opposite is \"miserly\" (unwilling to spend or give). Kind and liberal are similar in meaning."
+  },
+  {
+   "id": "t07-english-04",
+   "part": "C",
+   "section": "english",
+   "topic": "One-word substitution",
+   "question": "One word for \"a person who can speak two languages\":",
+   "options": [
+    "polyglot",
+    "linguist",
+    "bilingual",
+    "orator"
+   ],
+   "correctIndex": 2,
+   "explanation": "A \"bilingual\" person speaks two languages. A polyglot knows many languages, a linguist studies language and an orator gives speeches."
+  },
+  {
+   "id": "t07-english-05",
+   "part": "C",
+   "section": "english",
+   "topic": "Active-passive",
+   "question": "Change into passive voice: \"Someone has stolen my purse.\"",
+   "options": [
+    "My purse was stolen.",
+    "My purse is stolen.",
+    "My purse had been stolen.",
+    "My purse has been stolen."
+   ],
+   "correctIndex": 3,
+   "explanation": "The present perfect \"has stolen\" becomes \"has been stolen\" in the passive. The other options change the tense."
+  },
+  {
+   "id": "t07-mental-01",
+   "part": "C",
+   "section": "mental",
+   "topic": "Number series",
+   "question": "Find the next number: 5, 10, 20, 40, 80, ?",
+   "questionHi": "अगली संख्या ज्ञात कीजिए: 5, 10, 20, 40, 80, ?",
+   "options": [
+    "160",
+    "120",
+    "140",
+    "200"
+   ],
+   "optionsHi": [
+    "160",
+    "120",
+    "140",
+    "200"
+   ],
+   "correctIndex": 0,
+   "explanation": "Each term is double the previous one, so the next term is 80 × 2 = 160.",
+   "explanationHi": "प्रत्येक पद पिछले पद का दुगुना है, इसलिए अगला पद 80 × 2 = 160 है।"
+  },
+  {
+   "id": "t07-mental-02",
+   "part": "C",
+   "section": "mental",
+   "topic": "Coding-decoding",
+   "question": "If CAT is coded as DBU, how is DOG coded in the same way?",
+   "questionHi": "यदि CAT को DBU लिखा जाता है, तो उसी प्रकार DOG को कैसे लिखेंगे?",
+   "options": [
+    "EOH",
+    "EPH",
+    "EPG",
+    "FPH"
+   ],
+   "optionsHi": [
+    "EOH",
+    "EPH",
+    "EPG",
+    "FPH"
+   ],
+   "correctIndex": 1,
+   "explanation": "Each letter is moved one place forward: D to E, O to P, G to H, so DOG becomes EPH.",
+   "explanationHi": "प्रत्येक अक्षर एक स्थान आगे बढ़ाया गया है: D से E, O से P, G से H, इसलिए DOG = EPH।"
+  },
+  {
+   "id": "t07-mental-03",
+   "part": "C",
+   "section": "mental",
+   "topic": "Direction Sense",
+   "question": "A man is facing west. He turns 90° clockwise, then 180° anticlockwise, and then 90° clockwise. Which direction is he facing now?",
+   "options": [
+    "North",
+    "South",
+    "West",
+    "East"
+   ],
+   "correctIndex": 2,
+   "explanation": "Facing West, 90° clockwise gives North; 180° anticlockwise gives South; 90° clockwise gives West. So he faces West.",
+   "questionHi": "एक व्यक्ति पश्चिम की ओर मुँह करके खड़ा है। वह 90° दक्षिणावर्त (clockwise) मुड़ता है, फिर 180° वामावर्त (anticlockwise), और फिर 90° दक्षिणावर्त। अब वह किस दिशा में देख रहा है?",
+   "optionsHi": [
+    "उत्तर",
+    "दक्षिण",
+    "पश्चिम",
+    "पूर्व"
+   ],
+   "explanationHi": "पश्चिम की ओर मुँह; 90° clockwise → उत्तर; 180° anticlockwise → दक्षिण; 90° clockwise → पश्चिम। इसलिए वह पश्चिम की ओर देख रहा है।"
+  },
+  {
+   "id": "t07-mental-04",
+   "part": "C",
+   "section": "mental",
+   "topic": "Direction sense",
+   "question": "Facing east, Ram turns right and then turns right again. Which direction is he facing now?",
+   "questionHi": "पूर्व की ओर मुँह करके राम दाएँ मुड़ता है और फिर दोबारा दाएँ मुड़ता है। अब उसका मुँह किस दिशा में है?",
+   "options": [
+    "North",
+    "South",
+    "East",
+    "West"
+   ],
+   "optionsHi": [
+    "उत्तर",
+    "दक्षिण",
+    "पूर्व",
+    "पश्चिम"
+   ],
+   "correctIndex": 3,
+   "explanation": "East → right turn → South → right turn → West.",
+   "explanationHi": "पूर्व → दाएँ मुड़ने पर दक्षिण → फिर दाएँ मुड़ने पर पश्चिम।"
+  },
+  {
+   "id": "t07-mental-05",
+   "part": "C",
+   "section": "mental",
+   "topic": "Odd one out",
+   "question": "Find the odd one out: Apple, Potato, Mango, Banana",
+   "questionHi": "विषम चुनिए: सेब, आलू, आम, केला",
+   "options": [
+    "Apple",
+    "Potato",
+    "Mango",
+    "Banana"
+   ],
+   "optionsHi": [
+    "सेब",
+    "आलू",
+    "आम",
+    "केला"
+   ],
+   "correctIndex": 1,
+   "explanation": "Apple, mango and banana are fruits, while potato is a vegetable.",
+   "explanationHi": "सेब, आम और केला फल हैं, जबकि आलू सब्ज़ी है।"
+  },
+  {
+   "id": "t07-computer-01",
+   "part": "C",
+   "section": "computer",
+   "topic": "Computer fundamentals",
+   "question": "What is the full form of USB?",
+   "questionHi": "USB का पूरा नाम क्या है?",
+   "options": [
+    "United Serial Byte",
+    "Unified System Board",
+    "Universal Storage Box",
+    "Universal Serial Bus"
+   ],
+   "optionsHi": [
+    "United Serial Byte",
+    "Unified System Board",
+    "Universal Storage Box",
+    "Universal Serial Bus"
+   ],
+   "correctIndex": 3,
+   "explanation": "USB stands for Universal Serial Bus, a standard for connecting peripherals.",
+   "explanationHi": "USB का पूरा नाम Universal Serial Bus है, जो उपकरणों को जोड़ने का मानक है।"
+  },
+  {
+   "id": "t07-computer-02",
+   "part": "C",
+   "section": "computer",
+   "topic": "Cloud storage",
+   "question": "Google Drive is an example of ___ storage.",
+   "questionHi": "Google Drive ___ संग्रहण (storage) का उदाहरण है।",
+   "options": [
+    "cloud",
+    "optical",
+    "floppy",
+    "punch-card"
+   ],
+   "optionsHi": [
+    "क्लाउड (cloud)",
+    "ऑप्टिकल",
+    "फ्लॉपी",
+    "पंच-कार्ड"
+   ],
+   "correctIndex": 0,
+   "explanation": "Google Drive stores files on internet servers, i.e. cloud storage.",
+   "explanationHi": "Google Drive फ़ाइलें इंटरनेट सर्वरों पर रखता है, अर्थात यह क्लाउड स्टोरेज है।"
+  },
+  {
+   "id": "t07-computer-03",
+   "part": "C",
+   "section": "computer",
+   "topic": "MS PowerPoint",
+   "question": "Which file extension is used by MS PowerPoint 2007 and later versions by default?",
+   "questionHi": "MS PowerPoint 2007 और बाद के संस्करणों में डिफ़ॉल्ट फ़ाइल एक्सटेंशन कौन-सा है?",
+   "options": [
+    ".docx",
+    ".pptx",
+    ".xlsx",
+    ".txt"
+   ],
+   "optionsHi": [
+    ".docx",
+    ".pptx",
+    ".xlsx",
+    ".txt"
+   ],
+   "correctIndex": 1,
+   "explanation": "PowerPoint files use .pptx; .docx is Word, .xlsx is Excel and .txt is plain text.",
+   "explanationHi": "PowerPoint फ़ाइलें .pptx होती हैं; .docx Word की, .xlsx Excel की और .txt सादे पाठ की होती है।"
+  },
+  {
+   "id": "t07-computer-04",
+   "part": "C",
+   "section": "computer",
+   "topic": "MS PowerPoint",
+   "question": "Which key starts a slide show from the first slide in MS PowerPoint?",
+   "questionHi": "MS PowerPoint में पहली स्लाइड से स्लाइड-शो शुरू करने की कुंजी कौन-सी है?",
+   "options": [
+    "F1",
+    "F2",
+    "F5",
+    "F12"
+   ],
+   "optionsHi": [
+    "F1",
+    "F2",
+    "F5",
+    "F12"
+   ],
+   "correctIndex": 2,
+   "explanation": "F5 starts the slide show from the beginning; F1 is Help.",
+   "explanationHi": "F5 स्लाइड-शो को शुरू से चलाता है; F1 Help खोलता है।"
+  },
+  {
+   "id": "t07-computer-05",
+   "part": "C",
+   "section": "computer",
+   "topic": "Internet",
+   "question": "What is the full form of URL?",
+   "questionHi": "URL का पूरा नाम क्या है?",
+   "options": [
+    "Uniform Resource Locator",
+    "Universal Resource Link",
+    "Uniform Reference Locator",
+    "United Resource Line"
+   ],
+   "optionsHi": [
+    "Uniform Resource Locator",
+    "Universal Resource Link",
+    "Uniform Reference Locator",
+    "United Resource Line"
+   ],
+   "correctIndex": 0,
+   "explanation": "URL stands for Uniform Resource Locator, the address of a web resource.",
+   "explanationHi": "URL का पूरा नाम Uniform Resource Locator है; यह वेब संसाधन का पता होता है।"
+  },
+  {
+   "id": "t07-gk-01",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian Constitution",
+   "question": "Fundamental Duties were added to the Indian Constitution by which Amendment?",
+   "questionHi": "भारतीय संविधान में मौलिक कर्तव्य किस संशोधन द्वारा जोड़े गए?",
+   "options": [
+    "24th Amendment",
+    "42nd Amendment",
+    "44th Amendment",
+    "52nd Amendment"
+   ],
+   "optionsHi": [
+    "24वाँ संशोधन",
+    "42वाँ संशोधन",
+    "44वाँ संशोधन",
+    "52वाँ संशोधन"
+   ],
+   "correctIndex": 1,
+   "explanation": "The 42nd Amendment (1976) added Part IV-A with Fundamental Duties. The 24th concerns amendment of Fundamental Rights, the 44th restored many rights curtailed earlier and the 52nd deals with anti-defection.",
+   "explanationHi": "42वें संशोधन (1976) ने भाग IV-A में मौलिक कर्तव्य जोड़े। 24वाँ संशोधन मौलिक अधिकारों के संशोधन से, 44वाँ पूर्व में घटाए गए अधिकारों की बहाली से और 52वाँ दल-बदल कानून से संबंधित है।"
+  },
+  {
+   "id": "t07-gk-02",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian history",
+   "question": "The Jallianwala Bagh massacre took place in the year ___.",
+   "questionHi": "जलियाँवाला बाग हत्याकांड ___ में हुआ था।",
+   "options": [
+    "1905",
+    "1915",
+    "1919",
+    "1930"
+   ],
+   "optionsHi": [
+    "1905",
+    "1915",
+    "1919",
+    "1930"
+   ],
+   "correctIndex": 2,
+   "explanation": "The Jallianwala Bagh massacre at Amritsar took place on 13 April 1919.",
+   "explanationHi": "अमृतसर का जलियाँवाला बाग हत्याकांड 13 अप्रैल 1919 को हुआ था।"
+  },
+  {
+   "id": "t07-gk-03",
+   "part": "C",
+   "section": "gk",
+   "topic": "Basic science",
+   "question": "Which vitamin is produced in the human skin when it is exposed to sunlight?",
+   "questionHi": "धूप के संपर्क में आने पर मानव त्वचा में कौन-सा विटामिन बनता है?",
+   "options": [
+    "Vitamin D",
+    "Vitamin C",
+    "Vitamin A",
+    "Vitamin K"
+   ],
+   "optionsHi": [
+    "विटामिन D",
+    "विटामिन C",
+    "विटामिन A",
+    "विटामिन K"
+   ],
+   "correctIndex": 0,
+   "explanation": "Sunlight helps the skin synthesise Vitamin D. Vitamin C comes from food such as citrus fruits, and A and K are mainly obtained from diet.",
+   "explanationHi": "सूर्य के प्रकाश से त्वचा विटामिन D बनाती है। विटामिन C खट्टे फलों जैसे भोजन से मिलता है तथा A और K मुख्यतः आहार से मिलते हैं।"
+  },
+  {
+   "id": "t07-gk-04",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian Constitution",
+   "question": "Which Schedule of the Indian Constitution contains the list of recognised languages?",
+   "questionHi": "भारतीय संविधान की कौन-सी अनुसूची में मान्यता प्राप्त भाषाओं की सूची है?",
+   "options": [
+    "Tenth Schedule",
+    "Fifth Schedule",
+    "Seventh Schedule",
+    "Eighth Schedule"
+   ],
+   "optionsHi": [
+    "दसवीं अनुसूची",
+    "पाँचवीं अनुसूची",
+    "सातवीं अनुसूची",
+    "आठवीं अनुसूची"
+   ],
+   "correctIndex": 3,
+   "explanation": "The Eighth Schedule lists the recognised languages of India. The Tenth Schedule deals with anti-defection.",
+   "explanationHi": "आठवीं अनुसूची में भारत की मान्यता प्राप्त भाषाएँ सूचीबद्ध हैं। दसवीं अनुसूची दल-बदल से संबंधित है।"
+  },
+  {
+   "id": "t07-gk-05",
+   "part": "C",
+   "section": "gk",
+   "topic": "Chhattisgarh GK",
+   "question": "Pandavani, a folk performing art that narrates Mahabharata stories, is associated with which state?",
+   "questionHi": "पंडवानी, जो महाभारत की कथाओं का लोक-गायन है, किस राज्य से संबंधित है?",
+   "options": [
+    "Chhattisgarh",
+    "Kerala",
+    "Assam",
+    "Punjab"
+   ],
+   "optionsHi": [
+    "छत्तीसगढ़",
+    "केरल",
+    "असम",
+    "पंजाब"
+   ],
+   "correctIndex": 0,
+   "explanation": "Pandavani is a well-known folk art of Chhattisgarh, made famous by Teejan Bai. The other states have different folk traditions.",
+   "explanationHi": "पंडवानी छत्तीसगढ़ की प्रसिद्ध लोक-कला है, जिसे तीजन बाई ने प्रसिद्ध किया। अन्य राज्यों की लोक-परंपराएँ अलग हैं।"
+  }
+ ]
+}

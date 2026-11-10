@@ -1,0 +1,349 @@
+{
+ "questions": [
+  {
+   "id": "t10-psych-01",
+   "part": "B",
+   "section": "psych",
+   "topic": "Piaget",
+   "question": "Object permanence develops mainly during which stage of Piaget's theory?",
+   "questionHi": "पियाजे के सिद्धांत में वस्तु-स्थायित्व (object permanence) मुख्यतः किस अवस्था में विकसित होता है?",
+   "options": [
+    "Preoperational",
+    "Concrete operational",
+    "Sensorimotor",
+    "Formal operational"
+   ],
+   "optionsHi": [
+    "पूर्व-संक्रियात्मक",
+    "मूर्त संक्रियात्मक",
+    "संवेदी-गामक",
+    "औपचारिक संक्रियात्मक"
+   ],
+   "correctIndex": 2,
+   "explanation": "In the sensorimotor stage (birth to about 2 years) the child learns that objects exist even when out of sight. The other stages come later.",
+   "explanationHi": "संवेदी-गामक अवस्था (जन्म से लगभग 2 वर्ष) में बच्चा सीखता है कि वस्तु आँखों से ओझल होने पर भी रहती है। अन्य अवस्थाएँ बाद की हैं।"
+  },
+  {
+   "id": "t10-psych-02",
+   "part": "B",
+   "section": "psych",
+   "topic": "Kohlberg",
+   "question": "The 'good boy - nice girl' orientation in Kohlberg's theory belongs to the ___ level.",
+   "questionHi": "कोहलबर्ग के सिद्धांत में 'अच्छा लड़का - अच्छी लड़की' अभिविन्यास ___ स्तर में आता है।",
+   "options": [
+    "conventional",
+    "pre-conventional",
+    "post-conventional",
+    "sensorimotor"
+   ],
+   "optionsHi": [
+    "परंपरागत",
+    "पूर्व-परंपरागत",
+    "उत्तर-परंपरागत",
+    "संवेदी-गामक"
+   ],
+   "correctIndex": 0,
+   "explanation": "This is Stage 3 and belongs to the conventional level, where approval of others guides morality. Pre-conventional is based on punishment/reward; post-conventional on universal principles.",
+   "explanationHi": "यह तीसरी अवस्था है और परंपरागत स्तर में आती है, जहाँ दूसरों की स्वीकृति नैतिकता का आधार होती है। पूर्व-परंपरागत दंड/पुरस्कार पर और उत्तर-परंपरागत सार्वभौमिक सिद्धांतों पर आधारित है।"
+  },
+  {
+   "id": "t10-psych-03",
+   "part": "B",
+   "section": "psych",
+   "topic": "Intelligence - fluid and crystallised",
+   "question": "The concepts of 'fluid' and 'crystallised' intelligence were proposed by ___.",
+   "questionHi": "'Fluid' और 'crystallised' बुद्धि की अवधारणाएँ किसने दीं?",
+   "options": [
+    "Binet",
+    "Spearman",
+    "Gardner",
+    "Cattell"
+   ],
+   "optionsHi": [
+    "बिने (Binet)",
+    "स्पीयरमैन (Spearman)",
+    "गार्डनर (Gardner)",
+    "कैटेल (Cattell)"
+   ],
+   "correctIndex": 3,
+   "explanation": "Raymond Cattell (later with Horn) distinguished fluid intelligence (reasoning on new problems) from crystallised intelligence (accumulated knowledge and skills).",
+   "explanationHi": "रेमंड कैटेल (बाद में हॉर्न के साथ) ने fluid बुद्धि (नई समस्याओं में तर्क) और crystallised बुद्धि (संचित ज्ञान और कौशल) में अंतर किया।"
+  },
+  {
+   "id": "t10-psych-04",
+   "part": "B",
+   "section": "psych",
+   "topic": "Insight learning",
+   "question": "Köhler's experiments with the chimpanzee 'Sultan' are associated with ___.",
+   "questionHi": "Köhler के चिंपैंज़ी 'सुल्तान' पर प्रयोग किससे संबंधित हैं?",
+   "options": [
+    "trial-and-error learning",
+    "insight learning",
+    "classical conditioning",
+    "operant conditioning"
+   ],
+   "optionsHi": [
+    "प्रयास-त्रुटि अधिगम",
+    "अंतर्दृष्टि अधिगम (insight learning)",
+    "शास्त्रीय अनुकूलन",
+    "क्रिया-प्रसूत अनुकूलन"
+   ],
+   "correctIndex": 1,
+   "explanation": "Köhler (Gestalt psychology) showed that Sultan solved problems by sudden understanding of the situation, i.e., insight learning.",
+   "explanationHi": "कोहलर (गेस्टाल्ट मनोविज्ञान) ने दिखाया कि सुल्तान ने स्थिति को अचानक समझकर समस्या हल की, यही अंतर्दृष्टि अधिगम है।"
+  },
+  {
+   "id": "t10-psych-05",
+   "part": "B",
+   "section": "psych",
+   "topic": "Learning theories",
+   "question": "According to Thorndike's Law of Effect, a response followed by a satisfying consequence is ______.",
+   "questionHi": "थॉर्नडाइक के प्रभाव के नियम (Law of Effect) के अनुसार, संतोषजनक परिणाम वाली प्रतिक्रिया ______ होती है।",
+   "options": [
+    "weakened",
+    "forgotten",
+    "unaffected",
+    "strengthened"
+   ],
+   "optionsHi": [
+    "कमज़ोर (weakened)",
+    "भुला दी जाती (forgotten)",
+    "अप्रभावित (unaffected)",
+    "मज़बूत (strengthened)"
+   ],
+   "correctIndex": 3,
+   "explanation": "The Law of Effect says satisfying consequences strengthen the stimulus-response bond, while annoying consequences weaken it.",
+   "explanationHi": "Law of Effect के अनुसार संतोषजनक परिणाम stimulus-response संबंध को मज़बूत करते हैं और कष्टदायक परिणाम उसे कमज़ोर करते हैं।"
+  },
+  {
+   "id": "t10-psych-06",
+   "part": "B",
+   "section": "psych",
+   "topic": "Defence mechanisms",
+   "question": "The fox in the story said 'the grapes are sour' when he could not reach them. This defence mechanism is ___.",
+   "questionHi": "कहानी में लोमड़ी अंगूर तक न पहुँच पाने पर कहती है 'अंगूर खट्टे हैं'। यह रक्षा-युक्ति है ___।",
+   "options": [
+    "rationalisation",
+    "regression",
+    "repression",
+    "sublimation"
+   ],
+   "optionsHi": [
+    "युक्तिकरण (rationalisation)",
+    "प्रत्यावर्तन (regression)",
+    "दमन (repression)",
+    "उदात्तीकरण (sublimation)"
+   ],
+   "correctIndex": 0,
+   "explanation": "Rationalisation means giving a seemingly logical excuse to protect self-esteem after failure. Regression is childish behaviour, repression pushes thoughts into the unconscious, sublimation channels urges into socially accepted activity.",
+   "explanationHi": "Rationalisation में असफलता के बाद आत्म-सम्मान बचाने के लिए तर्कसंगत लगने वाला बहाना दिया जाता है। Regression बचकाना व्यवहार है, repression विचारों को अचेतन में दबाना है और sublimation इच्छाओं को सामाजिक रूप से स्वीकृत कार्य में लगाना है।"
+  },
+  {
+   "id": "t10-assess-01",
+   "part": "B",
+   "section": "assess",
+   "topic": "Records",
+   "question": "A record that shows a student's overall progress year after year is called a ___.",
+   "questionHi": "विद्यार्थी की वर्ष-दर-वर्ष समग्र प्रगति दर्शाने वाला अभिलेख क्या कहलाता है?",
+   "options": [
+    "attendance register",
+    "cumulative record card",
+    "time-table",
+    "syllabus"
+   ],
+   "optionsHi": [
+    "उपस्थिति पंजिका",
+    "संचयी अभिलेख पत्र (cumulative record card)",
+    "समय-सारणी",
+    "पाठ्यक्रम"
+   ],
+   "correctIndex": 1,
+   "explanation": "A cumulative record card keeps data on a learner's academic, health, personal and social development over years. The others do not record overall progress.",
+   "explanationHi": "संचयी अभिलेख पत्र में विद्यार्थी के वर्षों के शैक्षिक, स्वास्थ्य, व्यक्तिगत और सामाजिक विकास का विवरण रखा जाता है। अन्य विकल्प समग्र प्रगति नहीं दर्शाते।"
+  },
+  {
+   "id": "t10-assess-02",
+   "part": "B",
+   "section": "assess",
+   "topic": "Validity",
+   "question": "A test that measures exactly what it claims to measure has high ___.",
+   "questionHi": "जो परीक्षण वही मापता है जो वह मापने का दावा करता है, उसमें उच्च ___ होती है।",
+   "options": [
+    "validity",
+    "reliability",
+    "objectivity",
+    "usability"
+   ],
+   "optionsHi": [
+    "वैधता",
+    "विश्वसनीयता",
+    "वस्तुनिष्ठता",
+    "व्यावहारिकता"
+   ],
+   "correctIndex": 0,
+   "explanation": "That is the definition of validity. Reliability means consistency of results, objectivity means freedom from scorer bias, and usability means practicality.",
+   "explanationHi": "यही वैधता की परिभाषा है। विश्वसनीयता परिणामों की संगति है, वस्तुनिष्ठता अंकन में पक्षपात का न होना है और व्यावहारिकता उपयोग में सुविधा है।"
+  },
+  {
+   "id": "t10-assess-03",
+   "part": "B",
+   "section": "assess",
+   "topic": "Validity",
+   "question": "When the items of a test adequately cover the syllabus and objectives, the test is said to have ___ validity.",
+   "questionHi": "जब किसी परीक्षा के प्रश्न पाठ्यक्रम और उद्देश्यों को पर्याप्त रूप से समेटते हैं, तो उसमें ___ वैधता (validity) होती है।",
+   "options": [
+    "face",
+    "predictive",
+    "construct",
+    "content"
+   ],
+   "optionsHi": [
+    "आकृति (face)",
+    "पूर्वकथनात्मक (predictive)",
+    "संप्रत्यय (construct)",
+    "विषय-वस्तु (content)"
+   ],
+   "correctIndex": 3,
+   "explanation": "Content validity shows how well test items represent the subject content and objectives. Predictive validity relates to forecasting future performance; construct validity to the underlying trait.",
+   "explanationHi": "Content validity बताती है कि परीक्षा के प्रश्न विषय-वस्तु और उद्देश्यों का कितना प्रतिनिधित्व करते हैं। Predictive validity भविष्य के प्रदर्शन के पूर्वानुमान से और construct validity अंतर्निहित गुण से संबंधित है।"
+  },
+  {
+   "id": "t10-assess-04",
+   "part": "B",
+   "section": "assess",
+   "topic": "Criterion-referenced test",
+   "question": "Judging a learner's performance against a fixed standard, not against other learners, is called ___.",
+   "questionHi": "विद्यार्थी के प्रदर्शन को अन्य विद्यार्थियों से नहीं, बल्कि एक निश्चित मानक से जाँचना ___ कहलाता है।",
+   "options": [
+    "norm-referenced testing",
+    "diagnostic testing",
+    "criterion-referenced testing",
+    "standardised testing"
+   ],
+   "optionsHi": [
+    "मानक-संदर्भित परीक्षण (norm-referenced)",
+    "निदानात्मक परीक्षण",
+    "कसौटी-संदर्भित परीक्षण (criterion-referenced)",
+    "मानकीकृत परीक्षण"
+   ],
+   "correctIndex": 2,
+   "explanation": "A criterion-referenced test compares performance with a set criterion. Norm-referenced tests compare learners with one another.",
+   "explanationHi": "कसौटी-संदर्भित परीक्षण प्रदर्शन की तुलना निश्चित कसौटी से करता है। मानक-संदर्भित परीक्षण विद्यार्थियों की आपस में तुलना करता है।"
+  },
+  {
+   "id": "t10-pedag-01",
+   "part": "B",
+   "section": "pedag",
+   "topic": "Curriculum principles",
+   "question": "A curriculum in which topics are revisited at increasing levels of depth is called a ___ curriculum.",
+   "questionHi": "जिस पाठ्यक्रम में विषयों को बढ़ती गहराई के साथ बार-बार दोहराया जाता है, उसे ___ पाठ्यक्रम कहते हैं।",
+   "options": [
+    "linear",
+    "hidden",
+    "spiral",
+    "core"
+   ],
+   "optionsHi": [
+    "रैखिक (linear)",
+    "छिपा (hidden)",
+    "सर्पिल (spiral)",
+    "मूल (core)"
+   ],
+   "correctIndex": 2,
+   "explanation": "Bruner's spiral curriculum returns to the same ideas at higher levels of complexity. A linear curriculum covers a topic once; a hidden curriculum is unstated learning.",
+   "explanationHi": "ब्रूनर का सर्पिल पाठ्यक्रम उन्हीं विचारों पर बढ़ती जटिलता के साथ लौटता है। रैखिक पाठ्यक्रम में विषय एक बार पढ़ाया जाता है; छिपा पाठ्यक्रम अघोषित अधिगम है।"
+  },
+  {
+   "id": "t10-pedag-02",
+   "part": "B",
+   "section": "pedag",
+   "topic": "Teaching methods",
+   "question": "The inductive method of teaching moves from ___.",
+   "questionHi": "शिक्षण की आगमन (inductive) विधि ___ की ओर बढ़ती है।",
+   "options": [
+    "specific examples to a general rule",
+    "a general rule to specific examples",
+    "rules without examples",
+    "unrelated facts to unrelated facts"
+   ],
+   "optionsHi": [
+    "विशिष्ट उदाहरणों से सामान्य नियम",
+    "सामान्य नियम से विशिष्ट उदाहरण",
+    "बिना उदाहरण के नियम",
+    "असंबद्ध तथ्यों से असंबद्ध तथ्य"
+   ],
+   "correctIndex": 0,
+   "explanation": "In the inductive method learners observe examples and then arrive at the rule themselves. The deductive method is the reverse.",
+   "explanationHi": "आगमन विधि में शिक्षार्थी उदाहरण देखकर स्वयं नियम तक पहुँचते हैं। निगमन (deductive) विधि इसके विपरीत है।"
+  },
+  {
+   "id": "t10-pedag-03",
+   "part": "B",
+   "section": "pedag",
+   "topic": "Classroom dialogue",
+   "question": "Open-ended questions asked by a teacher mainly encourage ___.",
+   "questionHi": "शिक्षक द्वारा पूछे गए खुले प्रश्न (open-ended questions) मुख्य रूप से ___ को प्रोत्साहित करते हैं।",
+   "options": [
+    "silence in class",
+    "thinking and discussion among learners",
+    "rote reproduction",
+    "only yes/no answers"
+   ],
+   "optionsHi": [
+    "कक्षा में चुप्पी",
+    "विद्यार्थियों में चिंतन और चर्चा",
+    "रटकर दोहराना",
+    "केवल हाँ/नहीं उत्तर"
+   ],
+   "correctIndex": 1,
+   "explanation": "Open-ended questions have no single fixed answer, so they promote thinking and dialogue. Closed questions lead to yes/no or memorised answers.",
+   "explanationHi": "खुले प्रश्नों का कोई एक निश्चित उत्तर नहीं होता, इसलिए वे चिंतन और संवाद बढ़ाते हैं। बंद प्रश्न हाँ/नहीं या रटे उत्तर देते हैं।"
+  },
+  {
+   "id": "t10-attitude-01",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Teaching as a profession",
+   "question": "A key mark of a profession such as teaching is ___.",
+   "questionHi": "शिक्षण जैसे किसी व्यवसाय (profession) की एक प्रमुख पहचान है ___।",
+   "options": [
+    "a body of specialised knowledge with a code of ethics",
+    "no need for any training",
+    "working only for money",
+    "avoiding accountability"
+   ],
+   "optionsHi": [
+    "विशिष्ट ज्ञान का भंडार और आचार-संहिता",
+    "किसी प्रशिक्षण की आवश्यकता न होना",
+    "केवल धन के लिए काम करना",
+    "जवाबदेही से बचना"
+   ],
+   "correctIndex": 0,
+   "explanation": "A profession rests on specialised knowledge, training, a code of ethics and accountability to society.",
+   "explanationHi": "किसी profession का आधार विशिष्ट ज्ञान, प्रशिक्षण, आचार-संहिता और समाज के प्रति जवाबदेही होता है।"
+  },
+  {
+   "id": "t10-attitude-02",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Leadership",
+   "question": "The leadership style in which the leader involves the group in decision making is called ___.",
+   "questionHi": "जिस नेतृत्व शैली में नेता निर्णय लेने में समूह को शामिल करता है, उसे ___ कहते हैं।",
+   "options": [
+    "autocratic",
+    "laissez-faire",
+    "authoritarian",
+    "democratic"
+   ],
+   "optionsHi": [
+    "निरंकुश (autocratic)",
+    "अहस्तक्षेप (laissez-faire)",
+    "सत्तावादी (authoritarian)",
+    "लोकतांत्रिक (democratic)"
+   ],
+   "correctIndex": 3,
+   "explanation": "A democratic leader consults and involves members, which suits a classroom. Autocratic and authoritarian leaders decide alone; laissez-faire gives almost no direction.",
+   "explanationHi": "लोकतांत्रिक नेता सदस्यों से परामर्श करता है और उन्हें शामिल करता है, जो कक्षा के लिए उपयुक्त है। निरंकुश और सत्तावादी नेता अकेले निर्णय लेते हैं; laissez-faire में लगभग कोई निर्देश नहीं होता।"
+  }
+ ]
+}

@@ -1,0 +1,499 @@
+{
+ "questions": [
+  {
+   "id": "t04-hindi-01",
+   "part": "C",
+   "section": "hindi",
+   "topic": "समास",
+   "question": "'चौराहा' शब्द में कौन-सा समास है?",
+   "options": [
+    "तत्पुरुष",
+    "द्विगु",
+    "कर्मधारय",
+    "बहुव्रीहि"
+   ],
+   "correctIndex": 1,
+   "explanation": "'चौराहा' = चार राहों का समूह। इसमें पूर्व पद संख्यावाचक है और समूह का बोध होता है, इसलिए द्विगु समास है। अन्य विकल्प इस विग्रह से मेल नहीं खाते।"
+  },
+  {
+   "id": "t04-hindi-02",
+   "part": "C",
+   "section": "hindi",
+   "topic": "संधि",
+   "question": "'महेश' का सही संधि-विच्छेद है -",
+   "options": [
+    "मह + ईश",
+    "महे + श",
+    "महा + इश",
+    "महा + ईश"
+   ],
+   "correctIndex": 3,
+   "explanation": "महा + ईश = महेश (गुण स्वर संधि: आ + ई = ए)। अन्य विकल्पों से 'महेश' नहीं बनता।"
+  },
+  {
+   "id": "t04-hindi-03",
+   "part": "C",
+   "section": "hindi",
+   "topic": "अशुद्धि शोधन",
+   "question": "शुद्ध वर्तनी वाला शब्द चुनिए -",
+   "options": [
+    "श्रीमती",
+    "श्रीमति",
+    "श्रिमती",
+    "श्रीमत्ती"
+   ],
+   "correctIndex": 0,
+   "explanation": "सही रूप 'श्रीमती' है। अन्य विकल्पों में मात्रा या वर्ण की गलती है।"
+  },
+  {
+   "id": "t04-hindi-04",
+   "part": "C",
+   "section": "hindi",
+   "topic": "उपसर्ग-प्रत्यय",
+   "question": "'अतिक्रमण' शब्द में उपसर्ग है -",
+   "options": [
+    "अत",
+    "क्रम",
+    "अति",
+    "ण"
+   ],
+   "correctIndex": 2,
+   "explanation": "अतिक्रमण = अति (उपसर्ग) + क्रमण। 'क्रम' मूल शब्द का अंश है, 'अत' और 'ण' उपसर्ग नहीं हैं।"
+  },
+  {
+   "id": "t04-hindi-05",
+   "part": "C",
+   "section": "hindi",
+   "topic": "तत्सम-तद्भव",
+   "question": "'आग' का तत्सम रूप है -",
+   "options": [
+    "अगन",
+    "अग्नि",
+    "आग्नेय",
+    "अग्नी"
+   ],
+   "correctIndex": 1,
+   "explanation": "'आग' शब्द संस्कृत के 'अग्नि' से बना है, इसलिए तत्सम रूप 'अग्नि' है। 'आग्नेय' विशेषण है और 'अगन' तथा 'अग्नी' अशुद्ध या भिन्न रूप हैं।"
+  },
+  {
+   "id": "t04-english-01",
+   "part": "C",
+   "section": "english",
+   "topic": "Parts of speech",
+   "question": "In the sentence 'She sings sweetly', the word 'sweetly' is a/an -",
+   "options": [
+    "noun",
+    "adjective",
+    "adverb",
+    "preposition"
+   ],
+   "correctIndex": 2,
+   "explanation": "'Sweetly' tells how she sings, so it modifies the verb and is an adverb. It does not name anything, describe a noun or show a relation."
+  },
+  {
+   "id": "t04-english-02",
+   "part": "C",
+   "section": "english",
+   "topic": "Prepositions",
+   "question": "He was born ___ 5 March.",
+   "options": [
+    "on",
+    "in",
+    "at",
+    "by"
+   ],
+   "correctIndex": 0,
+   "explanation": "'On' is used with specific dates."
+  },
+  {
+   "id": "t04-english-03",
+   "part": "C",
+   "section": "english",
+   "topic": "Synonyms",
+   "question": "Choose the word closest in meaning to 'CANDID'.",
+   "options": [
+    "secretive",
+    "cunning",
+    "hesitant",
+    "frank"
+   ],
+   "correctIndex": 3,
+   "explanation": "'Candid' means open and honest, i.e., frank. 'Secretive' and 'cunning' are not close and 'hesitant' means unsure."
+  },
+  {
+   "id": "t04-english-04",
+   "part": "C",
+   "section": "english",
+   "topic": "One-word substitution",
+   "question": "A speech delivered without any preparation is called -",
+   "options": [
+    "soliloquy",
+    "extempore",
+    "monologue",
+    "oration"
+   ],
+   "correctIndex": 1,
+   "explanation": "An unprepared speech is 'extempore'. A soliloquy is speaking to oneself, a monologue is a long speech by one person, and an oration is a formal public speech."
+  },
+  {
+   "id": "t04-english-05",
+   "part": "C",
+   "section": "english",
+   "topic": "Active and passive voice",
+   "question": "Change into passive voice: 'The teacher punished the naughty boy.'",
+   "options": [
+    "The naughty boy punished the teacher.",
+    "The naughty boy is punished by the teacher.",
+    "The naughty boy was punished by the teacher.",
+    "The naughty boy had been punished by the teacher."
+   ],
+   "correctIndex": 2,
+   "explanation": "Simple past 'punished' becomes 'was punished' in the passive. The other options change the tense or the roles."
+  },
+  {
+   "id": "t04-mental-01",
+   "part": "C",
+   "section": "mental",
+   "topic": "Coding-decoding",
+   "question": "If in a certain code TABLE is written as GZYOV, how will PEN be written in that code?",
+   "questionHi": "यदि किसी कूट में TABLE को GZYOV लिखा जाता है, तो उसी कूट में PEN को कैसे लिखा जाएगा?",
+   "options": [
+    "LVM",
+    "KWM",
+    "KUM",
+    "KVM"
+   ],
+   "optionsHi": [
+    "LVM",
+    "KWM",
+    "KUM",
+    "KVM"
+   ],
+   "correctIndex": 3,
+   "explanation": "Each letter is replaced by its opposite in the alphabet (T-G, A-Z, B-Y). So P becomes K, E becomes V and N becomes M, giving KVM.",
+   "explanationHi": "प्रत्येक अक्षर को वर्णमाला में उसके विपरीत अक्षर से बदला गया है (T-G, A-Z, B-Y)। अतः P-K, E-V और N-M होकर KVM बनता है।"
+  },
+  {
+   "id": "t04-mental-02",
+   "part": "C",
+   "section": "mental",
+   "topic": "Blood relations",
+   "question": "A is B's sister. C is B's mother and D is C's father. How is A related to D?",
+   "questionHi": "A, B की बहन है। C, B की माता है और D, C के पिता हैं। A का D से क्या संबंध है?",
+   "options": [
+    "Daughter",
+    "Granddaughter",
+    "Niece",
+    "Sister"
+   ],
+   "optionsHi": [
+    "पुत्री",
+    "नातिन (पौत्री/दौहित्री)",
+    "भतीजी",
+    "बहन"
+   ],
+   "correctIndex": 1,
+   "explanation": "C is the mother of A as well, and D is C's father, so D is A's maternal grandfather. A is D's granddaughter.",
+   "explanationHi": "C, A की भी माता है और D, C के पिता हैं, इसलिए D, A के नाना हैं। अतः A, D की नातिन है।"
+  },
+  {
+   "id": "t04-mental-03",
+   "part": "C",
+   "section": "mental",
+   "topic": "Direction sense",
+   "question": "Facing East, Ravi turns 90 degrees anticlockwise and then 180 degrees. Which direction is he facing now?",
+   "questionHi": "पूर्व की ओर मुँह करके खड़ा रवि 90 अंश वामावर्त घूमता है और फिर 180 अंश घूमता है। अब उसका मुँह किस दिशा में है?",
+   "options": [
+    "North",
+    "East",
+    "South",
+    "West"
+   ],
+   "optionsHi": [
+    "उत्तर",
+    "पूर्व",
+    "दक्षिण",
+    "पश्चिम"
+   ],
+   "correctIndex": 2,
+   "explanation": "East turned 90 degrees anticlockwise gives North. A further 180 degrees turn gives South.",
+   "explanationHi": "पूर्व से 90 अंश वामावर्त घूमने पर उत्तर होता है। फिर 180 अंश घूमने पर दक्षिण होता है।"
+  },
+  {
+   "id": "t04-mental-04",
+   "part": "C",
+   "section": "mental",
+   "topic": "Ranking and order",
+   "question": "Ravi ranks 12th from the top in a class of 40 students. What is his rank from the bottom?",
+   "questionHi": "40 विद्यार्थियों की कक्षा में रवि ऊपर से 12वें स्थान पर है। नीचे से उसका स्थान क्या है?",
+   "options": [
+    "29th",
+    "28th",
+    "30th",
+    "27th"
+   ],
+   "optionsHi": [
+    "29वाँ",
+    "28वाँ",
+    "30वाँ",
+    "27वाँ"
+   ],
+   "correctIndex": 0,
+   "explanation": "Rank from bottom = 40 - 12 + 1 = 29.",
+   "explanationHi": "नीचे से स्थान = 40 - 12 + 1 = 29।"
+  },
+  {
+   "id": "t04-mental-05",
+   "part": "C",
+   "section": "mental",
+   "topic": "Syllogism",
+   "question": "Statements: All pens are books. All books are tables. Conclusions: I. All pens are tables. II. All tables are books.",
+   "questionHi": "कथन: सभी पेन किताबें हैं। सभी किताबें मेज़ हैं। निष्कर्ष: I. सभी पेन मेज़ हैं। II. सभी मेज़ किताबें हैं।",
+   "options": [
+    "Only conclusion II follows",
+    "Both I and II follow",
+    "Neither I nor II follows",
+    "Only conclusion I follows"
+   ],
+   "optionsHi": [
+    "केवल निष्कर्ष II अनुसरण करता है",
+    "I और II दोनों अनुसरण करते हैं",
+    "न I और न II अनुसरण करता है",
+    "केवल निष्कर्ष I अनुसरण करता है"
+   ],
+   "correctIndex": 3,
+   "explanation": "Pens are inside books and books are inside tables, so all pens are tables (I follows). The reverse, all tables are books, does not follow.",
+   "explanationHi": "पेन किताबों के अंदर हैं और किताबें मेज़ों के अंदर हैं, इसलिए सभी पेन मेज़ हैं (I सही)। इसका उल्टा, सभी मेज़ किताबें हैं, आवश्यक नहीं है।"
+  },
+  {
+   "id": "t04-computer-01",
+   "part": "C",
+   "section": "computer",
+   "topic": "Printers",
+   "question": "Which of the following is an impact printer?",
+   "questionHi": "निम्नलिखित में से कौन-सा इम्पैक्ट प्रिंटर है?",
+   "options": [
+    "Dot matrix printer",
+    "Laser printer",
+    "Inkjet printer",
+    "Thermal printer"
+   ],
+   "optionsHi": [
+    "डॉट मैट्रिक्स प्रिंटर",
+    "लेज़र प्रिंटर",
+    "इंकजेट प्रिंटर",
+    "थर्मल प्रिंटर"
+   ],
+   "correctIndex": 0,
+   "explanation": "A dot matrix printer prints by striking pins against a ribbon, so it is an impact printer. Laser, inkjet and thermal printers are non-impact.",
+   "explanationHi": "डॉट मैट्रिक्स प्रिंटर पिनों को रिबन पर मारकर छापता है, इसलिए यह इम्पैक्ट प्रिंटर है। लेज़र, इंकजेट और थर्मल प्रिंटर नॉन-इम्पैक्ट हैं।"
+  },
+  {
+   "id": "t04-computer-02",
+   "part": "C",
+   "section": "computer",
+   "topic": "Operating systems",
+   "question": "Linux is an example of -",
+   "questionHi": "Linux किसका उदाहरण है?",
+   "options": [
+    "a word processor",
+    "a programming language",
+    "an open-source operating system",
+    "a web browser"
+   ],
+   "optionsHi": [
+    "वर्ड प्रोसेसर",
+    "प्रोग्रामिंग भाषा",
+    "ओपन-सोर्स ऑपरेटिंग सिस्टम",
+    "वेब ब्राउज़र"
+   ],
+   "correctIndex": 2,
+   "explanation": "Linux is an open-source operating system whose source code is freely available. It is not an application, language or browser.",
+   "explanationHi": "Linux एक ओपन-सोर्स ऑपरेटिंग सिस्टम है जिसका सोर्स कोड स्वतंत्र रूप से उपलब्ध है। यह एप्लीकेशन, भाषा या ब्राउज़र नहीं है।"
+  },
+  {
+   "id": "t04-computer-03",
+   "part": "C",
+   "section": "computer",
+   "topic": "MS Excel",
+   "question": "In MS Excel, every formula must begin with the sign -",
+   "questionHi": "MS Excel में हर सूत्र (formula) किस चिह्न से शुरू होना चाहिए?",
+   "options": [
+    "#",
+    "=",
+    "@",
+    "$"
+   ],
+   "optionsHi": [
+    "#",
+    "=",
+    "@",
+    "$"
+   ],
+   "correctIndex": 1,
+   "explanation": "Excel treats an entry as a formula only if it begins with the equals sign (=).",
+   "explanationHi": "Excel किसी प्रविष्टि को तभी सूत्र मानता है जब वह बराबर (=) चिह्न से शुरू हो।"
+  },
+  {
+   "id": "t04-computer-04",
+   "part": "C",
+   "section": "computer",
+   "topic": "Internet and e-mail",
+   "question": "The first page that appears when a website is opened is called the -",
+   "questionHi": "किसी वेबसाइट को खोलने पर सबसे पहले दिखने वाला पृष्ठ क्या कहलाता है?",
+   "options": [
+    "Footer",
+    "Hyperlink",
+    "Browser",
+    "Home page"
+   ],
+   "optionsHi": [
+    "फुटर",
+    "हाइपरलिंक",
+    "ब्राउज़र",
+    "होम पेज"
+   ],
+   "correctIndex": 3,
+   "explanation": "The opening page of a website, which links to its other pages, is the home page. A browser is software and a hyperlink is a clickable link.",
+   "explanationHi": "वेबसाइट का प्रारंभिक पृष्ठ, जो अन्य पृष्ठों से जोड़ता है, होम पेज कहलाता है। ब्राउज़र एक सॉफ़्टवेयर है और हाइपरलिंक क्लिक करने योग्य कड़ी है।"
+  },
+  {
+   "id": "t04-computer-05",
+   "part": "C",
+   "section": "computer",
+   "topic": "Virus and antivirus",
+   "question": "A computer virus is -",
+   "questionHi": "कंप्यूटर वायरस क्या है?",
+   "options": [
+    "a harmful program that can copy itself and damage files",
+    "a hardware fault in the monitor",
+    "a type of search engine",
+    "an antivirus update"
+   ],
+   "optionsHi": [
+    "एक हानिकारक प्रोग्राम जो स्वयं की प्रतिलिपि बना सकता है और फ़ाइलों को नुकसान पहुँचाता है",
+    "मॉनिटर की हार्डवेयर खराबी",
+    "एक प्रकार का सर्च इंजन",
+    "एंटीवायरस अपडेट"
+   ],
+   "correctIndex": 0,
+   "explanation": "A virus is malicious software that replicates and can corrupt files or programs. The other options are unrelated or the opposite.",
+   "explanationHi": "वायरस एक दुर्भावनापूर्ण सॉफ़्टवेयर है जो अपनी प्रतियाँ बनाता है और फ़ाइलों या प्रोग्रामों को नुकसान पहुँचा सकता है। अन्य विकल्प असंबंधित या विपरीत हैं।"
+  },
+  {
+   "id": "t04-gk-01",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian Constitution",
+   "question": "Under which Article can the President of India proclaim a National Emergency?",
+   "questionHi": "भारत के राष्ट्रपति किस अनुच्छेद के अंतर्गत राष्ट्रीय आपातकाल की घोषणा कर सकते हैं?",
+   "options": [
+    "Article 356",
+    "Article 352",
+    "Article 360",
+    "Article 370"
+   ],
+   "optionsHi": [
+    "अनुच्छेद 356",
+    "अनुच्छेद 352",
+    "अनुच्छेद 360",
+    "अनुच्छेद 370"
+   ],
+   "correctIndex": 1,
+   "explanation": "Article 352 deals with National Emergency. Article 356 is President's Rule in a state and Article 360 is Financial Emergency.",
+   "explanationHi": "अनुच्छेद 352 राष्ट्रीय आपातकाल से संबंधित है। अनुच्छेद 356 राज्य में राष्ट्रपति शासन और अनुच्छेद 360 वित्तीय आपातकाल से संबंधित है।"
+  },
+  {
+   "id": "t04-gk-02",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian history",
+   "question": "The 'Quit India Movement' was launched in -",
+   "questionHi": "'भारत छोड़ो आंदोलन' किस वर्ष शुरू किया गया?",
+   "options": [
+    "1930",
+    "1920",
+    "1919",
+    "1942"
+   ],
+   "optionsHi": [
+    "1930",
+    "1920",
+    "1919",
+    "1942"
+   ],
+   "correctIndex": 3,
+   "explanation": "The Quit India Movement was launched by Mahatma Gandhi in August 1942. 1930 was the Civil Disobedience Movement, 1920 the Non-Cooperation Movement and 1919 the Rowlatt Satyagraha year.",
+   "explanationHi": "भारत छोड़ो आंदोलन महात्मा गांधी ने अगस्त 1942 में शुरू किया। 1930 सविनय अवज्ञा, 1920 असहयोग और 1919 रौलट सत्याग्रह का वर्ष है।"
+  },
+  {
+   "id": "t04-gk-03",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian economy",
+   "question": "The Reserve Bank of India was established in -",
+   "questionHi": "भारतीय रिज़र्व बैंक की स्थापना किस वर्ष हुई?",
+   "options": [
+    "1921",
+    "1947",
+    "1935",
+    "1949"
+   ],
+   "optionsHi": [
+    "1921",
+    "1947",
+    "1935",
+    "1949"
+   ],
+   "correctIndex": 2,
+   "explanation": "The RBI began operations on 1 April 1935. It was nationalised in 1949.",
+   "explanationHi": "RBI ने 1 अप्रैल 1935 को कार्य शुरू किया। इसका राष्ट्रीयकरण 1949 में हुआ।"
+  },
+  {
+   "id": "t04-gk-04",
+   "part": "C",
+   "section": "gk",
+   "topic": "Basic science",
+   "question": "The SI unit of force is ______.",
+   "questionHi": "बल (force) का SI मात्रक ______ है।",
+   "options": [
+    "newton",
+    "joule",
+    "watt",
+    "pascal"
+   ],
+   "optionsHi": [
+    "न्यूटन (newton)",
+    "जूल (joule)",
+    "वाट (watt)",
+    "पास्कल (pascal)"
+   ],
+   "correctIndex": 0,
+   "explanation": "Force is measured in newtons (N). Joule is energy, watt is power and pascal is pressure.",
+   "explanationHi": "बल का मात्रक न्यूटन (N) है। जूल ऊर्जा का, वाट शक्ति का और पास्कल दाब का मात्रक है।"
+  },
+  {
+   "id": "t04-gk-05",
+   "part": "C",
+   "section": "gk",
+   "topic": "Chhattisgarh GK",
+   "question": "Kanger Valley National Park is located in which district of Chhattisgarh?",
+   "questionHi": "कांगेर घाटी राष्ट्रीय उद्यान छत्तीसगढ़ के किस जिले में स्थित है?",
+   "options": [
+    "Surguja",
+    "Korba",
+    "Raipur",
+    "Bastar"
+   ],
+   "optionsHi": [
+    "सरगुजा",
+    "कोरबा",
+    "रायपुर",
+    "बस्तर"
+   ],
+   "correctIndex": 3,
+   "explanation": "Kanger Valley National Park lies in the Bastar region near Jagdalpur, in Bastar district.",
+   "explanationHi": "कांगेर घाटी राष्ट्रीय उद्यान बस्तर क्षेत्र में जगदलपुर के पास बस्तर जिले में स्थित है।"
+  }
+ ]
+}

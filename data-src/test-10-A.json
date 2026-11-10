@@ -1,0 +1,1059 @@
+{
+ "passages": [
+  {
+   "id": "t10-p1",
+   "genre": "Scientific passage",
+   "title": "The Language of the Hive",
+   "text": "Honeybees communicate the location of food through a remarkable behaviour known as the waggle dance. When a forager returns to the hive after discovering a rich patch of flowers, she climbs onto the vertical comb and moves in a figure-of-eight pattern. The straight central part of the dance, during which she waggles her abdomen, carries the vital information. The angle of this run relative to the vertical shows the direction of the food in relation to the sun, while its duration indicates the distance: the longer the waggle, the farther the flowers. Nearby bees follow the dancer closely, touching her with their antennae in the darkness of the hive. Within minutes, many of them fly out in the indicated direction. The Austrian scientist Karl von Frisch spent decades decoding this language, and in 1973 he shared a Nobel Prize for his discoveries. Remarkably, the dance is not fixed: bees adjust it as the sun moves across the sky."
+  },
+  {
+   "id": "t10-p2",
+   "genre": "Poetry extract",
+   "title": "The Village Well",
+   "text": "Before the sun has climbed the hill,\nThe women gather, calm and still,\nTheir brass pots ringing on the stone,\nEach with her thoughts, yet not alone.\nThe rope runs down, the rope runs deep\nWhere cool and secret waters sleep,\nAnd up it comes, a silver thing,\nAs if the earth had learnt to sing.\nThey share the news of fields and rain,\nA wedding feast, a fevered brain,\nA son who left to work in town,\nA roof the monsoon wind blew down.\nThe well has heard a thousand years\nOf whispered hopes and hidden tears,\nYet keeps them all and tells no tale,\nA patient friend that cannot fail.\nThen, balanced pots upon their head,\nThey walk home with a steady tread,\nAnd leave the well, as dawn grows bright,\nTo dream of them till fall of night."
+  },
+  {
+   "id": "t10-p3",
+   "genre": "Newspaper editorial",
+   "title": "Libraries Without Readers",
+   "text": "Every year, as examination season approaches, school libraries across the country fall silent - not because students are studying there, but because they have stopped visiting them altogether. The shelves, once the pride of a school, now gather dust while smartphones glow in every pocket. It would be easy to blame the young for this change, but the fault lies elsewhere. Libraries are often locked for most of the day, staffed by teachers who have been given the duty as an afterthought, and stocked with books that no child would choose to read. Reading, after all, is a habit, and habits are not formed by compulsion. If we wish our children to love books, we must first make books lovable: open the library doors, let students borrow freely, and purchase titles that speak to their lives. A library that is merely a room is a waste; a library that is a living space can change a school. Surely the cost is small compared to the reward."
+  }
+ ],
+ "questions": [
+  {
+   "id": "t10-gram-01",
+   "part": "A",
+   "section": "gram",
+   "topic": "Inversion",
+   "question": "Little ___ he know that the letter would change his life.",
+   "options": [
+    "does",
+    "has",
+    "did",
+    "had"
+   ],
+   "correctIndex": 2,
+   "explanation": "'Little' at the start of a sentence needs inversion with the past auxiliary: 'Little did he know'. 'Does' is present; 'has' and 'had' do not take the base verb 'know'."
+  },
+  {
+   "id": "t10-gram-02",
+   "part": "A",
+   "section": "gram",
+   "topic": "Conditionals",
+   "question": "Had I known about the strike, I ___ the journey.",
+   "options": [
+    "would have postponed",
+    "would postpone",
+    "will have postponed",
+    "had postponed"
+   ],
+   "correctIndex": 0,
+   "explanation": "'Had I known' is an inverted third conditional (If I had known), so the main clause takes 'would have + V3'. The other forms do not match the past unreal condition."
+  },
+  {
+   "id": "t10-gram-03",
+   "part": "A",
+   "section": "gram",
+   "topic": "Elliptical patterns",
+   "question": "Choose the correct elliptical (shortened) form: 'He has finished his work, but I haven't ___.'",
+   "options": [
+    "finish",
+    "finishing",
+    "finishes",
+    "finished"
+   ],
+   "correctIndex": 3,
+   "explanation": "After 'haven't' the past participle is needed: 'but I haven't finished (my work)'. The repeated words are left out (ellipsis)."
+  },
+  {
+   "id": "t10-gram-04",
+   "part": "A",
+   "section": "gram",
+   "topic": "Elliptical sentence pattern",
+   "question": "Choose the correct word to complete the elliptical sentence: 'I did not attend the meeting because I was not asked ___.'",
+   "options": [
+    "for",
+    "to",
+    "so",
+    "it"
+   ],
+   "correctIndex": 1,
+   "explanation": "The full sentence is 'I was not asked to attend'; the verb 'attend' is omitted and only 'to' remains. The other words cannot stand for the omitted infinitive."
+  },
+  {
+   "id": "t10-gram-05",
+   "part": "A",
+   "section": "gram",
+   "topic": "Determiners",
+   "question": "There is ___ milk left in the jug, so we can make only one cup of tea.",
+   "options": [
+    "a few",
+    "little",
+    "few",
+    "a number of"
+   ],
+   "correctIndex": 1,
+   "explanation": "'Milk' is uncountable and the sense is negative (hardly any), so 'little' is correct. 'Few' and 'a few' are used with countable nouns; 'a number of' also needs a plural noun."
+  },
+  {
+   "id": "t10-gram-06",
+   "part": "A",
+   "section": "gram",
+   "topic": "Modals",
+   "question": "You ___ have seen him at the station; he was in Delhi that day.",
+   "options": [
+    "need not",
+    "should",
+    "might",
+    "can't"
+   ],
+   "correctIndex": 3,
+   "explanation": "'Can't have + V3' expresses a strong logical impossibility about the past. 'Might' shows possibility, 'should' and 'need not' do not suit the given fact."
+  },
+  {
+   "id": "t10-gram-07",
+   "part": "A",
+   "section": "gram",
+   "topic": "Question tag",
+   "question": "Let us start the work now, ___?",
+   "options": [
+    "shall we",
+    "will we",
+    "don't we",
+    "shan't us"
+   ],
+   "correctIndex": 0,
+   "explanation": "The tag for 'Let us / Let's' (a suggestion) is 'shall we?'. The other tags are not used with this pattern."
+  },
+  {
+   "id": "t10-gram-08",
+   "part": "A",
+   "section": "gram",
+   "topic": "Phrasal verbs",
+   "question": "He ______ smoking last year on his doctor's advice.",
+   "options": [
+    "gave in",
+    "gave off",
+    "gave up",
+    "gave away"
+   ],
+   "correctIndex": 2,
+   "explanation": "'Gave up' means stopped a habit. 'Gave in' means surrendered, 'gave off' means emitted and 'gave away' means donated or revealed."
+  },
+  {
+   "id": "t10-gram-09",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subject-verb agreement",
+   "question": "Ten kilometres ___ a long way to walk on foot.",
+   "options": [
+    "are",
+    "were",
+    "have been",
+    "is"
+   ],
+   "correctIndex": 3,
+   "explanation": "A distance treated as a single unit takes a singular verb, so 'Ten kilometres is a long way'. 'Are', 'were' and 'have been' are plural forms."
+  },
+  {
+   "id": "t10-gram-10",
+   "part": "A",
+   "section": "gram",
+   "topic": "Tenses",
+   "question": "By the time we reach the venue, the chief guest ___.",
+   "options": [
+    "will have left",
+    "has left",
+    "will leave",
+    "had left"
+   ],
+   "correctIndex": 0,
+   "explanation": "A future action completed before another future time takes the future perfect: 'will have left'. 'By the time we reach' is present for a future event, so past or simple forms do not fit."
+  },
+  {
+   "id": "t10-gram-11",
+   "part": "A",
+   "section": "gram",
+   "topic": "Identifying clauses",
+   "question": "In the sentence 'My brother, who lives in Pune, is an engineer', the clause 'who lives in Pune' is a ___.",
+   "options": [
+    "noun clause",
+    "defining relative clause",
+    "non-defining relative clause",
+    "adverb clause"
+   ],
+   "correctIndex": 2,
+   "explanation": "It gives extra information about an already identified noun and is set off by commas, so it is a non-defining relative clause. It does not name a noun function or show time/place/reason."
+  },
+  {
+   "id": "t10-gram-12",
+   "part": "A",
+   "section": "gram",
+   "topic": "Transformation of sentences",
+   "question": "Convert into a simple sentence: 'As soon as the bell rang, the students left the class.'",
+   "options": [
+    "The bell rang and the students left the class.",
+    "On the ringing of the bell, the students left the class.",
+    "The students left the class when the bell rang.",
+    "The bell rang, so the students left the class."
+   ],
+   "correctIndex": 1,
+   "explanation": "A simple sentence has only one finite verb; option 2 uses a phrase ('On the ringing of the bell'). Option 1 and 4 are compound, and option 3 is complex."
+  },
+  {
+   "id": "t10-gram-13",
+   "part": "A",
+   "section": "gram",
+   "topic": "Direct and indirect speech",
+   "question": "Change into indirect speech: The teacher said to the boys, 'Do not make noise.'",
+   "options": [
+    "The teacher ordered the boys not to make noise.",
+    "The teacher told the boys do not make noise.",
+    "The teacher asked the boys that they do not make noise.",
+    "The teacher said the boys not making noise."
+   ],
+   "correctIndex": 0,
+   "explanation": "A command/prohibition in direct speech becomes an infinitive clause ('not to make') with a reporting verb like 'ordered' or 'told'. The other options are ungrammatical."
+  },
+  {
+   "id": "t10-gram-14",
+   "part": "A",
+   "section": "gram",
+   "topic": "Inversion",
+   "question": "Complete the sentence: 'Not only ___ the examination, but he also topped it.'",
+   "options": [
+    "he passed",
+    "he did pass",
+    "did he pass",
+    "passed he"
+   ],
+   "correctIndex": 2,
+   "explanation": "When a sentence begins with the negative adverbial 'Not only', the auxiliary comes before the subject: 'did he pass'. The other options do not invert correctly."
+  },
+  {
+   "id": "t10-gram-15",
+   "part": "A",
+   "section": "gram",
+   "topic": "Tenses",
+   "question": "Choose the grammatically correct sentence.",
+   "options": [
+    "I am knowing him for ten years.",
+    "I know him since ten years.",
+    "I knew him for ten years.",
+    "I have known him for ten years."
+   ],
+   "correctIndex": 3,
+   "explanation": "For an action that began in the past and continues now with a duration ('for ten years'), the present perfect is used. 'Know' is a stative verb, so it is not used in the continuous form; 'since' needs a point of time."
+  },
+  {
+   "id": "t10-vocab-01",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Collocations",
+   "question": "We had ___ rain throughout the night.",
+   "options": [
+    "strong",
+    "heavy",
+    "big",
+    "tall"
+   ],
+   "correctIndex": 1,
+   "explanation": "'Heavy rain' is the natural collocation. 'Strong', 'big' and 'tall' are not used with rain."
+  },
+  {
+   "id": "t10-vocab-02",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Collocations",
+   "question": "The police ___ an investigation into the theft.",
+   "options": [
+    "made",
+    "did",
+    "took",
+    "launched"
+   ],
+   "correctIndex": 3,
+   "explanation": "We 'launch' or 'conduct' an investigation. 'Make', 'do' and 'take' do not collocate with 'investigation'."
+  },
+  {
+   "id": "t10-vocab-03",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word class conversion",
+   "question": "Choose the verb form of the word 'strength'.",
+   "options": [
+    "strengthen",
+    "strongly",
+    "strong",
+    "strengthening"
+   ],
+   "correctIndex": 0,
+   "explanation": "Adding the suffix '-en' to 'strength' gives the verb 'strengthen'. 'Strongly' is an adverb, 'strong' an adjective and 'strengthening' a participle/gerund."
+  },
+  {
+   "id": "t10-vocab-04",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word class conversion",
+   "question": "The noun form of the adjective 'long' is ___.",
+   "options": [
+    "longly",
+    "longer",
+    "length",
+    "longing"
+   ],
+   "correctIndex": 2,
+   "explanation": "The noun form of 'long' is 'length'. 'Longly' is not a word, 'longer' is a comparative, and 'longing' means a strong desire."
+  },
+  {
+   "id": "t10-vocab-05",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Lexical bundles",
+   "question": "Complete the lexical bundle: 'By and ___, the students were satisfied with the new syllabus.'",
+   "options": [
+    "big",
+    "full",
+    "large",
+    "much"
+   ],
+   "correctIndex": 2,
+   "explanation": "'By and large' is a fixed expression meaning 'generally/on the whole'. The other words do not form this bundle."
+  },
+  {
+   "id": "t10-vocab-06",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idioms",
+   "question": "The idiom 'to bite the bullet' means ___.",
+   "options": [
+    "to face an unpleasant situation bravely",
+    "to eat very fast",
+    "to become suddenly angry",
+    "to take revenge"
+   ],
+   "correctIndex": 0,
+   "explanation": "'Bite the bullet' means to accept a painful or difficult situation with courage. The other meanings are unrelated."
+  },
+  {
+   "id": "t10-vocab-07",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idioms",
+   "question": "A 'red herring' is ___.",
+   "options": [
+    "a rare type of fish",
+    "a sign of danger",
+    "a kind of gift",
+    "something that distracts attention from the real issue"
+   ],
+   "correctIndex": 3,
+   "explanation": "A 'red herring' is a misleading clue or topic that draws attention away from the real issue. It is not literally a fish."
+  },
+  {
+   "id": "t10-vocab-08",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idioms",
+   "question": "'To pull someone's leg' means ___.",
+   "options": [
+    "to help someone",
+    "to tease someone playfully",
+    "to hurt someone",
+    "to defeat someone"
+   ],
+   "correctIndex": 1,
+   "explanation": "'Pull someone's leg' means to joke with or tease someone. It has nothing to do with helping, hurting or defeating."
+  },
+  {
+   "id": "t10-vocab-09",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "Identify the figure of speech: 'The White House announced a new policy.'",
+   "options": [
+    "Metonymy",
+    "Simile",
+    "Hyperbole",
+    "Oxymoron"
+   ],
+   "correctIndex": 0,
+   "explanation": "Here 'The White House' stands for the US government/President, a name replaced by an associated thing, which is metonymy. There is no comparison (simile), exaggeration or contradiction."
+  },
+  {
+   "id": "t10-vocab-10",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "'He passed away peacefully last night.' Here 'passed away' is an example of ___.",
+   "options": [
+    "Simile",
+    "Metaphor",
+    "Hyperbole",
+    "Euphemism"
+   ],
+   "correctIndex": 3,
+   "explanation": "A euphemism replaces an unpleasant word ('died') with a softer expression ('passed away'). It does not compare (simile/metaphor) or exaggerate (hyperbole)."
+  },
+  {
+   "id": "t10-vocab-11",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word formation",
+   "question": "Which prefix is used to form the opposite of 'legal'?",
+   "options": [
+    "un-",
+    "il-",
+    "dis-",
+    "non-"
+   ],
+   "correctIndex": 1,
+   "explanation": "The opposite of 'legal' is 'illegal'; 'il-' is used before words beginning with 'l'. 'Unlegal', 'dislegal' and 'nonlegal' are not standard."
+  },
+  {
+   "id": "t10-vocab-12",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word formation",
+   "question": "The root word of 'unforgettable' is ___.",
+   "options": [
+    "get",
+    "forgettable",
+    "forget",
+    "gettable"
+   ],
+   "correctIndex": 2,
+   "explanation": "'Unforgettable' = un- + forget + -able. The root is 'forget'; 'forgettable' still has a suffix and 'get' is only part of the root."
+  },
+  {
+   "id": "t10-vocab-13",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Polysemy",
+   "question": "The word 'bank' in 'We sat on the bank of the river' means ___.",
+   "options": [
+    "the edge of a river",
+    "a financial institution",
+    "a store of blood",
+    "to tilt an aircraft"
+   ],
+   "correctIndex": 0,
+   "explanation": "Context (sat on ... of the river) shows the meaning 'land alongside a river'. The other meanings of 'bank' do not fit."
+  },
+  {
+   "id": "t10-vocab-14",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Homophones",
+   "question": "The workers have chosen a new ___ for the school building.",
+   "options": [
+    "sight",
+    "cite",
+    "side",
+    "site"
+   ],
+   "correctIndex": 3,
+   "explanation": "'Site' means a place for building. 'Sight' means vision, 'cite' means to quote, and 'side' means an edge; only 'site' fits."
+  },
+  {
+   "id": "t10-vocab-15",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Homophones",
+   "question": "Choose the correct word: 'The bride walked slowly down the ___ of the church.'",
+   "options": [
+    "isle",
+    "aisle",
+    "ile",
+    "ail"
+   ],
+   "correctIndex": 1,
+   "explanation": "'Aisle' is a passage between rows of seats. 'Isle' (island) is a homophone with a different meaning; 'ile' and 'ail' do not fit."
+  },
+  {
+   "id": "t10-rc-01",
+   "part": "A",
+   "section": "rc",
+   "topic": "Comprehension",
+   "passageId": "t10-p1",
+   "question": "According to the passage, the duration of the waggle run indicates the ___ of the food.",
+   "options": [
+    "direction",
+    "distance",
+    "quality",
+    "type"
+   ],
+   "correctIndex": 1,
+   "explanation": "The passage says 'its duration indicates the distance: the longer the waggle, the farther the flowers'. Direction is shown by the angle, not by duration."
+  },
+  {
+   "id": "t10-rc-02",
+   "part": "A",
+   "section": "rc",
+   "topic": "Comprehension",
+   "passageId": "t10-p1",
+   "question": "The direction of the food is shown by ___.",
+   "options": [
+    "the speed of the dancer's wings",
+    "the number of figure-of-eight loops",
+    "the touch of the antennae",
+    "the angle of the waggle run relative to the vertical"
+   ],
+   "correctIndex": 3,
+   "explanation": "The passage states that the angle of the run relative to the vertical shows the direction in relation to the sun. The other items are not mentioned as direction signals."
+  },
+  {
+   "id": "t10-rc-03",
+   "part": "A",
+   "section": "rc",
+   "topic": "Vocabulary in context",
+   "passageId": "t10-p1",
+   "question": "The word 'decoding' as used in the passage is closest in meaning to ___.",
+   "options": [
+    "deciphering",
+    "destroying",
+    "copying",
+    "hiding"
+   ],
+   "correctIndex": 0,
+   "explanation": "Von Frisch 'decoded' the language, i.e. worked out its meaning - deciphering. He did not destroy, copy or hide it."
+  },
+  {
+   "id": "t10-rc-04",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t10-p1",
+   "question": "Why do nearby bees touch the dancer with their antennae?",
+   "options": [
+    "to show their anger",
+    "to ask her for food",
+    "to warn her of danger",
+    "because it is dark inside the hive, so they must feel the dance"
+   ],
+   "correctIndex": 3,
+   "explanation": "The passage mentions 'in the darkness of the hive', so the bees follow the dance by touch. The passage gives no support for anger, food begging or warning."
+  },
+  {
+   "id": "t10-rc-05",
+   "part": "A",
+   "section": "rc",
+   "topic": "Tone",
+   "passageId": "t10-p1",
+   "question": "The tone of the passage is best described as ___.",
+   "options": [
+    "humorous",
+    "informative",
+    "sarcastic",
+    "pessimistic"
+   ],
+   "correctIndex": 1,
+   "explanation": "The passage explains a scientific fact in a neutral, factual way - informative. There is no humour, sarcasm or pessimism."
+  },
+  {
+   "id": "t10-rc-06",
+   "part": "A",
+   "section": "rc",
+   "topic": "Comprehension",
+   "passageId": "t10-p2",
+   "question": "The poem describes a scene set in the ___.",
+   "options": [
+    "early morning",
+    "afternoon",
+    "evening",
+    "midnight"
+   ],
+   "correctIndex": 0,
+   "explanation": "'Before the sun has climbed the hill' and 'as dawn grows bright' show that it is early morning."
+  },
+  {
+   "id": "t10-rc-07",
+   "part": "A",
+   "section": "rc",
+   "topic": "Rhetorical devices",
+   "passageId": "t10-p2",
+   "question": "'As if the earth had learnt to sing' is an example of ___.",
+   "options": [
+    "hyperbole",
+    "onomatopoeia",
+    "personification",
+    "antithesis"
+   ],
+   "correctIndex": 2,
+   "explanation": "The earth is given the human ability to learn and sing, which is personification. It is not an exaggeration, a sound-word or a contrast."
+  },
+  {
+   "id": "t10-rc-08",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t10-p2",
+   "question": "'Each with her thoughts, yet not alone' suggests that the women ___.",
+   "options": [
+    "dislike each other",
+    "are afraid of the dark",
+    "refuse to talk",
+    "are busy with their own thoughts but share each other's company"
+   ],
+   "correctIndex": 3,
+   "explanation": "The line contrasts private thoughts with togetherness; later lines show them sharing news. The other options contradict the poem."
+  },
+  {
+   "id": "t10-rc-09",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t10-p2",
+   "question": "The phrase 'tells no tale' implies that the well ___.",
+   "options": [
+    "has run dry",
+    "keeps the secrets it hears",
+    "is haunted",
+    "is old and useless"
+   ],
+   "correctIndex": 1,
+   "explanation": "The well has heard whispered hopes and tears but does not reveal them, so it is like a trustworthy keeper of secrets."
+  },
+  {
+   "id": "t10-rc-10",
+   "part": "A",
+   "section": "rc",
+   "topic": "Vocabulary in context",
+   "passageId": "t10-p2",
+   "question": "The word 'tread' in the poem means ___.",
+   "options": [
+    "rest",
+    "load",
+    "manner of walking",
+    "road"
+   ],
+   "correctIndex": 2,
+   "explanation": "'A steady tread' means a steady way of stepping or walking. It does not mean rest, load or road."
+  },
+  {
+   "id": "t10-rc-11",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t10-p3",
+   "question": "The writer's statement 'habits are not formed by compulsion' implies that ___.",
+   "options": [
+    "children should be forced to read every day",
+    "teachers should be punished for poor reading",
+    "libraries should be closed during examinations",
+    "reading must be encouraged through interest and not imposed by force"
+   ],
+   "correctIndex": 3,
+   "explanation": "If habits are not formed by compulsion, then interest and attractive access, not force, build the reading habit. The passage never suggests forcing, punishing or closing libraries."
+  },
+  {
+   "id": "t10-rc-12",
+   "part": "A",
+   "section": "rc",
+   "topic": "Tone",
+   "passageId": "t10-p3",
+   "question": "The tone of the editorial is ___.",
+   "options": [
+    "critical but constructive",
+    "angry and hopeless",
+    "humorous",
+    "indifferent"
+   ],
+   "correctIndex": 0,
+   "explanation": "The writer criticises current practice but offers practical solutions and hope, so the tone is critical yet constructive."
+  },
+  {
+   "id": "t10-rc-13",
+   "part": "A",
+   "section": "rc",
+   "topic": "Vocabulary in context",
+   "passageId": "t10-p3",
+   "question": "'Given the duty as an afterthought' means the duty was given ___.",
+   "options": [
+    "after careful planning",
+    "as something considered later and not important",
+    "after deep reflection",
+    "as a final decision"
+   ],
+   "correctIndex": 1,
+   "explanation": "An afterthought is something added later without serious planning, which shows how little importance the library duty gets."
+  },
+  {
+   "id": "t10-rc-14",
+   "part": "A",
+   "section": "rc",
+   "topic": "Rhetorical devices",
+   "passageId": "t10-p3",
+   "question": "'A library that is merely a room is a waste; a library that is a living space can change a school.' This sentence uses ___.",
+   "options": [
+    "simile",
+    "onomatopoeia",
+    "contrast",
+    "pun"
+   ],
+   "correctIndex": 2,
+   "explanation": "Two opposite ideas - a dead room versus a living space - are placed side by side, so it is contrast (antithesis)."
+  },
+  {
+   "id": "t10-rc-15",
+   "part": "A",
+   "section": "rc",
+   "topic": "Detail",
+   "passageId": "t10-p3",
+   "question": "Which of the following is NOT given by the writer as a reason for the decline of library use?",
+   "options": [
+    "Books are too expensive for schools to buy",
+    "Libraries remain locked for most of the day",
+    "Teachers are given library duty as an afterthought",
+    "Books stocked do not interest children"
+   ],
+   "correctIndex": 0,
+   "explanation": "The writer actually says the cost is small. The other three reasons are directly mentioned in the passage."
+  },
+  {
+   "id": "t10-ped-01",
+   "part": "A",
+   "section": "ped",
+   "topic": "Remedial teaching",
+   "question": "Remedial teaching in English is mainly intended for learners who ___.",
+   "questionHi": "अंग्रेज़ी में उपचारात्मक शिक्षण (remedial teaching) मुख्य रूप से उन विद्यार्थियों के लिए होता है जो ___।",
+   "options": [
+    "are gifted",
+    "have finished the syllabus early",
+    "need teacher training",
+    "have specific learning gaps identified through diagnosis"
+   ],
+   "optionsHi": [
+    "प्रतिभाशाली हैं",
+    "पाठ्यक्रम जल्दी पूरा कर चुके हैं",
+    "शिक्षक प्रशिक्षण चाहते हैं",
+    "जिनकी सीखने की विशेष कमियाँ निदान से पहचानी गई हैं"
+   ],
+   "correctIndex": 3,
+   "explanation": "Remedial teaching follows diagnosis of specific difficulties and tries to fill those gaps. It is not for gifted learners or for teacher training.",
+   "explanationHi": "उपचारात्मक शिक्षण निदान के बाद विशेष कठिनाइयों को दूर करने के लिए होता है। यह प्रतिभाशाली बच्चों या शिक्षक प्रशिक्षण के लिए नहीं है।"
+  },
+  {
+   "id": "t10-ped-02",
+   "part": "A",
+   "section": "ped",
+   "topic": "Linguistic relativity",
+   "question": "The Sapir-Whorf hypothesis suggests that ___.",
+   "questionHi": "Sapir-Whorf परिकल्पना के अनुसार ___।",
+   "options": [
+    "language has no link with thought",
+    "the structure of a language influences how its speakers think",
+    "all languages have identical grammar",
+    "children cannot learn two languages"
+   ],
+   "optionsHi": [
+    "भाषा का विचार से कोई संबंध नहीं है",
+    "किसी भाषा की संरचना उसके बोलने वालों की सोच को प्रभावित करती है",
+    "सभी भाषाओं का व्याकरण एक-सा होता है",
+    "बच्चे दो भाषाएँ नहीं सीख सकते"
+   ],
+   "correctIndex": 1,
+   "explanation": "Also called linguistic relativity, it holds that the language one speaks shapes the way one perceives and thinks about the world.",
+   "explanationHi": "इसे linguistic relativity भी कहते हैं; इसके अनुसार व्यक्ति जो भाषा बोलता है वह दुनिया को देखने और सोचने के उसके तरीके को आकार देती है।"
+  },
+  {
+   "id": "t10-ped-03",
+   "part": "A",
+   "section": "ped",
+   "topic": "Behaviourism",
+   "question": "Which psychologist explained language development through imitation, reinforcement and habit formation?",
+   "questionHi": "किस मनोवैज्ञानिक ने भाषा विकास को अनुकरण, पुनर्बलन और आदत निर्माण से समझाया?",
+   "options": [
+    "B.F. Skinner",
+    "Noam Chomsky",
+    "Jean Piaget",
+    "Lev Vygotsky"
+   ],
+   "optionsHi": [
+    "बी.एफ. स्किनर",
+    "नोम चॉम्स्की",
+    "जीन पियाजे",
+    "लेव वायगोत्स्की"
+   ],
+   "correctIndex": 0,
+   "explanation": "Skinner's behaviourist view holds that language is learnt through imitation and reinforcement. Chomsky opposed this idea; Piaget and Vygotsky stress cognition and social interaction.",
+   "explanationHi": "स्किनर का व्यवहारवादी मत है कि भाषा अनुकरण और पुनर्बलन से सीखी जाती है। चॉम्स्की ने इसका विरोध किया; पियाजे और वायगोत्स्की ज्ञान और सामाजिक अंतःक्रिया पर बल देते हैं।"
+  },
+  {
+   "id": "t10-ped-04",
+   "part": "A",
+   "section": "ped",
+   "topic": "Critical Period Hypothesis",
+   "question": "The 'Critical Period Hypothesis' (Lenneberg) suggests that ___.",
+   "questionHi": "Lenneberg की 'Critical Period Hypothesis' के अनुसार ___।",
+   "options": [
+    "language can be learnt equally easily at any age",
+    "only adults can learn a second language well",
+    "language is acquired most naturally in early childhood, up to about puberty",
+    "a language can be learnt only through writing"
+   ],
+   "optionsHi": [
+    "भाषा किसी भी उम्र में समान रूप से आसानी से सीखी जा सकती है",
+    "केवल वयस्क ही दूसरी भाषा अच्छी तरह सीख सकते हैं",
+    "भाषा बचपन से लगभग किशोरावस्था तक सबसे स्वाभाविक रूप से अर्जित होती है",
+    "भाषा केवल लेखन से सीखी जा सकती है"
+   ],
+   "correctIndex": 2,
+   "explanation": "The hypothesis holds that there is a biologically favourable period, roughly until puberty, during which language is acquired most naturally and completely.",
+   "explanationHi": "इस परिकल्पना के अनुसार भाषा-अर्जन के लिए लगभग किशोरावस्था तक एक जैविक रूप से अनुकूल अवधि होती है, जिसमें भाषा सबसे स्वाभाविक और पूर्ण रूप से अर्जित होती है।"
+  },
+  {
+   "id": "t10-ped-05",
+   "part": "A",
+   "section": "ped",
+   "topic": "Errors - L1 interference",
+   "question": "When a learner applies mother-tongue rules to the second language and makes errors, this is called ___.",
+   "questionHi": "जब शिक्षार्थी दूसरी भाषा में मातृभाषा के नियम लगाकर त्रुटियाँ करता है, तो इसे ___ कहते हैं।",
+   "options": [
+    "mother-tongue interference",
+    "fluency",
+    "scaffolding",
+    "motivation"
+   ],
+   "optionsHi": [
+    "मातृभाषा का हस्तक्षेप (mother-tongue interference)",
+    "प्रवाह (fluency)",
+    "स्कैफ़ोल्डिंग (scaffolding)",
+    "प्रेरणा (motivation)"
+   ],
+   "correctIndex": 0,
+   "explanation": "Negative transfer or interference from the first language (L1) causes certain predictable errors in the second language, e.g., wrong word order.",
+   "explanationHi": "पहली भाषा (L1) से नकारात्मक अंतरण या हस्तक्षेप के कारण दूसरी भाषा में कुछ अनुमानित त्रुटियाँ होती हैं, जैसे शब्द-क्रम की गलती।"
+  },
+  {
+   "id": "t10-ped-06",
+   "part": "A",
+   "section": "ped",
+   "topic": "Krashen's hypotheses",
+   "question": "According to Krashen's Affective Filter Hypothesis, language acquisition is hindered when the learner has ___.",
+   "questionHi": "क्रैशेन की भावात्मक छन्नी परिकल्पना (Affective Filter) के अनुसार भाषा अर्जन तब बाधित होता है जब विद्यार्थी में ___ हो।",
+   "options": [
+    "comprehensible input",
+    "a rich vocabulary",
+    "high anxiety and low motivation",
+    "a good teacher"
+   ],
+   "optionsHi": [
+    "बोधगम्य निवेश (input)",
+    "समृद्ध शब्दावली",
+    "अधिक चिंता और कम प्रेरणा",
+    "अच्छा शिक्षक"
+   ],
+   "correctIndex": 2,
+   "explanation": "Anxiety, low motivation and low self-confidence raise the 'filter' and block input. The other options help learning.",
+   "explanationHi": "चिंता, कम प्रेरणा और कम आत्मविश्वास 'छन्नी' को ऊँचा कर देते हैं और सीखने में बाधा डालते हैं। अन्य विकल्प सीखने में सहायक हैं।"
+  },
+  {
+   "id": "t10-ped-07",
+   "part": "A",
+   "section": "ped",
+   "topic": "Linguistic system - phonology",
+   "question": "The branch of linguistics that studies the sound system of a language is ___.",
+   "questionHi": "भाषाविज्ञान की वह शाखा जो किसी भाषा की ध्वनि-व्यवस्था का अध्ययन करती है, ___ है।",
+   "options": [
+    "Morphology",
+    "Phonology",
+    "Syntax",
+    "Semantics"
+   ],
+   "optionsHi": [
+    "रूप-विज्ञान (Morphology)",
+    "ध्वनि-विज्ञान (Phonology)",
+    "वाक्य-विन्यास (Syntax)",
+    "अर्थ-विज्ञान (Semantics)"
+   ],
+   "correctIndex": 1,
+   "explanation": "Phonology deals with sounds and sound patterns. Morphology studies word structure, syntax studies sentence structure and semantics studies meaning.",
+   "explanationHi": "फोनोलॉजी ध्वनियों और उनके पैटर्न का अध्ययन करती है। मॉर्फोलॉजी शब्द-रचना, सिंटैक्स वाक्य-रचना और सेमांटिक्स अर्थ का अध्ययन करती है।"
+  },
+  {
+   "id": "t10-ped-08",
+   "part": "A",
+   "section": "ped",
+   "topic": "Phonology - minimal pair",
+   "question": "'Ship' and 'sheep' are an example of ___.",
+   "questionHi": "'Ship' और 'sheep' किसका उदाहरण हैं?",
+   "options": [
+    "synonyms",
+    "homonyms",
+    "antonyms",
+    "a minimal pair"
+   ],
+   "optionsHi": [
+    "समानार्थी शब्द (synonyms)",
+    "समनामी शब्द (homonyms)",
+    "विलोम शब्द (antonyms)",
+    "न्यूनतम युग्म (minimal pair)"
+   ],
+   "correctIndex": 3,
+   "explanation": "A minimal pair is two words differing in only one sound (here /ɪ/ and /iː/) that have different meanings. They are not synonyms, homonyms or antonyms.",
+   "explanationHi": "न्यूनतम युग्म (minimal pair) ऐसे दो शब्द हैं जो केवल एक ध्वनि (यहाँ /ɪ/ और /iː/) में भिन्न होते हैं और जिनके अर्थ अलग होते हैं। ये synonyms, homonyms या antonyms नहीं हैं।"
+  },
+  {
+   "id": "t10-ped-09",
+   "part": "A",
+   "section": "ped",
+   "topic": "Reading strategies",
+   "question": "Skimming and scanning are strategies used to develop the skill of ___.",
+   "questionHi": "Skimming और scanning किस कौशल को विकसित करने की रणनीतियाँ हैं?",
+   "options": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing"
+   ],
+   "optionsHi": [
+    "सुनना",
+    "बोलना",
+    "पढ़ना",
+    "लिखना"
+   ],
+   "correctIndex": 2,
+   "explanation": "Skimming (reading quickly for the gist) and scanning (searching for specific information) are reading strategies.",
+   "explanationHi": "Skimming (मुख्य भाव के लिए तेज़ पढ़ना) और scanning (विशेष जानकारी खोजना) पढ़ने की रणनीतियाँ हैं।"
+  },
+  {
+   "id": "t10-ped-10",
+   "part": "A",
+   "section": "ped",
+   "topic": "Role of grammar",
+   "question": "Modern approaches to language teaching suggest that grammar is best taught ___.",
+   "questionHi": "आधुनिक भाषा शिक्षण के उपागम के अनुसार व्याकरण सबसे अच्छा ___ पढ़ाया जाता है।",
+   "options": [
+    "in context, through meaningful use",
+    "as isolated rules to be memorised",
+    "only through translation",
+    "only at the end of the course"
+   ],
+   "optionsHi": [
+    "संदर्भ में, सार्थक प्रयोग द्वारा",
+    "अलग-अलग नियमों के रूप में, रटने के लिए",
+    "केवल अनुवाद द्वारा",
+    "केवल पाठ्यक्रम के अंत में"
+   ],
+   "correctIndex": 0,
+   "explanation": "Grammar learnt in context helps communication and understanding. Memorising isolated rules does not lead to real use of language.",
+   "explanationHi": "संदर्भ में सीखा व्याकरण संप्रेषण और समझ में सहायक होता है। अलग-अलग नियम रटने से भाषा का वास्तविक प्रयोग नहीं आता।"
+  },
+  {
+   "id": "t10-ped-11",
+   "part": "A",
+   "section": "ped",
+   "topic": "Grammar-Translation Method",
+   "question": "Which method relies on the mother tongue for translation and stresses the reading and writing of classical texts?",
+   "questionHi": "कौन-सी विधि अनुवाद के लिए मातृभाषा पर निर्भर करती है और शास्त्रीय पाठों के पठन-लेखन पर बल देती है?",
+   "options": [
+    "Direct Method",
+    "Grammar-Translation Method",
+    "Audio-lingual Method",
+    "Communicative Approach"
+   ],
+   "optionsHi": [
+    "प्रत्यक्ष विधि",
+    "व्याकरण-अनुवाद विधि",
+    "श्रव्य-भाषिक विधि",
+    "संप्रेषणात्मक उपागम"
+   ],
+   "correctIndex": 1,
+   "explanation": "Grammar-Translation uses translation and rule explanation in the mother tongue. The Direct Method avoids the mother tongue; ALM and CLT stress speaking and communication.",
+   "explanationHi": "व्याकरण-अनुवाद विधि में मातृभाषा में अनुवाद और नियम समझाए जाते हैं। प्रत्यक्ष विधि मातृभाषा से बचती है; ALM और CLT बोलने और संप्रेषण पर बल देते हैं।"
+  },
+  {
+   "id": "t10-ped-12",
+   "part": "A",
+   "section": "ped",
+   "topic": "Bilingual Method",
+   "question": "In the Bilingual Method of language teaching, the teacher uses ___.",
+   "questionHi": "भाषा शिक्षण की Bilingual Method में शिक्षक ___ का प्रयोग करता है।",
+   "options": [
+    "only the target language",
+    "only the mother tongue",
+    "translation of whole texts as the only exercise",
+    "both the mother tongue and the target language in a planned way"
+   ],
+   "optionsHi": [
+    "केवल लक्ष्य भाषा",
+    "केवल मातृभाषा",
+    "केवल पूरे पाठों के अनुवाद को अभ्यास",
+    "मातृभाषा और लक्ष्य भाषा दोनों का नियोजित रूप से"
+   ],
+   "correctIndex": 3,
+   "explanation": "The Bilingual Method (C.J. Dodson) uses the learner's mother tongue purposefully alongside the target language to explain meaning. It is neither monolingual nor only translation.",
+   "explanationHi": "Bilingual Method (सी.जे. डॉडसन) में अर्थ समझाने के लिए शिक्षार्थी की मातृभाषा का लक्ष्य भाषा के साथ सोद्देश्य प्रयोग किया जाता है। यह न केवल एकभाषी है, न केवल अनुवाद।"
+  },
+  {
+   "id": "t10-ped-13",
+   "part": "A",
+   "section": "ped",
+   "topic": "Errors vs mistakes",
+   "question": "An 'error' differs from a 'mistake' in that an error ___.",
+   "questionHi": "'त्रुटि' (error) और 'भूल' (mistake) में अंतर यह है कि error ___।",
+   "options": [
+    "is systematic and shows a gap in the learner's knowledge",
+    "is a random slip that the learner can self-correct",
+    "is always caused by tiredness",
+    "occurs only in speech"
+   ],
+   "optionsHi": [
+    "व्यवस्थित होती है और विद्यार्थी के ज्ञान की कमी दिखाती है",
+    "एक आकस्मिक चूक है जिसे विद्यार्थी स्वयं सुधार सकता है",
+    "हमेशा थकान से होती है",
+    "केवल बोलने में होती है"
+   ],
+   "correctIndex": 0,
+   "explanation": "Errors are systematic and reflect incomplete knowledge; mistakes are performance slips which learners can correct themselves.",
+   "explanationHi": "Errors व्यवस्थित होती हैं और अधूरे ज्ञान को दर्शाती हैं; mistakes प्रदर्शन की चूकें हैं जिन्हें विद्यार्थी स्वयं सुधार लेता है।"
+  },
+  {
+   "id": "t10-ped-14",
+   "part": "A",
+   "section": "ped",
+   "topic": "Interlanguage",
+   "question": "The developing language system of a learner, lying between his mother tongue and the target language, is called ___.",
+   "questionHi": "विद्यार्थी की मातृभाषा और लक्ष्य भाषा के बीच विकसित हो रही भाषा-व्यवस्था को ___ कहते हैं।",
+   "options": [
+    "Pidgin",
+    "Dialect",
+    "Interlanguage",
+    "Register"
+   ],
+   "optionsHi": [
+    "पिजिन",
+    "बोली (Dialect)",
+    "अंतरभाषा (Interlanguage)",
+    "रजिस्टर"
+   ],
+   "correctIndex": 2,
+   "explanation": "Selinker's term 'interlanguage' refers to this transitional system. A pidgin is a simplified contact language, a dialect is a regional variety and register is style by situation.",
+   "explanationHi": "सेलिंकर का शब्द 'interlanguage' इसी बीच की अवस्था की भाषा को कहता है। पिजिन सरल मिश्रित संपर्क भाषा है, डायलेक्ट क्षेत्रीय रूप है और रजिस्टर परिस्थिति के अनुसार शैली है।"
+  },
+  {
+   "id": "t10-ped-15",
+   "part": "A",
+   "section": "ped",
+   "topic": "Teaching-learning materials",
+   "question": "What is the best use of the textbook in an English classroom?",
+   "questionHi": "अंग्रेज़ी की कक्षा में पाठ्यपुस्तक का सर्वोत्तम उपयोग क्या है?",
+   "options": [
+    "As the only source of teaching",
+    "As a resource supplemented with other materials",
+    "To be memorised completely",
+    "To be avoided"
+   ],
+   "optionsHi": [
+    "शिक्षण के एकमात्र स्रोत के रूप में",
+    "अन्य सामग्री के साथ एक संसाधन के रूप में",
+    "पूरी तरह रटने के लिए",
+    "उससे बचने के लिए"
+   ],
+   "correctIndex": 1,
+   "explanation": "A textbook is a useful base but should be supplemented with multimedia, local and multilingual resources. Using it as the only source or memorising it limits learning.",
+   "explanationHi": "पाठ्यपुस्तक अच्छा आधार है, पर उसे मल्टीमीडिया, स्थानीय और बहुभाषी संसाधनों से पूरक बनाना चाहिए। केवल उसी पर निर्भर रहना या रटना सीखने को सीमित करता है।"
+  }
+ ]
+}

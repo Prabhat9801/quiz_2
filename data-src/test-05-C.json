@@ -1,0 +1,499 @@
+{
+  "questions": [
+    {
+      "id": "t05-hindi-01",
+      "part": "C",
+      "section": "hindi",
+      "topic": "संधि",
+      "question": "'विद्यालय' शब्द में कौन-सी संधि है?",
+      "options": [
+        "दीर्घ संधि",
+        "गुण संधि",
+        "वृद्धि संधि",
+        "यण संधि"
+      ],
+      "correctIndex": 0,
+      "explanation": "विद्या + आलय = विद्यालय। यहाँ 'आ' और 'आ' मिलकर 'आ' बने हैं, इसलिए दीर्घ स्वर संधि है। अन्य संधियों में ऐसा परिवर्तन नहीं होता।"
+    },
+    {
+      "id": "t05-hindi-02",
+      "part": "C",
+      "section": "hindi",
+      "topic": "समास",
+      "question": "'प्रतिदिन' शब्द में कौन-सा समास है?",
+      "options": [
+        "तत्पुरुष",
+        "कर्मधारय",
+        "अव्ययीभाव",
+        "द्वंद्व"
+      ],
+      "correctIndex": 2,
+      "explanation": "'प्रतिदिन' (प्रति + दिन = हर दिन) में पहला पद अव्यय है और वही प्रधान है, इसलिए अव्ययीभाव समास है।"
+    },
+    {
+      "id": "t05-hindi-03",
+      "part": "C",
+      "section": "hindi",
+      "topic": "पर्यायवाची",
+      "question": "निम्नलिखित में से कौन-सा शब्द 'सूर्य' का पर्यायवाची नहीं है?",
+      "options": [
+        "दिनकर",
+        "शशि",
+        "भास्कर",
+        "दिवाकर"
+      ],
+      "correctIndex": 1,
+      "explanation": "'शशि' का अर्थ चंद्रमा है। दिनकर, भास्कर और दिवाकर तीनों सूर्य के पर्यायवाची हैं।"
+    },
+    {
+      "id": "t05-hindi-04",
+      "part": "C",
+      "section": "hindi",
+      "topic": "अशुद्धि शोधन",
+      "question": "निम्नलिखित में से शुद्ध वाक्य चुनिए।",
+      "options": [
+        "मैं पुस्तक पढ़ता है",
+        "उसने रोटी खाया",
+        "वह कल आएगा था",
+        "लड़कियाँ खेल रही हैं"
+      ],
+      "correctIndex": 3,
+      "explanation": "'लड़कियाँ खेल रही हैं' में कर्ता और क्रिया के लिंग-वचन सही हैं। अन्य वाक्यों में क्रिया का रूप गलत है, जैसे 'मैं ... पढ़ता हूँ', 'उसने रोटी खाई', 'वह कल आएगा'।"
+    },
+    {
+      "id": "t05-hindi-05",
+      "part": "C",
+      "section": "hindi",
+      "topic": "विलोम शब्द",
+      "question": "'सुलभ' का विलोम शब्द क्या है?",
+      "options": [
+        "दुर्लभ",
+        "सुगम",
+        "सरल",
+        "सहज"
+      ],
+      "correctIndex": 0,
+      "explanation": "'सुलभ' का विलोम 'दुर्लभ' है। अन्य विकल्प समानार्थी हैं।"
+    },
+    {
+      "id": "t05-english-01",
+      "part": "C",
+      "section": "english",
+      "topic": "Articles",
+      "question": "He is ___ honest man.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Honest' begins with a vowel sound (the 'h' is silent), so 'an' is used. 'A' is used before a consonant sound."
+    },
+    {
+      "id": "t05-english-02",
+      "part": "C",
+      "section": "english",
+      "topic": "One-word substitution",
+      "question": "One who is fluent in two languages is called ___.",
+      "options": [
+        "a linguist",
+        "a polyglot",
+        "an orator",
+        "bilingual"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Bilingual' means able to speak two languages. A linguist studies languages, a polyglot knows many languages and an orator is a skilled public speaker."
+    },
+    {
+      "id": "t05-english-03",
+      "part": "C",
+      "section": "english",
+      "topic": "Active and passive voice",
+      "question": "Choose the passive form of 'They are painting the wall.'",
+      "options": [
+        "The wall is being painted by them.",
+        "The wall was being painted by them.",
+        "The wall has been painted by them.",
+        "The wall is painted by them."
+      ],
+      "correctIndex": 0,
+      "explanation": "Present Continuous passive is 'is/are being + past participle'. The other options change the tense or aspect."
+    },
+    {
+      "id": "t05-english-04",
+      "part": "C",
+      "section": "english",
+      "topic": "Proverbs",
+      "question": "Complete the proverb: 'A stitch in time saves ___.'",
+      "options": [
+        "two",
+        "five",
+        "nine",
+        "ten"
+      ],
+      "correctIndex": 2,
+      "explanation": "The proverb is 'A stitch in time saves nine', meaning prompt action prevents bigger trouble later."
+    },
+    {
+      "id": "t05-english-05",
+      "part": "C",
+      "section": "english",
+      "topic": "Prepositions",
+      "question": "He has been absent ___ Monday.",
+      "options": [
+        "for",
+        "since",
+        "from",
+        "by"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Since' is used with a point of time (Monday) in the perfect tense. 'For' is used with a period of time."
+    },
+    {
+      "id": "t05-mental-01",
+      "part": "C",
+      "section": "mental",
+      "topic": "Number series",
+      "question": "Find the next number in the series: 3, 6, 11, 18, 27, ?",
+      "questionHi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 3, 6, 11, 18, 27, ?",
+      "options": [
+        "36",
+        "40",
+        "38",
+        "45"
+      ],
+      "optionsHi": [
+        "36",
+        "40",
+        "38",
+        "45"
+      ],
+      "correctIndex": 2,
+      "explanation": "Differences are 3, 5, 7, 9, so the next difference is 11 and 27 + 11 = 38.",
+      "explanationHi": "अंतर 3, 5, 7, 9 हैं, अगला अंतर 11 होगा, इसलिए 27 + 11 = 38।"
+    },
+    {
+      "id": "t05-mental-02",
+      "part": "C",
+      "section": "mental",
+      "topic": "Coding-decoding",
+      "question": "If TABLE is written as UBCMF in a code, how will CHAIR be written?",
+      "questionHi": "यदि किसी कूट में TABLE को UBCMF लिखा जाता है, तो CHAIR को कैसे लिखा जाएगा?",
+      "options": [
+        "DIBJS",
+        "DIBJT",
+        "DHBJS",
+        "CIBJS"
+      ],
+      "optionsHi": [
+        "DIBJS",
+        "DIBJT",
+        "DHBJS",
+        "CIBJS"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each letter is moved one step forward: T to U, A to B, B to C, L to M, E to F. So C to D, H to I, A to B, I to J, R to S gives DIBJS.",
+      "explanationHi": "प्रत्येक अक्षर एक स्थान आगे बढ़ाया गया है: T से U, A से B, B से C, L से M, E से F। अतः C से D, H से I, A से B, I से J, R से S, यानी DIBJS।"
+    },
+    {
+      "id": "t05-mental-03",
+      "part": "C",
+      "section": "mental",
+      "topic": "Blood relations",
+      "question": "P is the brother of Q. Q is the sister of R. S is the father of P. How is R related to S?",
+      "questionHi": "P, Q का भाई है। Q, R की बहन है। S, P का पिता है। R का S से क्या संबंध है?",
+      "options": [
+        "Son",
+        "Daughter",
+        "Nephew",
+        "Child"
+      ],
+      "optionsHi": [
+        "पुत्र",
+        "पुत्री",
+        "भतीजा",
+        "संतान"
+      ],
+      "correctIndex": 3,
+      "explanation": "P, Q and R are siblings, so R is S's child; the gender of R is not given.",
+      "explanationHi": "P, Q और R भाई-बहन हैं, इसलिए R, S की संतान है; R का लिंग नहीं दिया गया है।"
+    },
+    {
+      "id": "t05-mental-04",
+      "part": "C",
+      "section": "mental",
+      "topic": "Calendar",
+      "question": "If the day before yesterday was Thursday, what day will it be tomorrow?",
+      "questionHi": "यदि बीता परसों गुरुवार था, तो आने वाला कल कौन-सा दिन होगा?",
+      "options": [
+        "Saturday",
+        "Sunday",
+        "Monday",
+        "Friday"
+      ],
+      "optionsHi": [
+        "शनिवार",
+        "रविवार",
+        "सोमवार",
+        "शुक्रवार"
+      ],
+      "correctIndex": 1,
+      "explanation": "Day before yesterday = Thursday, so today = Saturday and tomorrow = Sunday.",
+      "explanationHi": "बीता परसों गुरुवार था, तो आज शनिवार है और आने वाला कल रविवार होगा।"
+    },
+    {
+      "id": "t05-mental-05",
+      "part": "C",
+      "section": "mental",
+      "topic": "Ranking",
+      "question": "In a row of 40 students, Anil is 15th from the left. What is his position from the right?",
+      "questionHi": "40 विद्यार्थियों की एक पंक्ति में अनिल बाएँ से 15वें स्थान पर है। दाएँ से उसका स्थान क्या है?",
+      "options": [
+        "24th",
+        "25th",
+        "26th",
+        "27th"
+      ],
+      "optionsHi": [
+        "24वाँ",
+        "25वाँ",
+        "26वाँ",
+        "27वाँ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Position from right = total - position from left + 1 = 40 - 15 + 1 = 26.",
+      "explanationHi": "दाएँ से स्थान = कुल - बाएँ से स्थान + 1 = 40 - 15 + 1 = 26।"
+    },
+    {
+      "id": "t05-computer-01",
+      "part": "C",
+      "section": "computer",
+      "topic": "Fundamentals",
+      "question": "1 byte is equal to how many bits?",
+      "questionHi": "1 बाइट कितने बिट के बराबर होता है?",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "2"
+      ],
+      "optionsHi": [
+        "4",
+        "8",
+        "16",
+        "2"
+      ],
+      "correctIndex": 1,
+      "explanation": "1 byte = 8 bits.",
+      "explanationHi": "1 बाइट = 8 बिट।"
+    },
+    {
+      "id": "t05-computer-02",
+      "part": "C",
+      "section": "computer",
+      "topic": "Memory units",
+      "question": "How many bits are there in one byte?",
+      "questionHi": "एक बाइट (byte) में कितने बिट (bit) होते हैं?",
+      "options": [
+        "4",
+        "16",
+        "10",
+        "8"
+      ],
+      "optionsHi": [
+        "4",
+        "16",
+        "10",
+        "8"
+      ],
+      "correctIndex": 3,
+      "explanation": "One byte is made of 8 bits.",
+      "explanationHi": "एक byte 8 bits से बनता है।"
+    },
+    {
+      "id": "t05-computer-03",
+      "part": "C",
+      "section": "computer",
+      "topic": "Internet",
+      "question": "Which protocol provides secure (encrypted) web browsing?",
+      "questionHi": "कौन-सा प्रोटोकॉल सुरक्षित (एन्क्रिप्टेड) वेब ब्राउज़िंग प्रदान करता है?",
+      "options": [
+        "HTTPS",
+        "FTP",
+        "SMTP",
+        "POP"
+      ],
+      "optionsHi": [
+        "HTTPS",
+        "FTP",
+        "SMTP",
+        "POP"
+      ],
+      "correctIndex": 0,
+      "explanation": "HTTPS uses SSL/TLS encryption. FTP transfers files, SMTP sends mail and POP receives mail.",
+      "explanationHi": "HTTPS में SSL/TLS एन्क्रिप्शन होता है। FTP फ़ाइल भेजता है, SMTP मेल भेजता है और POP मेल प्राप्त करता है।"
+    },
+    {
+      "id": "t05-computer-04",
+      "part": "C",
+      "section": "computer",
+      "topic": "MS PowerPoint",
+      "question": "In MS PowerPoint, a ready-made design that sets colours, fonts and layout of slides is called a ___.",
+      "questionHi": "MS PowerPoint में स्लाइडों के रंग, फ़ॉन्ट और लेआउट तय करने वाला तैयार डिज़ाइन ___ कहलाता है।",
+      "options": [
+        "macro",
+        "table",
+        "theme",
+        "hyperlink"
+      ],
+      "optionsHi": [
+        "मैक्रो",
+        "टेबल",
+        "थीम",
+        "हाइपरलिंक"
+      ],
+      "correctIndex": 2,
+      "explanation": "A theme applies a coordinated set of colours, fonts and effects to all slides.",
+      "explanationHi": "थीम सभी स्लाइडों पर रंग, फ़ॉन्ट और प्रभावों का एक समन्वित सेट लागू करती है।"
+    },
+    {
+      "id": "t05-computer-05",
+      "part": "C",
+      "section": "computer",
+      "topic": "MS Excel",
+      "question": "Every formula in MS Excel begins with which sign?",
+      "questionHi": "MS Excel में प्रत्येक सूत्र (formula) किस चिह्न से शुरू होता है?",
+      "options": [
+        "#",
+        "@",
+        "$",
+        "="
+      ],
+      "optionsHi": [
+        "#",
+        "@",
+        "$",
+        "="
+      ],
+      "correctIndex": 3,
+      "explanation": "A formula in Excel must start with the equal sign (=). The other symbols have different uses, for example $ is for absolute references.",
+      "explanationHi": "Excel में सूत्र बराबर (=) चिह्न से शुरू होना चाहिए। अन्य चिह्नों के अलग उपयोग हैं, जैसे $ निरपेक्ष संदर्भ के लिए।"
+    },
+    {
+      "id": "t05-gk-01",
+      "part": "C",
+      "section": "gk",
+      "topic": "Indian Constitution",
+      "question": "Which Article of the Indian Constitution abolishes untouchability?",
+      "questionHi": "भारतीय संविधान का कौन-सा अनुच्छेद अस्पृश्यता का अंत करता है?",
+      "options": [
+        "Article 14",
+        "Article 15",
+        "Article 16",
+        "Article 17"
+      ],
+      "optionsHi": [
+        "अनुच्छेद 14",
+        "अनुच्छेद 15",
+        "अनुच्छेद 16",
+        "अनुच्छेद 17"
+      ],
+      "correctIndex": 3,
+      "explanation": "Article 17 abolishes untouchability. Article 14 is equality before law, Article 15 prohibits discrimination and Article 16 gives equality of opportunity in public employment.",
+      "explanationHi": "अनुच्छेद 17 अस्पृश्यता का अंत करता है। अनुच्छेद 14 विधि के समक्ष समता, 15 भेदभाव निषेध और 16 सार्वजनिक नियोजन में अवसर की समानता से संबंधित है।"
+    },
+    {
+      "id": "t05-gk-02",
+      "part": "C",
+      "section": "gk",
+      "topic": "Indian history",
+      "question": "The Cabinet Mission came to India in the year ___.",
+      "questionHi": "कैबिनेट मिशन भारत ___ में आया था।",
+      "options": [
+        "1946",
+        "1942",
+        "1935",
+        "1930"
+      ],
+      "optionsHi": [
+        "1946",
+        "1942",
+        "1935",
+        "1930"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Cabinet Mission arrived in March 1946 to discuss transfer of power.",
+      "explanationHi": "कैबिनेट मिशन सत्ता हस्तांतरण पर चर्चा के लिए मार्च 1946 में भारत आया।"
+    },
+    {
+      "id": "t05-gk-03",
+      "part": "C",
+      "section": "gk",
+      "topic": "Basic Science",
+      "question": "What is the chemical formula of common salt?",
+      "questionHi": "सामान्य नमक का रासायनिक सूत्र क्या है?",
+      "options": [
+        "KCl",
+        "NaCl",
+        "CaCl2",
+        "Na2CO3"
+      ],
+      "optionsHi": [
+        "KCl",
+        "NaCl",
+        "CaCl2",
+        "Na2CO3"
+      ],
+      "correctIndex": 1,
+      "explanation": "Common salt is sodium chloride, NaCl. KCl is potassium chloride, CaCl2 is calcium chloride and Na2CO3 is washing soda.",
+      "explanationHi": "सामान्य नमक सोडियम क्लोराइड, NaCl है। KCl पोटैशियम क्लोराइड, CaCl2 कैल्शियम क्लोराइड और Na2CO3 धावन सोडा है।"
+    },
+    {
+      "id": "t05-gk-04",
+      "part": "C",
+      "section": "gk",
+      "topic": "Chhattisgarh GK",
+      "question": "The Pandavani folk performance of Chhattisgarh narrates the story of ___.",
+      "questionHi": "छत्तीसगढ़ की लोक-प्रस्तुति पंडवानी ___ की कथा सुनाती है।",
+      "options": [
+        "the Ramayana",
+        "Krishna Leela",
+        "the Mahabharata",
+        "Dhola-Maru"
+      ],
+      "optionsHi": [
+        "रामायण",
+        "कृष्ण लीला",
+        "महाभारत",
+        "ढोला-मारू"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pandavani narrates the story of the Pandavas from the Mahabharata; Teejan Bai is its best-known performer. It is not based on the Ramayana, Krishna Leela or Dhola-Maru.",
+      "explanationHi": "पंडवानी में महाभारत के पांडवों की कथा गाई जाती है; तीजन बाई इसकी प्रसिद्ध कलाकार हैं। यह रामायण, कृष्ण लीला या ढोला-मारू पर आधारित नहीं है।"
+    },
+    {
+      "id": "t05-gk-05",
+      "part": "C",
+      "section": "gk",
+      "topic": "Basic science",
+      "question": "Which is the hardest natural substance?",
+      "questionHi": "सबसे कठोर प्राकृतिक पदार्थ कौन-सा है?",
+      "options": [
+        "Quartz",
+        "Graphite",
+        "Iron",
+        "Diamond"
+      ],
+      "optionsHi": [
+        "क्वार्ट्ज़",
+        "ग्रेफ़ाइट",
+        "लोहा",
+        "हीरा"
+      ],
+      "correctIndex": 3,
+      "explanation": "Diamond, a form of carbon, is the hardest natural substance.",
+      "explanationHi": "हीरा (कार्बन का रूप) सबसे कठोर प्राकृतिक पदार्थ है।"
+    }
+  ]
+}

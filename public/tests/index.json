@@ -1,0 +1,84 @@
+{
+  "tests": [
+    {
+      "id": "test-01",
+      "number": 1,
+      "title": "Test Series 1",
+      "totalQuestions": 100,
+      "totalMarks": 100,
+      "durationMinutes": 120
+    },
+    {
+      "id": "test-02",
+      "number": 2,
+      "title": "Test Series 2",
+      "totalQuestions": 100,
+      "totalMarks": 100,
+      "durationMinutes": 120
+    },
+    {
+      "id": "test-03",
+      "number": 3,
+      "title": "Test Series 3",
+      "totalQuestions": 100,
+      "totalMarks": 100,
+      "durationMinutes": 120
+    },
+    {
+      "id": "test-04",
+      "number": 4,
+      "title": "Test Series 4",
+      "totalQuestions": 100,
+      "totalMarks": 100,
+      "durationMinutes": 120
+    },
+    {
+      "id": "test-05",
+      "number": 5,
+      "title": "Test Series 5",
+      "totalQuestions": 100,
+      "totalMarks": 100,
+      "durationMinutes": 120
+    },
+    {
+      "id": "test-06",
+      "number": 6,
+      "title": "Test Series 6",
+      "totalQuestions": 100,
+      "totalMarks": 100,
+      "durationMinutes": 120
+    },
+    {
+      "id": "test-07",
+      "number": 7,
+      "title": "Test Series 7",
+      "totalQuestions": 100,
+      "totalMarks": 100,
+      "durationMinutes": 120
+    },
+    {
+      "id": "test-08",
+      "number": 8,
+      "title": "Test Series 8",
+      "totalQuestions": 100,
+      "totalMarks": 100,
+      "durationMinutes": 120
+    },
+    {
+      "id": "test-09",
+      "number": 9,
+      "title": "Test Series 9",
+      "totalQuestions": 100,
+      "totalMarks": 100,
+      "durationMinutes": 120
+    },
+    {
+      "id": "test-10",
+      "number": 10,
+      "title": "Test Series 10",
+      "totalQuestions": 100,
+      "totalMarks": 100,
+      "durationMinutes": 120
+    }
+  ]
+}

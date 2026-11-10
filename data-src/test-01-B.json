@@ -1,0 +1,194 @@
+{
+  "questions": [
+    {
+      "id": "t01-psych-01", "part": "B", "section": "psych", "topic": "Piaget's cognitive development",
+      "question": "A child who understands conservation of quantity, but only with concrete objects, is in which Piagetian stage?",
+      "questionHi": "जो बच्चा मात्रा के संरक्षण को समझता है, परंतु केवल ठोस वस्तुओं के साथ, वह पियाजे की किस अवस्था में है?",
+      "options": ["Sensorimotor", "Preoperational", "Concrete operational", "Formal operational"],
+      "optionsHi": ["संवेदी-गामक", "पूर्व-संक्रियात्मक", "मूर्त संक्रियात्मक", "औपचारिक संक्रियात्मक"],
+      "correctIndex": 2,
+      "explanation": "Conservation develops in the concrete operational stage (about 7 to 11 years), when logical thinking is applied to concrete objects. Preoperational children lack conservation, and formal operational thinkers handle abstract ideas.",
+      "explanationHi": "संरक्षण की समझ मूर्त संक्रियात्मक अवस्था (लगभग 7 से 11 वर्ष) में विकसित होती है, जब तार्किक चिंतन ठोस वस्तुओं पर लागू होता है। पूर्व-संक्रियात्मक अवस्था में संरक्षण नहीं होता और औपचारिक अवस्था में अमूर्त विचार संभव होते हैं।"
+    },
+    {
+      "id": "t01-psych-02", "part": "B", "section": "psych", "topic": "Erikson's psychosocial stages",
+      "question": "According to Erikson, the main crisis of adolescence is:",
+      "questionHi": "एरिक्सन के अनुसार किशोरावस्था का मुख्य संकट है:",
+      "options": ["Identity versus role confusion", "Trust versus mistrust", "Industry versus inferiority", "Integrity versus despair"],
+      "optionsHi": ["पहचान बनाम भूमिका भ्रम", "विश्वास बनाम अविश्वास", "उद्यमिता बनाम हीनता", "अखंडता बनाम निराशा"],
+      "correctIndex": 0,
+      "explanation": "Adolescents ask 'Who am I?', so the crisis is identity versus role confusion. Trust vs mistrust belongs to infancy, industry vs inferiority to school age and integrity vs despair to old age.",
+      "explanationHi": "किशोर पूछता है 'मैं कौन हूँ?', इसलिए संकट पहचान बनाम भूमिका भ्रम है। विश्वास बनाम अविश्वास शैशवावस्था का, उद्यमिता बनाम हीनता विद्यालय-आयु का और अखंडता बनाम निराशा वृद्धावस्था का संकट है।"
+    },
+    {
+      "id": "t01-psych-03", "part": "B", "section": "psych", "topic": "Kohlberg's moral development",
+      "question": "In Kohlberg's theory, the 'law and order orientation' belongs to which level of moral development?",
+      "questionHi": "कोहलबर्ग के सिद्धांत में 'कानून और व्यवस्था अभिविन्यास' नैतिक विकास के किस स्तर का भाग है?",
+      "options": ["Pre-conventional", "Post-conventional", "Pre-moral", "Conventional"],
+      "optionsHi": ["पूर्व-रूढ़िगत", "उत्तर-रूढ़िगत", "पूर्व-नैतिक", "रूढ़िगत"],
+      "correctIndex": 3,
+      "explanation": "The law and order orientation (Stage 4) lies in the conventional level, where a person obeys rules to maintain social order. Pre-conventional is based on punishment and reward, post-conventional on universal principles.",
+      "explanationHi": "कानून और व्यवस्था अभिविन्यास (चरण 4) रूढ़िगत स्तर में आता है, जहाँ व्यक्ति सामाजिक व्यवस्था बनाए रखने के लिए नियम मानता है। पूर्व-रूढ़िगत स्तर दंड-पुरस्कार पर और उत्तर-रूढ़िगत स्तर सार्वभौमिक सिद्धांतों पर आधारित है।"
+    },
+    {
+      "id": "t01-psych-04", "part": "B", "section": "psych", "topic": "Learning theories (Bandura)",
+      "question": "Bandura's famous 'Bobo doll' experiment demonstrated:",
+      "questionHi": "बंडूरा के प्रसिद्ध 'बोबो डॉल' प्रयोग ने क्या प्रदर्शित किया?",
+      "options": ["Classical conditioning", "Observational (social) learning", "Trial-and-error learning", "Insight learning"],
+      "optionsHi": ["शास्त्रीय अनुबंधन", "अवलोकनात्मक (सामाजिक) अधिगम", "प्रयास-त्रुटि अधिगम", "अंतर्दृष्टि अधिगम"],
+      "correctIndex": 1,
+      "explanation": "Children imitated the aggressive behaviour of an adult model, showing learning by observation. Classical conditioning is Pavlov's, trial and error is Thorndike's, and insight learning is Gestalt (Kohler).",
+      "explanationHi": "बच्चों ने वयस्क आदर्श के आक्रामक व्यवहार की नकल की, जो अवलोकन द्वारा सीखना दर्शाता है। शास्त्रीय अनुबंधन पावलोव का, प्रयास-त्रुटि थॉर्नडाइक का और अंतर्दृष्टि अधिगम गेस्टाल्ट (कोहलर) का है।"
+    },
+    {
+      "id": "t01-psych-05", "part": "B", "section": "psych", "topic": "Intelligence (Sternberg)",
+      "question": "Who proposed the Triarchic theory of intelligence?",
+      "questionHi": "बुद्धि के त्रिचापीय (Triarchic) सिद्धांत का प्रतिपादन किसने किया?",
+      "options": ["Spearman", "Gardner", "Sternberg", "Binet"],
+      "optionsHi": ["स्पीयरमैन", "गार्डनर", "स्टर्नबर्ग", "बिने"],
+      "correctIndex": 2,
+      "explanation": "Robert Sternberg proposed the Triarchic theory (analytical, creative and practical intelligence). Spearman gave the two-factor theory, Gardner multiple intelligences, and Binet the first intelligence test.",
+      "explanationHi": "रॉबर्ट स्टर्नबर्ग ने त्रिचापीय सिद्धांत (विश्लेषणात्मक, सृजनात्मक और व्यावहारिक बुद्धि) दिया। स्पीयरमैन ने द्विकारक सिद्धांत, गार्डनर ने बहुबुद्धि सिद्धांत और बिने ने पहला बुद्धि परीक्षण दिया।"
+    },
+    {
+      "id": "t01-psych-06", "part": "B", "section": "psych", "topic": "Motivation (Maslow)",
+      "question": "In Maslow's hierarchy of needs, the highest need is:",
+      "questionHi": "मैस्लो की आवश्यकता पदानुक्रम में सबसे ऊँची आवश्यकता है:",
+      "options": ["Self-actualisation", "Esteem", "Safety", "Belongingness"],
+      "optionsHi": ["आत्म-सिद्धि", "सम्मान", "सुरक्षा", "अपनत्व/संबद्धता"],
+      "correctIndex": 0,
+      "explanation": "Self-actualisation (realising one's full potential) is at the top. Safety and belongingness are lower-level needs, and esteem comes just below self-actualisation.",
+      "explanationHi": "आत्म-सिद्धि (अपनी पूरी क्षमता को पहचानना) सबसे ऊपर है। सुरक्षा और अपनत्व निचले स्तर की आवश्यकताएँ हैं और सम्मान की आवश्यकता आत्म-सिद्धि के ठीक नीचे आती है।"
+    },
+    {
+      "id": "t01-assess-01", "part": "B", "section": "assess", "topic": "Formative and summative assessment",
+      "question": "Which of the following is an example of formative assessment?",
+      "questionHi": "निम्नलिखित में से कौन-सा रचनात्मक (formative) आकलन का उदाहरण है?",
+      "options": [
+        "Annual board examination",
+        "A class quiz followed by immediate feedback",
+        "Final semester result",
+        "Entrance examination"
+      ],
+      "optionsHi": [
+        "वार्षिक बोर्ड परीक्षा",
+        "कक्षा क्विज़, जिसके बाद तुरंत फीडबैक दिया जाए",
+        "अंतिम सेमेस्टर परिणाम",
+        "प्रवेश परीक्षा"
+      ],
+      "correctIndex": 1,
+      "explanation": "Formative assessment takes place during learning and gives feedback to improve it. Board exams, final results and entrance tests are summative or selective in nature.",
+      "explanationHi": "रचनात्मक आकलन सीखने की प्रक्रिया के दौरान होता है और सुधार के लिए फीडबैक देता है। बोर्ड परीक्षा, अंतिम परिणाम और प्रवेश परीक्षा योगात्मक या चयन प्रकृति के हैं।"
+    },
+    {
+      "id": "t01-assess-02", "part": "B", "section": "assess", "topic": "Characteristics of a good test",
+      "question": "If a test gives consistent results when administered repeatedly under similar conditions, it is said to be:",
+      "questionHi": "यदि कोई परीक्षण समान परिस्थितियों में बार-बार लेने पर समान परिणाम देता है, तो उसे कहा जाता है:",
+      "options": ["Valid", "Objective", "Usable", "Reliable"],
+      "optionsHi": ["वैध", "वस्तुनिष्ठ", "उपयोगी/व्यावहारिक", "विश्वसनीय"],
+      "correctIndex": 3,
+      "explanation": "Consistency of results is reliability. Validity means the test measures what it is meant to measure, objectivity means freedom from scorer bias, and usability means practicality.",
+      "explanationHi": "परिणामों की स्थिरता विश्वसनीयता है। वैधता का अर्थ है कि परीक्षण वही मापे जो मापना चाहिए, वस्तुनिष्ठता का अर्थ है जाँचकर्ता के पक्षपात से मुक्ति और उपयोगिता का अर्थ है व्यावहारिकता।"
+    },
+    {
+      "id": "t01-assess-03", "part": "B", "section": "assess", "topic": "Norm-referenced and criterion-referenced tests",
+      "question": "A test in which a student's score is interpreted by comparing it with the scores of other students is:",
+      "questionHi": "वह परीक्षण जिसमें विद्यार्थी के अंकों की व्याख्या अन्य विद्यार्थियों के अंकों से तुलना करके की जाती है:",
+      "options": ["norm-referenced", "criterion-referenced", "diagnostic", "formative"],
+      "optionsHi": ["मानक-संदर्भित", "मानदंड-संदर्भित", "निदानात्मक", "रचनात्मक"],
+      "correctIndex": 0,
+      "explanation": "Norm-referenced tests rank a learner against a peer group. Criterion-referenced tests compare performance with a fixed standard, and diagnostic tests find specific weaknesses.",
+      "explanationHi": "मानक-संदर्भित परीक्षण विद्यार्थी को समूह के अन्य विद्यार्थियों के सापेक्ष रखता है। मानदंड-संदर्भित परीक्षण निश्चित मानक से तुलना करता है और निदानात्मक परीक्षण विशिष्ट कमज़ोरियाँ खोजता है।"
+    },
+    {
+      "id": "t01-assess-04", "part": "B", "section": "assess", "topic": "Rubrics",
+      "question": "A scoring guide that lists criteria and describes different levels of performance for each criterion is called a:",
+      "questionHi": "वह अंकन-निर्देशिका जिसमें मानदंड और प्रत्येक मानदंड के लिए प्रदर्शन के विभिन्न स्तरों का वर्णन होता है, कहलाती है:",
+      "options": ["Checklist", "Anecdotal record", "Rubric", "Portfolio"],
+      "optionsHi": ["जाँच-सूची", "किस्सा-वृत्त/घटना-अभिलेख", "रूब्रिक", "पोर्टफोलियो"],
+      "correctIndex": 2,
+      "explanation": "A rubric gives criteria with performance levels. A checklist only records presence or absence of a skill, an anecdotal record is a note on an incident, and a portfolio is a collection of student work.",
+      "explanationHi": "रूब्रिक में मानदंडों के साथ प्रदर्शन-स्तर दिए जाते हैं। जाँच-सूची केवल किसी कौशल की उपस्थिति/अनुपस्थिति दर्शाती है, घटना-अभिलेख किसी घटना का नोट है और पोर्टफोलियो विद्यार्थी के कार्य का संग्रह है।"
+    },
+    {
+      "id": "t01-pedag-01", "part": "B", "section": "pedag", "topic": "NCF 2005",
+      "question": "Which of the following is an aim emphasised by NCF 2005?",
+      "questionHi": "निम्नलिखित में से कौन-सा लक्ष्य NCF 2005 में विशेष रूप से बताया गया है?",
+      "options": [
+        "Rote memorisation of facts",
+        "Heavy dependence on a single textbook",
+        "Strictly examination-centred teaching",
+        "Connecting knowledge to life outside the school"
+      ],
+      "optionsHi": [
+        "तथ्यों को रटना",
+        "एक ही पाठ्यपुस्तक पर अत्यधिक निर्भरता",
+        "पूरी तरह परीक्षा-केंद्रित शिक्षण",
+        "ज्ञान को विद्यालय के बाहर के जीवन से जोड़ना"
+      ],
+      "correctIndex": 3,
+      "explanation": "NCF 2005 stresses linking learning with life outside school, reducing rote learning and making learners active constructors of knowledge. The other options are what it opposes.",
+      "explanationHi": "NCF 2005 सीखने को विद्यालय के बाहर के जीवन से जोड़ने, रटंत प्रणाली को कम करने और विद्यार्थियों को ज्ञान का सक्रिय निर्माता बनाने पर बल देता है। अन्य विकल्प वे बातें हैं जिनका वह विरोध करता है।"
+    },
+    {
+      "id": "t01-pedag-02", "part": "B", "section": "pedag", "topic": "Lesson planning",
+      "question": "A lesson plan is best described as:",
+      "questionHi": "पाठ योजना का सर्वोत्तम वर्णन है:",
+      "options": [
+        "a record of student attendance",
+        "a teacher's advance blueprint of objectives, activities and assessment for a lesson",
+        "a list of questions for the final exam",
+        "a report sent to parents"
+      ],
+      "optionsHi": [
+        "विद्यार्थियों की उपस्थिति का अभिलेख",
+        "किसी पाठ के उद्देश्यों, गतिविधियों और आकलन की शिक्षक द्वारा पहले से बनाई गई रूपरेखा",
+        "अंतिम परीक्षा के प्रश्नों की सूची",
+        "अभिभावकों को भेजी जाने वाली रिपोर्ट"
+      ],
+      "correctIndex": 1,
+      "explanation": "A lesson plan is the teacher's prior plan of what to teach, how to teach and how to assess. Attendance records, exam question lists and parent reports serve other purposes.",
+      "explanationHi": "पाठ योजना शिक्षक की पूर्व योजना है कि क्या पढ़ाना है, कैसे पढ़ाना है और कैसे आकलन करना है। उपस्थिति अभिलेख, परीक्षा-प्रश्न सूची और अभिभावक रिपोर्ट के उद्देश्य अलग हैं।"
+    },
+    {
+      "id": "t01-pedag-03", "part": "B", "section": "pedag", "topic": "Teaching methods",
+      "question": "Which of the following is a learner-centred teaching method?",
+      "questionHi": "निम्नलिखित में से कौन-सी शिक्षार्थी-केंद्रित शिक्षण विधि है?",
+      "options": ["Project method", "Lecture method", "Dictation method", "Rote method"],
+      "optionsHi": ["प्रोजेक्ट विधि", "व्याख्यान विधि", "श्रुतलेख विधि", "रटंत विधि"],
+      "correctIndex": 0,
+      "explanation": "In the project method, learners plan and carry out an activity themselves. Lecture, dictation and rote methods are teacher-centred.",
+      "explanationHi": "प्रोजेक्ट विधि में शिक्षार्थी स्वयं किसी गतिविधि की योजना बनाकर उसे पूरा करते हैं। व्याख्यान, श्रुतलेख और रटंत विधियाँ शिक्षक-केंद्रित हैं।"
+    },
+    {
+      "id": "t01-attitude-01", "part": "B", "section": "attitude", "topic": "Constructivism",
+      "question": "In a constructivist classroom, the teacher mainly acts as a:",
+      "questionHi": "रचनावादी कक्षा में शिक्षक मुख्यतः किस रूप में कार्य करता है?",
+      "options": ["sole authority", "strict dictator", "facilitator", "mere examiner"],
+      "optionsHi": ["एकमात्र अधिकारी", "कठोर तानाशाह", "सुगमकर्ता", "केवल परीक्षक"],
+      "correctIndex": 2,
+      "explanation": "Constructivism sees learners as active builders of knowledge, so the teacher guides and facilitates. An authority, dictator or mere examiner would make learning passive.",
+      "explanationHi": "रचनावाद में शिक्षार्थी ज्ञान के सक्रिय निर्माता माने जाते हैं, इसलिए शिक्षक मार्गदर्शन और सुगमन करता है। अधिकारी, तानाशाह या केवल परीक्षक की भूमिका अधिगम को निष्क्रिय बना देती है।"
+    },
+    {
+      "id": "t01-attitude-02", "part": "B", "section": "attitude", "topic": "Gender perspective in education",
+      "question": "Which practice best promotes gender equality in the classroom?",
+      "questionHi": "कक्षा में लैंगिक समानता को कौन-सी प्रथा सबसे अच्छी तरह बढ़ावा देती है?",
+      "options": [
+        "Assigning cooking tasks only to girls in school events",
+        "Giving boys and girls equal opportunities in all activities",
+        "Seating boys and girls in different rooms always",
+        "Expecting boys to perform better in science"
+      ],
+      "optionsHi": [
+        "विद्यालय के आयोजनों में केवल लड़कियों को भोजन बनाने का कार्य देना",
+        "सभी गतिविधियों में लड़कों और लड़कियों को समान अवसर देना",
+        "लड़कों और लड़कियों को हमेशा अलग कमरों में बैठाना",
+        "लड़कों से विज्ञान में बेहतर प्रदर्शन की अपेक्षा करना"
+      ],
+      "correctIndex": 1,
+      "explanation": "Equal opportunities remove stereotypes. The other options reinforce gender bias.",
+      "explanationHi": "समान अवसर रूढ़ियों को दूर करते हैं। अन्य विकल्प लैंगिक पूर्वाग्रह को बढ़ाते हैं।"
+    }
+  ]
+}

@@ -1,0 +1,1059 @@
+{
+ "passages": [
+  {
+   "id": "t07-p1",
+   "genre": "Poetry extract",
+   "title": "The Lamp Seller",
+   "text": "At dusk the old man lights his lamps,\nOne hundred small and trembling flames,\nAnd sets them on the market stone\nBeside the sellers' shouting names.\nThe buyers hurry through the cold;\nThey count their coins and do not look.\nBut he, with patient, wrinkled hands,\nReads light as other men read a book.\nSome say he is a foolish man\nWho loses oil and gains no pay;\nYet those who pass his small bright flame\nRemember it for many a day.\nWhen night grows deep and stalls are closed,\nHe walks away, his work half done,\nAnd leaves one burning on the stone\nFor strangers walking home alone."
+  },
+  {
+   "id": "t07-p2",
+   "genre": "Newspaper editorial",
+   "title": "Libraries Must Not Fall Silent",
+   "text": "Across many small towns, public libraries are being closed or reduced to a single dusty room with a part-time clerk. Officials justify this by saying that everything is now available on the internet. This argument is both lazy and misleading. A phone can give a child an answer; a library gives her a habit. The quiet table, the librarian's recommendation and the chance discovery of a book one never intended to read cannot be downloaded. Moreover, millions of families still lack reliable connectivity or devices, and for them the library is the only door to knowledge. Rather than shutting these institutions, authorities should extend their hours, stock them with books in local languages and link them with schools. The cost of such a step is modest; the cost of neglect, measured in lost curiosity, will be paid for decades. A town without a library is not saving money. It is merely postponing a larger bill."
+  },
+  {
+   "id": "t07-p3",
+   "genre": "Scientific passage",
+   "title": "How Bats Find Their Way in the Dark",
+   "text": "Bats are not blind, but many of them hunt in complete darkness by using echolocation. A bat sends out high-pitched sounds, usually too high for human ears to hear, through its mouth or nose. These sound waves travel outward until they strike an object, such as a flying moth, and bounce back as echoes. The bat's large ears catch the echoes, and its brain compares them with the original call. The time taken by the echo to return tells the bat how far the object is, while changes in the pitch reveal whether the object is moving towards or away from it. Some bats can detect a wire thinner than a human hair. As the bat comes closer to its prey, it increases the number of calls per second, producing a rapid buzz that gives more precise information for the final capture. Scientists study this system closely because similar principles are used in sonar and in devices that help visually impaired people."
+  }
+ ],
+ "questions": [
+  {
+   "id": "t07-gram-01",
+   "part": "A",
+   "section": "gram",
+   "topic": "Identifying clauses",
+   "question": "In the sentence \"I know that she is honest\", the clause \"that she is honest\" is a ___ clause.",
+   "options": [
+    "Adverb",
+    "Noun",
+    "Relative",
+    "Principal"
+   ],
+   "correctIndex": 1,
+   "explanation": "\"That she is honest\" is the object of the verb \"know\", so it works like a noun: it is a noun clause. It does not modify a verb (adverb clause), does not follow a noun to describe it (relative clause), and cannot stand alone as the main clause."
+  },
+  {
+   "id": "t07-gram-02",
+   "part": "A",
+   "section": "gram",
+   "topic": "Identifying clauses",
+   "question": "Which sentence uses a non-defining relative clause with correct punctuation?",
+   "options": [
+    "My brother who lives in Delhi, is a doctor.",
+    "My brother, who lives in Delhi is a doctor.",
+    "My brother, who lives in Delhi, is a doctor.",
+    "My brother who lives in Delhi is, a doctor."
+   ],
+   "correctIndex": 2,
+   "explanation": "A non-defining clause adds extra information and is set off by a pair of commas, before and after it. Options A and B use only one comma and D puts the comma in the wrong place."
+  },
+  {
+   "id": "t07-gram-03",
+   "part": "A",
+   "section": "gram",
+   "topic": "Transformation of Sentences",
+   "question": "Convert into a compound sentence: \"Having finished his work, he went home.\"",
+   "options": [
+    "He finished his work and went home.",
+    "When he had finished his work, he went home.",
+    "After he finished his work, he went home.",
+    "As soon as he finished his work, he went home."
+   ],
+   "correctIndex": 0,
+   "explanation": "A compound sentence joins independent clauses with a coordinating conjunction such as \"and\". Options B, C and D use subordinating conjunctions (when, after, as soon as), so they are complex sentences."
+  },
+  {
+   "id": "t07-gram-04",
+   "part": "A",
+   "section": "gram",
+   "topic": "Transformation of sentences",
+   "question": "Change into a simple sentence: \"He is rich but he is not happy.\"",
+   "options": [
+    "In spite of rich, he is not happy.",
+    "Because of being rich, he is not happy.",
+    "Besides rich, he is not happy.",
+    "In spite of being rich, he is not happy."
+   ],
+   "correctIndex": 3,
+   "explanation": "A compound sentence with \"but\" showing contrast becomes simple with \"In spite of / Despite + gerund\". \"In spite of being rich\" is correct. Option A lacks \"being\"; B shows cause, not contrast; C is wrong in meaning."
+  },
+  {
+   "id": "t07-gram-05",
+   "part": "A",
+   "section": "gram",
+   "topic": "Direct and indirect speech",
+   "question": "Change into indirect speech: The teacher said to the students, \"Be quiet.\"",
+   "options": [
+    "The teacher asked the students that they be quiet.",
+    "The teacher told the students that be quiet.",
+    "The teacher ordered the students to be quiet.",
+    "The teacher said to the students to be quiet."
+   ],
+   "correctIndex": 2,
+   "explanation": "An imperative sentence is reported with a verb such as ordered/told/commanded followed by \"to + base verb\": \"ordered the students to be quiet\". The other options use wrong structures."
+  },
+  {
+   "id": "t07-gram-06",
+   "part": "A",
+   "section": "gram",
+   "topic": "Inversion and cleft sentences",
+   "question": "Fill in the blank: \"Little ___ that the police were watching him.\"",
+   "options": [
+    "did he know",
+    "he knew",
+    "does he knew",
+    "he did know"
+   ],
+   "correctIndex": 0,
+   "explanation": "After a negative adverb such as \"little\" placed at the beginning, auxiliary-subject inversion is used: \"Little did he know...\". The other options have no inversion or wrong verb forms."
+  },
+  {
+   "id": "t07-gram-07",
+   "part": "A",
+   "section": "gram",
+   "topic": "Inversion and cleft sentences",
+   "question": "\"What I need most is a long holiday.\" This sentence is an example of a ___ sentence.",
+   "options": [
+    "interrogative",
+    "conditional",
+    "passive",
+    "pseudo-cleft (wh-cleft)"
+   ],
+   "correctIndex": 3,
+   "explanation": "A pseudo-cleft (wh-cleft) sentence starts with a \"what\" clause and puts the focus on the information after \"is\": \"What I need most is a long holiday.\" It is not a question, conditional or passive sentence."
+  },
+  {
+   "id": "t07-gram-08",
+   "part": "A",
+   "section": "gram",
+   "topic": "Conditionals",
+   "question": "Fill in the blank: \"Unless you work hard, you ___ the examination.\"",
+   "options": [
+    "will not fail",
+    "will fail",
+    "would not fail",
+    "had failed"
+   ],
+   "correctIndex": 1,
+   "explanation": "\"Unless\" means \"if ... not\", so the sentence means \"If you do not work hard, you will fail.\" A type-1 conditional takes \"will + base verb\" in the main clause; \"will not fail\" reverses the meaning."
+  },
+  {
+   "id": "t07-gram-09",
+   "part": "A",
+   "section": "gram",
+   "topic": "Tenses (kinds and transformation)",
+   "question": "Fill in the blank: \"By next June, she ___ here for ten years.\"",
+   "options": [
+    "will have been working",
+    "will be working",
+    "has been working",
+    "would work"
+   ],
+   "correctIndex": 0,
+   "explanation": "A time limit \"By next June\" together with a duration (\"for ten years\") needs the future perfect continuous: \"will have been working\". The other tenses do not express a period completed by a future point."
+  },
+  {
+   "id": "t07-gram-10",
+   "part": "A",
+   "section": "gram",
+   "topic": "Elliptical sentence pattern",
+   "question": "In \"Ram likes tea and Sita coffee\", which word has been omitted from the second part?",
+   "options": [
+    "the subject \"Ram\"",
+    "the conjunction \"and\"",
+    "the verb \"likes\"",
+    "the object \"tea\""
+   ],
+   "correctIndex": 2,
+   "explanation": "The second part \"Sita (likes) coffee\" leaves out the repeated verb \"likes\" to avoid repetition. This omission is called ellipsis (gapping). Subject, conjunction and object are all present."
+  },
+  {
+   "id": "t07-gram-11",
+   "part": "A",
+   "section": "gram",
+   "topic": "Determiners",
+   "question": "Choose the correct option: \"The Nile is ___ longest river in Africa.\"",
+   "options": [
+    "a",
+    "an",
+    "no article",
+    "the"
+   ],
+   "correctIndex": 3,
+   "explanation": "The definite article \"the\" is used before superlative adjectives like \"longest\" because only one river is the longest. \"A/an\" are indefinite and the blank cannot be left empty."
+  },
+  {
+   "id": "t07-gram-12",
+   "part": "A",
+   "section": "gram",
+   "topic": "Modals",
+   "question": "Fill in the blank: \"You ___ respect your elders.\"",
+   "options": [
+    "should to",
+    "ought to",
+    "must to",
+    "have"
+   ],
+   "correctIndex": 1,
+   "explanation": "\"Ought\" is followed by \"to\" to express moral duty: \"You ought to respect your elders.\" \"Should\" and \"must\" take a bare infinitive, so \"should to\" and \"must to\" are wrong."
+  },
+  {
+   "id": "t07-gram-13",
+   "part": "A",
+   "section": "gram",
+   "topic": "Question tag",
+   "question": "Add the correct question tag: \"Nobody called me, ___?\"",
+   "options": [
+    "did they",
+    "did he",
+    "didn't they",
+    "didn't he"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"Nobody\" is negative in meaning, so the tag is positive; the pronoun \"they\" is used for \"nobody\": \"did they?\"."
+  },
+  {
+   "id": "t07-gram-14",
+   "part": "A",
+   "section": "gram",
+   "topic": "Finite and non-finite verbs, phrasal verbs",
+   "question": "The phrasal verb \"put off\" means ___.",
+   "options": [
+    "to dress",
+    "to construct",
+    "to postpone",
+    "to praise"
+   ],
+   "correctIndex": 2,
+   "explanation": "\"Put off\" means to postpone or delay, as in \"The match was put off due to rain\". Dress is \"put on\", construct is \"put up\", and praise is not a meaning of this phrasal verb."
+  },
+  {
+   "id": "t07-gram-15",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subject-verb agreement",
+   "question": "Fill in the blank: \"Neither the manager nor the employees ___ present at the meeting.\"",
+   "options": [
+    "was",
+    "were",
+    "is",
+    "has been"
+   ],
+   "correctIndex": 1,
+   "explanation": "With \"neither ... nor\", the verb agrees with the subject nearest to it. \"Employees\" is plural, so the plural verb \"were\" is correct."
+  },
+  {
+   "id": "t07-vocab-01",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "\"He is no fool.\" Which figure of speech is used?",
+   "options": [
+    "Simile",
+    "Irony",
+    "Hyperbole",
+    "Litotes"
+   ],
+   "correctIndex": 3,
+   "explanation": "Litotes is an understatement that affirms something by negating its opposite: \"no fool\" means \"quite clever\"."
+  },
+  {
+   "id": "t07-vocab-02",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word formation: root words and affixes",
+   "question": "Which of the following words is formed with a negative prefix?",
+   "options": [
+    "irregular",
+    "regular",
+    "popular",
+    "circular"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"Irregular\" = ir- (not) + regular. In regular, popular and circular, the endings -ar/-lar are part of the root word and no negative prefix is attached."
+  },
+  {
+   "id": "t07-vocab-03",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Polysemy",
+   "question": "In the sentence \"I cannot bear this noise\", the word \"bear\" means ___.",
+   "options": [
+    "carry",
+    "an animal",
+    "tolerate",
+    "give birth to"
+   ],
+   "correctIndex": 2,
+   "explanation": "\"Bear\" is polysemous (has many related meanings). Here, with \"cannot\" and \"noise\", it means to tolerate or endure. Carry and give birth to are other meanings; \"an animal\" is a noun meaning."
+  },
+  {
+   "id": "t07-vocab-04",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Homophones",
+   "question": "Which word is a homophone of \"stationary\" (not moving)?",
+   "options": [
+    "stationer",
+    "stationery",
+    "station",
+    "stationing"
+   ],
+   "correctIndex": 1,
+   "explanation": "\"Stationary\" (not moving) and \"stationery\" (paper, pens etc.) sound the same but differ in spelling and meaning, so they are homophones. The other options have different pronunciation."
+  },
+  {
+   "id": "t07-vocab-05",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Collocations",
+   "question": "Choose the correct collocation: \"We had ___ rain last night.\"",
+   "options": [
+    "heavy",
+    "strong",
+    "big",
+    "tall"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"Heavy rain\" is the natural collocation. We do not say \"strong rain\", \"big rain\" or \"tall rain\" in standard English."
+  },
+  {
+   "id": "t07-vocab-06",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word class conversion",
+   "question": "Choose the verb form of the noun \"beauty\".",
+   "options": [
+    "beautiful",
+    "beautifully",
+    "beautify",
+    "beauteous"
+   ],
+   "correctIndex": 2,
+   "explanation": "Adding the suffix -fy changes the noun \"beauty\" into the verb \"beautify\" (to make beautiful). \"Beautiful\" and \"beauteous\" are adjectives and \"beautifully\" is an adverb."
+  },
+  {
+   "id": "t07-vocab-07",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Lexical bundles",
+   "question": "Complete the lexical bundle: \"On the ___ of it, the plan seems sensible.\"",
+   "options": [
+    "top",
+    "side",
+    "look",
+    "face"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"On the face of it\" is a fixed lexical bundle meaning \"judging by first appearance\". The other words do not form this bundle."
+  },
+  {
+   "id": "t07-vocab-08",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idioms and phrases",
+   "question": "The idiom \"to bury the hatchet\" means ___.",
+   "options": [
+    "to start a quarrel",
+    "to make peace",
+    "to hide something",
+    "to cut down a tree"
+   ],
+   "correctIndex": 1,
+   "explanation": "The idiom means to end a quarrel and become friends again. It is the opposite of starting a fight; it has nothing to do with hiding things or cutting trees."
+  },
+  {
+   "id": "t07-vocab-09",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idioms and phrases",
+   "question": "\"Once in a blue moon\" means ___.",
+   "options": [
+    "every night",
+    "very often",
+    "very rarely",
+    "at midnight"
+   ],
+   "correctIndex": 2,
+   "explanation": "The idiom means very rarely."
+  },
+  {
+   "id": "t07-vocab-10",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "\"Her smile was as bright as sunshine.\" The figure of speech is ___.",
+   "options": [
+    "Simile",
+    "Metaphor",
+    "Personification",
+    "Oxymoron"
+   ],
+   "correctIndex": 0,
+   "explanation": "A direct comparison of two different things using \"as ... as\" or \"like\" is a simile. A metaphor would say \"Her smile was sunshine\"; there is no human quality given to a thing and no contradictory pair of words."
+  },
+  {
+   "id": "t07-vocab-11",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "\"The child is the father of the man.\" This line is an example of ___.",
+   "options": [
+    "Simile",
+    "Alliteration",
+    "Pun",
+    "Paradox"
+   ],
+   "correctIndex": 3,
+   "explanation": "A paradox is a seemingly self-contradictory statement that contains a truth; Wordsworth's line means childhood experiences shape the adult."
+  },
+  {
+   "id": "t07-vocab-12",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word formation: root words and affixes",
+   "question": "Which is the adjective form of the noun \"courage\"?",
+   "options": [
+    "courageful",
+    "courageous",
+    "couragely",
+    "courageable"
+   ],
+   "correctIndex": 1,
+   "explanation": "The suffix -ous forms the adjective \"courageous\". The other forms are not valid English words."
+  },
+  {
+   "id": "t07-vocab-13",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Homophones",
+   "question": "Choose the correct word: \"The ___ of the old tree gave us shade.\"",
+   "options": [
+    "boughs",
+    "bows",
+    "bouse",
+    "bowse"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"Boughs\" means large branches of a tree. \"Bows\" (bends, or ribbons/weapons) is a different word, and the other options are not standard words in this sense."
+  },
+  {
+   "id": "t07-vocab-14",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idioms and phrases",
+   "question": "To \"smell a rat\" means ___.",
+   "options": [
+    "to find a dead animal",
+    "to be allergic to something",
+    "to suspect that something is wrong",
+    "to enjoy a pleasant smell"
+   ],
+   "correctIndex": 2,
+   "explanation": "The idiom means to suspect something suspicious or dishonest. Its meaning cannot be guessed from the individual words, which is what idiomatic opacity means."
+  },
+  {
+   "id": "t07-vocab-15",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Collocations",
+   "question": "Choose the word that collocates correctly: \"Please ___ attention to the lesson.\"",
+   "options": [
+    "give",
+    "pay",
+    "do",
+    "make"
+   ],
+   "correctIndex": 1,
+   "explanation": "\"Pay attention\" is the standard collocation; give/do/make attention are not used."
+  },
+  {
+   "id": "t07-rc-01",
+   "part": "A",
+   "section": "rc",
+   "topic": "Comprehension",
+   "passageId": "t07-p1",
+   "question": "What does the old man do at dusk?",
+   "options": [
+    "He sells oil to the buyers.",
+    "He shouts out the names of sellers.",
+    "He lights lamps and places them on the market stone.",
+    "He reads books in the market."
+   ],
+   "correctIndex": 2,
+   "explanation": "The first three lines say he lights his lamps and sets them on the market stone. He does not sell oil (he asks no price), does not shout, and \"reads light\" only figuratively."
+  },
+  {
+   "id": "t07-rc-02",
+   "part": "A",
+   "section": "rc",
+   "topic": "Figures of speech",
+   "passageId": "t07-p1",
+   "question": "\"Reads light as other men read a book\" is an example of ___.",
+   "options": [
+    "Simile",
+    "Metaphor",
+    "Personification",
+    "Hyperbole"
+   ],
+   "correctIndex": 0,
+   "explanation": "The line compares his way of reading light to other men's reading of a book, using the word \"as\". This is a simile."
+  },
+  {
+   "id": "t07-rc-03",
+   "part": "A",
+   "section": "rc",
+   "topic": "Vocabulary in context",
+   "passageId": "t07-p1",
+   "question": "The word \"patient\" in \"with patient, wrinkled hands\" is closest in meaning to ___.",
+   "options": [
+    "hurried",
+    "rough",
+    "angry",
+    "calm"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"Patient\" here describes steady, calm hands that do not hurry, in contrast to the hurrying buyers. Hurried is the opposite; rough and angry do not fit."
+  },
+  {
+   "id": "t07-rc-04",
+   "part": "A",
+   "section": "rc",
+   "topic": "Tone and attitude",
+   "passageId": "t07-p1",
+   "question": "The poet's attitude towards the old man is ___.",
+   "options": [
+    "critical",
+    "admiring",
+    "indifferent",
+    "mocking"
+   ],
+   "correctIndex": 1,
+   "explanation": "The poet describes his patience and his gift of light to strangers with warmth, and mentions the people who call him foolish only to show they are wrong. The tone is admiring."
+  },
+  {
+   "id": "t07-rc-05",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t07-p1",
+   "question": "Why does the old man leave one lamp burning on the stone at night?",
+   "options": [
+    "He plans to sell it the next day.",
+    "He is afraid of thieves.",
+    "He wants strangers to pay him later.",
+    "He cares for people even when he is not there."
+   ],
+   "correctIndex": 3,
+   "explanation": "The lamp is left \"for strangers walking home alone\", showing his concern for others. He asks no price and has no business motive."
+  },
+  {
+   "id": "t07-rc-06",
+   "part": "A",
+   "section": "rc",
+   "topic": "Main idea",
+   "passageId": "t07-p2",
+   "question": "What is the main argument of the editorial?",
+   "options": [
+    "Libraries should be replaced by the internet.",
+    "Libraries remain valuable and should be supported, not closed.",
+    "Librarians should be paid higher salaries.",
+    "Only children need libraries."
+   ],
+   "correctIndex": 1,
+   "explanation": "The writer opposes closing libraries and recommends extending hours, local-language books and links with schools. The other options contradict or are not the main point."
+  },
+  {
+   "id": "t07-rc-07",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t07-p2",
+   "question": "The writer calls the officials' argument \"lazy\" because it ___.",
+   "options": [
+    "is too long",
+    "is written in difficult language",
+    "ignores what libraries give beyond information and the families without internet",
+    "comes from small towns"
+   ],
+   "correctIndex": 2,
+   "explanation": "The officials say everything is online, but the passage points out that libraries build reading habits and many families lack connectivity. The argument avoids thinking about these facts, hence \"lazy\"."
+  },
+  {
+   "id": "t07-rc-08",
+   "part": "A",
+   "section": "rc",
+   "topic": "Vocabulary in context",
+   "passageId": "t07-p2",
+   "question": "In the passage, \"modest\" in \"the cost of such a step is modest\" means ___.",
+   "options": [
+    "small in amount",
+    "shy",
+    "proud",
+    "humble in nature"
+   ],
+   "correctIndex": 0,
+   "explanation": "Here \"modest\" describes a cost that is not large. The meanings \"shy\" and \"humble in nature\" apply to people, not to cost."
+  },
+  {
+   "id": "t07-rc-09",
+   "part": "A",
+   "section": "rc",
+   "topic": "Rhetorical devices",
+   "passageId": "t07-p2",
+   "question": "\"A phone can give a child an answer; a library gives her a habit.\" This sentence uses ___.",
+   "options": [
+    "Alliteration",
+    "Contrast",
+    "Onomatopoeia",
+    "Apostrophe"
+   ],
+   "correctIndex": 1,
+   "explanation": "Two ideas, \"answer\" and \"habit\", are set against each other in a balanced structure to show a difference. This is contrast (antithesis)."
+  },
+  {
+   "id": "t07-rc-10",
+   "part": "A",
+   "section": "rc",
+   "topic": "Tone and attitude",
+   "passageId": "t07-p2",
+   "question": "The tone of the editorial is best described as ___.",
+   "options": [
+    "humorous",
+    "neutral",
+    "hopeless",
+    "concerned and persuasive"
+   ],
+   "correctIndex": 3,
+   "explanation": "The writer is worried about library closures and tries to convince authorities with arguments and suggestions. It is not humorous, neutral or hopeless."
+  },
+  {
+   "id": "t07-rc-11",
+   "part": "A",
+   "section": "rc",
+   "topic": "Comprehension",
+   "passageId": "t07-p3",
+   "question": "According to the passage, bats use echolocation to ___.",
+   "options": [
+    "find objects and prey in the dark",
+    "produce light",
+    "talk to humans",
+    "improve their eyesight"
+   ],
+   "correctIndex": 0,
+   "explanation": "The passage says bats hunt in darkness using echolocation, which tells them where objects and prey are. The other options are not mentioned."
+  },
+  {
+   "id": "t07-rc-12",
+   "part": "A",
+   "section": "rc",
+   "topic": "Comprehension",
+   "passageId": "t07-p3",
+   "question": "What does the time taken by an echo to return tell the bat?",
+   "options": [
+    "The pitch of its own call",
+    "The size of the moth",
+    "How far the object is",
+    "The colour of the object"
+   ],
+   "correctIndex": 2,
+   "explanation": "The passage states that the time taken by the echo tells the bat the distance of the object. Pitch changes show movement, not distance."
+  },
+  {
+   "id": "t07-rc-13",
+   "part": "A",
+   "section": "rc",
+   "topic": "Vocabulary in context",
+   "passageId": "t07-p3",
+   "question": "The word \"precise\" in the passage is closest in meaning to ___.",
+   "options": [
+    "rough",
+    "loud",
+    "distant",
+    "exact"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"More precise information\" means more exact or accurate information. Rough is its opposite."
+  },
+  {
+   "id": "t07-rc-14",
+   "part": "A",
+   "section": "rc",
+   "topic": "Logical sequencing",
+   "passageId": "t07-p3",
+   "question": "Arrange the steps in order: (1) The sound bounces back as an echo. (2) The bat sends out a high-pitched sound. (3) The bat's ears catch the echo. (4) The brain compares the echo with the original call.",
+   "options": [
+    "2-1-3-4",
+    "1-2-3-4",
+    "2-3-1-4",
+    "1-3-2-4"
+   ],
+   "correctIndex": 0,
+   "explanation": "First the bat sends out sound (2), it bounces back (1), the ears catch it (3), and the brain compares it with the call (4)."
+  },
+  {
+   "id": "t07-rc-15",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t07-p3",
+   "question": "Why do scientists study echolocation closely?",
+   "options": [
+    "To train bats to hunt",
+    "To stop bats from hunting",
+    "Because similar principles are used in sonar and aids for the visually impaired",
+    "To prove that bats are blind"
+   ],
+   "correctIndex": 2,
+   "explanation": "The last sentence gives this reason. The passage also says bats are not blind, and nothing is said about training or stopping bats."
+  },
+  {
+   "id": "t07-ped-01",
+   "part": "A",
+   "section": "ped",
+   "topic": "Methods of teaching English",
+   "question": "Which method avoids the use of the mother tongue and teaches meaning through direct association with objects and actions?",
+   "questionHi": "कौन-सी विधि मातृभाषा का प्रयोग नहीं करती और वस्तुओं व क्रियाओं के सीधे साहचर्य से अर्थ सिखाती है?",
+   "options": [
+    "Grammar-Translation Method",
+    "Direct Method",
+    "Bilingual Method",
+    "Structural Approach"
+   ],
+   "optionsHi": [
+    "व्याकरण-अनुवाद विधि",
+    "प्रत्यक्ष विधि (Direct Method)",
+    "द्विभाषिक विधि",
+    "संरचनात्मक उपागम"
+   ],
+   "correctIndex": 1,
+   "explanation": "The Direct Method teaches the target language directly, without translation, using objects, pictures and actions. Grammar-Translation and Bilingual methods use the mother tongue.",
+   "explanationHi": "प्रत्यक्ष विधि में लक्ष्य भाषा सीधे, बिना अनुवाद के, वस्तुओं, चित्रों और क्रियाओं की मदद से सिखाई जाती है। व्याकरण-अनुवाद और द्विभाषिक विधि में मातृभाषा का प्रयोग होता है।"
+  },
+  {
+   "id": "t07-ped-02",
+   "part": "A",
+   "section": "ped",
+   "topic": "Methods of teaching English",
+   "question": "The \"Silent Way\" of language teaching was developed by ___.",
+   "options": [
+    "Stephen Krashen",
+    "James Asher",
+    "Georgi Lozanov",
+    "Caleb Gattegno"
+   ],
+   "correctIndex": 3,
+   "explanation": "Caleb Gattegno developed the Silent Way, in which the teacher speaks as little as possible. Krashen is linked with the Monitor Model, Asher with Total Physical Response and Lozanov with Suggestopedia.",
+   "questionHi": "भाषा शिक्षण की \"Silent Way\" पद्धति किसने विकसित की?",
+   "optionsHi": [
+    "Stephen Krashen",
+    "James Asher",
+    "Georgi Lozanov",
+    "Caleb Gattegno"
+   ],
+   "explanationHi": "Silent Way को Caleb Gattegno ने विकसित किया, जिसमें शिक्षक यथासंभव कम बोलता है। Krashen Monitor Model से, Asher Total Physical Response से और Lozanov Suggestopedia से जुड़े हैं।"
+  },
+  {
+   "id": "t07-ped-03",
+   "part": "A",
+   "section": "ped",
+   "topic": "Methods of teaching English",
+   "question": "The Total Physical Response (TPR) method of James Asher links language learning with ___.",
+   "questionHi": "जेम्स एशर की Total Physical Response (TPR) विधि भाषा-अधिगम को ___ से जोड़ती है।",
+   "options": [
+    "physical actions and movement",
+    "written drills",
+    "translation exercises",
+    "phonetic symbols"
+   ],
+   "optionsHi": [
+    "शारीरिक क्रियाओं और गति",
+    "लिखित अभ्यास",
+    "अनुवाद अभ्यास",
+    "ध्वन्यात्मक चिह्न"
+   ],
+   "correctIndex": 0,
+   "explanation": "In TPR the teacher gives commands and learners respond with body movement, linking language with action.",
+   "explanationHi": "TPR में शिक्षक आदेश देता है और विद्यार्थी शारीरिक क्रिया से प्रतिक्रिया देते हैं, जिससे भाषा क्रिया से जुड़ती है।"
+  },
+  {
+   "id": "t07-ped-04",
+   "part": "A",
+   "section": "ped",
+   "topic": "Language across the curriculum",
+   "question": "Language across the curriculum means ___.",
+   "questionHi": "\"Language across the curriculum\" का अर्थ है ___।",
+   "options": [
+    "teaching English only in the English period",
+    "teaching grammar only through poems",
+    "using and developing language skills in all school subjects",
+    "teaching foreign languages only"
+   ],
+   "optionsHi": [
+    "केवल अंग्रेज़ी के पीरियड में अंग्रेज़ी पढ़ाना",
+    "केवल कविताओं के माध्यम से व्याकरण पढ़ाना",
+    "सभी विषयों में भाषा-कौशलों का प्रयोग और विकास करना",
+    "केवल विदेशी भाषाएँ पढ़ाना"
+   ],
+   "correctIndex": 2,
+   "explanation": "Every subject teacher uses and builds language (reading, writing, speaking, listening) while teaching content.",
+   "explanationHi": "हर विषय का शिक्षक विषय पढ़ाते समय पढ़ने, लिखने, बोलने और सुनने के कौशल का प्रयोग व विकास करता है।"
+  },
+  {
+   "id": "t07-ped-05",
+   "part": "A",
+   "section": "ped",
+   "topic": "Theories of language learning",
+   "question": "\"i + 1\" is associated with which of Krashen's hypotheses?",
+   "questionHi": "\"i + 1\" क्रैशेन की किस परिकल्पना से जुड़ा है?",
+   "options": [
+    "Affective Filter Hypothesis",
+    "Monitor Hypothesis",
+    "Natural Order Hypothesis",
+    "Input Hypothesis"
+   ],
+   "optionsHi": [
+    "भावात्मक फ़िल्टर परिकल्पना",
+    "मॉनिटर परिकल्पना",
+    "प्राकृतिक क्रम परिकल्पना",
+    "निवेश (Input) परिकल्पना"
+   ],
+   "correctIndex": 3,
+   "explanation": "The Input Hypothesis says learners acquire language when they get comprehensible input slightly above their current level (i + 1).",
+   "explanationHi": "इनपुट परिकल्पना के अनुसार विद्यार्थी तब भाषा अर्जित करते हैं जब उन्हें अपने वर्तमान स्तर से थोड़ा ऊपर का बोधगम्य इनपुट (i + 1) मिलता है।"
+  },
+  {
+   "id": "t07-ped-06",
+   "part": "A",
+   "section": "ped",
+   "topic": "Errors vs mistakes",
+   "question": "Which statement about \"mistakes\" compared with \"errors\" is correct?",
+   "questionHi": "\"गलती\" (mistake) और \"त्रुटि\" (error) की तुलना में कौन-सा कथन सही है?",
+   "options": [
+    "Mistakes are systematic and reflect incomplete knowledge.",
+    "Mistakes are performance slips that the learner can usually self-correct.",
+    "Mistakes cannot be corrected by the learner.",
+    "Mistakes show the learner's interlanguage rules."
+   ],
+   "optionsHi": [
+    "गलतियाँ व्यवस्थित होती हैं और अधूरे ज्ञान को दर्शाती हैं।",
+    "गलतियाँ प्रदर्शन की चूक हैं जिन्हें विद्यार्थी प्रायः स्वयं सुधार सकता है।",
+    "गलतियों को विद्यार्थी स्वयं नहीं सुधार सकता।",
+    "गलतियाँ विद्यार्थी के अंतर्भाषा-नियम दिखाती हैं।"
+   ],
+   "correctIndex": 1,
+   "explanation": "Following Corder, mistakes are random slips (tiredness, carelessness) that the learner can correct; errors are systematic and show gaps in knowledge.",
+   "explanationHi": "कॉर्डर के अनुसार गलतियाँ थकान या लापरवाही से हुई आकस्मिक चूकें हैं जिन्हें विद्यार्थी सुधार सकता है; त्रुटियाँ व्यवस्थित होती हैं और ज्ञान की कमी दिखाती हैं।"
+  },
+  {
+   "id": "t07-ped-07",
+   "part": "A",
+   "section": "ped",
+   "topic": "Interlanguage",
+   "question": "Who introduced the term \"interlanguage\"?",
+   "questionHi": "\"अंतर्भाषा\" (interlanguage) शब्द किसने दिया?",
+   "options": [
+    "Larry Selinker",
+    "Noam Chomsky",
+    "B. F. Skinner",
+    "Stephen Krashen"
+   ],
+   "optionsHi": [
+    "लैरी सेलिंकर",
+    "नोम चॉम्स्की",
+    "बी. एफ. स्किनर",
+    "स्टीफ़न क्रैशेन"
+   ],
+   "correctIndex": 0,
+   "explanation": "Larry Selinker (1972) used \"interlanguage\" for the evolving language system of a second-language learner, lying between the mother tongue and the target language.",
+   "explanationHi": "लैरी सेलिंकर (1972) ने \"अंतर्भाषा\" शब्द उस विकसित होती भाषा-व्यवस्था के लिए दिया जो द्वितीय भाषा सीखने वाले की मातृभाषा और लक्ष्य भाषा के बीच होती है।"
+  },
+  {
+   "id": "t07-ped-08",
+   "part": "A",
+   "section": "ped",
+   "topic": "Methods of teaching",
+   "question": "The \"Whole Language\" approach holds that language is best learnt as ___.",
+   "questionHi": "\"Whole Language\" उपागम के अनुसार भाषा ___ के रूप में सबसे अच्छी तरह सीखी जाती है।",
+   "options": [
+    "isolated sounds",
+    "separate grammar rules",
+    "a meaningful whole in real contexts",
+    "lists of words"
+   ],
+   "optionsHi": [
+    "अलग-अलग ध्वनियाँ",
+    "अलग-अलग व्याकरण-नियम",
+    "वास्तविक संदर्भों में एक सार्थक संपूर्ण इकाई",
+    "शब्द-सूचियाँ"
+   ],
+   "correctIndex": 2,
+   "explanation": "The Whole Language approach treats language as an integrated whole learnt through meaningful use (reading, writing, speaking, listening together), not as separate parts.",
+   "explanationHi": "Whole Language उपागम भाषा को एक संपूर्ण इकाई मानता है, जो सार्थक प्रयोग (पढ़ना, लिखना, बोलना, सुनना साथ-साथ) से सीखी जाती है, अलग-अलग हिस्सों से नहीं।"
+  },
+  {
+   "id": "t07-ped-09",
+   "part": "A",
+   "section": "ped",
+   "topic": "Linguistic system",
+   "question": "The study of how language is used in context, such as politeness and requests, is called ___.",
+   "questionHi": "संदर्भ में भाषा के प्रयोग, जैसे शिष्टाचार और अनुरोध, के अध्ययन को ___ कहते हैं।",
+   "options": [
+    "semantics",
+    "pragmatics",
+    "morphology",
+    "phonology"
+   ],
+   "optionsHi": [
+    "अर्थ-विज्ञान",
+    "प्रयोजनमूलकता (Pragmatics)",
+    "रूप-विज्ञान",
+    "स्वन-विज्ञान"
+   ],
+   "correctIndex": 1,
+   "explanation": "Pragmatics deals with meaning in use, depending on speaker, listener and situation. Semantics studies the meaning of words and sentences in themselves.",
+   "explanationHi": "प्रैग्मैटिक्स वक्ता, श्रोता और परिस्थिति के अनुसार प्रयोग में अर्थ का अध्ययन करता है। सिमैंटिक्स शब्दों और वाक्यों के अपने अर्थ का अध्ययन है।"
+  },
+  {
+   "id": "t07-ped-10",
+   "part": "A",
+   "section": "ped",
+   "topic": "Remedial teaching",
+   "question": "Remedial teaching should begin only after ___.",
+   "questionHi": "उपचारात्मक शिक्षण ___ के बाद ही शुरू करना चाहिए।",
+   "options": [
+    "the final examination",
+    "admission of the child",
+    "the annual function",
+    "diagnosing the specific learning difficulty"
+   ],
+   "optionsHi": [
+    "वार्षिक परीक्षा",
+    "बच्चे के प्रवेश",
+    "वार्षिकोत्सव",
+    "विशिष्ट सीखने की कठिनाई की पहचान (निदान)"
+   ],
+   "correctIndex": 3,
+   "explanation": "Remedial teaching targets a particular difficulty, so the teacher must first diagnose it through observation and diagnostic tests.",
+   "explanationHi": "उपचारात्मक शिक्षण किसी विशेष कठिनाई पर केंद्रित होता है, इसलिए शिक्षक को पहले अवलोकन और निदानात्मक परीक्षणों से उसकी पहचान करनी चाहिए।"
+  },
+  {
+   "id": "t07-ped-11",
+   "part": "A",
+   "section": "ped",
+   "topic": "Teaching-learning materials / multilingual classroom",
+   "question": "A teacher allows children to use their home languages to understand an English text. This treats the classroom as a ___.",
+   "questionHi": "एक शिक्षक बच्चों को अंग्रेज़ी पाठ समझने के लिए घर की भाषाओं का प्रयोग करने देता है। इसमें कक्षा को ___ माना जाता है।",
+   "options": [
+    "strict English-only zone",
+    "silent classroom",
+    "multilingual resource",
+    "test centre"
+   ],
+   "optionsHi": [
+    "केवल अंग्रेज़ी वाला क्षेत्र",
+    "मौन कक्षा",
+    "बहुभाषी संसाधन",
+    "परीक्षा केंद्र"
+   ],
+   "correctIndex": 2,
+   "explanation": "In a diverse classroom, learners' home languages are valuable resources that support understanding of the new language.",
+   "explanationHi": "विविध कक्षा में बच्चों की घर की भाषाएँ नई भाषा समझने में सहायक मूल्यवान संसाधन होती हैं।"
+  },
+  {
+   "id": "t07-ped-12",
+   "part": "A",
+   "section": "ped",
+   "topic": "LSRW skills",
+   "question": "Which language skill is acquired first in natural language development?",
+   "questionHi": "स्वाभाविक भाषा-विकास में कौन-सा भाषा-कौशल सबसे पहले अर्जित होता है?",
+   "options": [
+    "Listening",
+    "Speaking",
+    "Reading",
+    "Writing"
+   ],
+   "optionsHi": [
+    "सुनना",
+    "बोलना",
+    "पढ़ना",
+    "लिखना"
+   ],
+   "correctIndex": 0,
+   "explanation": "A child first hears the language around him, then speaks, and later learns reading and writing. So listening comes first.",
+   "explanationHi": "बच्चा पहले अपने आसपास की भाषा सुनता है, फिर बोलता है और बाद में पढ़ना-लिखना सीखता है। इसलिए सुनना सबसे पहले आता है।"
+  },
+  {
+   "id": "t07-ped-13",
+   "part": "A",
+   "section": "ped",
+   "topic": "Role of grammar",
+   "question": "A functional approach to teaching grammar means teaching grammar ___.",
+   "questionHi": "व्याकरण शिक्षण के प्रकार्यात्मक (functional) उपागम का अर्थ है व्याकरण को ___ सिखाना।",
+   "options": [
+    "as isolated rules to be memorised",
+    "in context, through its use in communication",
+    "only through translation",
+    "only through written tests"
+   ],
+   "optionsHi": [
+    "अलग-अलग नियमों के रूप में रटवाकर",
+    "संदर्भ में, संप्रेषण में उसके प्रयोग द्वारा",
+    "केवल अनुवाद द्वारा",
+    "केवल लिखित परीक्षाओं द्वारा"
+   ],
+   "correctIndex": 1,
+   "explanation": "Modern views prefer teaching grammar in meaningful contexts so learners see how forms express ideas, rather than as memorised rules.",
+   "explanationHi": "आधुनिक दृष्टिकोण व्याकरण को सार्थक संदर्भों में सिखाने पर बल देता है ताकि विद्यार्थी देखें कि रूप विचारों को कैसे व्यक्त करते हैं, केवल रटे नियम नहीं।"
+  },
+  {
+   "id": "t07-ped-14",
+   "part": "A",
+   "section": "ped",
+   "topic": "Language learning vs acquisition",
+   "question": "According to Krashen, \"acquisition\" of language is ___.",
+   "questionHi": "क्रैशेन के अनुसार भाषा का \"अर्जन\" (acquisition) ___ है।",
+   "options": [
+    "conscious study of grammar rules",
+    "learning through correction only",
+    "a subconscious process, like a child picking up the mother tongue",
+    "possible only in classrooms"
+   ],
+   "optionsHi": [
+    "व्याकरण के नियमों का सचेत अध्ययन",
+    "केवल सुधार द्वारा सीखना",
+    "एक अवचेतन प्रक्रिया, जैसे बच्चा मातृभाषा सीख लेता है",
+    "केवल कक्षा में संभव"
+   ],
+   "correctIndex": 2,
+   "explanation": "Krashen distinguishes subconscious acquisition from conscious learning. Acquisition happens naturally through meaningful interaction.",
+   "explanationHi": "क्रैशेन अवचेतन अर्जन और सचेत अधिगम में अंतर करते हैं। अर्जन सार्थक अंतःक्रिया से स्वाभाविक रूप से होता है।"
+  },
+  {
+   "id": "t07-ped-15",
+   "part": "A",
+   "section": "ped",
+   "topic": "Theories of language learning",
+   "question": "In a language classroom, Vygotsky's Zone of Proximal Development (ZPD) refers to ___.",
+   "questionHi": "भाषा कक्षा में वाइगोत्स्की का निकटवर्ती विकास क्षेत्र (ZPD) ___ को कहते हैं।",
+   "options": [
+    "the physical space where learners sit",
+    "the learner's total vocabulary",
+    "the maximum marks a learner can score",
+    "the gap between what a learner can do alone and with help"
+   ],
+   "optionsHi": [
+    "वह भौतिक स्थान जहाँ विद्यार्थी बैठते हैं",
+    "विद्यार्थी का कुल शब्द-भंडार",
+    "विद्यार्थी द्वारा प्राप्त किए जा सकने वाले अधिकतम अंक",
+    "जो विद्यार्थी अकेले कर सकता है और सहायता से कर सकता है, उसके बीच का अंतर"
+   ],
+   "correctIndex": 3,
+   "explanation": "ZPD is the distance between independent performance and performance with guidance from a teacher or peer; teaching should work in this zone.",
+   "explanationHi": "ZPD स्वतंत्र प्रदर्शन और शिक्षक या साथी की सहायता से प्रदर्शन के बीच की दूरी है; शिक्षण इसी क्षेत्र में होना चाहिए।"
+  }
+ ]
+}

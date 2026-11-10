@@ -1,0 +1,1059 @@
+{
+  "passages": [
+    {
+      "id": "t03-p1",
+      "genre": "Scientific passage",
+      "title": "The Language of the Hive",
+      "text": "Honeybees communicate the location of food through a remarkable behaviour called the waggle dance. When a forager finds a rich patch of flowers, she returns to the hive and moves in a figure-of-eight pattern on the vertical comb. The angle of the straight 'waggle' run, measured against the vertical, shows the direction of the food in relation to the sun, while the duration of the run indicates its distance. Other bees follow the dancer closely, touching her with their antennae, and then fly out to the spot. The Austrian scientist Karl von Frisch decoded this language in the twentieth century and later shared a Nobel Prize for his work. Interestingly, bees adjust for the movement of the sun during the day, which suggests an internal sense of time. Though the brain of a bee is smaller than a sesame seed, such behaviour shows that small creatures can possess sophisticated systems of communication."
+    },
+    {
+      "id": "t03-p2",
+      "genre": "Poetry extract",
+      "title": "The Potter's Wheel",
+      "text": "Round and round the wheel does spin,\nShaping clay from lump to form;\nPatient hands, a steady grin,\nCalm within a gathering storm.\nWhat was shapeless, dull and cold\nRises smooth beneath his thumb;\nSo are minds, both young and old,\nMoulded when the right hands come.\nFire will test what hands have made;\nOnly strong ones shall remain;\nTeacher, potter, both have prayed\nFor no vessel cracked in vain.\nMorning finds him at his seat,\nDust upon his weathered shirt;\nNot for praise nor for conceit\nDoes he labour in the dirt.\nThough the buyers never ask\nWhose hands formed the cup they hold,\nHe returns to his task,\nRich in patience, not in gold."
+    },
+    {
+      "id": "t03-p3",
+      "genre": "Newspaper editorial",
+      "title": "Books in the Age of Screens",
+      "text": "Every evening, millions of Indian students reach for a phone rather than a book. Educators lament that the habit of sustained reading is slowly vanishing, and the concern is not entirely misplaced. Reading a novel requires patience; scrolling through short videos demands almost none. Yet it would be unfair to blame technology alone. Many schools still treat reading as a chore attached to examinations, not as a pleasure to be discovered. Libraries in several small towns lie locked or poorly stocked, and few teachers read aloud to their classes. If we wish children to love books, adults must first be seen enjoying them. Digital tools, too, can be allies: e-books and audio stories have carried literature to remote villages where no bookshop exists. The solution, therefore, lies not in banning screens but in giving children interesting stories, open libraries and living examples of readers at home and in school."
+    }
+  ],
+  "questions": [
+    {
+      "id": "t03-gram-01",
+      "part": "A",
+      "section": "gram",
+      "topic": "Question tag",
+      "question": "Choose the correct question tag: Nothing ever happens here, ____?",
+      "options": [
+        "doesn't it",
+        "do they",
+        "does it",
+        "don't they"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Nothing' is treated as 'it' and the main clause is negative in sense, so the tag is positive: 'does it?'. 'Doesn't it' and 'don't they' are negative tags; 'do they' uses the wrong pronoun."
+    },
+    {
+      "id": "t03-gram-02",
+      "part": "A",
+      "section": "gram",
+      "topic": "Non-finite verbs (gerund)",
+      "question": "Fill in the blank: She was fond of ____ stories to children.",
+      "options": [
+        "telling",
+        "to tell",
+        "tell",
+        "told"
+      ],
+      "correctIndex": 0,
+      "explanation": "After a preposition ('of') we use a gerund (verb + -ing): 'fond of telling'. An infinitive, base form or past form cannot follow a preposition here."
+    },
+    {
+      "id": "t03-gram-03",
+      "part": "A",
+      "section": "gram",
+      "topic": "Subject-verb agreement",
+      "question": "Choose the correct option: A number of students ____ absent today.",
+      "options": [
+        "is",
+        "was",
+        "has been",
+        "are"
+      ],
+      "correctIndex": 3,
+      "explanation": "'A number of' means 'several' and takes a plural verb, so 'are' is correct. (Compare 'The number of students is...', which takes a singular verb.) The other options are singular."
+    },
+    {
+      "id": "t03-gram-04",
+      "part": "A",
+      "section": "gram",
+      "topic": "Tenses",
+      "question": "Fill in the blank: By next June, she ____ her degree.",
+      "options": [
+        "will complete",
+        "will have completed",
+        "has completed",
+        "is completing"
+      ],
+      "correctIndex": 1,
+      "explanation": "'By + future time' shows an action finished before a point in the future, so the Future Perfect 'will have completed' is used. The other forms do not express completion before that time."
+    },
+    {
+      "id": "t03-gram-05",
+      "part": "A",
+      "section": "gram",
+      "topic": "Relative clauses (defining)",
+      "question": "Fill in the blank: The house ____ roof was damaged in the storm has been repaired.",
+      "options": [
+        "which",
+        "who",
+        "whose",
+        "that"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Whose' shows possession (the house's roof) and can be used for things as well as people. 'Which' and 'that' cannot be directly followed by 'roof' in this sense, and 'who' is for persons."
+    },
+    {
+      "id": "t03-gram-06",
+      "part": "A",
+      "section": "gram",
+      "topic": "Transformation of sentences",
+      "question": "Change into a simple sentence: 'He is so weak that he cannot walk.'",
+      "options": [
+        "He is too weak to walk.",
+        "He is very weak to walk.",
+        "He is weak enough to walk.",
+        "He is too weak for walking not."
+      ],
+      "correctIndex": 0,
+      "explanation": "'So...that...not' converts to 'too...to'. 'Very weak to walk' and 'weak enough to walk' change the meaning (or sound unnatural); the last option is ungrammatical."
+    },
+    {
+      "id": "t03-gram-07",
+      "part": "A",
+      "section": "gram",
+      "topic": "Direct-Indirect speech",
+      "question": "Choose the correct indirect speech: He said, \"I am writing a letter.\"",
+      "options": [
+        "He said that he is writing a letter.",
+        "He said that I was writing a letter.",
+        "He said that he has written a letter.",
+        "He said that he was writing a letter."
+      ],
+      "correctIndex": 3,
+      "explanation": "With a past reporting verb, Present Continuous changes to Past Continuous and 'I' becomes 'he'. The other options keep the present tense, keep 'I', or change the tense wrongly."
+    },
+    {
+      "id": "t03-gram-08",
+      "part": "A",
+      "section": "gram",
+      "topic": "Inversion",
+      "question": "Fill in the blank: Seldom ____ such honesty these days.",
+      "options": [
+        "we see",
+        "do we see",
+        "we do see",
+        "are we seeing"
+      ],
+      "correctIndex": 1,
+      "explanation": "When a negative/restrictive adverb like 'seldom' begins a sentence, the auxiliary comes before the subject: 'Seldom do we see'. The other options keep normal word order or use a wrong form."
+    },
+    {
+      "id": "t03-gram-09",
+      "part": "A",
+      "section": "gram",
+      "topic": "Cleft sentences",
+      "question": "Which of the following is a pseudo-cleft (wh-cleft) sentence?",
+      "options": [
+        "What she wanted was a quiet place.",
+        "She wanted a quiet place.",
+        "Did she want a quiet place?",
+        "A quiet place was wanted by her."
+      ],
+      "correctIndex": 0,
+      "explanation": "A pseudo-cleft sentence begins with a 'wh-' clause followed by 'be' to focus on one element: 'What she wanted was...'. The others are a plain statement, a question and a passive sentence."
+    },
+    {
+      "id": "t03-gram-10",
+      "part": "A",
+      "section": "gram",
+      "topic": "Conditionals",
+      "question": "Fill in the blank: If I ____ you, I would apologise to her.",
+      "options": [
+        "am",
+        "was being",
+        "were",
+        "have been"
+      ],
+      "correctIndex": 2,
+      "explanation": "Second (unreal present) conditional uses 'if + past subjunctive' and 'were' for all persons in standard usage. 'Am', 'was being' and 'have been' do not fit this pattern."
+    },
+    {
+      "id": "t03-gram-11",
+      "part": "A",
+      "section": "gram",
+      "topic": "Elliptical sentence pattern",
+      "question": "In the sentence 'Some people prefer tea; others, coffee', which word is omitted (ellipsis) in the second part?",
+      "options": [
+        "are",
+        "prefer",
+        "drink",
+        "is"
+      ],
+      "correctIndex": 1,
+      "explanation": "The full form is 'others prefer coffee'. The verb 'prefer' is left out to avoid repetition. The other words are not implied by the structure."
+    },
+    {
+      "id": "t03-gram-12",
+      "part": "A",
+      "section": "gram",
+      "topic": "Determiners",
+      "question": "Fill in the blank: He gave me ____ advice.",
+      "options": [
+        "an",
+        "a",
+        "many",
+        "some"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Advice' is uncountable, so it takes 'some' (or 'much', 'little'). 'A/an' and 'many' are used only with countable nouns."
+    },
+    {
+      "id": "t03-gram-13",
+      "part": "A",
+      "section": "gram",
+      "topic": "Modals",
+      "question": "Fill in the blank: You ____ smoke here; it is strictly prohibited.",
+      "options": [
+        "mustn't",
+        "needn't",
+        "don't have to",
+        "may"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Mustn't' expresses prohibition. 'Needn't' and 'don't have to' express absence of necessity, and 'may' would give permission, which contradicts 'prohibited'."
+    },
+    {
+      "id": "t03-gram-14",
+      "part": "A",
+      "section": "gram",
+      "topic": "Phrasal verbs",
+      "question": "Choose the correct phrasal verb: The match was ____ because of heavy rain.",
+      "options": [
+        "called on",
+        "called up",
+        "called off",
+        "called for"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Called off' means cancelled. 'Called on' = visit/request, 'called up' = telephone or summon, 'called for' = demand/require."
+    },
+    {
+      "id": "t03-gram-15",
+      "part": "A",
+      "section": "gram",
+      "topic": "Tenses (kinds)",
+      "question": "Identify the tense: 'She has been teaching here since 2010.'",
+      "options": [
+        "Present Perfect",
+        "Present Perfect Continuous",
+        "Past Perfect Continuous",
+        "Present Continuous"
+      ],
+      "correctIndex": 1,
+      "explanation": "'has/have been + verb-ing' with 'since/for' is the Present Perfect Continuous. Present Perfect lacks '-ing' and 'been'; the others use different auxiliaries."
+    },
+    {
+      "id": "t03-vocab-01",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Collocations",
+      "question": "Choose the correct collocation: We could not go out because of ____ rain.",
+      "options": [
+        "strong",
+        "big",
+        "tall",
+        "heavy"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Heavy rain' is the standard collocation. 'Strong rain', 'big rain' and 'tall rain' are not natural English."
+    },
+    {
+      "id": "t03-vocab-02",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Word class conversion",
+      "question": "Which is the noun form of the adjective 'deep'?",
+      "options": [
+        "deepen",
+        "depth",
+        "deeply",
+        "deeper"
+      ],
+      "correctIndex": 1,
+      "explanation": "The noun of 'deep' is 'depth'. 'Deepen' is a verb, 'deeply' an adverb and 'deeper' a comparative adjective."
+    },
+    {
+      "id": "t03-vocab-03",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Lexical bundles",
+      "question": "Complete the lexical bundle: '____ of the day, honesty matters most.'",
+      "options": [
+        "At the end",
+        "In the end of",
+        "On the end",
+        "By the end"
+      ],
+      "correctIndex": 0,
+      "explanation": "'At the end of the day' is a fixed, recurring multi-word sequence (lexical bundle). The other versions are not used in this form."
+    },
+    {
+      "id": "t03-vocab-04",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Idioms",
+      "question": "What does the idiom 'to bite the bullet' mean?",
+      "options": [
+        "To eat quickly",
+        "To attack someone",
+        "To face a painful situation bravely",
+        "To waste ammunition"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Bite the bullet' means to endure a difficult or unpleasant situation with courage. The other options take the words literally."
+    },
+    {
+      "id": "t03-vocab-05",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Figures of speech",
+      "question": "The word 'hiss' imitates the sound it names. This figure of speech is called ______.",
+      "options": [
+        "Metaphor",
+        "Hyperbole",
+        "Personification",
+        "Onomatopoeia"
+      ],
+      "correctIndex": 3,
+      "explanation": "Onomatopoeia is the use of words whose sound imitates the thing they describe, e.g. hiss, buzz, murmur. The other options do not involve sound imitation."
+    },
+    {
+      "id": "t03-vocab-06",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Word formation (affixes)",
+      "question": "Which of the following words is formed by adding a prefix to a root word?",
+      "options": [
+        "Happiness",
+        "Unhappy",
+        "Happily",
+        "Happier"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Un-' is a prefix added in front of 'happy'. In the other words, -ness, -ly and -er are suffixes added at the end."
+    },
+    {
+      "id": "t03-vocab-07",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Polysemy",
+      "question": "In which sentence does the word 'head' mean 'the person in charge'?",
+      "options": [
+        "She is the head of the department.",
+        "He hit the nail on the head.",
+        "My head aches.",
+        "The head of the river is far away."
+      ],
+      "correctIndex": 0,
+      "explanation": "Polysemy means one word with several related meanings. Only the first sentence uses 'head' as 'leader'; the others mean 'exact point', 'body part' and 'source'."
+    },
+    {
+      "id": "t03-vocab-08",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Homophones",
+      "question": "Choose the correct word: The king's ____ lasted forty years.",
+      "options": [
+        "rein",
+        "rain",
+        "reign",
+        "rane"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Reign' means the period of rule of a monarch. 'Rein' is a strap for controlling a horse, 'rain' is water from clouds, and 'rane' is not a word."
+    },
+    {
+      "id": "t03-vocab-09",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Collocations",
+      "question": "Which is the correct collocation?",
+      "options": [
+        "do a mistake",
+        "make a mistake",
+        "take a mistake",
+        "give a mistake"
+      ],
+      "correctIndex": 1,
+      "explanation": "We 'make a mistake'. 'Do', 'take' and 'give' do not collocate with 'mistake'."
+    },
+    {
+      "id": "t03-vocab-10",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Word class conversion",
+      "question": "In which sentence is the word 'book' used as a verb?",
+      "options": [
+        "She is reading a good book.",
+        "He bought a book on grammar.",
+        "The book is on the table.",
+        "Please book a table for two."
+      ],
+      "correctIndex": 3,
+      "explanation": "In 'Please book a table for two', 'book' means 'reserve' and is a verb (noun-to-verb conversion). In the others it is a noun."
+    },
+    {
+      "id": "t03-vocab-11",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Idioms",
+      "question": "The idiom 'to turn a blind eye' means ____.",
+      "options": [
+        "to lose one's sight",
+        "to deliberately ignore something wrong",
+        "to look at someone closely",
+        "to close the eyes in prayer"
+      ],
+      "correctIndex": 1,
+      "explanation": "It means to pretend not to notice something, usually wrongdoing. The other options take the words literally or give unrelated meanings."
+    },
+    {
+      "id": "t03-vocab-12",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Figures of speech",
+      "question": "'Life is a journey.' Which figure of speech is this?",
+      "options": [
+        "Simile",
+        "Irony",
+        "Metaphor",
+        "Oxymoron"
+      ],
+      "correctIndex": 2,
+      "explanation": "Life is directly identified with a journey without 'like' or 'as': a metaphor. A simile would say 'Life is like a journey'."
+    },
+    {
+      "id": "t03-vocab-13",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Lexical bundles",
+      "question": "Which of the following is a lexical bundle?",
+      "options": [
+        "quickly",
+        "teacher",
+        "unhappy",
+        "on the other hand"
+      ],
+      "correctIndex": 3,
+      "explanation": "A lexical bundle is a frequently recurring sequence of words, e.g. 'on the other hand'. The other options are single words."
+    },
+    {
+      "id": "t03-vocab-14",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Idiomaticity and opacity",
+      "question": "An idiom whose meaning cannot be guessed from the meanings of its individual words is called ____.",
+      "options": [
+        "opaque",
+        "transparent",
+        "literal",
+        "compound"
+      ],
+      "correctIndex": 0,
+      "explanation": "Opaque idioms (e.g. 'kick the bucket') have meanings unrelated to their words. Transparent ones are easier to guess; 'literal' and 'compound' do not describe this property."
+    },
+    {
+      "id": "t03-vocab-15",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Word formation (root words)",
+      "question": "What is the root word of 'unbelievable'?",
+      "options": [
+        "unbelieve",
+        "believe",
+        "lieve",
+        "able"
+      ],
+      "correctIndex": 1,
+      "explanation": "Removing the prefix 'un-' and the suffix '-able' (with spelling change) leaves the root 'believe'. 'Unbelieve' and 'lieve' are not roots; 'able' is only a suffix form."
+    },
+    {
+      "id": "t03-rc-01",
+      "part": "A",
+      "section": "rc",
+      "topic": "Main idea",
+      "passageId": "t03-p1",
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Bees are harmful insects",
+        "Bees use a dance to share information about food",
+        "Bees cannot see the sun",
+        "Karl von Frisch kept bees"
+      ],
+      "correctIndex": 1,
+      "explanation": "The passage is about the waggle dance by which bees share the location of food. The other options are not supported."
+    },
+    {
+      "id": "t03-rc-02",
+      "part": "A",
+      "section": "rc",
+      "topic": "Detail",
+      "passageId": "t03-p1",
+      "question": "According to the passage, the duration of the waggle run indicates ____.",
+      "options": [
+        "the type of flower",
+        "the time of day",
+        "the size of the hive",
+        "the distance of the food"
+      ],
+      "correctIndex": 3,
+      "explanation": "The passage says the angle shows direction while the duration of the run indicates distance."
+    },
+    {
+      "id": "t03-rc-03",
+      "part": "A",
+      "section": "rc",
+      "topic": "Vocabulary in context",
+      "passageId": "t03-p1",
+      "question": "The word 'forager' in the passage means ____.",
+      "options": [
+        "a bee that searches for food",
+        "a bee that guards the hive",
+        "a young bee",
+        "a queen bee"
+      ],
+      "correctIndex": 0,
+      "explanation": "A forager is one that searches for food, as the context ('finds a rich patch of flowers') shows."
+    },
+    {
+      "id": "t03-rc-04",
+      "part": "A",
+      "section": "rc",
+      "topic": "Inference",
+      "passageId": "t03-p1",
+      "question": "The fact that bees adjust for the sun's movement suggests that they ____.",
+      "options": [
+        "cannot fly at night",
+        "dislike sunlight",
+        "have an internal sense of time",
+        "follow humans"
+      ],
+      "correctIndex": 2,
+      "explanation": "The passage itself says this suggests an internal sense of time. The other options are not mentioned."
+    },
+    {
+      "id": "t03-rc-05",
+      "part": "A",
+      "section": "rc",
+      "topic": "Tone",
+      "passageId": "t03-p1",
+      "question": "The tone of the author is ____.",
+      "options": [
+        "humorous",
+        "admiring and informative",
+        "critical",
+        "sorrowful"
+      ],
+      "correctIndex": 1,
+      "explanation": "The author explains the facts clearly and admires the bee's abilities ('remarkable', 'sophisticated'). There is no humour, criticism or sorrow."
+    },
+    {
+      "id": "t03-rc-06",
+      "part": "A",
+      "section": "rc",
+      "topic": "Comparison (central image)",
+      "passageId": "t03-p2",
+      "question": "The poet compares the potter to a ____.",
+      "options": [
+        "farmer",
+        "king",
+        "teacher",
+        "merchant"
+      ],
+      "correctIndex": 2,
+      "explanation": "The lines 'So are minds...moulded when the right hands come' and 'Teacher, potter, both have prayed' compare the potter to a teacher."
+    },
+    {
+      "id": "t03-rc-07",
+      "part": "A",
+      "section": "rc",
+      "topic": "Symbolism",
+      "passageId": "t03-p2",
+      "question": "'Fire will test what hands have made.' Here 'fire' symbolises ____.",
+      "options": [
+        "trials that test a person's strength",
+        "the kitchen of the potter",
+        "the anger of the teacher",
+        "a danger to the village"
+      ],
+      "correctIndex": 0,
+      "explanation": "Fire hardens clay and shows weak pots, symbolising life's tests that reveal the strength of a person shaped by education."
+    },
+    {
+      "id": "t03-rc-08",
+      "part": "A",
+      "section": "rc",
+      "topic": "Poetic structure",
+      "passageId": "t03-p2",
+      "question": "The rhyme scheme of the first stanza (spin, form, grin, storm) is ____.",
+      "options": [
+        "AABB",
+        "ABBA",
+        "ABCD",
+        "ABAB"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Spin' and 'grin' rhyme (lines 1 and 3) and 'form' and 'storm' rhyme (lines 2 and 4), giving ABAB. The other schemes do not match this pattern."
+    },
+    {
+      "id": "t03-rc-09",
+      "part": "A",
+      "section": "rc",
+      "topic": "Vocabulary in context",
+      "passageId": "t03-p2",
+      "question": "The word 'conceit' in 'Not for praise nor for conceit' means ____.",
+      "options": [
+        "generosity",
+        "excessive pride",
+        "money",
+        "hatred"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Conceit' means too much pride in oneself; the potter does not work for praise or vanity."
+    },
+    {
+      "id": "t03-rc-10",
+      "part": "A",
+      "section": "rc",
+      "topic": "Inference",
+      "passageId": "t03-p2",
+      "question": "'Rich in patience, not in gold' means the potter ____.",
+      "options": [
+        "earns a lot of gold",
+        "is lazy",
+        "hates money",
+        "has great patience though he is not wealthy"
+      ],
+      "correctIndex": 3,
+      "explanation": "The phrase contrasts inner wealth (patience) with material wealth. It does not say he hates money or is lazy."
+    },
+    {
+      "id": "t03-rc-11",
+      "part": "A",
+      "section": "rc",
+      "topic": "Main idea",
+      "passageId": "t03-p3",
+      "question": "The writer argues that the reading habit can be revived by ____.",
+      "options": [
+        "offering good stories, open libraries and role models",
+        "banning phones",
+        "abolishing examinations",
+        "closing bookshops"
+      ],
+      "correctIndex": 0,
+      "explanation": "The last sentence states the solution: interesting stories, open libraries and living examples of readers, not banning screens."
+    },
+    {
+      "id": "t03-rc-12",
+      "part": "A",
+      "section": "rc",
+      "topic": "Vocabulary in context",
+      "passageId": "t03-p3",
+      "question": "The word 'lament' in the passage means ____.",
+      "options": [
+        "celebrate",
+        "ignore",
+        "express sorrow",
+        "deny"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Lament' means to express sadness or regret, as educators do about the vanishing habit of reading."
+    },
+    {
+      "id": "t03-rc-13",
+      "part": "A",
+      "section": "rc",
+      "topic": "Attitude",
+      "passageId": "t03-p3",
+      "question": "The writer's attitude towards technology is ____.",
+      "options": [
+        "entirely hostile",
+        "balanced",
+        "entirely supportive",
+        "indifferent"
+      ],
+      "correctIndex": 1,
+      "explanation": "He says it is unfair to blame technology alone and notes that e-books can be allies. The view is balanced."
+    },
+    {
+      "id": "t03-rc-14",
+      "part": "A",
+      "section": "rc",
+      "topic": "Detail (NOT mentioned)",
+      "passageId": "t03-p3",
+      "question": "Which of the following is NOT mentioned as a reason for the decline of reading?",
+      "options": [
+        "Reading is treated as an examination chore",
+        "Libraries are poorly stocked",
+        "Few teachers read aloud",
+        "Books have become too expensive"
+      ],
+      "correctIndex": 3,
+      "explanation": "The first three are stated in the passage; the high cost of books is never mentioned."
+    },
+    {
+      "id": "t03-rc-15",
+      "part": "A",
+      "section": "rc",
+      "topic": "Rhetorical device",
+      "passageId": "t03-p3",
+      "question": "The sentence 'Reading a novel requires patience; scrolling through short videos demands almost none' uses ____.",
+      "options": [
+        "repetition",
+        "exaggeration",
+        "contrast",
+        "personification"
+      ],
+      "correctIndex": 2,
+      "explanation": "Two activities are set against each other (patience needed vs almost none), which is contrast/antithesis."
+    },
+    {
+      "id": "t03-ped-01",
+      "part": "A",
+      "section": "ped",
+      "topic": "Reading skills",
+      "question": "Reading quickly to get the general idea of a text is called ____.",
+      "questionHi": "किसी पाठ का सामान्य भाव जानने के लिए उसे तेज़ी से पढ़ना ____ कहलाता है।",
+      "options": [
+        "intensive reading",
+        "scanning",
+        "skimming",
+        "reading aloud"
+      ],
+      "optionsHi": [
+        "गहन पठन (intensive reading)",
+        "Scanning (विशिष्ट जानकारी खोजना)",
+        "Skimming (त्वरित पठन)",
+        "सस्वर पठन (reading aloud)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Skimming means running the eyes quickly over a text to grasp its main idea. Scanning is searching for a specific detail; intensive reading is careful, detailed reading; reading aloud is oral reading.",
+      "explanationHi": "Skimming में मुख्य भाव समझने के लिए पाठ पर तेज़ी से नज़र दौड़ाई जाती है। Scanning में किसी विशेष जानकारी को खोजा जाता है; intensive reading ध्यानपूर्वक विस्तृत पठन है; reading aloud ज़ोर से पढ़ना है।"
+    },
+    {
+      "id": "t03-ped-02",
+      "part": "A",
+      "section": "ped",
+      "topic": "Phonology: minimal pairs",
+      "question": "A minimal pair is a pair of words that differ in only one ____.",
+      "questionHi": "Minimal pair शब्दों का वह जोड़ा है जो केवल एक ____ में भिन्न होता है।",
+      "options": [
+        "syllable",
+        "morpheme",
+        "clause",
+        "phoneme"
+      ],
+      "optionsHi": [
+        "Syllable (अक्षर)",
+        "Morpheme (रूपिम)",
+        "Clause (उपवाक्य)",
+        "Phoneme (स्वनिम)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Minimal pairs such as 'pat' and 'bat' differ in a single phoneme and show that the sounds are distinct in the language. Syllable, morpheme and clause are larger units.",
+      "explanationHi": "'pat' और 'bat' जैसे minimal pairs केवल एक phoneme में भिन्न होते हैं और दिखाते हैं कि भाषा में वे ध्वनियाँ अलग हैं। Syllable, morpheme और clause बड़ी इकाइयाँ हैं।"
+    },
+    {
+      "id": "t03-ped-03",
+      "part": "A",
+      "section": "ped",
+      "topic": "Multilingualism",
+      "question": "Alternating between two languages within a single conversation is called ____.",
+      "questionHi": "एक ही बातचीत में दो भाषाओं के बीच बदलते रहना ____ कहलाता है।",
+      "options": [
+        "code-switching",
+        "interlanguage",
+        "fossilisation",
+        "translation"
+      ],
+      "optionsHi": [
+        "Code-switching (भाषा-परिवर्तन)",
+        "Interlanguage (अंतर्भाषा)",
+        "Fossilisation (त्रुटि का स्थायी होना)",
+        "Translation (अनुवाद)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Code-switching is the natural alternation between languages by bilingual speakers. Interlanguage is a learner's developing system; fossilisation is permanent error retention; translation is rendering text from one language to another.",
+      "explanationHi": "Code-switching में द्विभाषी वक्ता स्वाभाविक रूप से दो भाषाओं के बीच बदलते हैं। Interlanguage सीखने वाले की विकसित होती भाषा-व्यवस्था है; fossilisation त्रुटि का स्थायी हो जाना है; translation एक भाषा के पाठ को दूसरी में बदलना है।"
+    },
+    {
+      "id": "t03-ped-04",
+      "part": "A",
+      "section": "ped",
+      "topic": "LSRW skills",
+      "question": "Which two skills are called receptive skills?",
+      "questionHi": "कौन-से दो कौशल ग्रहणशील (receptive) कौशल कहलाते हैं?",
+      "options": [
+        "Speaking and writing",
+        "Reading and writing",
+        "Listening and reading",
+        "Speaking and listening"
+      ],
+      "optionsHi": [
+        "बोलना और लिखना",
+        "पढ़ना और लिखना",
+        "सुनना और पढ़ना",
+        "बोलना और सुनना"
+      ],
+      "correctIndex": 2,
+      "explanation": "Listening and reading involve receiving language, so they are receptive. Speaking and writing are productive skills.",
+      "explanationHi": "सुनना और पढ़ना भाषा को ग्रहण करने वाले कौशल हैं, इसलिए receptive हैं। बोलना और लिखना productive कौशल हैं।"
+    },
+    {
+      "id": "t03-ped-05",
+      "part": "A",
+      "section": "ped",
+      "topic": "Testing language: cloze",
+      "question": "In a cloze test, the learner is asked to ____.",
+      "questionHi": "Cloze test में विद्यार्थी से ____ कहा जाता है।",
+      "options": [
+        "fill in words deleted at regular intervals from a passage",
+        "translate a passage into the mother tongue",
+        "arrange jumbled sentences in order",
+        "write an essay on a given topic"
+      ],
+      "optionsHi": [
+        "अनुच्छेद से नियमित अंतराल पर हटाए गए शब्दों को भरने",
+        "अनुच्छेद का मातृभाषा में अनुवाद करने",
+        "बिखरे वाक्यों को क्रम में लगाने",
+        "दिए गए विषय पर निबंध लिखने"
+      ],
+      "correctIndex": 0,
+      "explanation": "A cloze test deletes words (often every fifth or seventh word) from a passage and the learner restores them, testing comprehension and language use. The other options describe translation, sequencing and essay tasks.",
+      "explanationHi": "Cloze test में अनुच्छेद से शब्द (प्रायः हर पाँचवाँ या सातवाँ) हटा दिए जाते हैं और विद्यार्थी उन्हें भरता है, जिससे बोध और भाषा-प्रयोग जाँचा जाता है। अन्य विकल्प अनुवाद, क्रमबद्धता और निबंध कार्य हैं।"
+    },
+    {
+      "id": "t03-ped-06",
+      "part": "A",
+      "section": "ped",
+      "topic": "Role of grammar",
+      "question": "According to the modern view, grammar should be taught ____.",
+      "questionHi": "आधुनिक दृष्टिकोण के अनुसार व्याकरण ____ पढ़ाया जाना चाहिए।",
+      "options": [
+        "in context, as a tool for communication",
+        "through rote memorisation of rules",
+        "only in senior classes",
+        "only through translation"
+      ],
+      "optionsHi": [
+        "संदर्भ में, संप्रेषण के साधन के रूप में",
+        "नियमों को रटवाकर",
+        "केवल बड़ी कक्षाओं में",
+        "केवल अनुवाद द्वारा"
+      ],
+      "correctIndex": 0,
+      "explanation": "Modern approaches (e.g. CLT) teach grammar inductively and in meaningful context. Rote memorisation, delaying it, or only translation are traditional and less effective.",
+      "explanationHi": "आधुनिक विधियाँ (जैसे CLT) व्याकरण को सार्थक संदर्भ में और आगमनात्मक रूप से पढ़ाती हैं। रटना, देर से पढ़ाना या केवल अनुवाद पारंपरिक और कम प्रभावी तरीके हैं।"
+    },
+    {
+      "id": "t03-ped-07",
+      "part": "A",
+      "section": "ped",
+      "topic": "Methods: Direct Method",
+      "question": "Which method forbids the use of the mother tongue in the classroom?",
+      "questionHi": "कौन-सी विधि कक्षा में मातृभाषा के प्रयोग का निषेध करती है?",
+      "options": [
+        "Grammar-Translation Method",
+        "Bilingual Method",
+        "Eclectic Method",
+        "Direct Method"
+      ],
+      "optionsHi": [
+        "Grammar-Translation विधि",
+        "Bilingual विधि",
+        "Eclectic विधि",
+        "Direct विधि"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Direct Method teaches the target language directly without translation or use of the mother tongue. The Grammar-Translation and Bilingual methods use the mother tongue; the Eclectic method mixes methods.",
+      "explanationHi": "Direct Method में लक्ष्य भाषा सीधे सिखाई जाती है, अनुवाद या मातृभाषा के बिना। Grammar-Translation और Bilingual विधियाँ मातृभाषा का प्रयोग करती हैं; Eclectic विधि कई विधियों का मिश्रण है।"
+    },
+    {
+      "id": "t03-ped-08",
+      "part": "A",
+      "section": "ped",
+      "topic": "Methods: Audio-lingual",
+      "question": "The Audio-lingual Method is based on the theory of ____.",
+      "questionHi": "Audio-lingual विधि ____ के सिद्धांत पर आधारित है।",
+      "options": [
+        "Cognitivism",
+        "Constructivism",
+        "Behaviourism",
+        "Humanism"
+      ],
+      "optionsHi": [
+        "संज्ञानवाद (Cognitivism)",
+        "रचनावाद (Constructivism)",
+        "व्यवहारवाद (Behaviourism)",
+        "मानववाद (Humanism)"
+      ],
+      "correctIndex": 2,
+      "explanation": "It relies on stimulus-response, drills and habit formation, which are behaviourist ideas (Skinner). The other theories stress mental processes or learner construction of meaning.",
+      "explanationHi": "यह उद्दीपन-अनुक्रिया, अभ्यास (drill) और आदत-निर्माण पर आधारित है, जो व्यवहारवादी (Skinner) विचार हैं। अन्य सिद्धांत मानसिक प्रक्रियाओं या ज्ञान-निर्माण पर बल देते हैं।"
+    },
+    {
+      "id": "t03-ped-09",
+      "part": "A",
+      "section": "ped",
+      "topic": "Errors vs mistakes",
+      "question": "A systematic deviation from the correct form caused by lack of knowledge of the rule is called an ____.",
+      "questionHi": "नियम की जानकारी न होने के कारण होने वाला व्यवस्थित विचलन ____ कहलाता है।",
+      "options": [
+        "error",
+        "mistake",
+        "slip of tongue",
+        "lapse"
+      ],
+      "optionsHi": [
+        "त्रुटि (error)",
+        "गलती (mistake)",
+        "जुबान फिसलना (slip of tongue)",
+        "चूक (lapse)"
+      ],
+      "correctIndex": 0,
+      "explanation": "An error is systematic and shows incomplete knowledge; learners cannot self-correct it. A mistake, slip or lapse is a performance failure that the learner can usually correct.",
+      "explanationHi": "Error व्यवस्थित होती है और अधूरे ज्ञान को दर्शाती है; सीखने वाला उसे स्वयं नहीं सुधार पाता। Mistake, slip या lapse प्रदर्शन की भूल है जिसे वह प्रायः सुधार सकता है।"
+    },
+    {
+      "id": "t03-ped-10",
+      "part": "A",
+      "section": "ped",
+      "topic": "Interlanguage",
+      "question": "The term 'interlanguage' was introduced by ____.",
+      "questionHi": "'Interlanguage' शब्द किसने दिया?",
+      "options": [
+        "Chomsky",
+        "Selinker",
+        "Krashen",
+        "Bruner"
+      ],
+      "optionsHi": [
+        "Chomsky",
+        "Selinker",
+        "Krashen",
+        "Bruner"
+      ],
+      "correctIndex": 1,
+      "explanation": "Larry Selinker coined 'interlanguage' (1972) for the learner's developing system between the first and the target language. Chomsky proposed LAD, Krashen the Monitor model, Bruner scaffolding.",
+      "explanationHi": "Larry Selinker ने 1972 में 'interlanguage' शब्द दिया, जो सीखने वाले की मातृभाषा और लक्ष्य भाषा के बीच की विकसित होती व्यवस्था है। Chomsky ने LAD, Krashen ने Monitor model और Bruner ने scaffolding दिया।"
+    },
+    {
+      "id": "t03-ped-11",
+      "part": "A",
+      "section": "ped",
+      "topic": "Methods: TBLT",
+      "question": "Task-Based Language Teaching (TBLT) focuses mainly on ____.",
+      "questionHi": "Task-Based Language Teaching (TBLT) मुख्यतः ____ पर केंद्रित है।",
+      "options": [
+        "translating long passages",
+        "memorising paradigms",
+        "completing meaningful tasks using language",
+        "drilling patterns"
+      ],
+      "optionsHi": [
+        "लंबे गद्यांशों का अनुवाद",
+        "रूप-तालिकाएँ रटना",
+        "भाषा का प्रयोग करके सार्थक कार्य पूरे करना",
+        "पैटर्न का अभ्यास (drill)"
+      ],
+      "correctIndex": 2,
+      "explanation": "TBLT organises learning around real-life tasks (e.g. planning a trip). Translation, memorisation and drills belong to older methods.",
+      "explanationHi": "TBLT में सीखना वास्तविक जीवन के कार्यों (जैसे यात्रा की योजना) के इर्द-गिर्द होता है। अनुवाद, रटना और drill पुरानी विधियों से जुड़े हैं।"
+    },
+    {
+      "id": "t03-ped-12",
+      "part": "A",
+      "section": "ped",
+      "topic": "Krashen's Input Hypothesis",
+      "question": "According to Krashen's Input Hypothesis (i+1), the input given to learners should be ____.",
+      "questionHi": "Krashen की Input Hypothesis (i+1) के अनुसार सीखने वालों को दिया जाने वाला input ____ होना चाहिए।",
+      "options": [
+        "exactly at the learner's present level",
+        "far above the learner's level",
+        "below the learner's level",
+        "slightly above the learner's current level"
+      ],
+      "optionsHi": [
+        "ठीक सीखने वाले के वर्तमान स्तर का",
+        "सीखने वाले के स्तर से बहुत ऊपर का",
+        "सीखने वाले के स्तर से नीचे का",
+        "सीखने वाले के वर्तमान स्तर से थोड़ा ऊपर का"
+      ],
+      "correctIndex": 3,
+      "explanation": "'i' is the present level and '+1' the next stage; input slightly beyond the current level is understandable yet challenging. Input at, far above or below the level does not promote progress.",
+      "explanationHi": "'i' वर्तमान स्तर है और '+1' अगला चरण; वर्तमान स्तर से थोड़ा ऊपर का input समझने योग्य और चुनौतीपूर्ण होता है। बराबर, बहुत ऊपर या नीचे का input प्रगति नहीं कराता।"
+    },
+    {
+      "id": "t03-ped-13",
+      "part": "A",
+      "section": "ped",
+      "topic": "Remedial teaching",
+      "question": "Remedial teaching in language classes is meant for ____.",
+      "questionHi": "भाषा कक्षाओं में उपचारात्मक शिक्षण (remedial teaching) ____ के लिए होता है।",
+      "options": [
+        "only gifted students",
+        "students with identified learning gaps",
+        "parents of students",
+        "new teachers"
+      ],
+      "optionsHi": [
+        "केवल प्रतिभाशाली विद्यार्थियों",
+        "जिन विद्यार्थियों की सीखने की कमियाँ पहचानी गई हैं",
+        "विद्यार्थियों के अभिभावकों",
+        "नए शिक्षकों"
+      ],
+      "correctIndex": 1,
+      "explanation": "Remedial teaching follows diagnosis and helps learners overcome specific difficulties. It is not for gifted learners, parents or teachers.",
+      "explanationHi": "उपचारात्मक शिक्षण निदान के बाद किया जाता है और विद्यार्थियों की विशिष्ट कठिनाइयाँ दूर करता है। यह प्रतिभाशाली विद्यार्थियों, अभिभावकों या शिक्षकों के लिए नहीं है।"
+    },
+    {
+      "id": "t03-ped-14",
+      "part": "A",
+      "section": "ped",
+      "topic": "Multilingual classroom",
+      "question": "In a multilingual classroom, a teacher should ____.",
+      "questionHi": "बहुभाषी कक्षा में शिक्षक को ____ चाहिए।",
+      "options": [
+        "treat children's home languages as resources for learning",
+        "ban the use of home languages",
+        "punish children who speak their mother tongue",
+        "ignore the language differences"
+      ],
+      "optionsHi": [
+        "बच्चों की घरेलू भाषाओं को सीखने के संसाधन के रूप में देखना",
+        "घरेलू भाषाओं के प्रयोग पर रोक लगाना",
+        "मातृभाषा बोलने वाले बच्चों को दंड देना",
+        "भाषा के अंतर की उपेक्षा करना"
+      ],
+      "correctIndex": 0,
+      "explanation": "Current policy (NCF, NEP) treats home languages as a resource that supports learning English. Banning, punishing or ignoring them harms learning.",
+      "explanationHi": "वर्तमान नीतियाँ (NCF, NEP) घरेलू भाषाओं को संसाधन मानती हैं जो अंग्रेज़ी सीखने में सहायक हैं। रोकना, दंड देना या उपेक्षा करना सीखने को हानि पहुँचाता है।"
+    },
+    {
+      "id": "t03-ped-15",
+      "part": "A",
+      "section": "ped",
+      "topic": "Chomsky: LAD",
+      "question": "Chomsky's concept of the Language Acquisition Device (LAD) suggests that ____.",
+      "questionHi": "Chomsky की Language Acquisition Device (LAD) की अवधारणा बताती है कि ____।",
+      "options": [
+        "children learn only by imitation",
+        "language is learnt only through rewards",
+        "humans are born with an innate capacity for language",
+        "language develops only after schooling begins"
+      ],
+      "optionsHi": [
+        "बच्चे केवल अनुकरण से सीखते हैं",
+        "भाषा केवल पुरस्कार से सीखी जाती है",
+        "मनुष्य जन्म से ही भाषा सीखने की जन्मजात क्षमता रखता है",
+        "भाषा केवल स्कूल जाने के बाद विकसित होती है"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chomsky argued that humans have an innate faculty (LAD) for language. Imitation and reward are Skinner's behaviourist views; schooling is not required.",
+      "explanationHi": "Chomsky के अनुसार मनुष्य में भाषा की जन्मजात क्षमता (LAD) होती है। अनुकरण और पुरस्कार Skinner के व्यवहारवादी विचार हैं; भाषा के लिए स्कूल आवश्यक नहीं।"
+    }
+  ]
+}

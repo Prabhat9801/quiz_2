@@ -1,0 +1,499 @@
+{
+  "questions": [
+    {
+      "id": "t03-hindi-01",
+      "part": "C",
+      "section": "hindi",
+      "topic": "समास",
+      "question": "'यथाशक्ति' शब्द में कौन-सा समास है?",
+      "options": [
+        "तत्पुरुष समास",
+        "अव्ययीभाव समास",
+        "द्वंद्व समास",
+        "बहुव्रीहि समास"
+      ],
+      "correctIndex": 1,
+      "explanation": "'यथाशक्ति' का विग्रह 'शक्ति के अनुसार' है। इसका पहला पद 'यथा' अव्यय है और समस्त पद भी अव्यय की तरह प्रयुक्त होता है, इसलिए अव्ययीभाव समास है। अन्य समासों में ऐसा नहीं होता।"
+    },
+    {
+      "id": "t03-hindi-02",
+      "part": "C",
+      "section": "hindi",
+      "topic": "एक शब्द",
+      "question": "'जो पहले कभी न हुआ हो' के लिए एक शब्द है -",
+      "options": [
+        "अनिवार्य",
+        "अदृश्य",
+        "अज्ञात",
+        "अभूतपूर्व"
+      ],
+      "correctIndex": 3,
+      "explanation": "'अभूतपूर्व' का अर्थ है जो पहले कभी न हुआ हो। 'अनिवार्य' का अर्थ अवश्य होने वाला, 'अदृश्य' का अर्थ जो दिखाई न दे और 'अज्ञात' का अर्थ जो जाना न गया हो है।"
+    },
+    {
+      "id": "t03-hindi-03",
+      "part": "C",
+      "section": "hindi",
+      "topic": "पर्यायवाची",
+      "question": "'कमल' का पर्यायवाची शब्द कौन-सा है?",
+      "options": [
+        "जलज",
+        "विटप",
+        "गज",
+        "नभ"
+      ],
+      "correctIndex": 0,
+      "explanation": "'जलज' (जल में जन्म लेने वाला) कमल का पर्यायवाची है। 'विटप' का अर्थ पेड़, 'गज' का हाथी और 'नभ' का आकाश है।"
+    },
+    {
+      "id": "t03-hindi-04",
+      "part": "C",
+      "section": "hindi",
+      "topic": "विलोम शब्द",
+      "question": "'उत्कर्ष' का विलोम शब्द कौन-सा है?",
+      "options": [
+        "उत्थान",
+        "विकास",
+        "अपकर्ष",
+        "प्रकर्ष"
+      ],
+      "correctIndex": 2,
+      "explanation": "'उत्कर्ष' का अर्थ उन्नति है और उसका विलोम 'अपकर्ष' (पतन) है। उत्थान और विकास समानार्थी हैं तथा प्रकर्ष का अर्थ श्रेष्ठता है।"
+    },
+    {
+      "id": "t03-hindi-05",
+      "part": "C",
+      "section": "hindi",
+      "topic": "वर्तनी शुद्धि",
+      "question": "निम्नलिखित में से शुद्ध वर्तनी वाला शब्द कौन-सा है?",
+      "options": [
+        "अतिथी",
+        "अतिथि",
+        "अथिति",
+        "अतीथि"
+      ],
+      "correctIndex": 1,
+      "explanation": "शुद्ध शब्द 'अतिथि' है (ह्रस्व 'ि' के साथ)। अन्य विकल्पों में मात्रा या वर्ण-क्रम की अशुद्धि है।"
+    },
+    {
+      "id": "t03-english-01",
+      "part": "C",
+      "section": "english",
+      "topic": "Articles",
+      "question": "Fill in the blank with the correct article: He is ____ honest man.",
+      "options": [
+        "an",
+        "a",
+        "the",
+        "no article"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Honest' begins with a vowel sound (the 'h' is silent), so 'an' is used. 'A' is used before consonant sounds, and 'the' is not needed for a general statement."
+    },
+    {
+      "id": "t03-english-02",
+      "part": "C",
+      "section": "english",
+      "topic": "Prepositions",
+      "question": "Fill in the blank with the correct preposition: She is very fond ____ music.",
+      "options": [
+        "at",
+        "with",
+        "of",
+        "for"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Fond' is followed by 'of' (fond of something). The other prepositions do not collocate with 'fond'."
+    },
+    {
+      "id": "t03-english-03",
+      "part": "C",
+      "section": "english",
+      "topic": "Synonyms",
+      "question": "Choose the word closest in meaning to 'ABUNDANT'.",
+      "options": [
+        "Scarce",
+        "Rare",
+        "Meagre",
+        "Plentiful"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Abundant' means existing in large quantity, i.e. 'plentiful'. 'Scarce', 'rare' and 'meagre' mean the opposite."
+    },
+    {
+      "id": "t03-english-04",
+      "part": "C",
+      "section": "english",
+      "topic": "Number",
+      "question": "Choose the correct plural of 'mother-in-law'.",
+      "options": [
+        "mother-in-laws",
+        "mothers-in-law",
+        "mothers-in-laws",
+        "mother-in-law's"
+      ],
+      "correctIndex": 1,
+      "explanation": "In compound nouns of this type the principal noun takes the plural: 'mothers-in-law'. The other forms are incorrect."
+    },
+    {
+      "id": "t03-english-05",
+      "part": "C",
+      "section": "english",
+      "topic": "One-word substitution",
+      "question": "One word for 'a person who loves and collects books':",
+      "options": [
+        "Bibliographer",
+        "Philatelist",
+        "Bibliophile",
+        "Numismatist"
+      ],
+      "correctIndex": 2,
+      "explanation": "A bibliophile loves books. A bibliographer lists books, a philatelist collects stamps and a numismatist collects coins."
+    },
+    {
+      "id": "t03-mental-01",
+      "part": "C",
+      "section": "mental",
+      "topic": "Analogy",
+      "question": "Pen : Write :: Knife : ?",
+      "questionHi": "कलम : लिखना :: चाकू : ?",
+      "options": [
+        "Sharp",
+        "Kitchen",
+        "Steel",
+        "Cut"
+      ],
+      "optionsHi": [
+        "तेज़",
+        "रसोई",
+        "इस्पात",
+        "काटना"
+      ],
+      "correctIndex": 3,
+      "explanation": "A pen is used to write; similarly a knife is used to cut. Sharp, kitchen and steel are not its function.",
+      "explanationHi": "कलम का काम लिखना है; इसी प्रकार चाकू का काम काटना है। तेज़, रसोई और इस्पात उसका कार्य नहीं हैं।"
+    },
+    {
+      "id": "t03-mental-02",
+      "part": "C",
+      "section": "mental",
+      "topic": "Number series",
+      "question": "Find the next number: 3, 6, 12, 24, ?",
+      "questionHi": "अगली संख्या ज्ञात कीजिए: 3, 6, 12, 24, ?",
+      "options": [
+        "48",
+        "36",
+        "42",
+        "30"
+      ],
+      "optionsHi": [
+        "48",
+        "36",
+        "42",
+        "30"
+      ],
+      "correctIndex": 0,
+      "explanation": "Each term is double the previous one (3x2=6, 6x2=12, 12x2=24), so the next is 24x2 = 48.",
+      "explanationHi": "प्रत्येक पद पिछले पद का दुगुना है (3x2=6, 6x2=12, 12x2=24), इसलिए अगला पद 24x2 = 48 होगा।"
+    },
+    {
+      "id": "t03-mental-03",
+      "part": "C",
+      "section": "mental",
+      "topic": "Coding-decoding",
+      "question": "If CAT is written as DBU in a code, how will DOG be written?",
+      "questionHi": "यदि किसी कूट में CAT को DBU लिखा जाता है, तो DOG को कैसे लिखा जाएगा?",
+      "options": [
+        "EPI",
+        "EPH",
+        "ENH",
+        "DPH"
+      ],
+      "optionsHi": [
+        "EPI",
+        "EPH",
+        "ENH",
+        "DPH"
+      ],
+      "correctIndex": 1,
+      "explanation": "Each letter is moved one step forward: C to D, A to B, T to U. So D to E, O to P, G to H gives EPH.",
+      "explanationHi": "प्रत्येक अक्षर एक स्थान आगे बढ़ाया गया है: C से D, A से B, T से U। अतः D से E, O से P, G से H मिलकर EPH बनता है।"
+    },
+    {
+      "id": "t03-mental-04",
+      "part": "C",
+      "section": "mental",
+      "topic": "Blood relations",
+      "question": "Pointing to a girl, Ravi said, 'She is the daughter of my father's only sister.' How is the girl related to Ravi?",
+      "questionHi": "एक लड़की की ओर इशारा करके रवि ने कहा, 'वह मेरे पिता की इकलौती बहन की बेटी है।' वह लड़की रवि की क्या लगती है?",
+      "options": [
+        "Sister",
+        "Niece",
+        "Cousin",
+        "Aunt"
+      ],
+      "optionsHi": [
+        "बहन",
+        "भतीजी/भांजी",
+        "चचेरी/फुफेरी बहन (Cousin)",
+        "बुआ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ravi's father's sister is his paternal aunt; her daughter is Ravi's cousin.",
+      "explanationHi": "रवि के पिता की बहन उसकी बुआ है और उसकी बेटी रवि की फुफेरी बहन (cousin) है।"
+    },
+    {
+      "id": "t03-mental-05",
+      "part": "C",
+      "section": "mental",
+      "topic": "Direction sense",
+      "question": "A man walks 5 km north, turns right and walks 3 km, then turns right again and walks 5 km. How far is he from his starting point?",
+      "questionHi": "एक व्यक्ति 5 किमी उत्तर की ओर चलता है, फिर दाएँ मुड़कर 3 किमी चलता है, फिर दोबारा दाएँ मुड़कर 5 किमी चलता है। वह अपने प्रारंभिक बिंदु से कितनी दूर है?",
+      "options": [
+        "3 km",
+        "5 km",
+        "8 km",
+        "13 km"
+      ],
+      "optionsHi": [
+        "3 किमी",
+        "5 किमी",
+        "8 किमी",
+        "13 किमी"
+      ],
+      "correctIndex": 0,
+      "explanation": "He goes 5 km north, 3 km east, then 5 km south, so he is 3 km east of the start.",
+      "explanationHi": "वह 5 किमी उत्तर, 3 किमी पूर्व और फिर 5 किमी दक्षिण चलता है, इसलिए वह प्रारंभिक बिंदु से 3 किमी पूर्व में है।"
+    },
+    {
+      "id": "t03-computer-01",
+      "part": "C",
+      "section": "computer",
+      "topic": "CPU",
+      "question": "The speed of a computer processor (CPU clock) is commonly measured in ______.",
+      "questionHi": "कंप्यूटर प्रोसेसर (CPU clock) की गति सामान्यतः ______ में मापी जाती है।",
+      "options": [
+        "Pixels",
+        "Decibels",
+        "Gigahertz (GHz)",
+        "Ohms"
+      ],
+      "optionsHi": [
+        "पिक्सेल",
+        "डेसिबल",
+        "गीगाहर्ट्ज़ (GHz)",
+        "ओम"
+      ],
+      "correctIndex": 2,
+      "explanation": "CPU clock speed is measured in hertz, usually gigahertz (GHz). Pixels measure image resolution, decibels measure sound level and ohms measure resistance.",
+      "explanationHi": "CPU clock speed hertz में, सामान्यतः गीगाहर्ट्ज़ (GHz) में मापी जाती है। पिक्सेल चित्र के रेज़ोल्यूशन, डेसिबल ध्वनि के स्तर और ओम प्रतिरोध की इकाई है।"
+    },
+    {
+      "id": "t03-computer-02",
+      "part": "C",
+      "section": "computer",
+      "topic": "Windows shortcuts",
+      "question": "Which shortcut key is used to copy selected text in Windows?",
+      "questionHi": "Windows में चुने हुए पाठ को कॉपी करने के लिए कौन-सी शॉर्टकट कुंजी प्रयोग होती है?",
+      "options": [
+        "Ctrl + V",
+        "Ctrl + C",
+        "Ctrl + X",
+        "Ctrl + Z"
+      ],
+      "optionsHi": [
+        "Ctrl + V",
+        "Ctrl + C",
+        "Ctrl + X",
+        "Ctrl + Z"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ctrl+C copies. Ctrl+V pastes, Ctrl+X cuts and Ctrl+Z undoes.",
+      "explanationHi": "Ctrl+C कॉपी करता है। Ctrl+V पेस्ट, Ctrl+X कट और Ctrl+Z अनडू करता है।"
+    },
+    {
+      "id": "t03-computer-03",
+      "part": "C",
+      "section": "computer",
+      "topic": "E-mail",
+      "question": "In e-mail, what does BCC stand for?",
+      "questionHi": "ई-मेल में BCC का पूरा रूप क्या है?",
+      "options": [
+        "Back Carbon Copy",
+        "Basic Carbon Copy",
+        "Better Carbon Copy",
+        "Blind Carbon Copy"
+      ],
+      "optionsHi": [
+        "Back Carbon Copy",
+        "Basic Carbon Copy",
+        "Better Carbon Copy",
+        "Blind Carbon Copy"
+      ],
+      "correctIndex": 3,
+      "explanation": "BCC is Blind Carbon Copy; recipients in BCC receive the mail but their addresses are hidden from others. The other expansions are incorrect.",
+      "explanationHi": "BCC का अर्थ Blind Carbon Copy है; BCC में दिए गए प्राप्तकर्ताओं को मेल मिलता है पर उनके पते दूसरों से छिपे रहते हैं। अन्य रूप गलत हैं।"
+    },
+    {
+      "id": "t03-computer-04",
+      "part": "C",
+      "section": "computer",
+      "topic": "Hardware",
+      "question": "The main circuit board of a computer, to which the CPU and RAM are attached, is called the ____.",
+      "questionHi": "कंप्यूटर का वह मुख्य सर्किट बोर्ड, जिससे CPU और RAM जुड़े होते हैं, ____ कहलाता है।",
+      "options": [
+        "Motherboard",
+        "Heat sink",
+        "Monitor",
+        "Scanner"
+      ],
+      "optionsHi": [
+        "Motherboard",
+        "Heat sink",
+        "Monitor",
+        "Scanner"
+      ],
+      "correctIndex": 0,
+      "explanation": "The motherboard connects and carries all major components such as the CPU, RAM and ports. A heat sink only cools the processor, a monitor is an output device and a scanner an input device.",
+      "explanationHi": "Motherboard CPU, RAM और पोर्ट जैसे सभी प्रमुख घटकों को जोड़ता है। Heat sink केवल प्रोसेसर को ठंडा रखता है, monitor आउटपुट डिवाइस और scanner इनपुट डिवाइस है।"
+    },
+    {
+      "id": "t03-computer-05",
+      "part": "C",
+      "section": "computer",
+      "topic": "MS Office",
+      "question": "What is the default file extension of a modern MS Excel workbook?",
+      "questionHi": "आधुनिक MS Excel वर्कबुक का डिफ़ॉल्ट फ़ाइल एक्सटेंशन क्या है?",
+      "options": [
+        ".docx",
+        ".pptx",
+        ".txt",
+        ".xlsx"
+      ],
+      "optionsHi": [
+        ".docx",
+        ".pptx",
+        ".txt",
+        ".xlsx"
+      ],
+      "correctIndex": 3,
+      "explanation": ".xlsx is used for Excel workbooks. .docx is Word, .pptx is PowerPoint and .txt is plain text.",
+      "explanationHi": "Excel वर्कबुक के लिए .xlsx प्रयोग होता है। .docx Word, .pptx PowerPoint और .txt सादा टेक्स्ट फ़ाइल है।"
+    },
+    {
+      "id": "t03-gk-01",
+      "part": "C",
+      "section": "gk",
+      "topic": "Indian Constitution",
+      "question": "Article 21A of the Indian Constitution provides for ____.",
+      "questionHi": "भारतीय संविधान का अनुच्छेद 21A ____ का प्रावधान करता है।",
+      "options": [
+        "right to equality",
+        "free and compulsory education for children aged 6 to 14 years",
+        "right to property",
+        "right to constitutional remedies"
+      ],
+      "optionsHi": [
+        "समानता का अधिकार",
+        "6 से 14 वर्ष के बच्चों के लिए निःशुल्क और अनिवार्य शिक्षा",
+        "संपत्ति का अधिकार",
+        "संवैधानिक उपचारों का अधिकार"
+      ],
+      "correctIndex": 1,
+      "explanation": "Article 21A, inserted by the 86th Amendment (2002), gives free and compulsory education to children aged 6-14. Equality is Articles 14-18 and constitutional remedies Article 32.",
+      "explanationHi": "86वें संशोधन (2002) द्वारा जोड़ा गया अनुच्छेद 21A 6-14 वर्ष के बच्चों को निःशुल्क और अनिवार्य शिक्षा देता है। समानता अनुच्छेद 14-18 और संवैधानिक उपचार अनुच्छेद 32 में हैं।"
+    },
+    {
+      "id": "t03-gk-02",
+      "part": "C",
+      "section": "gk",
+      "topic": "Modern Indian history",
+      "question": "Who was the Governor-General of India at the time of the Revolt of 1857?",
+      "questionHi": "1857 के विद्रोह के समय भारत का गवर्नर-जनरल कौन था?",
+      "options": [
+        "Lord Dalhousie",
+        "Lord Ripon",
+        "Lord Canning",
+        "Lord Curzon"
+      ],
+      "optionsHi": [
+        "लॉर्ड डलहौजी",
+        "लॉर्ड रिपन",
+        "लॉर्ड कैनिंग",
+        "लॉर्ड कर्जन"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lord Canning (1856-62) was Governor-General in 1857. Dalhousie left in 1856, Ripon served in 1880-84 and Curzon in 1899-1905.",
+      "explanationHi": "1857 में लॉर्ड कैनिंग (1856-62) गवर्नर-जनरल थे। डलहौजी 1856 में चले गए थे, रिपन 1880-84 और कर्जन 1899-1905 में रहे।"
+    },
+    {
+      "id": "t03-gk-03",
+      "part": "C",
+      "section": "gk",
+      "topic": "Indian geography",
+      "question": "Which is the largest peninsular river of India?",
+      "questionHi": "भारत की सबसे बड़ी प्रायद्वीपीय नदी कौन-सी है?",
+      "options": [
+        "Godavari",
+        "Krishna",
+        "Kaveri",
+        "Narmada"
+      ],
+      "optionsHi": [
+        "गोदावरी",
+        "कृष्णा",
+        "कावेरी",
+        "नर्मदा"
+      ],
+      "correctIndex": 0,
+      "explanation": "The Godavari (about 1,465 km) is the longest river of peninsular India. Krishna, Kaveri and Narmada are shorter.",
+      "explanationHi": "गोदावरी (लगभग 1,465 किमी) प्रायद्वीपीय भारत की सबसे लंबी नदी है। कृष्णा, कावेरी और नर्मदा इससे छोटी हैं।"
+    },
+    {
+      "id": "t03-gk-04",
+      "part": "C",
+      "section": "gk",
+      "topic": "Chhattisgarh GK",
+      "question": "The famous Chitrakoot waterfall of Chhattisgarh is on which river?",
+      "questionHi": "छत्तीसगढ़ का प्रसिद्ध चित्रकोट जलप्रपात किस नदी पर है?",
+      "options": [
+        "Mahanadi",
+        "Shivnath",
+        "Arpa",
+        "Indravati"
+      ],
+      "optionsHi": [
+        "महानदी",
+        "शिवनाथ",
+        "अरपा",
+        "इंद्रावती"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chitrakoot Falls in Bastar district lies on the Indravati river. Mahanadi, Shivnath and Arpa flow elsewhere in the state.",
+      "explanationHi": "बस्तर ज़िले का चित्रकोट जलप्रपात इंद्रावती नदी पर स्थित है। महानदी, शिवनाथ और अरपा राज्य के अन्य भागों में बहती हैं।"
+    },
+    {
+      "id": "t03-gk-05",
+      "part": "C",
+      "section": "gk",
+      "topic": "General science",
+      "question": "Deficiency of which vitamin causes scurvy?",
+      "questionHi": "किस विटामिन की कमी से स्कर्वी रोग होता है?",
+      "options": [
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin B1",
+        "Vitamin A"
+      ],
+      "optionsHi": [
+        "विटामिन D",
+        "विटामिन C",
+        "विटामिन B1",
+        "विटामिन A"
+      ],
+      "correctIndex": 1,
+      "explanation": "Scurvy is caused by lack of Vitamin C. Vitamin D deficiency causes rickets, B1 causes beriberi and A causes night blindness.",
+      "explanationHi": "स्कर्वी विटामिन C की कमी से होता है। विटामिन D की कमी से रिकेट्स, B1 से बेरी-बेरी और A से रतौंधी होती है।"
+    }
+  ]
+}

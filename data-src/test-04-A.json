@@ -1,0 +1,1059 @@
+{
+ "passages": [
+  {
+   "id": "t04-p1",
+   "genre": "Scientific passage",
+   "title": "The Hidden Life of Soil",
+   "text": "Beneath every field lies a world that the eye cannot see. A single teaspoon of healthy soil may contain more microorganisms than there are people on Earth. These tiny organisms break down dead leaves and animal waste, releasing nutrients that plants need to grow. Some bacteria, living in the roots of pulses such as gram and peas, convert nitrogen from the air into a form that plants can absorb. This is why farmers have traditionally rotated pulses with cereals. However, excessive use of chemical fertilisers and pesticides can kill these helpful organisms, leaving the soil tired and lifeless. Scientists therefore urge farmers to add compost and to avoid ploughing too deeply. Healthy soil, they argue, is not merely a medium to hold plants upright; it is a living partner in agriculture whose care determines the harvest of the coming decades."
+  },
+  {
+   "id": "t04-p2",
+   "genre": "Drama extract",
+   "title": "The Late Bell",
+   "text": "MEERA: (looking at the clock) Arjun, this is the third time this week you have walked in after the bell.\nARJUN: (breathless, eyes lowered) I know, madam. I am sorry.\nMEERA: Sorry does not mend a broken habit. Where were you?\nARJUN: At home, madam. My little sister has a fever. Mother has gone to the fields, so I waited until the neighbour came to sit with her.\nMEERA: (her voice softening) Why did you not tell me this before?\nARJUN: I was afraid you would think I was making excuses. Everyone does when a boy is late.\nMEERA: (after a pause) Then I owe you an apology. I judged you before I asked you. Go and take your seat. And Arjun, if you ever need help, my door is open.\nARJUN: (a faint smile) Thank you, madam."
+  },
+  {
+   "id": "t04-p3",
+   "genre": "Newspaper editorial",
+   "title": "Libraries Deserve Better",
+   "text": "In many small towns, the public library is the only quiet corner where a child without a study table at home can open a book. Yet these libraries are often the first casualties when budgets are trimmed. Shelves hold outdated volumes, ceilings leak, and a single overworked clerk doubles as librarian and watchman. Officials argue that the internet has made libraries redundant. This argument is shortsighted. Not every household owns a smartphone, and not every smartphone user can tell reliable information from rumour. A good library offers both access and guidance. The cost of renewing a collection and keeping a reading room open until evening is modest when set beside the cost of a generation that cannot read critically. Local bodies should treat libraries not as ornaments of the past but as essential public services, funded as regularly as roads and street lights."
+  }
+ ],
+ "questions": [
+  {
+   "id": "t04-gram-01",
+   "part": "A",
+   "section": "gram",
+   "topic": "Finite and non-finite verbs",
+   "question": "In the sentence 'Seeing the police, the thieves ran away', the word 'Seeing' is -",
+   "options": [
+    "a finite verb",
+    "a gerund",
+    "a present participle",
+    "an infinitive"
+   ],
+   "correctIndex": 2,
+   "explanation": "'Seeing' is a non-finite verb form that modifies 'thieves', so it is a present participle. It is not finite (no tense or subject agreement), not a gerund (which works as a noun) and not an infinitive (which needs 'to')."
+  },
+  {
+   "id": "t04-gram-02",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subject-verb agreement",
+   "question": "Ten kilometres ___ a long distance to walk.",
+   "options": [
+    "are",
+    "is",
+    "were",
+    "have been"
+   ],
+   "correctIndex": 1,
+   "explanation": "A distance treated as a single unit takes a singular verb, so 'is' is correct."
+  },
+  {
+   "id": "t04-gram-03",
+   "part": "A",
+   "section": "gram",
+   "topic": "Tenses",
+   "question": "She ___ in Raipur since 2015.",
+   "options": [
+    "lives",
+    "is living",
+    "lived",
+    "has been living"
+   ],
+   "correctIndex": 3,
+   "explanation": "'Since 2015' indicates an action continuing up to now, so the present perfect continuous 'has been living' is used. Simple present, present continuous and simple past do not fit 'since'."
+  },
+  {
+   "id": "t04-gram-04",
+   "part": "A",
+   "section": "gram",
+   "topic": "Identifying clauses",
+   "question": "Choose the correct relative pronoun: My brother, ___ lives in Pune, is a software engineer.",
+   "options": [
+    "who",
+    "that",
+    "whom",
+    "which"
+   ],
+   "correctIndex": 0,
+   "explanation": "The clause is non-defining (set off by commas) and refers to a person as subject of 'lives', so 'who' is correct. 'That' is not used in non-defining clauses; 'whom' is the object form; 'which' is for things."
+  },
+  {
+   "id": "t04-gram-05",
+   "part": "A",
+   "section": "gram",
+   "topic": "Transformation of sentences",
+   "question": "Change into a compound sentence: 'Though he is poor, he is honest.'",
+   "options": [
+    "He is poor, so he is honest.",
+    "He is poor but he is honest.",
+    "Because he is poor he is honest.",
+    "He is poor, or he is honest."
+   ],
+   "correctIndex": 1,
+   "explanation": "'Though' (subordinate) is replaced by the coordinating conjunction 'but', making a compound sentence. 'So', 'because' and 'or' change the meaning."
+  },
+  {
+   "id": "t04-gram-06",
+   "part": "A",
+   "section": "gram",
+   "topic": "Direct and indirect speech",
+   "question": "Change into indirect speech: He said, \"I am writing a letter.\"",
+   "options": [
+    "He said that I am writing a letter.",
+    "He said that he is writing a letter.",
+    "He said that he was writing a letter.",
+    "He said that he had written a letter."
+   ],
+   "correctIndex": 2,
+   "explanation": "With a past reporting verb, the present continuous 'am writing' shifts to the past continuous 'was writing' and 'I' becomes 'he'. Other options keep the wrong tense or change it to past perfect."
+  },
+  {
+   "id": "t04-gram-07",
+   "part": "A",
+   "section": "gram",
+   "topic": "Inversion and cleft sentences",
+   "question": "Under no circumstances ___ the examination hall before time.",
+   "options": [
+    "may students leave",
+    "students may leave",
+    "students can leave",
+    "leave students may"
+   ],
+   "correctIndex": 0,
+   "explanation": "A negative adverbial at the beginning requires inversion of the auxiliary and the subject: 'may students leave'."
+  },
+  {
+   "id": "t04-gram-08",
+   "part": "A",
+   "section": "gram",
+   "topic": "Conditional sentences",
+   "question": "If water is heated to 100 degrees Celsius, it ___.",
+   "options": [
+    "would boil",
+    "boiled",
+    "will have boiled",
+    "boils"
+   ],
+   "correctIndex": 3,
+   "explanation": "A general scientific truth uses the zero conditional: If + present simple, present simple. So 'boils'."
+  },
+  {
+   "id": "t04-gram-09",
+   "part": "A",
+   "section": "gram",
+   "topic": "Elliptical sentence patterns",
+   "question": "Which sentence shows ellipsis (omission of words that are understood from the context)?",
+   "options": [
+    "Ravi likes tea and Sita coffee.",
+    "Ravi likes tea and Sita likes coffee.",
+    "Ravi, who likes tea, is here.",
+    "Does Ravi like tea?"
+   ],
+   "correctIndex": 0,
+   "explanation": "In 'Sita coffee' the verb 'likes' is omitted because it is understood from the first part. The other sentences have no omitted words."
+  },
+  {
+   "id": "t04-gram-10",
+   "part": "A",
+   "section": "gram",
+   "topic": "Determiners",
+   "question": "There is ___ hope of his recovery now, so the doctors have stopped trying.",
+   "options": [
+    "a little",
+    "few",
+    "little",
+    "a few"
+   ],
+   "correctIndex": 2,
+   "explanation": "'Little' means almost none (negative sense) with uncountable nouns like 'hope'. 'A little' has a positive sense; 'few' and 'a few' are used with countable nouns."
+  },
+  {
+   "id": "t04-gram-11",
+   "part": "A",
+   "section": "gram",
+   "topic": "Modals",
+   "question": "Students ___ use mobile phones in the examination hall; it is strictly prohibited.",
+   "options": [
+    "need not",
+    "must not",
+    "may",
+    "can"
+   ],
+   "correctIndex": 1,
+   "explanation": "'Must not' expresses prohibition. 'Need not' means no necessity, while 'may' and 'can' suggest permission or possibility."
+  },
+  {
+   "id": "t04-gram-12",
+   "part": "A",
+   "section": "gram",
+   "topic": "Question tags",
+   "question": "Let us begin the class now, ___?",
+   "options": [
+    "will you",
+    "do we",
+    "don't we",
+    "shall we"
+   ],
+   "correctIndex": 3,
+   "explanation": "The tag for 'Let us...' (a suggestion) is 'shall we?'. 'Will you' is used with imperatives; the others are wrong."
+  },
+  {
+   "id": "t04-gram-13",
+   "part": "A",
+   "section": "gram",
+   "topic": "Phrasal verbs",
+   "question": "She takes ___ her mother in looks.",
+   "options": [
+    "after",
+    "up",
+    "over",
+    "for"
+   ],
+   "correctIndex": 0,
+   "explanation": "'Take after' means to resemble a family member. 'Take up' means start a hobby, 'take over' means assume control, 'take for' means mistake for."
+  },
+  {
+   "id": "t04-gram-14",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subject-verb agreement",
+   "question": "The number of unemployed youths in the town ___ increasing.",
+   "options": [
+    "are",
+    "is",
+    "were",
+    "have been"
+   ],
+   "correctIndex": 1,
+   "explanation": "'The number of' takes a singular verb because the subject is 'number'. ('A number of' would take a plural verb.)"
+  },
+  {
+   "id": "t04-gram-15",
+   "part": "A",
+   "section": "gram",
+   "topic": "Tenses",
+   "question": "Rohit ___ for the bank examination for two years now.",
+   "options": [
+    "prepares",
+    "is preparing",
+    "has been preparing",
+    "had prepared"
+   ],
+   "correctIndex": 2,
+   "explanation": "An action that began in the past and continues up to now with a duration ('for two years') takes the present perfect continuous: 'has been preparing'."
+  },
+  {
+   "id": "t04-vocab-01",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word class conversion",
+   "question": "In which sentence is the word 'light' used as an adjective?",
+   "options": [
+    "Turn off the light.",
+    "This bag is very light.",
+    "Please light the candle.",
+    "Light travels very fast."
+   ],
+   "correctIndex": 1,
+   "explanation": "In 'This bag is very light' the word describes the noun 'bag', so it is an adjective. It is a noun in options 1 and 4 and a verb in option 3."
+  },
+  {
+   "id": "t04-vocab-02",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Lexical bundles",
+   "question": "Choose the correct lexical bundle: He went out to play ___ the fact that he had a fever.",
+   "options": [
+    "in spite of",
+    "in spite",
+    "despite of",
+    "in despite of"
+   ],
+   "correctIndex": 0,
+   "explanation": "'In spite of the fact that' is a standard fixed phrase. 'Despite of' and 'in despite of' are incorrect; 'in spite' alone is incomplete."
+  },
+  {
+   "id": "t04-vocab-03",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idiomaticity and opacity",
+   "question": "What does the idiom 'to pull someone's leg' mean?",
+   "options": [
+    "to hurt someone",
+    "to help someone walk",
+    "to tease or joke with someone",
+    "to defeat someone"
+   ],
+   "correctIndex": 2,
+   "explanation": "'To pull someone's leg' means to playfully fool or tease someone. It has nothing to do with the physical act."
+  },
+  {
+   "id": "t04-vocab-04",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "'Peter Piper picked a peck of pickled peppers' is an example of ______.",
+   "options": [
+    "Simile",
+    "Hyperbole",
+    "Metonymy",
+    "Alliteration"
+   ],
+   "correctIndex": 3,
+   "explanation": "Repetition of the same initial consonant sound (p) in nearby words is alliteration."
+  },
+  {
+   "id": "t04-vocab-05",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word formation",
+   "question": "Which prefix means 'before'?",
+   "options": [
+    "post-",
+    "pre-",
+    "anti-",
+    "semi-"
+   ],
+   "correctIndex": 1,
+   "explanation": "'Pre-' means before (e.g. prehistoric). 'Post-' means after, 'anti-' means against and 'semi-' means half."
+  },
+  {
+   "id": "t04-vocab-06",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Homophones",
+   "question": "Choose the correct word: The nurse asked the patient to ___ his arm for the injection.",
+   "options": [
+    "bare",
+    "bear",
+    "beer",
+    "bar"
+   ],
+   "correctIndex": 0,
+   "explanation": "'Bare' means uncovered. 'Bear' means to carry or tolerate, 'beer' is a drink and 'bar' is a rod or a place to drink - they sound alike but do not fit."
+  },
+  {
+   "id": "t04-vocab-07",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Collocations",
+   "question": "The Principal ___ a speech at the annual function.",
+   "options": [
+    "said",
+    "told",
+    "delivered",
+    "talked"
+   ],
+   "correctIndex": 2,
+   "explanation": "The standard collocation is 'deliver a speech' (or 'give a speech'). 'Say', 'tell' and 'talk' do not collocate with 'speech' this way."
+  },
+  {
+   "id": "t04-vocab-08",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word class conversion",
+   "question": "What is the noun form of the verb 'prove'?",
+   "options": [
+    "proving",
+    "provement",
+    "proven",
+    "proof"
+   ],
+   "correctIndex": 3,
+   "explanation": "The noun form of 'prove' is 'proof'. 'Provement' does not exist, 'proven' is a participle and 'proving' is a gerund/participle."
+  },
+  {
+   "id": "t04-vocab-09",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Lexical bundles",
+   "question": "Fill in the blank: It goes without ___ that hard work brings success.",
+   "options": [
+    "telling",
+    "saying",
+    "speaking",
+    "talking"
+   ],
+   "correctIndex": 1,
+   "explanation": "'It goes without saying' is a fixed expression meaning 'it is obvious'. The other verbs do not form this bundle."
+  },
+  {
+   "id": "t04-vocab-10",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idiomaticity and opacity",
+   "question": "What is meant by 'a blessing in disguise'?",
+   "options": [
+    "something good that seems bad at first",
+    "a hidden curse",
+    "a disguise worn at a festival",
+    "a prayer said silently"
+   ],
+   "correctIndex": 0,
+   "explanation": "The idiom refers to something that looks unlucky at first but turns out to be beneficial. The other options misread it literally or give the opposite sense."
+  },
+  {
+   "id": "t04-vocab-11",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "The phrase 'deafening silence' is an example of -",
+   "options": [
+    "Simile",
+    "Alliteration",
+    "Oxymoron",
+    "Onomatopoeia"
+   ],
+   "correctIndex": 2,
+   "explanation": "An oxymoron joins two contradictory words ('deafening' and 'silence'). There is no comparison, no repeated sound pattern and no sound-imitating word."
+  },
+  {
+   "id": "t04-vocab-12",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word formation",
+   "question": "Which of the following words is formed by compounding (joining two words)?",
+   "options": [
+    "unhappy",
+    "quickly",
+    "singer",
+    "playground"
+   ],
+   "correctIndex": 3,
+   "explanation": "'Playground' = play + ground, two free words joined. 'Unhappy' uses a prefix, while 'quickly' and 'singer' use suffixes."
+  },
+  {
+   "id": "t04-vocab-13",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Polysemy",
+   "question": "In which sentence does 'bank' mean 'the sloping side of a river'?",
+   "options": [
+    "He deposited his savings in the bank.",
+    "We sat on the grassy bank and watched the boats.",
+    "The blood bank needs more donors.",
+    "The bank is closed on Sundays."
+   ],
+   "correctIndex": 1,
+   "explanation": "Only in the second sentence is 'bank' the land beside water. In the others it means a financial institution or a store of blood."
+  },
+  {
+   "id": "t04-vocab-14",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Collocations",
+   "question": "She ___ a lie to her parents about her result.",
+   "options": [
+    "told",
+    "said",
+    "spoke",
+    "talked"
+   ],
+   "correctIndex": 0,
+   "explanation": "We 'tell a lie'. 'Say', 'speak' and 'talk' do not collocate with 'lie' in this way."
+  },
+  {
+   "id": "t04-vocab-15",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idiomaticity and opacity",
+   "question": "What does 'to let the cat out of the bag' mean?",
+   "options": [
+    "to free a pet",
+    "to cause confusion",
+    "to reveal a secret by mistake",
+    "to lose something valuable"
+   ],
+   "correctIndex": 2,
+   "explanation": "It means to disclose a secret accidentally. The other options read the idiom literally or give unrelated meanings."
+  },
+  {
+   "id": "t04-rc-01",
+   "part": "A",
+   "section": "rc",
+   "topic": "Main idea",
+   "passageId": "t04-p1",
+   "question": "Which statement best expresses the central idea of the passage?",
+   "options": [
+    "Pulses are better crops than cereals.",
+    "Soil is a living system that needs care for good farming.",
+    "Chemical fertilisers always increase yields.",
+    "Plants can grow without soil organisms."
+   ],
+   "correctIndex": 1,
+   "explanation": "The passage presents soil as a living partner in agriculture whose care decides future harvests. The other options contradict or are not supported by the text."
+  },
+  {
+   "id": "t04-rc-02",
+   "part": "A",
+   "section": "rc",
+   "topic": "Detail",
+   "passageId": "t04-p1",
+   "question": "According to the passage, bacteria living in the roots of pulses -",
+   "options": [
+    "destroy the plant's roots",
+    "produce chemical fertilisers",
+    "make the soil dry",
+    "convert nitrogen from the air into a usable form"
+   ],
+   "correctIndex": 3,
+   "explanation": "The passage says these bacteria convert nitrogen from the air into a form that plants can absorb. The other options are not stated."
+  },
+  {
+   "id": "t04-rc-03",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t04-p1",
+   "question": "Why have farmers traditionally rotated pulses with cereals?",
+   "options": [
+    "Pulses help restore nitrogen in the soil",
+    "Cereals need no nutrients",
+    "Pulses grow without water",
+    "Rotation kills all microorganisms"
+   ],
+   "correctIndex": 0,
+   "explanation": "Because pulse roots add usable nitrogen to the soil, rotation with cereals keeps the soil fertile. The other options are not supported."
+  },
+  {
+   "id": "t04-rc-04",
+   "part": "A",
+   "section": "rc",
+   "topic": "Vocabulary in context",
+   "passageId": "t04-p1",
+   "question": "The word 'absorb' as used in the passage is closest in meaning to -",
+   "options": [
+    "throw away",
+    "produce",
+    "take in",
+    "break down"
+   ],
+   "correctIndex": 2,
+   "explanation": "Plants 'absorb' nitrogen means they take it in. 'Break down' refers to decomposition by microorganisms, not what plants do."
+  },
+  {
+   "id": "t04-rc-05",
+   "part": "A",
+   "section": "rc",
+   "topic": "Rhetorical devices",
+   "passageId": "t04-p1",
+   "question": "'Leaving the soil tired and lifeless' - the figure of speech used here is -",
+   "options": [
+    "simile",
+    "hyperbole",
+    "irony",
+    "personification"
+   ],
+   "correctIndex": 3,
+   "explanation": "Describing soil as 'tired' gives it a human quality, which is personification. There is no 'like/as' comparison, no contradictory statement and no exaggeration."
+  },
+  {
+   "id": "t04-rc-06",
+   "part": "A",
+   "section": "rc",
+   "topic": "Detail",
+   "passageId": "t04-p2",
+   "question": "Why was Arjun late to school?",
+   "options": [
+    "He missed the bus",
+    "He waited for a neighbour to look after his sick sister",
+    "He was playing with friends",
+    "He forgot to do his homework"
+   ],
+   "correctIndex": 1,
+   "explanation": "Arjun says his sister was feverish and he waited until the neighbour came to sit with her. The other reasons are not given."
+  },
+  {
+   "id": "t04-rc-07",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t04-p2",
+   "question": "Why did Arjun not explain the reason earlier?",
+   "options": [
+    "He was sure no one would listen to a boy.",
+    "He did not know the reason himself.",
+    "He was afraid it would be taken as an excuse.",
+    "He wanted to make Meera angry."
+   ],
+   "correctIndex": 2,
+   "explanation": "He says he feared that she would think he was making excuses. The other options are not supported."
+  },
+  {
+   "id": "t04-rc-08",
+   "part": "A",
+   "section": "rc",
+   "topic": "Tone",
+   "passageId": "t04-p2",
+   "question": "How does Meera's attitude change during the conversation?",
+   "options": [
+    "From kindly to strict",
+    "From stern to understanding",
+    "From indifferent to angry",
+    "From amused to bored"
+   ],
+   "correctIndex": 1,
+   "explanation": "She begins by scolding but softens and apologises after hearing the reason, so her tone moves from stern to understanding."
+  },
+  {
+   "id": "t04-rc-09",
+   "part": "A",
+   "section": "rc",
+   "topic": "Interpretation",
+   "passageId": "t04-p2",
+   "question": "'Sorry does not mend a broken habit' means that -",
+   "options": [
+    "habits cannot be broken",
+    "a habit is always a physical object",
+    "apologies alone do not change repeated behaviour",
+    "Meera does not accept any apology"
+   ],
+   "correctIndex": 2,
+   "explanation": "Meera is saying that only saying sorry does not fix a repeated problem; action is needed. The other options misread the metaphor."
+  },
+  {
+   "id": "t04-rc-10",
+   "part": "A",
+   "section": "rc",
+   "topic": "Logical sequencing",
+   "passageId": "t04-p2",
+   "question": "Arrange these events in the order they occur in the extract: (P) Meera apologises; (Q) Arjun explains about his sister; (R) Meera asks where he was; (S) Meera offers help.",
+   "options": [
+    "R-Q-P-S",
+    "Q-R-S-P",
+    "R-P-Q-S",
+    "P-R-Q-S"
+   ],
+   "correctIndex": 0,
+   "explanation": "Meera asks (R), Arjun explains (Q), Meera apologises (P) and finally offers help (S). The other orders do not match the conversation."
+  },
+  {
+   "id": "t04-rc-11",
+   "part": "A",
+   "section": "rc",
+   "topic": "Main idea",
+   "passageId": "t04-p3",
+   "question": "The main argument of the editorial is that -",
+   "options": [
+    "libraries should be closed",
+    "the internet should replace books",
+    "only big cities need libraries",
+    "public libraries remain essential and deserve regular funding"
+   ],
+   "correctIndex": 3,
+   "explanation": "The writer argues that libraries are essential public services that should be funded regularly. The other options contradict the editorial."
+  },
+  {
+   "id": "t04-rc-12",
+   "part": "A",
+   "section": "rc",
+   "topic": "Detail",
+   "passageId": "t04-p3",
+   "question": "Which problem of small-town libraries is NOT mentioned in the passage?",
+   "options": [
+    "Outdated books",
+    "Leaking ceilings",
+    "Lack of computers in the library",
+    "An overworked clerk"
+   ],
+   "correctIndex": 2,
+   "explanation": "The passage mentions outdated volumes, leaking ceilings and one overworked clerk, but not computers."
+  },
+  {
+   "id": "t04-rc-13",
+   "part": "A",
+   "section": "rc",
+   "topic": "Tone",
+   "passageId": "t04-p3",
+   "question": "The writer's attitude towards the officials' argument is -",
+   "options": [
+    "approving",
+    "critical",
+    "neutral",
+    "humorous"
+   ],
+   "correctIndex": 1,
+   "explanation": "Calling the argument 'shortsighted' shows disapproval, so the attitude is critical."
+  },
+  {
+   "id": "t04-rc-14",
+   "part": "A",
+   "section": "rc",
+   "topic": "Vocabulary in context",
+   "passageId": "t04-p3",
+   "question": "The word 'redundant' in the passage means -",
+   "options": [
+    "no longer needed",
+    "very costly",
+    "newly built",
+    "well organised"
+   ],
+   "correctIndex": 0,
+   "explanation": "Officials claim that libraries are not needed any more because of the internet; 'redundant' means unnecessary."
+  },
+  {
+   "id": "t04-rc-15",
+   "part": "A",
+   "section": "rc",
+   "topic": "Rhetorical devices",
+   "passageId": "t04-p3",
+   "question": "'Ornaments of the past' is an example of -",
+   "options": [
+    "metaphor",
+    "simile",
+    "onomatopoeia",
+    "alliteration"
+   ],
+   "correctIndex": 0,
+   "explanation": "Libraries are directly called 'ornaments' (things only for show) without 'like' or 'as', so it is a metaphor."
+  },
+  {
+   "id": "t04-ped-01",
+   "part": "A",
+   "section": "ped",
+   "topic": "Methods of teaching English",
+   "question": "Which language teaching method gives the greatest importance to pattern drills and repetition?",
+   "options": [
+    "Grammar-Translation Method",
+    "Direct Method",
+    "Communicative Language Teaching",
+    "Audio-Lingual Method"
+   ],
+   "correctIndex": 3,
+   "explanation": "The Audio-Lingual Method, based on behaviourism, relies on pattern drills, repetition and habit formation. Grammar-Translation focuses on rules and translation, the Direct Method on target-language use, and CLT on communication.",
+   "questionHi": "किस भाषा शिक्षण पद्धति में pattern drills और repetition को सबसे अधिक महत्व दिया जाता है?",
+   "optionsHi": [
+    "Grammar-Translation Method",
+    "Direct Method",
+    "Communicative Language Teaching",
+    "Audio-Lingual Method"
+   ],
+   "explanationHi": "Audio-Lingual Method व्यवहारवाद (behaviourism) पर आधारित है और इसमें pattern drills, दोहराव तथा आदत-निर्माण पर ज़ोर होता है। Grammar-Translation नियमों व अनुवाद पर, Direct Method लक्ष्य-भाषा के प्रयोग पर और CLT संप्रेषण पर केंद्रित है।"
+  },
+  {
+   "id": "t04-ped-02",
+   "part": "A",
+   "section": "ped",
+   "topic": "Linguistic system - Phonology",
+   "question": "Which of the following is a suprasegmental feature of speech?",
+   "questionHi": "निम्नलिखित में से कौन-सी वाणी की अधिखंडीय (suprasegmental) विशेषता है?",
+   "options": [
+    "Vowel",
+    "Intonation",
+    "Consonant",
+    "Letter"
+   ],
+   "optionsHi": [
+    "स्वर (Vowel)",
+    "सुर-लहर (Intonation)",
+    "व्यंजन (Consonant)",
+    "अक्षर (Letter)"
+   ],
+   "correctIndex": 1,
+   "explanation": "Intonation, stress and pitch extend over more than one sound, so they are suprasegmental. Vowels and consonants are segmental sounds, and a letter is a written symbol.",
+   "explanationHi": "सुर-लहर, बलाघात और तान एक से अधिक ध्वनियों पर फैलते हैं, इसलिए ये अधिखंडीय हैं। स्वर और व्यंजन खंडीय ध्वनियाँ हैं और अक्षर लिखित चिह्न है।"
+  },
+  {
+   "id": "t04-ped-03",
+   "part": "A",
+   "section": "ped",
+   "topic": "Linguistic system - Pragmatics",
+   "question": "The study of how context affects the meaning of language in use is called -",
+   "questionHi": "प्रयोग में भाषा के अर्थ पर संदर्भ (context) के प्रभाव का अध्ययन क्या कहलाता है?",
+   "options": [
+    "Pragmatics",
+    "Phonology",
+    "Morphology",
+    "Orthography"
+   ],
+   "optionsHi": [
+    "प्रयोगार्थविज्ञान (Pragmatics)",
+    "ध्वनि-विज्ञान (Phonology)",
+    "रूप-विज्ञान (Morphology)",
+    "वर्तनी-विज्ञान (Orthography)"
+   ],
+   "correctIndex": 0,
+   "explanation": "Pragmatics studies meaning in context, e.g., 'Can you open the window?' as a request. The other options deal with sounds, word forms and spelling.",
+   "explanationHi": "Pragmatics संदर्भ में अर्थ का अध्ययन है, जैसे 'Can you open the window?' एक अनुरोध है। अन्य विकल्प ध्वनि, शब्द-रूप और वर्तनी से जुड़े हैं।"
+  },
+  {
+   "id": "t04-ped-04",
+   "part": "A",
+   "section": "ped",
+   "topic": "LSRW skills",
+   "question": "Which pair of language skills is receptive?",
+   "questionHi": "भाषा कौशलों का कौन-सा जोड़ा ग्रहणशील (receptive) है?",
+   "options": [
+    "Speaking and writing",
+    "Listening and speaking",
+    "Listening and reading",
+    "Reading and writing"
+   ],
+   "optionsHi": [
+    "बोलना और लिखना",
+    "सुनना और बोलना",
+    "सुनना और पढ़ना",
+    "पढ़ना और लिखना"
+   ],
+   "correctIndex": 2,
+   "explanation": "Listening and reading are receptive skills, in which the learner takes in language. Speaking and writing are productive skills.",
+   "explanationHi": "सुनना और पढ़ना ग्रहणशील कौशल हैं, जिनमें विद्यार्थी भाषा ग्रहण करता है। बोलना और लिखना उत्पादक (productive) कौशल हैं।"
+  },
+  {
+   "id": "t04-ped-05",
+   "part": "A",
+   "section": "ped",
+   "topic": "Role of listening and speaking",
+   "question": "In the natural order of language learning, a child first -",
+   "questionHi": "भाषा सीखने के स्वाभाविक क्रम में बच्चा सबसे पहले क्या करता है?",
+   "options": [
+    "learns to write",
+    "listens and then speaks",
+    "reads and then writes",
+    "memorises grammar rules"
+   ],
+   "optionsHi": [
+    "लिखना सीखता है",
+    "सुनता है और फिर बोलता है",
+    "पढ़ता है और फिर लिखता है",
+    "व्याकरण के नियम रटता है"
+   ],
+   "correctIndex": 1,
+   "explanation": "Children first listen to language around them and then begin to speak; reading and writing come later. Grammar rules are not memorised first.",
+   "explanationHi": "बच्चे पहले अपने आसपास की भाषा सुनते हैं, फिर बोलना शुरू करते हैं; पढ़ना-लिखना बाद में आता है। व्याकरण के नियम पहले नहीं रटे जाते।"
+  },
+  {
+   "id": "t04-ped-06",
+   "part": "A",
+   "section": "ped",
+   "topic": "Role of grammar",
+   "question": "Which approach is most suitable for teaching grammar for communication?",
+   "questionHi": "संप्रेषण के लिए व्याकरण पढ़ाने की सबसे उपयुक्त पद्धति कौन-सी है?",
+   "options": [
+    "Memorising rules without examples",
+    "Translating every sentence into the mother tongue",
+    "Drilling isolated rules for a long time",
+    "Teaching grammar in meaningful context through use"
+   ],
+   "optionsHi": [
+    "उदाहरण के बिना नियम रटवाना",
+    "हर वाक्य का मातृभाषा में अनुवाद कराना",
+    "अलग-अलग नियमों का लंबा अभ्यास कराना",
+    "अर्थपूर्ण संदर्भ में प्रयोग के द्वारा व्याकरण पढ़ाना"
+   ],
+   "correctIndex": 3,
+   "explanation": "Grammar is best learnt in context, as a tool for expressing ideas. Isolated rule memorisation does not build communication skill.",
+   "explanationHi": "व्याकरण संदर्भ में, विचार व्यक्त करने के साधन के रूप में सबसे अच्छा सीखा जाता है। अलग-थलग नियम रटने से संप्रेषण कौशल नहीं बनता।"
+  },
+  {
+   "id": "t04-ped-07",
+   "part": "A",
+   "section": "ped",
+   "topic": "Methods - Direct Method",
+   "question": "A key feature of the Direct Method is -",
+   "questionHi": "प्रत्यक्ष विधि (Direct Method) की एक मुख्य विशेषता है -",
+   "options": [
+    "use of the target language only, without translation",
+    "translation of every passage",
+    "teaching grammar rules first",
+    "use of the mother tongue as the medium"
+   ],
+   "optionsHi": [
+    "अनुवाद के बिना केवल लक्ष्य भाषा का प्रयोग",
+    "हर गद्यांश का अनुवाद",
+    "पहले व्याकरण के नियम पढ़ाना",
+    "मातृभाषा को माध्यम बनाना"
+   ],
+   "correctIndex": 0,
+   "explanation": "The Direct Method uses the target language alone in class and avoids translation. Translation and rule-first teaching belong to the Grammar-Translation method.",
+   "explanationHi": "Direct Method में कक्षा में केवल लक्ष्य भाषा का प्रयोग होता है और अनुवाद नहीं किया जाता। अनुवाद और नियम-पहले शिक्षण Grammar-Translation विधि की विशेषता हैं।"
+  },
+  {
+   "id": "t04-ped-08",
+   "part": "A",
+   "section": "ped",
+   "topic": "Methods - CLT",
+   "question": "The main aim of Communicative Language Teaching (CLT) is to develop -",
+   "questionHi": "संप्रेषणात्मक भाषा शिक्षण (CLT) का मुख्य उद्देश्य क्या विकसित करना है?",
+   "options": [
+    "translation skill",
+    "perfect pronunciation only",
+    "communicative competence",
+    "knowledge of grammatical terms"
+   ],
+   "optionsHi": [
+    "अनुवाद कौशल",
+    "केवल सही उच्चारण",
+    "संप्रेषण-क्षमता (communicative competence)",
+    "व्याकरण की शब्दावली का ज्ञान"
+   ],
+   "correctIndex": 2,
+   "explanation": "CLT focuses on the ability to use language appropriately in real situations, i.e., communicative competence. It does not stress translation or terminology.",
+   "explanationHi": "CLT वास्तविक परिस्थितियों में भाषा का उचित प्रयोग करने की क्षमता, यानी communicative competence पर ध्यान देता है; अनुवाद या शब्दावली पर नहीं।"
+  },
+  {
+   "id": "t04-ped-09",
+   "part": "A",
+   "section": "ped",
+   "topic": "Methods - TBLT",
+   "question": "In Task-Based Language Teaching (TBLT), learning mainly takes place through -",
+   "questionHi": "कार्य-आधारित भाषा शिक्षण (TBLT) में सीखना मुख्यतः किसके द्वारा होता है?",
+   "options": [
+    "rote memorisation of word lists",
+    "repeated pattern drills",
+    "translation exercises",
+    "completing meaningful tasks using the language"
+   ],
+   "optionsHi": [
+    "शब्द-सूचियों को रटना",
+    "पैटर्न का बार-बार अभ्यास",
+    "अनुवाद के अभ्यास",
+    "भाषा का प्रयोग करते हुए अर्थपूर्ण कार्य पूरा करना"
+   ],
+   "correctIndex": 3,
+   "explanation": "TBLT organises learning around real tasks (e.g., planning a trip), where students use language to complete the task. Drills and memorisation are features of other methods.",
+   "explanationHi": "TBLT में सीखना वास्तविक कार्यों (जैसे यात्रा की योजना बनाना) के इर्द-गिर्द होता है, जहाँ विद्यार्थी कार्य पूरा करने के लिए भाषा का प्रयोग करते हैं। Drill और रटना अन्य विधियों की विशेषताएँ हैं।"
+  },
+  {
+   "id": "t04-ped-10",
+   "part": "A",
+   "section": "ped",
+   "topic": "Diverse classroom and multilingualism",
+   "question": "In a multilingual classroom, a teacher should regard students' home languages as -",
+   "questionHi": "बहुभाषी कक्षा में शिक्षक को विद्यार्थियों की घरेलू भाषाओं को क्या मानना चाहिए?",
+   "options": [
+    "a hindrance to be removed",
+    "a resource for learning English",
+    "irrelevant to learning",
+    "a reason to lower expectations"
+   ],
+   "optionsHi": [
+    "हटाने योग्य बाधा",
+    "अंग्रेज़ी सीखने का एक संसाधन",
+    "सीखने से असंबंधित",
+    "अपेक्षाएँ कम करने का कारण"
+   ],
+   "correctIndex": 1,
+   "explanation": "Home languages are a valuable resource: they help learners connect new English words and ideas with what they already know. They should not be treated as a problem.",
+   "explanationHi": "घरेलू भाषाएँ एक मूल्यवान संसाधन हैं; इनसे विद्यार्थी नए अंग्रेज़ी शब्दों और विचारों को अपने पूर्व-ज्ञान से जोड़ पाते हैं। इन्हें समस्या नहीं मानना चाहिए।"
+  },
+  {
+   "id": "t04-ped-11",
+   "part": "A",
+   "section": "ped",
+   "topic": "Errors and mistakes",
+   "question": "The term 'fossilization' in second-language learning refers to -",
+   "questionHi": "द्वितीय भाषा सीखने में 'फॉसिलाइज़ेशन' (fossilization) शब्द का अर्थ है -",
+   "options": [
+    "permanent stagnation of incorrect forms in the learner's language",
+    "very rapid learning of grammar",
+    "loss of the mother tongue",
+    "learning a language through fossils of old texts"
+   ],
+   "optionsHi": [
+    "सीखने वाले की भाषा में गलत रूपों का स्थायी रूप से जम जाना",
+    "व्याकरण का बहुत तेज़ी से सीखना",
+    "मातृभाषा का लुप्त हो जाना",
+    "पुराने ग्रंथों के अवशेषों से भाषा सीखना"
+   ],
+   "correctIndex": 0,
+   "explanation": "Selinker used fossilization for incorrect features that become permanently fixed in a learner's interlanguage despite further exposure and instruction.",
+   "explanationHi": "सेलिंकर ने फॉसिलाइज़ेशन शब्द उन गलत विशेषताओं के लिए प्रयोग किया जो आगे अभ्यास के बावजूद सीखने वाले की अंतर्भाषा में स्थायी हो जाती हैं।"
+  },
+  {
+   "id": "t04-ped-12",
+   "part": "A",
+   "section": "ped",
+   "topic": "Teaching-learning materials",
+   "question": "Which of the following is a multimedia teaching-learning material?",
+   "questionHi": "निम्नलिखित में से कौन-सी बहुमाध्यम (multimedia) शिक्षण-अधिगम सामग्री है?",
+   "options": [
+    "A blackboard",
+    "A printed word list",
+    "A video clip with audio and text",
+    "A wall chart"
+   ],
+   "optionsHi": [
+    "श्यामपट्ट",
+    "छपी हुई शब्द-सूची",
+    "ऑडियो और पाठ वाली वीडियो क्लिप",
+    "दीवार चार्ट"
+   ],
+   "correctIndex": 2,
+   "explanation": "Multimedia combines more than one medium such as sound, text and moving images. A video clip with audio and text does this; the others are single-medium aids.",
+   "explanationHi": "Multimedia में ध्वनि, पाठ और चलचित्र जैसे एक से अधिक माध्यम होते हैं। ऑडियो-पाठ वाली वीडियो क्लिप ऐसी है; अन्य एकल-माध्यम साधन हैं।"
+  },
+  {
+   "id": "t04-ped-13",
+   "part": "A",
+   "section": "ped",
+   "topic": "Remedial teaching",
+   "question": "The first step in remedial teaching is -",
+   "questionHi": "उपचारात्मक शिक्षण (remedial teaching) का पहला चरण क्या है?",
+   "options": [
+    "giving extra homework",
+    "diagnosing the learner's difficulty",
+    "repeating the whole syllabus",
+    "punishing weak learners"
+   ],
+   "optionsHi": [
+    "अतिरिक्त गृहकार्य देना",
+    "विद्यार्थी की कठिनाई का निदान करना",
+    "पूरा पाठ्यक्रम दोहराना",
+    "कमज़ोर विद्यार्थियों को दंड देना"
+   ],
+   "correctIndex": 1,
+   "explanation": "Remedial work must begin with diagnosis so that teaching targets the actual problem. Extra homework or punishment does not address the cause.",
+   "explanationHi": "उपचारात्मक कार्य निदान से शुरू होता है ताकि शिक्षण वास्तविक समस्या पर केंद्रित हो। अतिरिक्त गृहकार्य या दंड से कारण का समाधान नहीं होता।"
+  },
+  {
+   "id": "t04-ped-14",
+   "part": "A",
+   "section": "ped",
+   "topic": "Methods of language teaching",
+   "question": "Suggestopedia, a method of language teaching, was developed by -",
+   "questionHi": "भाषा-शिक्षण की विधि सजेस्टोपीडिया (Suggestopedia) किसने विकसित की?",
+   "options": [
+    "James Asher",
+    "Caleb Gattegno",
+    "Charles Curran",
+    "Georgi Lozanov"
+   ],
+   "optionsHi": [
+    "जेम्स आशेर",
+    "कैलेब गैटेग्नो",
+    "चार्ल्स करन",
+    "जॉर्जी लोज़ानोव"
+   ],
+   "correctIndex": 3,
+   "explanation": "Suggestopedia was developed by the Bulgarian psychologist Georgi Lozanov. Asher developed TPR, Gattegno the Silent Way and Curran Community Language Learning.",
+   "explanationHi": "सजेस्टोपीडिया का विकास बल्गेरियाई मनोवैज्ञानिक जॉर्जी लोज़ानोव ने किया। आशेर ने TPR, गैटेग्नो ने साइलेंट वे और करन ने कम्युनिटी लैंग्वेज लर्निंग विकसित की।"
+  },
+  {
+   "id": "t04-ped-15",
+   "part": "A",
+   "section": "ped",
+   "topic": "Communicative competence",
+   "question": "The concept of 'communicative competence' was introduced by -",
+   "questionHi": "'संप्रेषणात्मक सक्षमता' (communicative competence) की अवधारणा किसने प्रस्तुत की?",
+   "options": [
+    "Dell Hymes",
+    "B.F. Skinner",
+    "Ivan Pavlov",
+    "Jean Piaget"
+   ],
+   "optionsHi": [
+    "डेल हाइम्स",
+    "बी.एफ. स्किनर",
+    "इवान पावलोव",
+    "जीन पियाजे"
+   ],
+   "correctIndex": 0,
+   "explanation": "Dell Hymes introduced communicative competence, the ability to use language appropriately in social contexts, as a response to Chomsky's linguistic competence.",
+   "explanationHi": "डेल हाइम्स ने संप्रेषणात्मक सक्षमता की अवधारणा दी, अर्थात सामाजिक संदर्भों में भाषा का उचित प्रयोग करने की क्षमता, जो चॉम्स्की की भाषिक सक्षमता के प्रत्युत्तर में थी।"
+  }
+ ]
+}

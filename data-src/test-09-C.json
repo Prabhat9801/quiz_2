@@ -1,0 +1,499 @@
+{
+ "questions": [
+  {
+   "id": "t09-hindi-01",
+   "part": "C",
+   "section": "hindi",
+   "topic": "संधि",
+   "question": "'महेश' शब्द का सही संधि-विच्छेद है:",
+   "options": [
+    "महे + श",
+    "महा + ईश",
+    "मह + ईश",
+    "महा + एश"
+   ],
+   "correctIndex": 1,
+   "explanation": "'महा' के अंत का 'आ' और 'ईश' का 'ई' मिलकर गुण संधि से 'ए' बनता है, इसलिए महा + ईश = महेश।"
+  },
+  {
+   "id": "t09-hindi-02",
+   "part": "C",
+   "section": "hindi",
+   "topic": "समास",
+   "question": "'चक्रपाणि' (चक्र है हाथ में जिसके, अर्थात् विष्णु) में कौन-सा समास है?",
+   "options": [
+    "तत्पुरुष",
+    "कर्मधारय",
+    "द्विगु",
+    "बहुव्रीहि"
+   ],
+   "correctIndex": 3,
+   "explanation": "जब समस्त पद दोनों पदों से भिन्न किसी तीसरे (यहाँ विष्णु) का बोध कराए, तो बहुव्रीहि समास होता है। अन्य समासों में प्रधानता किसी पद की होती है।"
+  },
+  {
+   "id": "t09-hindi-03",
+   "part": "C",
+   "section": "hindi",
+   "topic": "पर्यायवाची",
+   "question": "इनमें से कौन-सा शब्द 'कमल' का पर्यायवाची नहीं है?",
+   "options": [
+    "तरंग",
+    "पंकज",
+    "नीरज",
+    "अंबुज"
+   ],
+   "correctIndex": 0,
+   "explanation": "पंकज, नीरज और अंबुज तीनों कमल के पर्यायवाची हैं, जबकि 'तरंग' का अर्थ लहर है।"
+  },
+  {
+   "id": "t09-hindi-04",
+   "part": "C",
+   "section": "hindi",
+   "topic": "विलोम",
+   "question": "'आदि' शब्द का विलोम है:",
+   "options": [
+    "मध्य",
+    "प्रारंभ",
+    "अंत",
+    "आरंभ"
+   ],
+   "correctIndex": 2,
+   "explanation": "'आदि' का अर्थ शुरुआत है और उसका विलोम 'अंत' है। 'प्रारंभ' और 'आरंभ' उसके समानार्थी हैं, 'मध्य' बीच का भाग है।"
+  },
+  {
+   "id": "t09-hindi-05",
+   "part": "C",
+   "section": "hindi",
+   "topic": "विलोम शब्द",
+   "question": "'गुप्त' का विलोम शब्द चुनिए:",
+   "options": [
+    "छिपा",
+    "प्रकट",
+    "रहस्य",
+    "अदृश्य"
+   ],
+   "correctIndex": 1,
+   "explanation": "'गुप्त' (छिपा हुआ) का विलोम 'प्रकट' (सामने आया हुआ) है।"
+  },
+  {
+   "id": "t09-english-01",
+   "part": "C",
+   "section": "english",
+   "topic": "Articles",
+   "question": "Fill in the correct article: She is ___ honest woman.",
+   "options": [
+    "a",
+    "the",
+    "an",
+    "no article"
+   ],
+   "correctIndex": 2,
+   "explanation": "'Honest' begins with a vowel sound (the 'h' is silent), so 'an' is used. 'A' is used before consonant sounds."
+  },
+  {
+   "id": "t09-english-02",
+   "part": "C",
+   "section": "english",
+   "topic": "Synonyms",
+   "question": "Choose the word closest in meaning to 'diligent'.",
+   "options": [
+    "hardworking",
+    "lazy",
+    "careless",
+    "clever"
+   ],
+   "correctIndex": 0,
+   "explanation": "'Diligent' means showing careful and persistent effort, i.e. hardworking. 'Lazy' and 'careless' are opposite in sense; 'clever' means intelligent."
+  },
+  {
+   "id": "t09-english-03",
+   "part": "C",
+   "section": "english",
+   "topic": "Active-passive",
+   "question": "Change into passive voice: 'She is writing a letter.'",
+   "options": [
+    "A letter was being written by her.",
+    "A letter is written by her.",
+    "A letter has been written by her.",
+    "A letter is being written by her."
+   ],
+   "correctIndex": 3,
+   "explanation": "The present continuous active becomes 'is/am/are + being + past participle'. The other options use different tenses."
+  },
+  {
+   "id": "t09-english-04",
+   "part": "C",
+   "section": "english",
+   "topic": "One-word substitution",
+   "question": "A person who knows everything is called:",
+   "options": [
+    "omnipotent",
+    "omniscient",
+    "omnipresent",
+    "omnivorous"
+   ],
+   "correctIndex": 1,
+   "explanation": "Omniscient means all-knowing; omnipotent means all-powerful; omnipresent means present everywhere."
+  },
+  {
+   "id": "t09-english-05",
+   "part": "C",
+   "section": "english",
+   "topic": "Proverbs",
+   "question": "Complete the proverb: 'Look before you ___.'",
+   "options": [
+    "leap",
+    "jump",
+    "run",
+    "step"
+   ],
+   "correctIndex": 0,
+   "explanation": "The proverb is 'Look before you leap', meaning think before acting."
+  },
+  {
+   "id": "t09-mental-01",
+   "part": "C",
+   "section": "mental",
+   "topic": "Number series",
+   "question": "Find the next number in the series: 3, 8, 15, 24, 35, ?",
+   "questionHi": "श्रेणी में अगली संख्या ज्ञात कीजिए: 3, 8, 15, 24, 35, ?",
+   "options": [
+    "45",
+    "50",
+    "46",
+    "48"
+   ],
+   "optionsHi": [
+    "45",
+    "50",
+    "46",
+    "48"
+   ],
+   "correctIndex": 3,
+   "explanation": "The differences are 5, 7, 9, 11, so the next difference is 13 and 35 + 13 = 48. (The terms are 2²-1, 3²-1, 4²-1, 5²-1, 6²-1, 7²-1.)",
+   "explanationHi": "अंतर 5, 7, 9, 11 हैं, अतः अगला अंतर 13 होगा और 35 + 13 = 48। (पद 2²-1, 3²-1, 4²-1, 5²-1, 6²-1, 7²-1 हैं।)"
+  },
+  {
+   "id": "t09-mental-02",
+   "part": "C",
+   "section": "mental",
+   "topic": "Coding-decoding",
+   "question": "If in a certain code CAT is written as ECV, how is DOG written in that code?",
+   "questionHi": "यदि किसी कूट भाषा में CAT को ECV लिखा जाता है, तो उसी भाषा में DOG को कैसे लिखा जाएगा?",
+   "options": [
+    "EPH",
+    "FPI",
+    "FQI",
+    "GRJ"
+   ],
+   "optionsHi": [
+    "EPH",
+    "FPI",
+    "FQI",
+    "GRJ"
+   ],
+   "correctIndex": 2,
+   "explanation": "Each letter is moved two places forward: C→E, A→C, T→V. So D→F, O→Q, G→I, giving FQI.",
+   "explanationHi": "प्रत्येक अक्षर दो स्थान आगे बढ़ाया गया है: C→E, A→C, T→V। अतः D→F, O→Q, G→I, यानी FQI।"
+  },
+  {
+   "id": "t09-mental-03",
+   "part": "C",
+   "section": "mental",
+   "topic": "Blood relations",
+   "question": "Looking at a boy, Rita said, 'He is the son of my mother's only brother.' The boy is Rita's:",
+   "questionHi": "एक लड़के को देखकर रीता ने कहा, 'वह मेरी माँ के इकलौते भाई का पुत्र है।' वह लड़का रीता का है:",
+   "options": [
+    "Brother",
+    "Cousin",
+    "Uncle",
+    "Nephew"
+   ],
+   "optionsHi": [
+    "भाई",
+    "चचेरा/ममेरा भाई (cousin)",
+    "मामा",
+    "भतीजा/भांजा"
+   ],
+   "correctIndex": 1,
+   "explanation": "Rita's mother's brother is her maternal uncle (mama); his son is her cousin.",
+   "explanationHi": "रीता की माँ का भाई उसका मामा है; मामा का पुत्र उसका ममेरा भाई (cousin) हुआ।"
+  },
+  {
+   "id": "t09-mental-04",
+   "part": "C",
+   "section": "mental",
+   "topic": "Number series",
+   "question": "Find the next number: 4, 9, 19, 39, ?",
+   "questionHi": "अगली संख्या ज्ञात कीजिए: 4, 9, 19, 39, ?",
+   "options": [
+    "79",
+    "78",
+    "80",
+    "77"
+   ],
+   "optionsHi": [
+    "79",
+    "78",
+    "80",
+    "77"
+   ],
+   "correctIndex": 0,
+   "explanation": "Each term = previous × 2 + 1, so 39 × 2 + 1 = 79.",
+   "explanationHi": "प्रत्येक पद = पिछला × 2 + 1, इसलिए 39 × 2 + 1 = 79।"
+  },
+  {
+   "id": "t09-mental-05",
+   "part": "C",
+   "section": "mental",
+   "topic": "Analogy",
+   "question": "Pilot : Aeroplane :: Driver : ?",
+   "questionHi": "पायलट : हवाई जहाज़ :: चालक : ?",
+   "options": [
+    "Road",
+    "Ticket",
+    "Car",
+    "Journey"
+   ],
+   "optionsHi": [
+    "सड़क",
+    "टिकट",
+    "कार",
+    "यात्रा"
+   ],
+   "correctIndex": 2,
+   "explanation": "A pilot operates an aeroplane, as a driver operates a car (person : vehicle driven).",
+   "explanationHi": "पायलट हवाई जहाज़ चलाता है, उसी प्रकार चालक कार चलाता है (व्यक्ति : चलाया जाने वाला वाहन)।"
+  },
+  {
+   "id": "t09-computer-01",
+   "part": "C",
+   "section": "computer",
+   "topic": "CPU",
+   "question": "Which component of a computer is known as its 'brain'?",
+   "questionHi": "कंप्यूटर का 'मस्तिष्क' किस भाग को कहा जाता है?",
+   "options": [
+    "CPU",
+    "Monitor",
+    "RAM",
+    "Mouse"
+   ],
+   "optionsHi": [
+    "CPU",
+    "मॉनिटर",
+    "RAM",
+    "माउस"
+   ],
+   "correctIndex": 0,
+   "explanation": "The CPU (Central Processing Unit) processes instructions and controls the computer. The monitor and mouse are output and input devices, and RAM is memory.",
+   "explanationHi": "CPU (केंद्रीय प्रसंस्करण इकाई) निर्देशों का प्रसंस्करण करती है और कंप्यूटर को नियंत्रित करती है। मॉनिटर आउटपुट, माउस इनपुट उपकरण और RAM मेमोरी है।"
+  },
+  {
+   "id": "t09-computer-02",
+   "part": "C",
+   "section": "computer",
+   "topic": "Memory",
+   "question": "Which one of these is a volatile type of memory?",
+   "questionHi": "निम्नलिखित में से कौन-सी वाष्पशील (volatile) मेमोरी है?",
+   "options": [
+    "ROM",
+    "RAM",
+    "Hard disk",
+    "DVD"
+   ],
+   "optionsHi": [
+    "ROM",
+    "RAM",
+    "हार्ड डिस्क",
+    "DVD"
+   ],
+   "correctIndex": 1,
+   "explanation": "RAM loses its contents when power is switched off. ROM, hard disk and DVD retain data without power.",
+   "explanationHi": "बिजली बंद होने पर RAM का डेटा मिट जाता है। ROM, हार्ड डिस्क और DVD बिना बिजली के भी डेटा रखते हैं।"
+  },
+  {
+   "id": "t09-computer-03",
+   "part": "C",
+   "section": "computer",
+   "topic": "Internet",
+   "question": "FTP stands for:",
+   "questionHi": "FTP का पूर्ण रूप है:",
+   "options": [
+    "Fast Text Program",
+    "File Transmission Page",
+    "Free Transfer Process",
+    "File Transfer Protocol"
+   ],
+   "optionsHi": [
+    "Fast Text Program",
+    "File Transmission Page",
+    "Free Transfer Process",
+    "File Transfer Protocol"
+   ],
+   "correctIndex": 3,
+   "explanation": "FTP is File Transfer Protocol, used to transfer files between computers over a network.",
+   "explanationHi": "FTP का अर्थ File Transfer Protocol है, जिससे नेटवर्क पर फ़ाइलें भेजी जाती हैं।"
+  },
+  {
+   "id": "t09-computer-04",
+   "part": "C",
+   "section": "computer",
+   "topic": "MS Excel",
+   "question": "In MS Excel, which key is used to edit the active cell?",
+   "questionHi": "MS Excel में सक्रिय सेल को संपादित करने के लिए कौन-सी कुंजी प्रयोग होती है?",
+   "options": [
+    "F1",
+    "F5",
+    "F2",
+    "F12"
+   ],
+   "optionsHi": [
+    "F1",
+    "F5",
+    "F2",
+    "F12"
+   ],
+   "correctIndex": 2,
+   "explanation": "F2 puts the active cell in edit mode. F1 is Help and F12 is Save As.",
+   "explanationHi": "F2 से सक्रिय सेल edit mode में आता है। F1 Help और F12 Save As है।"
+  },
+  {
+   "id": "t09-computer-05",
+   "part": "C",
+   "section": "computer",
+   "topic": "Operating systems",
+   "question": "Which one of these is an open-source operating system?",
+   "questionHi": "निम्नलिखित में से कौन-सा ओपन-सोर्स ऑपरेटिंग सिस्टम है?",
+   "options": [
+    "Windows",
+    "Linux",
+    "MS-DOS",
+    "None of these"
+   ],
+   "optionsHi": [
+    "विंडोज़",
+    "लिनक्स",
+    "MS-DOS",
+    "इनमें से कोई नहीं"
+   ],
+   "correctIndex": 1,
+   "explanation": "Linux's source code is freely available. Windows and MS-DOS are proprietary products of Microsoft.",
+   "explanationHi": "लिनक्स का सोर्स कोड सबके लिए उपलब्ध है। विंडोज़ और MS-DOS माइक्रोसॉफ्ट के स्वामित्व वाले उत्पाद हैं।"
+  },
+  {
+   "id": "t09-gk-01",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian Constitution",
+   "question": "Which Article of the Indian Constitution guarantees equality before the law?",
+   "questionHi": "भारतीय संविधान का कौन-सा अनुच्छेद विधि के समक्ष समता की गारंटी देता है?",
+   "options": [
+    "Article 19",
+    "Article 21",
+    "Article 32",
+    "Article 14"
+   ],
+   "optionsHi": [
+    "अनुच्छेद 19",
+    "अनुच्छेद 21",
+    "अनुच्छेद 32",
+    "अनुच्छेद 14"
+   ],
+   "correctIndex": 3,
+   "explanation": "Article 14 provides equality before law and equal protection of laws. Article 19 gives freedoms, Article 21 protects life and liberty and Article 32 is the right to constitutional remedies.",
+   "explanationHi": "अनुच्छेद 14 विधि के समक्ष समता और विधियों के समान संरक्षण देता है। अनुच्छेद 19 स्वतंत्रताएँ, अनुच्छेद 21 जीवन व दैहिक स्वतंत्रता और अनुच्छेद 32 संवैधानिक उपचारों का अधिकार है।"
+  },
+  {
+   "id": "t09-gk-02",
+   "part": "C",
+   "section": "gk",
+   "topic": "General Science",
+   "question": "Which vitamin is synthesised in the human skin on exposure to sunlight?",
+   "options": [
+    "Vitamin D",
+    "Vitamin A",
+    "Vitamin C",
+    "Vitamin K"
+   ],
+   "correctIndex": 0,
+   "explanation": "Sunlight (UV-B) triggers synthesis of Vitamin D in the skin. Vitamin A, C and K are obtained mainly from food (K is also made by gut bacteria).",
+   "questionHi": "सूर्य के प्रकाश के संपर्क में आने पर मानव त्वचा में कौन-सा विटामिन बनता है?",
+   "optionsHi": [
+    "विटामिन D",
+    "विटामिन A",
+    "विटामिन C",
+    "विटामिन K"
+   ],
+   "explanationHi": "सूर्य के प्रकाश (UV-B) से त्वचा में विटामिन D बनता है। विटामिन A, C और K मुख्यतः भोजन से मिलते हैं (K आंत के बैक्टीरिया भी बनाते हैं)।"
+  },
+  {
+   "id": "t09-gk-03",
+   "part": "C",
+   "section": "gk",
+   "topic": "Chhattisgarh GK",
+   "question": "The Chitrakote waterfall in Bastar, Chhattisgarh, is on which river?",
+   "questionHi": "छत्तीसगढ़ के बस्तर में स्थित चित्रकोट जलप्रपात किस नदी पर है?",
+   "options": [
+    "Mahanadi",
+    "Shivnath",
+    "Indravati",
+    "Hasdeo"
+   ],
+   "optionsHi": [
+    "महानदी",
+    "शिवनाथ",
+    "इंद्रावती",
+    "हसदेव"
+   ],
+   "correctIndex": 2,
+   "explanation": "Chitrakote Falls, often called the 'Niagara of India', is on the Indravati river. Mahanadi, Shivnath and Hasdeo flow in other parts of the state.",
+   "explanationHi": "चित्रकोट जलप्रपात, जिसे 'भारत का नियाग्रा' भी कहा जाता है, इंद्रावती नदी पर स्थित है। महानदी, शिवनाथ और हसदेव राज्य के अन्य भागों में बहती हैं।"
+  },
+  {
+   "id": "t09-gk-04",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian History",
+   "question": "Which Mughal emperor built the Red Fort in Delhi?",
+   "questionHi": "दिल्ली का लाल किला किस मुग़ल बादशाह ने बनवाया?",
+   "options": [
+    "Akbar",
+    "Babur",
+    "Humayun",
+    "Shah Jahan"
+   ],
+   "optionsHi": [
+    "अकबर",
+    "बाबर",
+    "हुमायूँ",
+    "शाहजहाँ"
+   ],
+   "correctIndex": 3,
+   "explanation": "Shah Jahan built the Red Fort (Lal Qila) at Shahjahanabad, Delhi, completed in 1648.",
+   "explanationHi": "शाहजहाँ ने शाहजहाँनाबाद (दिल्ली) में लाल किला बनवाया, जो 1648 में पूरा हुआ।"
+  },
+  {
+   "id": "t09-gk-05",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian Geography",
+   "question": "Chilika Lake, the largest brackish-water lagoon of India, is located in:",
+   "questionHi": "भारत की सबसे बड़ी खारे पानी की लैगून चिल्का झील कहाँ स्थित है?",
+   "options": [
+    "Andhra Pradesh",
+    "Odisha",
+    "West Bengal",
+    "Tamil Nadu"
+   ],
+   "optionsHi": [
+    "आंध्र प्रदेश",
+    "ओडिशा",
+    "पश्चिम बंगाल",
+    "तमिलनाडु"
+   ],
+   "correctIndex": 1,
+   "explanation": "Chilika Lake lies on the coast of Odisha.",
+   "explanationHi": "चिल्का झील ओडिशा के तट पर स्थित है।"
+  }
+ ]
+}

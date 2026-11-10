@@ -1,0 +1,239 @@
+{
+  "questions": [
+    {
+      "id": "t01-hindi-01", "part": "C", "section": "hindi", "topic": "स्वर-व्यंजन",
+      "question": "निम्नलिखित में से कौन-सा वर्ण स्वर नहीं है?",
+      "options": ["ई", "ऊ", "ए", "क"],
+      "correctIndex": 3,
+      "explanation": "'ई', 'ऊ' और 'ए' स्वर हैं, जबकि 'क' व्यंजन है। इसलिए 'क' सही उत्तर है।"
+    },
+    {
+      "id": "t01-hindi-02", "part": "C", "section": "hindi", "topic": "लिंग",
+      "question": "निम्नलिखित में से कौन-सा शब्द पुल्लिंग है?",
+      "options": ["रोटी", "दही", "नदी", "चींटी"],
+      "correctIndex": 1,
+      "explanation": "'दही' पुल्लिंग शब्द है (यह दही मीठा है)। 'रोटी', 'नदी' और 'चींटी' स्त्रीलिंग शब्द हैं।"
+    },
+    {
+      "id": "t01-hindi-03", "part": "C", "section": "hindi", "topic": "सर्वनाम",
+      "question": "'मैं स्वयं यह काम करूँगा।' - इस वाक्य में 'स्वयं' कौन-सा सर्वनाम है?",
+      "options": ["निजवाचक", "निश्चयवाचक", "अनिश्चयवाचक", "संबंधवाचक"],
+      "correctIndex": 0,
+      "explanation": "जो सर्वनाम कर्ता के साथ आकर उसी का बोध कराए (आप, स्वयं, खुद), उसे निजवाचक सर्वनाम कहते हैं। अन्य विकल्प यहाँ लागू नहीं होते।"
+    },
+    {
+      "id": "t01-hindi-04", "part": "C", "section": "hindi", "topic": "समास",
+      "question": "'राजपुत्र' में कौन-सा समास है?",
+      "options": ["द्वंद्व", "बहुव्रीहि", "तत्पुरुष", "कर्मधारय"],
+      "correctIndex": 2,
+      "explanation": "'राजपुत्र' का विग्रह 'राजा का पुत्र' है। इसमें उत्तरपद प्रधान है और संबंध कारक की विभक्ति लुप्त है, इसलिए यह तत्पुरुष समास है।"
+    },
+    {
+      "id": "t01-hindi-05", "part": "C", "section": "hindi", "topic": "संधि",
+      "question": "'सूर्योदय' का संधि-विच्छेद क्या है?",
+      "options": ["सूर्यो + दय", "सूर्य + उदय", "सूर्य + ओदय", "सूरी + उदय"],
+      "correctIndex": 1,
+      "explanation": "सूर्य + उदय = सूर्योदय। यहाँ 'अ' और 'उ' मिलकर 'ओ' बनते हैं, यह गुण संधि का उदाहरण है। अन्य विकल्प शब्दों को गलत तोड़ते हैं।"
+    },
+    {
+      "id": "t01-english-01", "part": "C", "section": "english", "topic": "Number",
+      "question": "What is the plural form of 'phenomenon'?",
+      "options": ["phenomenons", "phenomenas", "phenomena", "phenomenes"],
+      "correctIndex": 2,
+      "explanation": "'Phenomenon' is of Greek origin and its plural is 'phenomena'. The other forms are incorrect."
+    },
+    {
+      "id": "t01-english-02", "part": "C", "section": "english", "topic": "Prepositions",
+      "question": "He is very fond ____ classical music.",
+      "options": ["of", "for", "with", "at"],
+      "correctIndex": 0,
+      "explanation": "The adjective 'fond' is followed by the preposition 'of' (fond of). The other prepositions do not collocate with 'fond'."
+    },
+    {
+      "id": "t01-english-03", "part": "C", "section": "english", "topic": "Synonyms",
+      "question": "Choose the synonym of 'ABUNDANT'.",
+      "options": ["scarce", "tiny", "costly", "plentiful"],
+      "correctIndex": 3,
+      "explanation": "'Abundant' means existing in large quantities, so 'plentiful' is its synonym. 'Scarce' is its antonym; 'tiny' and 'costly' are unrelated."
+    },
+    {
+      "id": "t01-english-04", "part": "C", "section": "english", "topic": "One-word substitution",
+      "question": "One-word substitution for 'a person who can speak many languages':",
+      "options": ["Orator", "Polyglot", "Bibliophile", "Pedant"],
+      "correctIndex": 1,
+      "explanation": "A polyglot is a person who knows several languages. An orator is a skilled public speaker, a bibliophile loves books, and a pedant is overly concerned with minor details."
+    },
+    {
+      "id": "t01-english-05", "part": "C", "section": "english", "topic": "Active and passive voice",
+      "question": "Change into passive voice: 'They are building a bridge.'",
+      "options": [
+        "A bridge was being built by them.",
+        "A bridge is built by them.",
+        "A bridge is being built by them.",
+        "A bridge has been built by them."
+      ],
+      "correctIndex": 2,
+      "explanation": "The present continuous active ('are building') becomes 'is/are being + V3' in the passive. So 'A bridge is being built by them' is correct. The other options change the tense."
+    },
+    {
+      "id": "t01-mental-01", "part": "C", "section": "mental", "topic": "Analogy",
+      "question": "Doctor : Hospital :: Teacher : ?",
+      "questionHi": "डॉक्टर : अस्पताल :: शिक्षक : ?",
+      "options": ["Book", "School", "Student", "Class"],
+      "optionsHi": ["पुस्तक", "विद्यालय", "विद्यार्थी", "कक्षा"],
+      "correctIndex": 1,
+      "explanation": "A doctor works in a hospital, just as a teacher works in a school. The relationship is person and workplace.",
+      "explanationHi": "डॉक्टर अस्पताल में कार्य करता है, उसी प्रकार शिक्षक विद्यालय में कार्य करता है। संबंध व्यक्ति और कार्यस्थल का है।"
+    },
+    {
+      "id": "t01-mental-02", "part": "C", "section": "mental", "topic": "Number series",
+      "question": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
+      "questionHi": "श्रेणी में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, ?",
+      "options": ["36", "40", "44", "42"],
+      "optionsHi": ["36", "40", "44", "42"],
+      "correctIndex": 3,
+      "explanation": "The differences are 4, 6, 8, 10, so the next difference is 12. Hence 30 + 12 = 42. (The terms are 1x2, 2x3, 3x4, 4x5, 5x6, 6x7.)",
+      "explanationHi": "अंतर 4, 6, 8, 10 हैं, इसलिए अगला अंतर 12 होगा। अतः 30 + 12 = 42। (पद 1x2, 2x3, 3x4, 4x5, 5x6, 6x7 हैं।)"
+    },
+    {
+      "id": "t01-mental-03", "part": "C", "section": "mental", "topic": "Blood relations",
+      "question": "A is the sister of B, and B is the father of C. How is A related to C?",
+      "questionHi": "A, B की बहन है और B, C का पिता है। A का C से क्या संबंध है?",
+      "options": ["Paternal aunt (father's sister)", "Mother", "Grandmother", "Sister"],
+      "optionsHi": ["बुआ (पिता की बहन)", "माता", "दादी", "बहन"],
+      "correctIndex": 0,
+      "explanation": "A is the sister of C's father B, so A is C's paternal aunt (bua).",
+      "explanationHi": "A, C के पिता B की बहन है, इसलिए A, C की बुआ है।"
+    },
+    {
+      "id": "t01-mental-04", "part": "C", "section": "mental", "topic": "Direction sense",
+      "question": "Ravi walks 5 km north, then turns right and walks 3 km, then turns right again and walks 5 km. How far and in which direction is he from the starting point?",
+      "questionHi": "रवि 5 किमी उत्तर की ओर चलता है, फिर दाएँ मुड़कर 3 किमी चलता है, फिर दोबारा दाएँ मुड़कर 5 किमी चलता है। वह प्रारंभिक बिंदु से कितनी दूर और किस दिशा में है?",
+      "options": ["3 km west", "5 km south", "3 km east", "8 km east"],
+      "optionsHi": ["3 किमी पश्चिम", "5 किमी दक्षिण", "3 किमी पूर्व", "8 किमी पूर्व"],
+      "correctIndex": 2,
+      "explanation": "North 5 km, right turn means east 3 km, another right turn means south 5 km. The 5 km north and south cancel, leaving him 3 km east of the start.",
+      "explanationHi": "5 किमी उत्तर, दाएँ मुड़ने पर 3 किमी पूर्व, फिर दाएँ मुड़ने पर 5 किमी दक्षिण। उत्तर और दक्षिण की 5-5 किमी दूरियाँ कट जाती हैं, इसलिए वह प्रारंभ से 3 किमी पूर्व में है।"
+    },
+    {
+      "id": "t01-mental-05", "part": "C", "section": "mental", "topic": "Coding-decoding",
+      "question": "In a certain code, 'MAN' is written as 'NBO'. How will 'BOY' be written in that code?",
+      "questionHi": "एक कूट भाषा में 'MAN' को 'NBO' लिखा जाता है। उसी कूट में 'BOY' को कैसे लिखा जाएगा?",
+      "options": ["CPZ", "CNZ", "APX", "CPX"],
+      "optionsHi": ["CPZ", "CNZ", "APX", "CPX"],
+      "correctIndex": 0,
+      "explanation": "Each letter is moved one place forward: M to N, A to B, N to O. So B to C, O to P, Y to Z, giving CPZ.",
+      "explanationHi": "प्रत्येक अक्षर को एक स्थान आगे बढ़ाया गया है: M से N, A से B, N से O। इसलिए B से C, O से P, Y से Z, अर्थात CPZ।"
+    },
+    {
+      "id": "t01-computer-01", "part": "C", "section": "computer", "topic": "CPU",
+      "question": "Which part of the computer is called its 'brain'?",
+      "questionHi": "कंप्यूटर के किस भाग को उसका 'मस्तिष्क' कहा जाता है?",
+      "options": ["CPU", "Monitor", "RAM", "Keyboard"],
+      "optionsHi": ["CPU", "मॉनीटर", "RAM", "कीबोर्ड"],
+      "correctIndex": 0,
+      "explanation": "The CPU (Central Processing Unit) processes instructions and controls all operations, so it is called the brain. The monitor and keyboard are output and input devices, and RAM is memory.",
+      "explanationHi": "CPU (केंद्रीय प्रसंस्करण इकाई) निर्देशों को संसाधित करती है और सभी कार्यों को नियंत्रित करती है, इसलिए इसे मस्तिष्क कहते हैं। मॉनीटर और कीबोर्ड आउटपुट व इनपुट उपकरण हैं तथा RAM मेमोरी है।"
+    },
+    {
+      "id": "t01-computer-02", "part": "C", "section": "computer", "topic": "Memory",
+      "question": "Which of the following is a volatile memory?",
+      "questionHi": "निम्नलिखित में से कौन-सी वाष्पशील (volatile) मेमोरी है?",
+      "options": ["ROM", "Hard disk", "RAM", "Pen drive"],
+      "optionsHi": ["ROM", "हार्ड डिस्क", "RAM", "पेन ड्राइव"],
+      "correctIndex": 2,
+      "explanation": "RAM loses its data when the power is switched off, so it is volatile. ROM, hard disk and pen drive keep their data without power.",
+      "explanationHi": "बिजली बंद होने पर RAM का डेटा मिट जाता है, इसलिए यह वाष्पशील है। ROM, हार्ड डिस्क और पेन ड्राइव बिना बिजली के भी डेटा सुरक्षित रखते हैं।"
+    },
+    {
+      "id": "t01-computer-03", "part": "C", "section": "computer", "topic": "Input-output devices",
+      "question": "Which of the following is an output device?",
+      "questionHi": "निम्नलिखित में से कौन-सा आउटपुट उपकरण है?",
+      "options": ["Scanner", "Mouse", "Keyboard", "Printer"],
+      "optionsHi": ["स्कैनर", "माउस", "कीबोर्ड", "प्रिंटर"],
+      "correctIndex": 3,
+      "explanation": "A printer produces printed output from the computer. A scanner, mouse and keyboard are input devices.",
+      "explanationHi": "प्रिंटर कंप्यूटर से मुद्रित आउटपुट देता है। स्कैनर, माउस और कीबोर्ड इनपुट उपकरण हैं।"
+    },
+    {
+      "id": "t01-computer-04", "part": "C", "section": "computer", "topic": "Internet and e-mail",
+      "question": "In an e-mail, the recipients listed in the BCC field:",
+      "questionHi": "ई-मेल में BCC फ़ील्ड में लिखे गए प्राप्तकर्ता:",
+      "options": [
+        "are visible to all other recipients",
+        "are hidden from the other recipients",
+        "do not receive a copy of the mail",
+        "are the main recipients of the mail"
+      ],
+      "optionsHi": [
+        "अन्य सभी प्राप्तकर्ताओं को दिखाई देते हैं",
+        "अन्य प्राप्तकर्ताओं से छिपे रहते हैं",
+        "मेल की प्रति प्राप्त नहीं करते",
+        "मेल के मुख्य प्राप्तकर्ता होते हैं"
+      ],
+      "correctIndex": 1,
+      "explanation": "BCC means Blind Carbon Copy. Those addressed in BCC receive the mail, but their addresses are not shown to the other recipients.",
+      "explanationHi": "BCC का अर्थ है ब्लाइंड कार्बन कॉपी। BCC वाले लोगों को मेल मिलता है, परंतु उनके पते अन्य प्राप्तकर्ताओं को नहीं दिखते।"
+    },
+    {
+      "id": "t01-computer-05", "part": "C", "section": "computer", "topic": "Operating systems",
+      "question": "Which of the following is an open-source operating system?",
+      "questionHi": "निम्नलिखित में से कौन-सा ओपन-सोर्स ऑपरेटिंग सिस्टम है?",
+      "options": ["MS-DOS", "Windows 10", "macOS", "Linux"],
+      "optionsHi": ["MS-DOS", "विंडोज़ 10", "macOS", "लिनक्स"],
+      "correctIndex": 3,
+      "explanation": "Linux is open-source; its source code is freely available. MS-DOS, Windows and macOS are proprietary systems.",
+      "explanationHi": "लिनक्स ओपन-सोर्स है; इसका स्रोत कोड सभी के लिए उपलब्ध है। MS-DOS, विंडोज़ और macOS स्वामित्व वाले (proprietary) सिस्टम हैं।"
+    },
+    {
+      "id": "t01-gk-01", "part": "C", "section": "gk", "topic": "Indian Constitution",
+      "question": "The Right to Constitutional Remedies is guaranteed under which Article of the Indian Constitution?",
+      "questionHi": "भारतीय संविधान के किस अनुच्छेद में संवैधानिक उपचारों का अधिकार दिया गया है?",
+      "options": ["Article 14", "Article 21", "Article 32", "Article 44"],
+      "optionsHi": ["अनुच्छेद 14", "अनुच्छेद 21", "अनुच्छेद 32", "अनुच्छेद 44"],
+      "correctIndex": 2,
+      "explanation": "Article 32 gives the right to move the Supreme Court for enforcement of Fundamental Rights; Dr Ambedkar called it the 'heart and soul' of the Constitution. Article 14 is equality before law, Article 21 is right to life, and Article 44 is a Directive Principle on a uniform civil code.",
+      "explanationHi": "अनुच्छेद 32 मौलिक अधिकारों को लागू कराने के लिए सर्वोच्च न्यायालय जाने का अधिकार देता है; डॉ. अंबेडकर ने इसे संविधान की 'आत्मा और हृदय' कहा। अनुच्छेद 14 विधि के समक्ष समानता, 21 जीवन का अधिकार और 44 समान नागरिक संहिता का नीति-निर्देशक तत्व है।"
+    },
+    {
+      "id": "t01-gk-02", "part": "C", "section": "gk", "topic": "Chhattisgarh GK",
+      "question": "On which date did Chhattisgarh become a separate state?",
+      "questionHi": "छत्तीसगढ़ किस तिथि को अलग राज्य बना?",
+      "options": ["1 November 2000", "15 August 2000", "26 January 2001", "2 October 2000"],
+      "optionsHi": ["1 नवंबर 2000", "15 अगस्त 2000", "26 जनवरी 2001", "2 अक्टूबर 2000"],
+      "correctIndex": 0,
+      "explanation": "Chhattisgarh was carved out of Madhya Pradesh on 1 November 2000 and is celebrated as Rajyotsava; its capital is Raipur. The other dates are incorrect.",
+      "explanationHi": "छत्तीसगढ़ को 1 नवंबर 2000 को मध्य प्रदेश से अलग करके राज्य बनाया गया; इसे राज्योत्सव के रूप में मनाया जाता है और इसकी राजधानी रायपुर है। अन्य तिथियाँ सही नहीं हैं।"
+    },
+    {
+      "id": "t01-gk-03", "part": "C", "section": "gk", "topic": "Indian history",
+      "question": "The Revolt of 1857 began at which place?",
+      "questionHi": "1857 का विद्रोह किस स्थान से प्रारंभ हुआ?",
+      "options": ["Delhi", "Meerut", "Kanpur", "Jhansi"],
+      "optionsHi": ["दिल्ली", "मेरठ", "कानपुर", "झाँसी"],
+      "correctIndex": 1,
+      "explanation": "The revolt began on 10 May 1857 at Meerut, when sepoys rose against their officers and marched to Delhi. Delhi, Kanpur and Jhansi became important centres later.",
+      "explanationHi": "विद्रोह 10 मई 1857 को मेरठ से शुरू हुआ, जब सिपाहियों ने अपने अफ़सरों के विरुद्ध विद्रोह किया और दिल्ली की ओर बढ़े। दिल्ली, कानपुर और झाँसी बाद में प्रमुख केंद्र बने।"
+    },
+    {
+      "id": "t01-gk-04", "part": "C", "section": "gk", "topic": "General science",
+      "question": "Which gas is the most abundant in the Earth's atmosphere?",
+      "questionHi": "पृथ्वी के वायुमंडल में सबसे अधिक मात्रा में कौन-सी गैस पाई जाती है?",
+      "options": ["Oxygen", "Carbon dioxide", "Argon", "Nitrogen"],
+      "optionsHi": ["ऑक्सीजन", "कार्बन डाइऑक्साइड", "आर्गन", "नाइट्रोजन"],
+      "correctIndex": 3,
+      "explanation": "Nitrogen makes up about 78% of the air. Oxygen is about 21%, argon about 0.9%, and carbon dioxide only a tiny fraction.",
+      "explanationHi": "वायु में लगभग 78% नाइट्रोजन है। ऑक्सीजन लगभग 21%, आर्गन लगभग 0.9% और कार्बन डाइऑक्साइड बहुत थोड़ी मात्रा में है।"
+    },
+    {
+      "id": "t01-gk-05", "part": "C", "section": "gk", "topic": "Geography of India",
+      "question": "Which is the largest Indian state by area?",
+      "questionHi": "क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा राज्य कौन-सा है?",
+      "options": ["Madhya Pradesh", "Maharashtra", "Rajasthan", "Uttar Pradesh"],
+      "optionsHi": ["मध्य प्रदेश", "महाराष्ट्र", "राजस्थान", "उत्तर प्रदेश"],
+      "correctIndex": 2,
+      "explanation": "Rajasthan is the largest state by area. Madhya Pradesh is second, Maharashtra third; Uttar Pradesh is the most populous, but not the largest by area.",
+      "explanationHi": "क्षेत्रफल में राजस्थान सबसे बड़ा राज्य है। मध्य प्रदेश दूसरे और महाराष्ट्र तीसरे स्थान पर है; उत्तर प्रदेश सर्वाधिक जनसंख्या वाला राज्य है, क्षेत्रफल में सबसे बड़ा नहीं।"
+    }
+  ]
+}

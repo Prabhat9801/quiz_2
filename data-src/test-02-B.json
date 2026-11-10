@@ -1,0 +1,349 @@
+{
+  "questions": [
+    {
+      "id": "t02-psych-01",
+      "part": "B",
+      "section": "psych",
+      "topic": "Kohlberg's moral development",
+      "question": "In Kohlberg's theory, a person who obeys rules only to avoid punishment is at the ___ level.",
+      "questionHi": "कोहलबर्ग के सिद्धांत में, जो व्यक्ति केवल दंड से बचने के लिए नियमों का पालन करता है, वह ___ स्तर पर है।",
+      "options": [
+        "Post-conventional",
+        "Pre-conventional",
+        "Conventional",
+        "Sensorimotor"
+      ],
+      "optionsHi": [
+        "उत्तर-परंपरागत",
+        "पूर्व-परंपरागत",
+        "परंपरागत",
+        "संवेदी-गामक"
+      ],
+      "correctIndex": 1,
+      "explanation": "Obedience to avoid punishment is Stage 1 of the Pre-conventional level. The Conventional level is about social approval and law, the Post-conventional level about universal principles. 'Sensorimotor' is a Piaget stage, not Kohlberg's.",
+      "explanationHi": "दंड से बचने के लिए आज्ञापालन पूर्व-परंपरागत स्तर की पहली अवस्था है। परंपरागत स्तर सामाजिक स्वीकृति व कानून से जुड़ा है और उत्तर-परंपरागत स्तर सार्वभौमिक सिद्धांतों से। 'संवेदी-गामक' पियाजे की अवस्था है, कोहलबर्ग की नहीं।"
+    },
+    {
+      "id": "t02-psych-02",
+      "part": "B",
+      "section": "psych",
+      "topic": "Kohlberg's moral development",
+      "question": "Kohlberg used moral dilemmas such as the 'Heinz dilemma' to study the ___ development of children.",
+      "questionHi": "कोहलबर्ग ने बच्चों के ___ विकास का अध्ययन करने के लिए 'हाइंज़ दुविधा' जैसी नैतिक दुविधाओं का प्रयोग किया।",
+      "options": [
+        "physical",
+        "linguistic",
+        "emotional",
+        "moral"
+      ],
+      "optionsHi": [
+        "शारीरिक",
+        "भाषाई",
+        "संवेगात्मक",
+        "नैतिक"
+      ],
+      "correctIndex": 3,
+      "explanation": "Kohlberg's theory deals with stages of moral reasoning, and he tested it through moral dilemmas such as the Heinz dilemma. The other options are not what these dilemmas measure.",
+      "explanationHi": "कोहलबर्ग का सिद्धांत नैतिक चिंतन की अवस्थाओं से संबंधित है और उन्होंने इसे हाइंज़ दुविधा जैसी नैतिक दुविधाओं से परखा। अन्य विकल्प इन दुविधाओं से नहीं मापे जाते।"
+    },
+    {
+      "id": "t02-psych-03",
+      "part": "B",
+      "section": "psych",
+      "topic": "Bandura's social learning",
+      "question": "Bandura's Social Learning Theory emphasises learning through ___.",
+      "questionHi": "बंडूरा का सामाजिक अधिगम सिद्धांत किसके माध्यम से सीखने पर बल देता है?",
+      "options": [
+        "observation and modelling",
+        "trial and error only",
+        "classical conditioning only",
+        "insight alone"
+      ],
+      "optionsHi": [
+        "अवलोकन और अनुकरण (मॉडलिंग)",
+        "केवल प्रयास और त्रुटि",
+        "केवल शास्त्रीय अनुबंधन",
+        "केवल अंतर्दृष्टि"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bandura's Bobo doll experiment showed that children learn by observing and imitating models. Trial and error is Thorndike, classical conditioning is Pavlov and insight is Gestalt (Kohler).",
+      "explanationHi": "बंडूरा के बोबो डॉल प्रयोग ने दिखाया कि बच्चे आदर्श को देखकर और उसकी नकल करके सीखते हैं। प्रयास-त्रुटि थॉर्नडाइक का, शास्त्रीय अनुबंधन पावलोव का और अंतर्दृष्टि गेस्टाल्ट (कोहलर) का सिद्धांत है।"
+    },
+    {
+      "id": "t02-psych-04",
+      "part": "B",
+      "section": "psych",
+      "topic": "Gardner's multiple intelligences",
+      "question": "A student who understands his own feelings, strengths and goals well shows strong ___ intelligence (Gardner).",
+      "questionHi": "जो विद्यार्थी अपनी भावनाओं, शक्तियों और लक्ष्यों को अच्छी तरह समझता है, वह गार्डनर की ___ बुद्धि दर्शाता है।",
+      "options": [
+        "Linguistic",
+        "Naturalistic",
+        "Intrapersonal",
+        "Logical-mathematical"
+      ],
+      "optionsHi": [
+        "भाषाई",
+        "प्रकृतिवादी",
+        "आत्म-वैयक्तिक (Intrapersonal)",
+        "तार्किक-गणितीय"
+      ],
+      "correctIndex": 2,
+      "explanation": "Intrapersonal intelligence is self-understanding. Linguistic relates to words, naturalistic to nature and logical-mathematical to reasoning and numbers.",
+      "explanationHi": "Intrapersonal बुद्धि का अर्थ स्वयं को समझना है। भाषाई शब्दों से, प्रकृतिवादी प्रकृति से और तार्किक-गणितीय तर्क व संख्याओं से संबंधित है।"
+    },
+    {
+      "id": "t02-psych-05",
+      "part": "B",
+      "section": "psych",
+      "topic": "Motivation",
+      "question": "Motivation that comes from within the learner, such as curiosity or personal interest, is called ______ motivation.",
+      "questionHi": "सीखने वाले के भीतर से आने वाली प्रेरणा, जैसे जिज्ञासा या व्यक्तिगत रुचि, ______ प्रेरणा कहलाती है।",
+      "options": [
+        "extrinsic",
+        "social",
+        "instrumental",
+        "intrinsic"
+      ],
+      "optionsHi": [
+        "बाह्य (extrinsic)",
+        "सामाजिक (social)",
+        "साधनात्मक (instrumental)",
+        "आंतरिक (intrinsic)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Intrinsic motivation arises from the activity itself or inner interest; extrinsic motivation depends on outside rewards or punishments.",
+      "explanationHi": "Intrinsic motivation कार्य से या भीतर की रुचि से उत्पन्न होती है; extrinsic motivation बाहरी पुरस्कार या दंड पर निर्भर होती है।"
+    },
+    {
+      "id": "t02-psych-06",
+      "part": "B",
+      "section": "psych",
+      "topic": "Inclusive education",
+      "question": "Inclusive education means ___.",
+      "questionHi": "समावेशी शिक्षा का अर्थ है ___।",
+      "options": [
+        "separate schools for children with disabilities",
+        "educating all children, including those with special needs, together in regular classrooms",
+        "teaching only gifted children",
+        "home schooling for all"
+      ],
+      "optionsHi": [
+        "दिव्यांग बच्चों के लिए अलग विद्यालय",
+        "विशेष आवश्यकता वाले बच्चों सहित सभी बच्चों को सामान्य कक्षाओं में साथ पढ़ाना",
+        "केवल प्रतिभाशाली बच्चों को पढ़ाना",
+        "सभी के लिए घर पर शिक्षा"
+      ],
+      "correctIndex": 1,
+      "explanation": "Inclusion brings every learner into the same classroom with suitable support. Separate schools is segregation; teaching only the gifted or home schooling does not describe inclusion.",
+      "explanationHi": "समावेशन में हर विद्यार्थी उचित सहायता के साथ एक ही कक्षा में पढ़ता है। अलग विद्यालय पृथक्करण है; केवल प्रतिभाशाली को पढ़ाना या घर पर शिक्षा समावेशन नहीं है।"
+    },
+    {
+      "id": "t02-assess-01",
+      "part": "B",
+      "section": "assess",
+      "topic": "Formative assessment",
+      "question": "Assessment carried out during the learning process to give ongoing feedback is called ___ assessment.",
+      "questionHi": "सीखने की प्रक्रिया के दौरान लगातार फीडबैक देने के लिए किया गया आकलन ___ आकलन कहलाता है।",
+      "options": [
+        "Summative",
+        "Norm-referenced",
+        "Formative",
+        "Standardised"
+      ],
+      "optionsHi": [
+        "योगात्मक",
+        "मानक-संदर्भित (समूह-आधारित)",
+        "रचनात्मक (Formative)",
+        "मानकीकृत"
+      ],
+      "correctIndex": 2,
+      "explanation": "Formative assessment monitors progress and guides improvement while learning is going on. Summative assessment comes at the end; norm-referenced compares students; standardised tests follow uniform procedures.",
+      "explanationHi": "रचनात्मक आकलन सीखने के दौरान प्रगति की निगरानी करता है और सुधार का मार्ग दिखाता है। योगात्मक अंत में होता है; मानक-संदर्भित विद्यार्थियों की तुलना करता है; मानकीकृत परीक्षण एक समान प्रक्रिया से होते हैं।"
+    },
+    {
+      "id": "t02-assess-02",
+      "part": "B",
+      "section": "assess",
+      "topic": "Rubrics",
+      "question": "A rubric is ___.",
+      "questionHi": "रूब्रिक (Rubric) क्या है?",
+      "options": [
+        "a scoring guide listing criteria and levels of performance",
+        "a type of question paper",
+        "a list of student names",
+        "a punishment record"
+      ],
+      "optionsHi": [
+        "मानदंडों और प्रदर्शन के स्तरों वाली अंकन-मार्गदर्शिका",
+        "प्रश्न-पत्र का एक प्रकार",
+        "विद्यार्थियों के नामों की सूची",
+        "दंड का रिकॉर्ड"
+      ],
+      "correctIndex": 0,
+      "explanation": "A rubric describes criteria and performance levels so that work can be judged fairly and learners know what is expected. The other options are unrelated.",
+      "explanationHi": "रूब्रिक में मानदंड और प्रदर्शन के स्तर बताए जाते हैं ताकि कार्य का निष्पक्ष मूल्यांकन हो सके और विद्यार्थी जानें कि क्या अपेक्षित है। अन्य विकल्प असंबंधित हैं।"
+    },
+    {
+      "id": "t02-assess-03",
+      "part": "B",
+      "section": "assess",
+      "topic": "Characteristics of a good test",
+      "question": "A test that measures what it claims to measure is said to have ___.",
+      "questionHi": "जो परीक्षण वही मापता है जो उसे मापना चाहिए, उसमें ___ होती है।",
+      "options": [
+        "Reliability",
+        "Validity",
+        "Objectivity",
+        "Usability"
+      ],
+      "optionsHi": [
+        "विश्वसनीयता",
+        "वैधता",
+        "वस्तुनिष्ठता",
+        "उपयोगिता"
+      ],
+      "correctIndex": 1,
+      "explanation": "Validity is the degree to which a test measures the intended trait. Reliability is consistency of results, objectivity is freedom from scorer bias and usability is practical ease of use.",
+      "explanationHi": "वैधता वह सीमा है जिस तक परीक्षण इच्छित गुण को मापता है। विश्वसनीयता परिणामों की संगति है, वस्तुनिष्ठता अंकक के पक्षपात से मुक्ति है और उपयोगिता व्यावहारिक सुगमता है।"
+    },
+    {
+      "id": "t02-assess-04",
+      "part": "B",
+      "section": "assess",
+      "topic": "Norm- and criterion-referenced tests",
+      "question": "Interpreting a student's score by comparing it with the performance of other students is ___.",
+      "questionHi": "किसी विद्यार्थी के अंकों की व्याख्या अन्य विद्यार्थियों के प्रदर्शन से तुलना करके करना ___ है।",
+      "options": [
+        "Criterion-referenced testing",
+        "Diagnostic testing",
+        "Formative assessment",
+        "Norm-referenced testing"
+      ],
+      "optionsHi": [
+        "मानदंड-संदर्भित परीक्षण",
+        "निदानात्मक परीक्षण",
+        "रचनात्मक आकलन",
+        "मानक-संदर्भित (Norm-referenced) परीक्षण"
+      ],
+      "correctIndex": 3,
+      "explanation": "Norm-referenced tests rank a learner against a group. Criterion-referenced tests compare performance with a fixed standard; diagnostic tests find weaknesses; formative assessment gives feedback during learning.",
+      "explanationHi": "Norm-referenced परीक्षण विद्यार्थी को समूह के सापेक्ष आँकते हैं। मानदंड-संदर्भित परीक्षण निश्चित मानक से तुलना करते हैं; निदानात्मक परीक्षण कमज़ोरियाँ खोजते हैं; रचनात्मक आकलन सीखने के दौरान फीडबैक देता है।"
+    },
+    {
+      "id": "t02-pedag-01",
+      "part": "B",
+      "section": "pedag",
+      "topic": "NCF 2005",
+      "question": "NCF 2005 emphasises that learning should be ___.",
+      "questionHi": "NCF 2005 किस बात पर बल देता है कि सीखना ___ होना चाहिए।",
+      "options": [
+        "connected to life outside school and free from rote learning",
+        "based only on textbooks and rote memory",
+        "centred on board examinations alone",
+        "limited to the classroom"
+      ],
+      "optionsHi": [
+        "विद्यालय के बाहर के जीवन से जुड़ा और रटने से मुक्त",
+        "केवल पाठ्यपुस्तक और रटने पर आधारित",
+        "केवल बोर्ड परीक्षाओं पर केंद्रित",
+        "केवल कक्षा तक सीमित"
+      ],
+      "correctIndex": 0,
+      "explanation": "NCF 2005 stresses connecting knowledge to life outside school, shifting away from rote methods and reducing the burden of learning. The other options go against these aims.",
+      "explanationHi": "NCF 2005 ज्ञान को विद्यालय के बाहर के जीवन से जोड़ने, रटने की पद्धति से हटने और सीखने का बोझ कम करने पर बल देता है। अन्य विकल्प इन उद्देश्यों के विपरीत हैं।"
+    },
+    {
+      "id": "t02-pedag-02",
+      "part": "B",
+      "section": "pedag",
+      "topic": "Lesson planning",
+      "question": "The first step in preparing a good lesson plan is ___.",
+      "questionHi": "अच्छी पाठ योजना बनाने का पहला चरण क्या है?",
+      "options": [
+        "conducting the final evaluation",
+        "assigning homework",
+        "setting clear learning objectives",
+        "writing the summary"
+      ],
+      "optionsHi": [
+        "अंतिम मूल्यांकन करना",
+        "गृहकार्य देना",
+        "स्पष्ट अधिगम उद्देश्य तय करना",
+        "सारांश लिखना"
+      ],
+      "correctIndex": 2,
+      "explanation": "Content, methods and evaluation all depend on what the teacher wants learners to achieve, so objectives come first. Evaluation, homework and summary come later.",
+      "explanationHi": "विषय-वस्तु, विधियाँ और मूल्यांकन सब इस पर निर्भर हैं कि शिक्षक विद्यार्थियों से क्या प्राप्त कराना चाहता है, इसलिए उद्देश्य पहले आते हैं। मूल्यांकन, गृहकार्य और सारांश बाद में आते हैं।"
+    },
+    {
+      "id": "t02-pedag-03",
+      "part": "B",
+      "section": "pedag",
+      "topic": "Group learning",
+      "question": "The main benefit of group learning is that it ___.",
+      "questionHi": "समूह अधिगम का मुख्य लाभ यह है कि यह ___।",
+      "options": [
+        "increases only competition",
+        "removes the teacher's role",
+        "avoids interaction among students",
+        "promotes peer interaction and collaboration"
+      ],
+      "optionsHi": [
+        "केवल प्रतिस्पर्धा बढ़ाता है",
+        "शिक्षक की भूमिका समाप्त करता है",
+        "विद्यार्थियों के बीच संवाद से बचाता है",
+        "साथियों के बीच संवाद और सहयोग को बढ़ावा देता है"
+      ],
+      "correctIndex": 3,
+      "explanation": "In groups, learners share ideas, help one another and learn collaboratively. It does not remove the teacher, avoid interaction or aim only at competition.",
+      "explanationHi": "समूह में विद्यार्थी विचार बाँटते हैं, एक-दूसरे की मदद करते हैं और मिलकर सीखते हैं। इसमें शिक्षक की भूमिका समाप्त नहीं होती, संवाद से बचना नहीं होता और केवल प्रतिस्पर्धा लक्ष्य नहीं है।"
+    },
+    {
+      "id": "t02-attitude-01",
+      "part": "B",
+      "section": "attitude",
+      "topic": "Hidden curriculum",
+      "question": "The 'hidden curriculum' in a school refers to ___.",
+      "questionHi": "विद्यालय में 'छिपा हुआ पाठ्यक्रम' (hidden curriculum) से तात्पर्य ___ है।",
+      "options": [
+        "the officially prescribed syllabus",
+        "the unwritten values and attitudes learners pick up in school",
+        "the content of the final examination",
+        "the subjects taught after school hours"
+      ],
+      "optionsHi": [
+        "आधिकारिक रूप से निर्धारित पाठ्यक्रम",
+        "वे अलिखित मूल्य और दृष्टिकोण जो विद्यार्थी विद्यालय में सीखते हैं",
+        "अंतिम परीक्षा की विषय-वस्तु",
+        "विद्यालय समय के बाद पढ़ाए जाने वाले विषय"
+      ],
+      "correctIndex": 1,
+      "explanation": "The hidden curriculum is the set of unplanned, unwritten lessons, values and attitudes learned through school culture and teacher behaviour. The other options describe formal or planned content.",
+      "explanationHi": "छिपा हुआ पाठ्यक्रम वे अनियोजित, अलिखित पाठ, मूल्य और दृष्टिकोण हैं जो विद्यालय की संस्कृति और शिक्षक के व्यवहार से सीखे जाते हैं। अन्य विकल्प औपचारिक या नियोजित सामग्री बताते हैं।"
+    },
+    {
+      "id": "t02-attitude-02",
+      "part": "B",
+      "section": "attitude",
+      "topic": "Gender perspective in education",
+      "question": "Gender-sensitive teaching means ___.",
+      "questionHi": "लिंग-संवेदनशील शिक्षण का अर्थ है ___।",
+      "options": [
+        "treating boys and girls differently",
+        "giving leadership roles only to boys",
+        "giving equal opportunities and avoiding stereotypes",
+        "separating boys and girls in all activities"
+      ],
+      "optionsHi": [
+        "लड़कों और लड़कियों से अलग-अलग व्यवहार करना",
+        "नेतृत्व की भूमिकाएँ केवल लड़कों को देना",
+        "समान अवसर देना और रूढ़ियों से बचना",
+        "सभी गतिविधियों में लड़के-लड़कियों को अलग करना"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gender-sensitive teaching gives all learners equal opportunities and challenges stereotypes. The other options promote discrimination or separation.",
+      "explanationHi": "लिंग-संवेदनशील शिक्षण सभी विद्यार्थियों को समान अवसर देता है और रूढ़ियों को चुनौती देता है। अन्य विकल्प भेदभाव या अलगाव को बढ़ावा देते हैं।"
+    }
+  ]
+}

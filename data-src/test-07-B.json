@@ -1,0 +1,349 @@
+{
+  "questions": [
+    {
+      "id": "t07-psych-01",
+      "part": "B",
+      "section": "psych",
+      "topic": "Kohlberg - moral development",
+      "question": "Which level of Kohlberg's moral development is marked by acting on universal ethical principles?",
+      "questionHi": "कोहलबर्ग के नैतिक विकास का कौन-सा स्तर सार्वभौमिक नैतिक सिद्धांतों पर आधारित आचरण से पहचाना जाता है?",
+      "options": [
+        "Post-conventional level",
+        "Conventional level",
+        "Pre-conventional level",
+        "Pre-moral level"
+      ],
+      "optionsHi": [
+        "उत्तर-परंपरागत स्तर",
+        "परंपरागत स्तर",
+        "पूर्व-परंपरागत स्तर",
+        "पूर्व-नैतिक स्तर"
+      ],
+      "correctIndex": 0,
+      "explanation": "At the post-conventional level, a person follows self-chosen universal principles such as justice and human rights. The conventional level follows social rules and the pre-conventional level focuses on punishment and reward.",
+      "explanationHi": "उत्तर-परंपरागत स्तर पर व्यक्ति न्याय और मानव अधिकार जैसे स्वयं चुने सार्वभौमिक सिद्धांतों का पालन करता है। परंपरागत स्तर में सामाजिक नियमों का और पूर्व-परंपरागत स्तर में दंड-पुरस्कार का ध्यान रहता है।"
+    },
+    {
+      "id": "t07-psych-02",
+      "part": "B",
+      "section": "psych",
+      "topic": "Learning theories - Thorndike",
+      "question": "Thorndike's trial-and-error experiments used a hungry ___ in a puzzle box.",
+      "questionHi": "थॉर्नडाइक के प्रयास-और-त्रुटि प्रयोग में puzzle box में एक भूखी ___ को रखा गया था।",
+      "options": [
+        "dog",
+        "rat",
+        "cat",
+        "pigeon"
+      ],
+      "optionsHi": [
+        "कुत्ते",
+        "चूहे",
+        "बिल्ली",
+        "कबूतर"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thorndike placed a hungry cat in a puzzle box; rats were Skinner's subjects (Skinner box) and dogs Pavlov's.",
+      "explanationHi": "थॉर्नडाइक ने भूखी बिल्ली को puzzle box में रखा; चूहे स्किनर के और कुत्ता पावलोव के प्रयोगों में थे।"
+    },
+    {
+      "id": "t07-psych-03",
+      "part": "B",
+      "section": "psych",
+      "topic": "Intelligence - Wechsler scales",
+      "question": "The Wechsler scales (WISC and WAIS) are tests used to measure ___.",
+      "questionHi": "वेक्सलर स्केल (WISC और WAIS) ___ मापने के परीक्षण हैं।",
+      "options": [
+        "personality",
+        "intelligence",
+        "achievement in school subjects",
+        "hearing ability"
+      ],
+      "optionsHi": [
+        "व्यक्तित्व",
+        "बुद्धि",
+        "विद्यालयी विषयों की उपलब्धि",
+        "सुनने की क्षमता"
+      ],
+      "correctIndex": 1,
+      "explanation": "David Wechsler developed the WISC (children) and WAIS (adults) scales to measure intelligence.",
+      "explanationHi": "डेविड वेक्सलर ने बच्चों के लिए WISC और वयस्कों के लिए WAIS बुद्धि-मापन हेतु बनाए।"
+    },
+    {
+      "id": "t07-psych-04",
+      "part": "B",
+      "section": "psych",
+      "topic": "Personality - Jung",
+      "question": "The terms \"introvert\" and \"extrovert\" for personality types were popularised by ___.",
+      "questionHi": "व्यक्तित्व के प्रकारों के लिए \"अंतर्मुखी\" (introvert) और \"बहिर्मुखी\" (extrovert) शब्द ___ ने लोकप्रिय बनाए।",
+      "options": [
+        "B.F. Skinner",
+        "Jean Piaget",
+        "Ivan Pavlov",
+        "Carl Jung"
+      ],
+      "optionsHi": [
+        "बी.एफ. स्किनर",
+        "जीन पियाजे",
+        "इवान पावलोव",
+        "कार्ल युंग"
+      ],
+      "correctIndex": 3,
+      "explanation": "Carl Jung classified people into introverts and extroverts.",
+      "explanationHi": "कार्ल युंग ने व्यक्तियों को अंतर्मुखी और बहिर्मुखी में वर्गीकृत किया।"
+    },
+    {
+      "id": "t07-psych-05",
+      "part": "B",
+      "section": "psych",
+      "topic": "Bruner - modes of representation",
+      "question": "Bruner described three modes of representation: enactive, iconic and ___.",
+      "questionHi": "ब्रूनर ने निरूपण के तीन तरीके बताए: enactive, iconic और ___।",
+      "options": [
+        "symbolic",
+        "formal",
+        "concrete",
+        "sensory"
+      ],
+      "optionsHi": [
+        "symbolic",
+        "formal",
+        "concrete",
+        "sensory"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bruner's modes are enactive (action), iconic (images) and symbolic (language/symbols).",
+      "explanationHi": "ब्रूनर के तरीके हैं enactive (क्रिया), iconic (चित्र/प्रतिमा) और symbolic (भाषा/प्रतीक)।"
+    },
+    {
+      "id": "t07-psych-06",
+      "part": "B",
+      "section": "psych",
+      "topic": "Special needs - visual impairment",
+      "question": "Braille is a system of reading and writing mainly used by children with ___.",
+      "questionHi": "ब्रेल (Braille) पढ़ने-लिखने की वह प्रणाली है जो मुख्यतः ___ वाले बच्चे प्रयोग करते हैं।",
+      "options": [
+        "hearing impairment",
+        "speech disorder",
+        "visual impairment",
+        "intellectual disability"
+      ],
+      "optionsHi": [
+        "श्रवण-बाधा",
+        "वाणी-विकार",
+        "दृष्टि-बाधा",
+        "बौद्धिक अक्षमता"
+      ],
+      "correctIndex": 2,
+      "explanation": "Braille is a tactile system of raised dots used by persons who are blind or have low vision.",
+      "explanationHi": "ब्रेल उभरे हुए बिंदुओं की स्पर्श-आधारित प्रणाली है, जिसे नेत्रहीन या अल्प-दृष्टि वाले व्यक्ति प्रयोग करते हैं।"
+    },
+    {
+      "id": "t07-assess-01",
+      "part": "B",
+      "section": "assess",
+      "topic": "Self-assessment",
+      "question": "When a learner evaluates his or her own work against given criteria, it is called ___.",
+      "questionHi": "जब विद्यार्थी दिए गए मानदंडों के आधार पर अपने ही कार्य का मूल्यांकन करता है, तो उसे ___ कहते हैं।",
+      "options": [
+        "peer assessment",
+        "summative assessment",
+        "teacher assessment",
+        "self-assessment"
+      ],
+      "optionsHi": [
+        "सहपाठी मूल्यांकन (peer assessment)",
+        "योगात्मक मूल्यांकन",
+        "शिक्षक मूल्यांकन",
+        "स्व-मूल्यांकन (self-assessment)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Self-assessment is learners judging their own work; peer assessment is by classmates and teacher assessment by the teacher.",
+      "explanationHi": "स्व-मूल्यांकन में विद्यार्थी अपने कार्य को स्वयं परखता है; सहपाठी मूल्यांकन साथी करते हैं और शिक्षक मूल्यांकन शिक्षक।"
+    },
+    {
+      "id": "t07-assess-02",
+      "part": "B",
+      "section": "assess",
+      "topic": "Characteristics of a good test",
+      "question": "If a test gives almost the same scores when given again to the same students, the test is ___.",
+      "questionHi": "यदि कोई परीक्षण उन्हीं विद्यार्थियों को दोबारा देने पर लगभग समान अंक देता है, तो वह परीक्षण ___ है।",
+      "options": [
+        "valid",
+        "reliable",
+        "objective",
+        "usable"
+      ],
+      "optionsHi": [
+        "वैध",
+        "विश्वसनीय",
+        "वस्तुनिष्ठ",
+        "व्यावहारिक"
+      ],
+      "correctIndex": 1,
+      "explanation": "Consistency of results is reliability. Validity is measuring what is intended, objectivity is freedom from scorer bias and usability is practicality.",
+      "explanationHi": "परिणामों की संगति विश्वसनीयता है। वैधता का अर्थ है जो मापना है उसे मापना, वस्तुनिष्ठता अंकन में पक्षपात का अभाव है और व्यावहारिकता उपयोग में सरलता है।"
+    },
+    {
+      "id": "t07-assess-03",
+      "part": "B",
+      "section": "assess",
+      "topic": "Assessment tools - Checklist",
+      "question": "A list of behaviours or skills marked as present or absent while observing a learner is called a ___.",
+      "questionHi": "किसी विद्यार्थी का अवलोकन करते समय उपस्थित या अनुपस्थित व्यवहारों/कौशलों की जो सूची अंकित की जाती है, उसे ___ कहते हैं।",
+      "options": [
+        "checklist",
+        "lesson plan",
+        "syllabus",
+        "time-table"
+      ],
+      "optionsHi": [
+        "जाँच-सूची (checklist)",
+        "पाठ-योजना",
+        "पाठ्यक्रम",
+        "समय-सारणी"
+      ],
+      "correctIndex": 0,
+      "explanation": "A checklist records whether specific behaviours or skills are observed; the others are not assessment tools.",
+      "explanationHi": "Checklist में देखा जाता है कि कोई व्यवहार या कौशल मौजूद है या नहीं; अन्य विकल्प मूल्यांकन के उपकरण नहीं हैं।"
+    },
+    {
+      "id": "t07-assess-04",
+      "part": "B",
+      "section": "assess",
+      "topic": "Assessment for learning",
+      "question": "\"Assessment for learning\" refers to ___ assessment.",
+      "questionHi": "\"Assessment for learning\" से तात्पर्य ___ मूल्यांकन से है।",
+      "options": [
+        "summative",
+        "diagnostic",
+        "formative",
+        "external"
+      ],
+      "optionsHi": [
+        "योगात्मक",
+        "निदानात्मक",
+        "रचनात्मक (formative)",
+        "बाह्य"
+      ],
+      "correctIndex": 2,
+      "explanation": "Assessment for learning is ongoing, formative assessment used to improve teaching and learning, whereas summative is \"assessment of learning\".",
+      "explanationHi": "Assessment for learning सतत रचनात्मक मूल्यांकन है जो शिक्षण-अधिगम सुधारने में काम आता है, जबकि योगात्मक \"assessment of learning\" है।"
+    },
+    {
+      "id": "t07-pedag-01",
+      "part": "B",
+      "section": "pedag",
+      "topic": "Curriculum reports",
+      "question": "The report \"Learning Without Burden\" (1993) was submitted under the chairmanship of ___.",
+      "questionHi": "\"Learning Without Burden\" (1993) रिपोर्ट ___ की अध्यक्षता में प्रस्तुत हुई।",
+      "options": [
+        "D.S. Kothari",
+        "Yash Pal",
+        "S. Radhakrishnan",
+        "A. Lakshmanaswami Mudaliar"
+      ],
+      "optionsHi": [
+        "डी.एस. कोठारी",
+        "यशपाल",
+        "एस. राधाकृष्णन",
+        "ए. लक्ष्मणस्वामी मुदलियार"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 1993 report \"Learning Without Burden\" was prepared by a national advisory committee chaired by Prof. Yash Pal; Kothari, Radhakrishnan and Mudaliar chaired other commissions.",
+      "explanationHi": "1993 की \"Learning Without Burden\" रिपोर्ट प्रो. यशपाल की अध्यक्षता वाली राष्ट्रीय सलाहकार समिति ने तैयार की; कोठारी, राधाकृष्णन और मुदलियार अन्य आयोगों के अध्यक्ष थे।"
+    },
+    {
+      "id": "t07-pedag-02",
+      "part": "B",
+      "section": "pedag",
+      "topic": "Lesson planning",
+      "question": "Which is the first step in planning a lesson?",
+      "questionHi": "पाठ की योजना बनाने का पहला चरण कौन-सा है?",
+      "options": [
+        "Evaluation",
+        "Assigning homework",
+        "Choosing teaching aids",
+        "Setting learning objectives"
+      ],
+      "optionsHi": [
+        "मूल्यांकन",
+        "गृहकार्य देना",
+        "शिक्षण-सामग्री चुनना",
+        "अधिगम के उद्देश्य निर्धारित करना"
+      ],
+      "correctIndex": 3,
+      "explanation": "Objectives decide the content, method, aids and evaluation, so they come first in lesson planning.",
+      "explanationHi": "उद्देश्य ही विषय-वस्तु, विधि, सामग्री और मूल्यांकन तय करते हैं, इसलिए पाठ-योजना में वे सबसे पहले आते हैं।"
+    },
+    {
+      "id": "t07-pedag-03",
+      "part": "B",
+      "section": "pedag",
+      "topic": "Classroom dialogue",
+      "question": "Classroom dialogue mainly helps students to ___.",
+      "questionHi": "कक्षा-संवाद मुख्य रूप से विद्यार्थियों को ___ में मदद करता है।",
+      "options": [
+        "develop thinking and expression through discussion",
+        "remain silent and obedient",
+        "memorise answers quickly",
+        "avoid group work"
+      ],
+      "optionsHi": [
+        "चर्चा द्वारा सोचने और अभिव्यक्ति की क्षमता विकसित करने",
+        "चुप और आज्ञाकारी रहने",
+        "उत्तर जल्दी याद करने",
+        "समूह-कार्य से बचने"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dialogue lets students question, explain and exchange ideas, building understanding and communication skills.",
+      "explanationHi": "संवाद से विद्यार्थी प्रश्न पूछते, समझाते और विचार बाँटते हैं, जिससे समझ और संप्रेषण-कौशल बढ़ता है।"
+    },
+    {
+      "id": "t07-attitude-01",
+      "part": "B",
+      "section": "attitude",
+      "topic": "Constructivism",
+      "question": "In constructivism, the learner is seen as ___.",
+      "questionHi": "रचनावाद में विद्यार्थी को ___ माना जाता है।",
+      "options": [
+        "a passive receiver of facts",
+        "an empty vessel to be filled",
+        "an active constructor of knowledge",
+        "a follower of fixed habits only"
+      ],
+      "optionsHi": [
+        "तथ्यों का निष्क्रिय ग्राहक",
+        "भरा जाने वाला खाली बर्तन",
+        "ज्ञान का सक्रिय निर्माता",
+        "केवल निश्चित आदतों का अनुयायी"
+      ],
+      "correctIndex": 2,
+      "explanation": "Constructivism holds that learners build knowledge from their own experiences and interactions; they are not passive receivers.",
+      "explanationHi": "रचनावाद के अनुसार विद्यार्थी अपने अनुभवों और अंतःक्रियाओं से ज्ञान का निर्माण करते हैं; वे निष्क्रिय ग्राहक नहीं होते।"
+    },
+    {
+      "id": "t07-attitude-02",
+      "part": "B",
+      "section": "attitude",
+      "topic": "Gender perspective in education",
+      "question": "A gender-sensitive teacher ___.",
+      "questionHi": "लिंग-संवेदनशील शिक्षक ___।",
+      "options": [
+        "assigns tasks according to stereotypes",
+        "gives equal opportunities to girls and boys",
+        "calls on only boys to answer",
+        "expects girls to avoid science"
+      ],
+      "optionsHi": [
+        "रूढ़ियों के अनुसार कार्य बाँटता है",
+        "लड़कियों और लड़कों को समान अवसर देता है",
+        "उत्तर के लिए केवल लड़कों को बुलाता है",
+        "लड़कियों से विज्ञान से दूर रहने की अपेक्षा करता है"
+      ],
+      "correctIndex": 1,
+      "explanation": "A gender-sensitive teacher avoids stereotypes and gives equal opportunity and respect to all learners.",
+      "explanationHi": "लिंग-संवेदनशील शिक्षक रूढ़ियों से बचता है और सभी विद्यार्थियों को समान अवसर व सम्मान देता है।"
+    }
+  ]
+}

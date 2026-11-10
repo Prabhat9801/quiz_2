@@ -1,0 +1,1059 @@
+{
+  "passages": [
+    {
+      "id": "t02-p1",
+      "genre": "Poetry extract",
+      "title": "The Old Well",
+      "text": "At the edge of our village, where the banyan leans,\nStands an old well, mossy and deep.\nIt has watched three hundred monsoons come and go,\nAnd kept every secret it could keep.\n\nThe women came at dawn with brass pots shining,\nTheir laughter dropping like coins in the dark;\nThe children hung over the crumbling rim,\nAnd shouted their names to hear the echo's mark.\n\nNow the taps run water in every home,\nAnd the rope on the pulley hangs limp and grey.\nYet the well, unbothered, still holds the sky\nIn its cool round mirror, day after day.\n\nNobody visits, nobody asks it\nWhose thirst it quenched or whose sorrow it knew.\nBut on quiet evenings the banyan whispers,\nAnd the old well listens, as old friends do."
+    },
+    {
+      "id": "t02-p2",
+      "genre": "Drama extract",
+      "title": "In the Staffroom",
+      "text": "Scene: A small school staffroom. Mrs. Nair is correcting notebooks. Mr. Rao enters, holding a letter.\n\nRAO: (waving the letter) The District Office wants all results by Friday. Friday! As if marks grow on trees.\nNAIR: (without looking up) They grow on effort, Mr. Rao. Yours and the children's.\nRAO: You are very calm today.\nNAIR: I have been calm for twenty years. It is the only trick I know.\nRAO: And the trick works?\nNAIR: Not on the District Office. But it works on the children. A panicked teacher makes a panicked class.\nRAO: (sitting down heavily) Perhaps I should learn it. Last week I shouted at Meena for forgetting her book.\nNAIR: And did she remember it the next day?\nRAO: (after a pause) She did. But she did not smile.\nNAIR: (finally looking up) Then you won the book and lost the child.\nRAO: (quietly) That is a poor bargain."
+    },
+    {
+      "id": "t02-p3",
+      "genre": "Scientific passage",
+      "title": "The Colour of the Sky",
+      "text": "Sunlight appears white, but it is actually a mixture of many colours, each with a different wavelength. When this light enters the Earth's atmosphere, it collides with tiny gas molecules, mainly nitrogen and oxygen. These molecules are much smaller than the wavelength of visible light, and they scatter the light in all directions. This process is known as Rayleigh scattering, named after the British physicist Lord Rayleigh. Crucially, shorter wavelengths such as blue and violet are scattered far more strongly than longer wavelengths such as red and orange. If that is so, one may ask, why is the sky not violet? There are two reasons. First, the Sun emits less violet light than blue light. Second, part of the violet light is absorbed high in the atmosphere, and our eyes are less sensitive to violet than to blue. At sunrise and sunset, sunlight must travel through a much thicker layer of air. Most of the blue light is scattered away from our line of sight before it reaches us, so the remaining light looks red or orange."
+    }
+  ],
+  "questions": [
+    {
+      "id": "t02-gram-01",
+      "part": "A",
+      "section": "gram",
+      "topic": "Modals",
+      "question": "He ___ be at home; his car is parked outside.",
+      "options": [
+        "must",
+        "can't",
+        "needn't",
+        "shouldn't"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Must' expresses a strong logical deduction: the car is outside, so he is very probably at home. 'Can't' would mean it is impossible; 'needn't' (no need) and 'shouldn't' (advice/prohibition) do not express deduction."
+    },
+    {
+      "id": "t02-gram-02",
+      "part": "A",
+      "section": "gram",
+      "topic": "Question tag",
+      "question": "Let's go for a walk, ___?",
+      "options": [
+        "will we",
+        "shall we",
+        "don't we",
+        "shan't we"
+      ],
+      "correctIndex": 1,
+      "explanation": "The tag for 'Let's ...' (a suggestion) is 'shall we?'. 'Will we', 'don't we' and 'shan't we' are not used with 'Let's'."
+    },
+    {
+      "id": "t02-gram-03",
+      "part": "A",
+      "section": "gram",
+      "topic": "Finite and non-finite verbs",
+      "question": "Identify the non-finite verb in: 'Seeing the police, the thief ran away.'",
+      "options": [
+        "ran",
+        "saw",
+        "Seeing",
+        "police"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Seeing' is a present participle; it has no tense or subject agreement, so it is non-finite. 'Ran' is the finite verb. 'Saw' does not occur in the sentence and 'police' is a noun."
+    },
+    {
+      "id": "t02-gram-04",
+      "part": "A",
+      "section": "gram",
+      "topic": "Subject-verb agreement",
+      "question": "Neither the manager nor his assistants ___ present at the meeting.",
+      "options": [
+        "was",
+        "is",
+        "has been",
+        "were"
+      ],
+      "correctIndex": 3,
+      "explanation": "With 'neither...nor', the verb agrees with the subject nearer to it. 'Assistants' is plural, so 'were' is correct. The other options are singular."
+    },
+    {
+      "id": "t02-gram-05",
+      "part": "A",
+      "section": "gram",
+      "topic": "Tenses",
+      "question": "By the time we reached the station, the train ___.",
+      "options": [
+        "had left",
+        "left",
+        "has left",
+        "was leaving"
+      ],
+      "correctIndex": 0,
+      "explanation": "Of two past actions, the earlier one is in the Past Perfect: the train 'had left' before we reached. 'Left' and 'was leaving' do not show the earlier action clearly; 'has left' is Present Perfect and does not fit a past context."
+    },
+    {
+      "id": "t02-gram-06",
+      "part": "A",
+      "section": "gram",
+      "topic": "Identifying clauses",
+      "question": "Identify the underlined clause type: 'I wonder where she has kept the keys.'",
+      "options": [
+        "Adverb clause",
+        "Noun clause",
+        "Relative clause",
+        "Non-finite clause"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Where she has kept the keys' is the object of 'wonder', so it works as a noun; it is a noun clause. It does not modify a verb (adverb clause) or a noun (relative clause), and it has a finite verb 'has kept', so it is not non-finite."
+    },
+    {
+      "id": "t02-gram-07",
+      "part": "A",
+      "section": "gram",
+      "topic": "Transformation of sentences",
+      "question": "Which is the simple-sentence form of 'Though he is poor, he is honest'?",
+      "options": [
+        "He is poor, yet he is honest.",
+        "If he is poor, he is honest.",
+        "In spite of being poor, he is honest.",
+        "He is honest because he is poor."
+      ],
+      "correctIndex": 2,
+      "explanation": "A simple sentence has one finite verb: 'In spite of being poor, he is honest.' Option A is compound (two clauses joined by 'yet'); B and D change the meaning (condition/cause)."
+    },
+    {
+      "id": "t02-gram-08",
+      "part": "A",
+      "section": "gram",
+      "topic": "Direct and indirect speech",
+      "question": "Choose the correct indirect form: She said to me, \"Where are you going?\"",
+      "options": [
+        "She told me where was I going.",
+        "She asked me where are you going.",
+        "She said me where I was going.",
+        "She asked me where I was going."
+      ],
+      "correctIndex": 3,
+      "explanation": "A question takes the reporting verb 'asked'; the word order becomes that of a statement, and the pronoun and tense change (you -> I, are going -> was going). The other options keep question order, wrong tense/pronoun, or use 'told/said' wrongly."
+    },
+    {
+      "id": "t02-gram-09",
+      "part": "A",
+      "section": "gram",
+      "topic": "Inversion",
+      "question": "Little ___ how serious the situation was.",
+      "options": [
+        "did he realise",
+        "he realised",
+        "he did realise",
+        "realised he"
+      ],
+      "correctIndex": 0,
+      "explanation": "A sentence beginning with the negative adverb 'Little' takes inverted word order: auxiliary + subject + verb ('did he realise'). The other options keep normal order or are ungrammatical."
+    },
+    {
+      "id": "t02-gram-10",
+      "part": "A",
+      "section": "gram",
+      "topic": "Conditionals",
+      "question": "If I ___ you, I would accept the offer.",
+      "options": [
+        "am",
+        "were",
+        "will be",
+        "had been"
+      ],
+      "correctIndex": 1,
+      "explanation": "This is a Type 2 (unreal present) conditional, so the 'if' clause takes the past subjunctive 'were' for all persons. 'Am' and 'will be' are not used in Type 2; 'had been' belongs to Type 3 (past)."
+    },
+    {
+      "id": "t02-gram-11",
+      "part": "A",
+      "section": "gram",
+      "topic": "Elliptical sentence pattern",
+      "question": "In which sentence has ellipsis (omission of repeated words) been used?",
+      "options": [
+        "Ravi likes tea and Ravi likes tea.",
+        "Tea is liked by Ravi.",
+        "Ravi likes tea and Sita coffee.",
+        "Ravi does like tea."
+      ],
+      "correctIndex": 2,
+      "explanation": "In 'Ravi likes tea and Sita coffee', the repeated verb 'likes' is omitted before 'coffee' - this is ellipsis. A repeats everything, B is passive, and D only adds emphasis with 'does'."
+    },
+    {
+      "id": "t02-gram-12",
+      "part": "A",
+      "section": "gram",
+      "topic": "Determiners",
+      "question": "She has ___ money left; she cannot buy the book.",
+      "options": [
+        "a few",
+        "a little",
+        "few",
+        "little"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Money' is uncountable, so 'little' or 'a little' is needed. 'Little' means 'almost none' (negative sense), matching 'cannot buy'. 'A little' means 'some'; 'few/a few' are used with countable nouns."
+    },
+    {
+      "id": "t02-gram-13",
+      "part": "A",
+      "section": "gram",
+      "topic": "Cleft sentences",
+      "question": "Which of the following is a cleft sentence?",
+      "options": [
+        "What I need is a long holiday.",
+        "I need a long holiday.",
+        "Do I need a long holiday?",
+        "A long holiday is needed."
+      ],
+      "correctIndex": 0,
+      "explanation": "A cleft sentence splits a simple idea into two parts to give emphasis, here with a 'what' clause + 'is'. B is a plain statement, C a question and D a passive."
+    },
+    {
+      "id": "t02-gram-14",
+      "part": "A",
+      "section": "gram",
+      "topic": "Modals",
+      "question": "He ___ have taken the wrong bus; that is why he is late.",
+      "options": [
+        "can",
+        "may",
+        "shall",
+        "will"
+      ],
+      "correctIndex": 1,
+      "explanation": "'May have + past participle' expresses a past possibility. 'Can have' is not used in positive statements, and 'shall have/will have' do not express possibility in this way."
+    },
+    {
+      "id": "t02-gram-15",
+      "part": "A",
+      "section": "gram",
+      "topic": "Phrasal verbs",
+      "question": "It is very dark in here; please ___ the light.",
+      "options": [
+        "put out",
+        "turn off",
+        "switch on",
+        "take off"
+      ],
+      "correctIndex": 2,
+      "explanation": "As the room is dark, the light must be started: 'switch on'. 'Put out' and 'turn off' mean stop the light, and 'take off' means remove."
+    },
+    {
+      "id": "t02-vocab-01",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Polysemy",
+      "question": "In which sentence does the word 'head' mean 'leader'?",
+      "options": [
+        "The principal is the head of our school.",
+        "He hit his head on the door.",
+        "The head of the river is in the hills.",
+        "Use your head to solve the puzzle."
+      ],
+      "correctIndex": 0,
+      "explanation": "In A, 'head' means the person in charge. In B it is the body part, in C it means the source of the river, and in D it means intelligence/mind."
+    },
+    {
+      "id": "t02-vocab-02",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Homophones",
+      "question": "She could not ___ the noise any longer.",
+      "options": [
+        "bare",
+        "bear",
+        "beer",
+        "bier"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Bear' (verb) means to tolerate. 'Bare' means uncovered, 'beer' is a drink and 'bier' is a stand for a coffin."
+    },
+    {
+      "id": "t02-vocab-03",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Collocations",
+      "question": "He ___ a serious mistake by trusting the stranger.",
+      "options": [
+        "did",
+        "took",
+        "made",
+        "had"
+      ],
+      "correctIndex": 2,
+      "explanation": "The fixed collocation is 'make a mistake'. 'Do a mistake', 'take a mistake' and 'have a mistake' are not natural English."
+    },
+    {
+      "id": "t02-vocab-04",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Collocations",
+      "question": "A ___ of lions was resting under the tree.",
+      "options": [
+        "herd",
+        "flock",
+        "pack",
+        "pride"
+      ],
+      "correctIndex": 3,
+      "explanation": "The collective noun for lions is 'a pride'. A herd is for cattle/elephants, a flock for birds or sheep, and a pack for wolves or dogs."
+    },
+    {
+      "id": "t02-vocab-05",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Word class conversion",
+      "question": "Choose the noun form of the verb 'succeed'.",
+      "options": [
+        "successful",
+        "successfully",
+        "success",
+        "succeeding"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Success' is the noun. 'Successful' is an adjective, 'successfully' an adverb and 'succeeding' a participle."
+    },
+    {
+      "id": "t02-vocab-06",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Word class conversion",
+      "question": "In the sentence 'Please bottle the juice before evening', the word 'bottle' is used as a ___.",
+      "options": [
+        "noun",
+        "adjective",
+        "adverb",
+        "verb"
+      ],
+      "correctIndex": 3,
+      "explanation": "Here 'bottle' follows 'Please' and takes an object ('the juice'), so it is a verb (a noun converted into a verb). It is not used as a noun, adjective or adverb."
+    },
+    {
+      "id": "t02-vocab-07",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Lexical bundles",
+      "question": "Which lexical bundle is used to introduce a contrasting point?",
+      "options": [
+        "on the other hand",
+        "as a result of",
+        "in addition to",
+        "for the purpose of"
+      ],
+      "correctIndex": 0,
+      "explanation": "'On the other hand' signals contrast. 'As a result of' shows cause/effect, 'in addition to' adds information, and 'for the purpose of' shows purpose."
+    },
+    {
+      "id": "t02-vocab-08",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Idioms",
+      "question": "The idiom 'to spill the beans' means ___.",
+      "options": [
+        "to cook a meal",
+        "to reveal a secret",
+        "to waste food",
+        "to make a mess"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Spill the beans' means to let out a secret. The other meanings are only literal guesses, not the idiom's meaning."
+    },
+    {
+      "id": "t02-vocab-09",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Idioms",
+      "question": "The idiom 'a blessing in disguise' means ___.",
+      "options": [
+        "a hidden danger",
+        "a religious ceremony",
+        "a costume party",
+        "something good that first seemed bad"
+      ],
+      "correctIndex": 3,
+      "explanation": "It refers to a misfortune that later turns out to be beneficial. It is not about danger, ceremonies or costumes."
+    },
+    {
+      "id": "t02-vocab-10",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Idiomaticity and opacity",
+      "question": "The phrase 'to bell the cat' means ___.",
+      "options": [
+        "to undertake a risky task for the common good",
+        "to punish a naughty pet",
+        "to make unnecessary noise",
+        "to give a gift to someone"
+      ],
+      "correctIndex": 0,
+      "explanation": "From the fable of the mice, it means to take on a dangerous job that benefits everyone. The other options are literal or unrelated."
+    },
+    {
+      "id": "t02-vocab-11",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Figures of speech",
+      "question": "Identify the figure of speech: 'The wind whispered through the trees.'",
+      "options": [
+        "Simile",
+        "Personification",
+        "Metaphor",
+        "Hyperbole"
+      ],
+      "correctIndex": 1,
+      "explanation": "The wind is given a human action (whispering), which is personification. There is no 'like/as' (simile), no direct identity statement (metaphor) and no exaggeration (hyperbole)."
+    },
+    {
+      "id": "t02-vocab-12",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Figures of speech",
+      "question": "Identify the figure of speech: 'I have told you a million times to close the door.'",
+      "options": [
+        "Irony",
+        "Understatement",
+        "Hyperbole",
+        "Oxymoron"
+      ],
+      "correctIndex": 2,
+      "explanation": "'A million times' is a deliberate exaggeration, i.e. hyperbole. It is not the opposite of what is meant (irony), not a downplaying (understatement) and not a contradictory pair of words (oxymoron)."
+    },
+    {
+      "id": "t02-vocab-13",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Word formation: affixes",
+      "question": "Which prefix forms the opposite of 'responsible'?",
+      "options": [
+        "un-",
+        "dis-",
+        "non-",
+        "ir-"
+      ],
+      "correctIndex": 3,
+      "explanation": "The correct word is 'irresponsible'. 'Unresponsible', 'disresponsible' and 'nonresponsible' are not standard forms."
+    },
+    {
+      "id": "t02-vocab-14",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Word formation: root words",
+      "question": "The word 'unbelievable' is made up of ___.",
+      "options": [
+        "prefix + root + suffix",
+        "root + two suffixes",
+        "two prefixes + root",
+        "prefix + two roots"
+      ],
+      "correctIndex": 0,
+      "explanation": "un- (prefix) + believe (root) + -able (suffix). It has only one prefix, one root and one suffix."
+    },
+    {
+      "id": "t02-vocab-15",
+      "part": "A",
+      "section": "vocab",
+      "topic": "Homophones",
+      "question": "The ___ of the school addressed the students.",
+      "options": [
+        "principle",
+        "principal",
+        "principally",
+        "principled"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Principal' (noun) means the head of a school. 'Principle' means a rule or belief; 'principally' is an adverb and 'principled' an adjective."
+    },
+    {
+      "id": "t02-rc-01",
+      "part": "A",
+      "section": "rc",
+      "topic": "Central idea",
+      "passageId": "t02-p1",
+      "question": "The central idea of the poem is that ___.",
+      "options": [
+        "deep wells are dangerous",
+        "the old well remains a silent keeper of the village's past even though it is no longer used",
+        "the monsoon brings joy to villagers",
+        "piped water is better than well water"
+      ],
+      "correctIndex": 1,
+      "explanation": "The poem recalls the well's past life and shows it still 'listening' and holding memories. The poem does not discuss danger, the monsoon's joy or compare water supplies."
+    },
+    {
+      "id": "t02-rc-02",
+      "part": "A",
+      "section": "rc",
+      "topic": "Figures of speech",
+      "passageId": "t02-p1",
+      "question": "'Their laughter dropping like coins in the dark' is an example of ___.",
+      "options": [
+        "Metaphor",
+        "Personification",
+        "Simile",
+        "Alliteration"
+      ],
+      "correctIndex": 2,
+      "explanation": "Laughter is compared with coins using the word 'like', so it is a simile. A metaphor would not use 'like'; the laughter is not given human traits; and the line has no repeated initial sounds."
+    },
+    {
+      "id": "t02-rc-03",
+      "part": "A",
+      "section": "rc",
+      "topic": "Inference",
+      "passageId": "t02-p1",
+      "question": "'The rope on the pulley hangs limp and grey' suggests that ___.",
+      "options": [
+        "the well is being repaired",
+        "the rope is new",
+        "the well is in high demand",
+        "the well has fallen into disuse"
+      ],
+      "correctIndex": 3,
+      "explanation": "A limp, grey rope that no one uses shows the well is neglected. A new rope or a busy well would not be described this way, and no repair work is mentioned."
+    },
+    {
+      "id": "t02-rc-04",
+      "part": "A",
+      "section": "rc",
+      "topic": "Tone and attitude",
+      "passageId": "t02-p1",
+      "question": "The tone of the poem is ___.",
+      "options": [
+        "nostalgic and gently melancholic",
+        "angry and bitter",
+        "humorous and light",
+        "fearful and tense"
+      ],
+      "correctIndex": 0,
+      "explanation": "The poet fondly remembers the past while accepting the present with quiet sadness. There is no anger, humour or fear in the verses."
+    },
+    {
+      "id": "t02-rc-05",
+      "part": "A",
+      "section": "rc",
+      "topic": "Vocabulary in context",
+      "passageId": "t02-p1",
+      "question": "In the line 'its cool round mirror', the 'mirror' refers to ___.",
+      "options": [
+        "the glass of a window",
+        "the moon",
+        "the water surface reflecting the sky",
+        "the brass pot"
+      ],
+      "correctIndex": 2,
+      "explanation": "The well 'holds the sky' in its mirror, meaning the water reflects the sky. The window, moon and pot are not what the line describes."
+    },
+    {
+      "id": "t02-rc-06",
+      "part": "A",
+      "section": "rc",
+      "topic": "Tone and attitude",
+      "passageId": "t02-p2",
+      "question": "Mrs. Nair's attitude towards the Friday deadline is ___.",
+      "options": [
+        "panicky and angry",
+        "indifferent to her duties",
+        "jealous of Mr. Rao",
+        "calm and composed"
+      ],
+      "correctIndex": 3,
+      "explanation": "She continues working without looking up and says calmness is her 'trick'. She is not panicky, nor careless about duty (she speaks of effort), nor jealous."
+    },
+    {
+      "id": "t02-rc-07",
+      "part": "A",
+      "section": "rc",
+      "topic": "Comprehension",
+      "passageId": "t02-p2",
+      "question": "'Then you won the book and lost the child' means that Mr. Rao ___.",
+      "options": [
+        "made the student obey but damaged his bond with her",
+        "gave the student a new book",
+        "punished the wrong student",
+        "forgot the student's name"
+      ],
+      "correctIndex": 0,
+      "explanation": "Meena remembered her book but 'did not smile', so Rao gained obedience but lost her trust and warmth. The other options are not in the passage."
+    },
+    {
+      "id": "t02-rc-08",
+      "part": "A",
+      "section": "rc",
+      "topic": "Idiom in context",
+      "passageId": "t02-p2",
+      "question": "'As if marks grow on trees' is ___.",
+      "options": [
+        "a simile expressing joy",
+        "an idiomatic exaggeration expressing frustration at an unreasonable demand",
+        "a literal statement about agriculture",
+        "a question seeking information"
+      ],
+      "correctIndex": 1,
+      "explanation": "Like 'money doesn't grow on trees', the phrase mocks the demand for quick results. It is not joyful, literal or a question."
+    },
+    {
+      "id": "t02-rc-09",
+      "part": "A",
+      "section": "rc",
+      "topic": "Inference",
+      "passageId": "t02-p2",
+      "question": "By the end of the extract, Mr. Rao ___.",
+      "options": [
+        "rejects Mrs. Nair's advice",
+        "feels proud of Meena",
+        "realises that his harsh behaviour was a mistake",
+        "plans to complain to the District Office"
+      ],
+      "correctIndex": 2,
+      "explanation": "His quiet 'That is a poor bargain' shows he accepts the point. He does not reject the advice, feel proud, or plan to complain."
+    },
+    {
+      "id": "t02-rc-10",
+      "part": "A",
+      "section": "rc",
+      "topic": "Logical sequencing",
+      "passageId": "t02-p2",
+      "question": "Which is the correct order of events in the extract?",
+      "options": [
+        "Rao brings the letter - Nair speaks of calm - Rao recalls shouting at Meena - Nair points out the cost",
+        "Rao recalls shouting at Meena - Rao brings the letter - Nair points out the cost - Nair speaks of calm",
+        "Nair points out the cost - Rao brings the letter - Rao recalls shouting at Meena - Nair speaks of calm",
+        "Nair speaks of calm - Rao recalls shouting at Meena - Rao brings the letter - Nair points out the cost"
+      ],
+      "correctIndex": 0,
+      "explanation": "The scene begins with the letter, then Nair mentions her calm, Rao tells about Meena, and finally Nair says he 'lost the child'. The other orders are not the sequence in the text."
+    },
+    {
+      "id": "t02-rc-11",
+      "part": "A",
+      "section": "rc",
+      "topic": "Comprehension",
+      "passageId": "t02-p3",
+      "question": "According to the passage, Rayleigh scattering occurs when light meets ___.",
+      "options": [
+        "large water droplets",
+        "particles much smaller than the wavelength of light",
+        "particles larger than the wavelength of light",
+        "only solid dust"
+      ],
+      "correctIndex": 1,
+      "explanation": "The passage says gas molecules are 'much smaller than the wavelength of visible light' and cause Rayleigh scattering. Droplets, large particles and dust are not mentioned as the cause."
+    },
+    {
+      "id": "t02-rc-12",
+      "part": "A",
+      "section": "rc",
+      "topic": "Inference",
+      "passageId": "t02-p3",
+      "question": "The sky does not look violet mainly because ___.",
+      "options": [
+        "violet light cannot enter the atmosphere",
+        "violet has a longer wavelength than red",
+        "nitrogen absorbs all violet light",
+        "the Sun emits less violet and our eyes are less sensitive to it"
+      ],
+      "correctIndex": 3,
+      "explanation": "The passage gives two reasons: lesser violet emission and lower eye sensitivity (plus some absorption). Violet does enter the atmosphere, it has a shorter wavelength than red, and nitrogen is not said to absorb all of it."
+    },
+    {
+      "id": "t02-rc-13",
+      "part": "A",
+      "section": "rc",
+      "topic": "Cause and effect",
+      "passageId": "t02-p3",
+      "question": "The sky looks red or orange at sunset because ___.",
+      "options": [
+        "the Sun becomes hotter",
+        "violet light is newly created",
+        "blue light is scattered away along the longer path, leaving red and orange",
+        "the atmosphere becomes thinner"
+      ],
+      "correctIndex": 2,
+      "explanation": "At sunset light travels through a thicker layer of air, so most blue is scattered away. The Sun does not get hotter, no new light is created, and the air path becomes thicker, not thinner."
+    },
+    {
+      "id": "t02-rc-14",
+      "part": "A",
+      "section": "rc",
+      "topic": "Vocabulary in context",
+      "passageId": "t02-p3",
+      "question": "The word 'Crucially' as used in the passage is closest in meaning to ___.",
+      "options": [
+        "importantly",
+        "slowly",
+        "accidentally",
+        "rarely"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Crucially' introduces the key point of the explanation, so it means 'importantly'. The other words do not fit the sense."
+    },
+    {
+      "id": "t02-rc-15",
+      "part": "A",
+      "section": "rc",
+      "topic": "Tone and attitude",
+      "passageId": "t02-p3",
+      "question": "The tone of the passage is ___.",
+      "options": [
+        "humorous",
+        "persuasive and emotional",
+        "sarcastic",
+        "informative and objective"
+      ],
+      "correctIndex": 3,
+      "explanation": "The writer explains a scientific phenomenon plainly with facts, so the tone is informative and objective. There is no humour, emotional appeal or sarcasm."
+    },
+    {
+      "id": "t02-ped-01",
+      "part": "A",
+      "section": "ped",
+      "topic": "Behaviourism (Skinner)",
+      "question": "According to Skinner, language is learnt mainly through ___.",
+      "questionHi": "स्किनर के अनुसार भाषा मुख्य रूप से किसके द्वारा सीखी जाती है?",
+      "options": [
+        "a Language Acquisition Device",
+        "the Zone of Proximal Development",
+        "operant conditioning with reinforcement",
+        "the Affective Filter"
+      ],
+      "optionsHi": [
+        "भाषा अर्जन युक्ति (LAD)",
+        "निकटवर्ती विकास क्षेत्र (ZPD)",
+        "पुनर्बलन सहित क्रियाप्रसूत अनुबंधन",
+        "भावात्मक छन्नी (Affective Filter)"
+      ],
+      "correctIndex": 2,
+      "explanation": "Skinner's Behaviourism holds that language is a habit formed by operant conditioning, i.e. response and reinforcement. LAD is Chomsky's idea, ZPD is Vygotsky's, and the Affective Filter is Krashen's.",
+      "explanationHi": "स्किनर के व्यवहारवाद के अनुसार भाषा प्रतिक्रिया और पुनर्बलन द्वारा, यानी क्रियाप्रसूत अनुबंधन से बनी आदत है। LAD चॉम्स्की का, ZPD वाइगोत्स्की का और Affective Filter क्रैशेन का विचार है।"
+    },
+    {
+      "id": "t02-ped-02",
+      "part": "A",
+      "section": "ped",
+      "topic": "Chomsky and LAD",
+      "question": "Chomsky's idea of the 'poverty of the stimulus' supports the view that ___.",
+      "questionHi": "चॉम्स्की का 'उद्दीपन की निर्धनता' (poverty of the stimulus) का विचार किस मत का समर्थन करता है?",
+      "options": [
+        "children are born with an innate capacity for language",
+        "language is only habit formation",
+        "only imitation matters in learning language",
+        "language is learnt only in school"
+      ],
+      "optionsHi": [
+        "बच्चे भाषा की जन्मजात क्षमता के साथ पैदा होते हैं",
+        "भाषा केवल आदत निर्माण है",
+        "भाषा सीखने में केवल अनुकरण महत्वपूर्ण है",
+        "भाषा केवल विद्यालय में सीखी जाती है"
+      ],
+      "correctIndex": 0,
+      "explanation": "Children produce correct sentences they have never heard, although the input they get is limited. So Chomsky argued for an innate Language Acquisition Device. The other options are Behaviourist or unrelated views.",
+      "explanationHi": "बच्चे सीमित भाषा-इनपुट के बावजूद ऐसे सही वाक्य बनाते हैं जो उन्होंने कभी सुने नहीं। इसलिए चॉम्स्की ने जन्मजात भाषा अर्जन युक्ति (LAD) का मत दिया। अन्य विकल्प व्यवहारवादी या असंबंधित विचार हैं।"
+    },
+    {
+      "id": "t02-ped-03",
+      "part": "A",
+      "section": "ped",
+      "topic": "Krashen's hypotheses",
+      "question": "In Krashen's 'i + 1', the 'i' stands for ___.",
+      "questionHi": "क्रैशेन के 'i + 1' में 'i' का अर्थ क्या है?",
+      "options": [
+        "the interest of the learner",
+        "the instruction given",
+        "imitation",
+        "the learner's current level of competence"
+      ],
+      "optionsHi": [
+        "शिक्षार्थी की रुचि",
+        "दिया गया निर्देश",
+        "अनुकरण",
+        "शिक्षार्थी की वर्तमान योग्यता का स्तर"
+      ],
+      "correctIndex": 3,
+      "explanation": "In the Input Hypothesis, 'i' is the learner's present competence and '+1' is input slightly beyond it. The other options are not what 'i' stands for.",
+      "explanationHi": "इनपुट परिकल्पना में 'i' शिक्षार्थी की वर्तमान योग्यता है और '+1' उससे थोड़ा आगे का इनपुट है। अन्य विकल्प 'i' के अर्थ नहीं हैं।"
+    },
+    {
+      "id": "t02-ped-04",
+      "part": "A",
+      "section": "ped",
+      "topic": "Linguistic system: phonology",
+      "question": "The study of the sound system of a language, including phonemes, is called ___.",
+      "questionHi": "किसी भाषा की ध्वनि-व्यवस्था, जिसमें स्वनिम (phonemes) शामिल हैं, के अध्ययन को क्या कहते हैं?",
+      "options": [
+        "Morphology",
+        "Phonology",
+        "Syntax",
+        "Semantics"
+      ],
+      "optionsHi": [
+        "रूप विज्ञान (Morphology)",
+        "स्वनिम विज्ञान (Phonology)",
+        "वाक्य विन्यास (Syntax)",
+        "अर्थ विज्ञान (Semantics)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phonology studies sounds and phonemes. Morphology studies word structure, syntax studies sentence structure and semantics studies meaning.",
+      "explanationHi": "Phonology ध्वनियों और स्वनिमों का अध्ययन है। Morphology शब्द-रचना, Syntax वाक्य-रचना और Semantics अर्थ का अध्ययन करता है।"
+    },
+    {
+      "id": "t02-ped-05",
+      "part": "A",
+      "section": "ped",
+      "topic": "Linguistic system: pragmatics",
+      "question": "Pragmatics is concerned with ___.",
+      "questionHi": "Pragmatics का संबंध किससे है?",
+      "options": [
+        "the use of language in context and the speaker's intended meaning",
+        "the order of words in a sentence",
+        "the formation of words from roots",
+        "the pronunciation of vowels"
+      ],
+      "optionsHi": [
+        "संदर्भ में भाषा के प्रयोग और वक्ता के अभिप्रेत अर्थ से",
+        "वाक्य में शब्दों के क्रम से",
+        "मूल शब्दों से शब्द बनाने से",
+        "स्वरों के उच्चारण से"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pragmatics studies how context affects meaning, e.g. 'Can you pass the salt?' is a request, not a question about ability. Word order is syntax, word formation is morphology and vowel sounds belong to phonology.",
+      "explanationHi": "Pragmatics यह देखता है कि संदर्भ से अर्थ कैसे बदलता है, जैसे 'Can you pass the salt?' एक अनुरोध है, क्षमता का प्रश्न नहीं। शब्द-क्रम Syntax है, शब्द-निर्माण Morphology है और स्वर-ध्वनियाँ Phonology में आती हैं।"
+    },
+    {
+      "id": "t02-ped-06",
+      "part": "A",
+      "section": "ped",
+      "topic": "LSRW skills",
+      "question": "Which of the following is a receptive skill?",
+      "questionHi": "निम्नलिखित में से कौन-सा ग्रहणशील (receptive) कौशल है?",
+      "options": [
+        "Speaking",
+        "Writing",
+        "Speaking and Writing",
+        "Listening"
+      ],
+      "optionsHi": [
+        "बोलना",
+        "लिखना",
+        "बोलना और लिखना",
+        "सुनना"
+      ],
+      "correctIndex": 3,
+      "explanation": "Listening and reading are receptive skills (we receive language). Speaking and writing are productive skills.",
+      "explanationHi": "सुनना और पढ़ना ग्रहणशील कौशल हैं (हम भाषा ग्रहण करते हैं)। बोलना और लिखना उत्पादक कौशल हैं।"
+    },
+    {
+      "id": "t02-ped-07",
+      "part": "A",
+      "section": "ped",
+      "topic": "Role of listening and speaking",
+      "question": "In the mother tongue, which order of skill development is natural for a child?",
+      "questionHi": "मातृभाषा में बच्चे के कौशल विकास का स्वाभाविक क्रम कौन-सा है?",
+      "options": [
+        "Reading, Writing, Listening, Speaking",
+        "Listening, Speaking, Reading, Writing",
+        "Writing, Reading, Speaking, Listening",
+        "Speaking, Writing, Listening, Reading"
+      ],
+      "optionsHi": [
+        "पढ़ना, लिखना, सुनना, बोलना",
+        "सुनना, बोलना, पढ़ना, लिखना",
+        "लिखना, पढ़ना, बोलना, सुनना",
+        "बोलना, लिखना, सुनना, पढ़ना"
+      ],
+      "correctIndex": 1,
+      "explanation": "A child first listens, then speaks, and only later learns to read and write (LSRW). The other orders reverse this natural sequence.",
+      "explanationHi": "बच्चा पहले सुनता है, फिर बोलता है और बाद में पढ़ना-लिखना सीखता है (LSRW)। अन्य क्रम इस स्वाभाविक क्रम के उलट हैं।"
+    },
+    {
+      "id": "t02-ped-08",
+      "part": "A",
+      "section": "ped",
+      "topic": "Role of grammar",
+      "question": "Critics of teaching grammar in isolation recommend teaching grammar ___.",
+      "questionHi": "अलग से व्याकरण पढ़ाने के आलोचक व्याकरण को किस प्रकार पढ़ाने की सलाह देते हैं?",
+      "options": [
+        "through rote memorisation of rules",
+        "by avoiding all grammar",
+        "in context through meaningful use of language",
+        "always by translating rules into the mother tongue"
+      ],
+      "optionsHi": [
+        "नियम रटाकर",
+        "सारा व्याकरण छोड़कर",
+        "संदर्भ में, भाषा के सार्थक प्रयोग द्वारा",
+        "हमेशा नियमों का मातृभाषा में अनुवाद करके"
+      ],
+      "correctIndex": 2,
+      "explanation": "Modern approaches prefer functional grammar taught in context so learners use it to communicate. Rote learning is what critics oppose; dropping grammar entirely is not recommended; translation is not required.",
+      "explanationHi": "आधुनिक उपागम व्याकरण को संदर्भ में पढ़ाने पर बल देते हैं ताकि विद्यार्थी उसे संप्रेषण में प्रयोग करें। रटना आलोचकों को स्वीकार नहीं, व्याकरण पूरी तरह छोड़ना भी सुझाव नहीं और अनुवाद आवश्यक नहीं।"
+    },
+    {
+      "id": "t02-ped-09",
+      "part": "A",
+      "section": "ped",
+      "topic": "Audio-Lingual Method",
+      "question": "Which method relies on mimicry, memorisation and pattern drills, and is based on Behaviourism?",
+      "questionHi": "कौन-सी विधि अनुकरण, स्मरण और पैटर्न ड्रिल पर आधारित है तथा व्यवहारवाद पर टिकी है?",
+      "options": [
+        "Direct Method",
+        "Grammar-Translation Method",
+        "Communicative Approach",
+        "Audio-Lingual Method"
+      ],
+      "optionsHi": [
+        "प्रत्यक्ष विधि",
+        "व्याकरण-अनुवाद विधि",
+        "संप्रेषणात्मक उपागम",
+        "श्रव्य-भाषिक विधि"
+      ],
+      "correctIndex": 3,
+      "explanation": "The Audio-Lingual Method uses repetition and drills to form habits, following Skinner's Behaviourism. The Direct Method avoids translation, Grammar-Translation stresses rules and translation, and CLT stresses communication.",
+      "explanationHi": "श्रव्य-भाषिक विधि में आदत बनाने के लिए दोहराव और ड्रिल का प्रयोग होता है, जो स्किनर के व्यवहारवाद पर आधारित है। प्रत्यक्ष विधि अनुवाद से बचती है, व्याकरण-अनुवाद नियमों व अनुवाद पर बल देती है और CLT संप्रेषण पर।"
+    },
+    {
+      "id": "t02-ped-10",
+      "part": "A",
+      "section": "ped",
+      "topic": "Task-Based Language Teaching",
+      "question": "In Task-Based Language Teaching (TBLT), the main focus is on ___.",
+      "questionHi": "कार्य-आधारित भाषा शिक्षण (TBLT) में मुख्य ध्यान किस पर होता है?",
+      "options": [
+        "completing meaningful tasks using the language",
+        "memorising vocabulary lists",
+        "translating texts into the mother tongue",
+        "choral drilling of sentences"
+      ],
+      "optionsHi": [
+        "भाषा का प्रयोग करके सार्थक कार्य पूरे करना",
+        "शब्द-सूचियाँ रटना",
+        "पाठों का मातृभाषा में अनुवाद करना",
+        "वाक्यों का सामूहिक अभ्यास (ड्रिल) करना"
+      ],
+      "correctIndex": 0,
+      "explanation": "TBLT organises learning around real-life tasks such as planning a trip, where language is a means to complete them. The other options describe traditional or drill-based methods.",
+      "explanationHi": "TBLT में सीखना वास्तविक जीवन के कार्यों, जैसे यात्रा की योजना बनाना, के इर्द-गिर्द होता है जहाँ भाषा कार्य पूरा करने का साधन है। अन्य विकल्प पारंपरिक या ड्रिल आधारित विधियों के हैं।"
+    },
+    {
+      "id": "t02-ped-11",
+      "part": "A",
+      "section": "ped",
+      "topic": "Diverse classroom and multilingualism",
+      "question": "In a multilingual classroom, a good English teacher should ___.",
+      "questionHi": "बहुभाषी कक्षा में एक अच्छे अंग्रेज़ी शिक्षक को क्या करना चाहिए?",
+      "options": [
+        "ban the use of home languages completely",
+        "use only drill-based repetition",
+        "use learners' home languages as a resource to support learning English",
+        "teach only the best students"
+      ],
+      "optionsHi": [
+        "घर की भाषाओं के प्रयोग पर पूरी तरह रोक लगानी चाहिए",
+        "केवल ड्रिल आधारित दोहराव करना चाहिए",
+        "अंग्रेज़ी सीखने में सहायता के लिए विद्यार्थियों की घरेलू भाषाओं को संसाधन के रूप में प्रयोग करना चाहिए",
+        "केवल सबसे अच्छे विद्यार्थियों को पढ़ाना चाहिए"
+      ],
+      "correctIndex": 2,
+      "explanation": "Learners' languages are a valuable multilingual resource; using them builds understanding and confidence. Banning them, relying only on drills or ignoring weaker students is not inclusive.",
+      "explanationHi": "विद्यार्थियों की भाषाएँ एक मूल्यवान बहुभाषी संसाधन हैं; इनके प्रयोग से समझ और आत्मविश्वास बढ़ता है। इन पर रोक लगाना, केवल ड्रिल करना या कमज़ोर विद्यार्थियों की उपेक्षा करना समावेशी नहीं है।"
+    },
+    {
+      "id": "t02-ped-12",
+      "part": "A",
+      "section": "ped",
+      "topic": "Errors and mistakes",
+      "question": "Errors differ from mistakes in that errors are ___.",
+      "questionHi": "त्रुटि (error) और भूल (mistake) में अंतर यह है कि त्रुटियाँ ___ होती हैं।",
+      "options": [
+        "random slips caused by tiredness",
+        "systematic and show a gap in the learner's knowledge",
+        "always self-corrected by the learner",
+        "caused only by the teacher"
+      ],
+      "optionsHi": [
+        "थकान से हुई आकस्मिक चूक",
+        "व्यवस्थित होती हैं और शिक्षार्थी के ज्ञान की कमी दर्शाती हैं",
+        "शिक्षार्थी द्वारा हमेशा स्वयं सुधार ली जाती हैं",
+        "केवल शिक्षक के कारण होती हैं"
+      ],
+      "correctIndex": 1,
+      "explanation": "Errors are systematic and repeat because the learner has not yet learnt the rule, whereas mistakes are occasional performance slips that the learner can usually correct. The other options describe mistakes or are untrue.",
+      "explanationHi": "त्रुटियाँ व्यवस्थित होती हैं और बार-बार होती हैं क्योंकि शिक्षार्थी ने नियम अभी सीखा नहीं होता, जबकि भूलें कभी-कभार की प्रदर्शन-चूक हैं जिन्हें वह स्वयं सुधार सकता है। अन्य विकल्प भूलों का वर्णन करते हैं या गलत हैं।"
+    },
+    {
+      "id": "t02-ped-13",
+      "part": "A",
+      "section": "ped",
+      "topic": "Teaching-learning materials",
+      "question": "What is the best way to use a textbook in a language class?",
+      "questionHi": "भाषा की कक्षा में पाठ्यपुस्तक का सबसे अच्छा उपयोग कैसे है?",
+      "options": [
+        "As the only source of knowledge",
+        "As something to be memorised fully",
+        "As a tool that replaces the teacher",
+        "As one of several resources, supplemented with other materials"
+      ],
+      "optionsHi": [
+        "ज्ञान के एकमात्र स्रोत के रूप में",
+        "पूरी तरह रटने की सामग्री के रूप में",
+        "शिक्षक का स्थान लेने वाले साधन के रूप में",
+        "कई संसाधनों में से एक के रूप में, अन्य सामग्री के साथ पूरक करके"
+      ],
+      "correctIndex": 3,
+      "explanation": "A textbook is a useful resource but should be supplemented with multimedia, local and multilingual materials. Treating it as the only source, memorising it or replacing the teacher with it is not good practice.",
+      "explanationHi": "पाठ्यपुस्तक उपयोगी संसाधन है पर उसे मल्टीमीडिया, स्थानीय और बहुभाषी सामग्री से पूरक करना चाहिए। उसे एकमात्र स्रोत मानना, रटना या शिक्षक का विकल्प बनाना उचित नहीं।"
+    },
+    {
+      "id": "t02-ped-14",
+      "part": "A",
+      "section": "ped",
+      "topic": "Remedial teaching",
+      "question": "Remedial teaching in a language class should begin with ___.",
+      "questionHi": "भाषा की कक्षा में उपचारात्मक शिक्षण की शुरुआत किससे होनी चाहिए?",
+      "options": [
+        "diagnosis of the learners' specific difficulties",
+        "a final examination",
+        "punishing weak learners",
+        "repeating the whole syllabus"
+      ],
+      "optionsHi": [
+        "विद्यार्थियों की विशिष्ट कठिनाइयों के निदान से",
+        "अंतिम परीक्षा से",
+        "कमज़ोर विद्यार्थियों को दंड देने से",
+        "पूरा पाठ्यक्रम दोहराने से"
+      ],
+      "correctIndex": 0,
+      "explanation": "Remedial work must first identify the exact problem (diagnosis) and then plan targeted help. An exam, punishment or repeating everything does not address the specific weakness.",
+      "explanationHi": "उपचारात्मक कार्य में पहले सही समस्या की पहचान (निदान) करनी होती है, फिर लक्षित सहायता की योजना बनाई जाती है। परीक्षा, दंड या सब कुछ दोहराना विशिष्ट कमज़ोरी को दूर नहीं करता।"
+    },
+    {
+      "id": "t02-ped-15",
+      "part": "A",
+      "section": "ped",
+      "topic": "Language learning vs acquisition",
+      "question": "According to Krashen, 'acquisition' is ___.",
+      "questionHi": "क्रैशेन के अनुसार 'अर्जन' (acquisition) क्या है?",
+      "options": [
+        "conscious study of grammar rules",
+        "formal classroom instruction only",
+        "a subconscious process similar to how a child picks up the mother tongue",
+        "memorisation of word lists"
+      ],
+      "optionsHi": [
+        "व्याकरण के नियमों का सचेत अध्ययन",
+        "केवल औपचारिक कक्षा-शिक्षण",
+        "अवचेतन प्रक्रिया, जैसे बच्चा मातृभाषा सीखता है",
+        "शब्द-सूचियों को याद करना"
+      ],
+      "correctIndex": 2,
+      "explanation": "Krashen distinguishes subconscious acquisition (natural, through meaningful communication) from conscious learning (rule study). The other options describe 'learning'.",
+      "explanationHi": "क्रैशेन अवचेतन अर्जन (सार्थक संप्रेषण से स्वाभाविक रूप में) और सचेत अधिगम (नियमों का अध्ययन) में अंतर करते हैं। अन्य विकल्प 'अधिगम' का वर्णन करते हैं।"
+    }
+  ]
+}

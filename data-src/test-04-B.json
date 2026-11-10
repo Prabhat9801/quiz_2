@@ -1,0 +1,349 @@
+{
+ "questions": [
+  {
+   "id": "t04-psych-01",
+   "part": "B",
+   "section": "psych",
+   "topic": "Kohlberg's moral development",
+   "question": "A child obeys rules only to avoid punishment. According to Kohlberg, this is the -",
+   "questionHi": "एक बच्चा केवल दंड से बचने के लिए नियमों का पालन करता है। कोहलबर्ग के अनुसार यह कौन-सा स्तर है?",
+   "options": [
+    "post-conventional level",
+    "conventional level",
+    "pre-conventional level",
+    "autonomous level"
+   ],
+   "optionsHi": [
+    "उत्तर-परंपरागत स्तर",
+    "परंपरागत स्तर",
+    "पूर्व-परंपरागत स्तर",
+    "स्वायत्त स्तर"
+   ],
+   "correctIndex": 2,
+   "explanation": "Obeying to avoid punishment is the first stage of the pre-conventional level. Conventional level is based on social approval and law, and post-conventional on universal principles.",
+   "explanationHi": "दंड से बचने के लिए पालन करना पूर्व-परंपरागत स्तर का पहला चरण है। परंपरागत स्तर सामाजिक स्वीकृति और कानून पर, तथा उत्तर-परंपरागत स्तर सार्वभौमिक सिद्धांतों पर आधारित है।"
+  },
+  {
+   "id": "t04-psych-02",
+   "part": "B",
+   "section": "psych",
+   "topic": "Learning theories",
+   "question": "In his insight-learning experiments, Wolfgang Köhler used -",
+   "questionHi": "अपने अंतर्दृष्टि अधिगम (insight learning) प्रयोगों में वोल्फगैंग कोहलर ने किसका उपयोग किया?",
+   "options": [
+    "chimpanzees",
+    "pigeons",
+    "rats",
+    "dogs"
+   ],
+   "optionsHi": [
+    "चिम्पांज़ी",
+    "कबूतर",
+    "चूहे",
+    "कुत्ते"
+   ],
+   "correctIndex": 0,
+   "explanation": "Köhler's famous experiments with the chimpanzee Sultan showed sudden insight in problem solving. Skinner used rats and pigeons, and Pavlov used dogs.",
+   "explanationHi": "कोहलर के चिम्पांज़ी सुल्तान पर किए प्रसिद्ध प्रयोगों में समस्या-समाधान में अचानक अंतर्दृष्टि दिखी। स्किनर ने चूहों व कबूतरों और पावलोव ने कुत्तों का प्रयोग किया।"
+  },
+  {
+   "id": "t04-psych-03",
+   "part": "B",
+   "section": "psych",
+   "topic": "Adolescence",
+   "question": "Who described adolescence as a period of 'storm and stress'?",
+   "questionHi": "किशोरावस्था को 'तूफान और तनाव' की अवस्था किसने कहा?",
+   "options": [
+    "Piaget",
+    "Freud",
+    "Erikson",
+    "G. Stanley Hall"
+   ],
+   "optionsHi": [
+    "पियाजे",
+    "फ्रायड",
+    "एरिक्सन",
+    "जी. स्टेनली हॉल"
+   ],
+   "correctIndex": 3,
+   "explanation": "G. Stanley Hall used the phrase 'storm and stress' for adolescence. The others are known for different theories.",
+   "explanationHi": "जी. स्टेनली हॉल ने किशोरावस्था के लिए 'तूफान और तनाव' शब्द का प्रयोग किया। अन्य विद्वान दूसरे सिद्धांतों के लिए जाने जाते हैं।"
+  },
+  {
+   "id": "t04-psych-04",
+   "part": "B",
+   "section": "psych",
+   "topic": "Guidance and counselling",
+   "question": "Non-directive (client-centred) counselling was developed by -",
+   "questionHi": "अनिर्देशात्मक (client-centred) परामर्श का विकास किसने किया?",
+   "options": [
+    "B.F. Skinner",
+    "Carl Rogers",
+    "E.G. Williamson",
+    "Ivan Pavlov"
+   ],
+   "optionsHi": [
+    "बी.एफ. स्किनर",
+    "कार्ल रोजर्स",
+    "ई.जी. विलियमसन",
+    "इवान पावलोव"
+   ],
+   "correctIndex": 1,
+   "explanation": "Carl Rogers developed client-centred counselling. Williamson is associated with directive counselling; Skinner and Pavlov are learning theorists.",
+   "explanationHi": "कार्ल रोजर्स ने client-centred परामर्श विकसित किया। विलियमसन निर्देशात्मक परामर्श से जुड़े हैं; स्किनर और पावलोव अधिगम सिद्धांतकार हैं।"
+  },
+  {
+   "id": "t04-psych-05",
+   "part": "B",
+   "section": "psych",
+   "topic": "Learning theories - Bandura",
+   "question": "Learning by watching and imitating the behaviour of a model is called -",
+   "questionHi": "किसी आदर्श (model) के व्यवहार को देखकर और अनुकरण करके सीखना क्या कहलाता है?",
+   "options": [
+    "classical conditioning",
+    "trial-and-error learning",
+    "observational learning",
+    "insight learning"
+   ],
+   "optionsHi": [
+    "शास्त्रीय अनुबंधन",
+    "प्रयत्न-त्रुटि अधिगम",
+    "अवलोकनात्मक अधिगम",
+    "अंतर्दृष्टि अधिगम"
+   ],
+   "correctIndex": 2,
+   "explanation": "Bandura's social learning theory calls this observational learning. Classical conditioning is Pavlov's, trial and error is Thorndike's and insight is Gestalt's.",
+   "explanationHi": "बंडूरा के सामाजिक अधिगम सिद्धांत में इसे अवलोकनात्मक अधिगम कहते हैं। शास्त्रीय अनुबंधन पावलोव का, प्रयत्न-त्रुटि थॉर्नडाइक का और अंतर्दृष्टि गेस्टाल्ट का सिद्धांत है।"
+  },
+  {
+   "id": "t04-psych-06",
+   "part": "B",
+   "section": "psych",
+   "topic": "Intelligence - Gardner",
+   "question": "In Gardner's theory, a student who learns best through words, writing and reading shows strength in which intelligence?",
+   "questionHi": "गार्डनर के सिद्धांत में जो विद्यार्थी शब्दों, लेखन और पठन से सबसे अच्छा सीखता है, वह किस बुद्धि में मज़बूत है?",
+   "options": [
+    "Logical-mathematical",
+    "Linguistic",
+    "Bodily-kinesthetic",
+    "Musical"
+   ],
+   "optionsHi": [
+    "तार्किक-गणितीय",
+    "भाषायी",
+    "शारीरिक-गतिबोधक",
+    "संगीतात्मक"
+   ],
+   "correctIndex": 1,
+   "explanation": "Linguistic intelligence is the ability to use words effectively in speaking and writing. The other intelligences relate to numbers, movement and music.",
+   "explanationHi": "भाषायी बुद्धि बोलने और लिखने में शब्दों के प्रभावी प्रयोग की क्षमता है। अन्य बुद्धियाँ संख्या, गति और संगीत से संबंधित हैं।"
+  },
+  {
+   "id": "t04-assess-01",
+   "part": "B",
+   "section": "assess",
+   "topic": "Measurement vs assessment vs evaluation",
+   "question": "Which statement best describes 'measurement'?",
+   "questionHi": "'मापन' (measurement) का सबसे उपयुक्त वर्णन कौन-सा है?",
+   "options": [
+    "Assigning numbers to a characteristic according to rules",
+    "Judging the worth of a programme",
+    "Giving feedback in words only",
+    "Conducting an annual examination"
+   ],
+   "optionsHi": [
+    "नियमों के अनुसार किसी गुण को संख्याएँ देना",
+    "किसी कार्यक्रम के मूल्य का निर्णय करना",
+    "केवल शब्दों में फीडबैक देना",
+    "वार्षिक परीक्षा आयोजित करना"
+   ],
+   "correctIndex": 0,
+   "explanation": "Measurement is quantitative: it assigns numbers to a trait. Judging worth is evaluation; feedback and examinations are different concepts.",
+   "explanationHi": "मापन मात्रात्मक होता है; इसमें किसी गुण को संख्या दी जाती है। मूल्य का निर्णय करना मूल्यांकन है; फीडबैक और परीक्षा अलग अवधारणाएँ हैं।"
+  },
+  {
+   "id": "t04-assess-02",
+   "part": "B",
+   "section": "assess",
+   "topic": "Formative assessment",
+   "question": "The main purpose of formative assessment is -",
+   "questionHi": "रचनात्मक आकलन (formative assessment) का मुख्य उद्देश्य है -",
+   "options": [
+    "to promote students to the next class",
+    "to rank students",
+    "to certify final achievement",
+    "to improve learning while teaching is going on"
+   ],
+   "optionsHi": [
+    "विद्यार्थियों को अगली कक्षा में प्रोन्नत करना",
+    "विद्यार्थियों को क्रम देना",
+    "अंतिम उपलब्धि का प्रमाणन",
+    "शिक्षण के दौरान ही अधिगम में सुधार करना"
+   ],
+   "correctIndex": 3,
+   "explanation": "Formative assessment is ongoing and gives feedback to improve learning. Promotion, ranking and certification are the purposes of summative assessment.",
+   "explanationHi": "रचनात्मक आकलन निरंतर चलता है और अधिगम सुधारने के लिए फीडबैक देता है। प्रोन्नति, क्रम और प्रमाणन योगात्मक आकलन के उद्देश्य हैं।"
+  },
+  {
+   "id": "t04-assess-03",
+   "part": "B",
+   "section": "assess",
+   "topic": "Characteristics of a good test",
+   "question": "A test is said to be 'valid' when it -",
+   "questionHi": "कोई परीक्षण 'वैध' (valid) तब कहलाता है जब वह -",
+   "options": [
+    "gives the same result every time",
+    "measures what it is intended to measure",
+    "is easy to score",
+    "is short and cheap"
+   ],
+   "optionsHi": [
+    "हर बार समान परिणाम देता है",
+    "वही मापता है जिसे मापने के लिए बना है",
+    "आसानी से जाँचा जा सकता है",
+    "छोटा और सस्ता होता है"
+   ],
+   "correctIndex": 1,
+   "explanation": "Validity means a test measures what it claims to measure. Giving consistent results is reliability; ease of scoring is objectivity/usability.",
+   "explanationHi": "वैधता का अर्थ है कि परीक्षण वही मापे जो मापने का दावा करता है। समान परिणाम देना विश्वसनीयता है; आसानी से जाँचना वस्तुनिष्ठता/उपयोगिता है।"
+  },
+  {
+   "id": "t04-assess-04",
+   "part": "B",
+   "section": "assess",
+   "topic": "Characteristics of a good test",
+   "question": "The degree to which test items represent the whole syllabus content being tested is called ____.",
+   "options": [
+    "Predictive validity",
+    "Construct validity",
+    "Content validity",
+    "Concurrent validity"
+   ],
+   "correctIndex": 2,
+   "explanation": "Content validity checks how well the items sample the entire content area. Predictive validity relates scores to future performance, concurrent validity to a present criterion, and construct validity to a theoretical trait.",
+   "questionHi": "परीक्षण के प्रश्न जिस सीमा तक पूरे पाठ्यक्रम की विषय-वस्तु का प्रतिनिधित्व करते हैं, उसे ____ कहते हैं।",
+   "optionsHi": [
+    "Predictive validity (भविष्यवाणी वैधता)",
+    "Construct validity (संरचना वैधता)",
+    "Content validity (विषय-वस्तु वैधता)",
+    "Concurrent validity (सहवर्ती वैधता)"
+   ],
+   "explanationHi": "Content validity यह जाँचती है कि प्रश्न पूरे विषय-क्षेत्र का कितना प्रतिनिधित्व करते हैं। Predictive validity भविष्य के प्रदर्शन से, concurrent वर्तमान मानदंड से और construct किसी सैद्धांतिक गुण से जुड़ी होती है।"
+  },
+  {
+   "id": "t04-pedag-01",
+   "part": "B",
+   "section": "pedag",
+   "topic": "Lesson planning",
+   "question": "According to the Herbartian approach, the first step of a lesson plan is -",
+   "questionHi": "हरबर्टियन उपागम के अनुसार पाठ योजना का पहला चरण है -",
+   "options": [
+    "Application",
+    "Generalisation",
+    "Presentation",
+    "Preparation"
+   ],
+   "optionsHi": [
+    "प्रयोग",
+    "सामान्यीकरण",
+    "प्रस्तुतीकरण",
+    "प्रस्तावना (तैयारी)"
+   ],
+   "correctIndex": 3,
+   "explanation": "Herbart's steps are preparation, presentation, association, generalisation and application, so preparation comes first.",
+   "explanationHi": "हरबर्ट के चरण हैं: प्रस्तावना, प्रस्तुतीकरण, तुलना/संबंध, सामान्यीकरण और प्रयोग; इसलिए प्रस्तावना पहला चरण है।"
+  },
+  {
+   "id": "t04-pedag-02",
+   "part": "B",
+   "section": "pedag",
+   "topic": "NCF 2005",
+   "question": "NCF 2005 strongly emphasises that learning should -",
+   "questionHi": "NCF 2005 किस बात पर विशेष बल देता है?",
+   "options": [
+    "be linked to life outside school",
+    "depend only on the textbook",
+    "be based on rote memorisation",
+    "aim only at examination marks"
+   ],
+   "optionsHi": [
+    "सीखना विद्यालय के बाहर के जीवन से जुड़ा हो",
+    "सीखना केवल पाठ्यपुस्तक पर निर्भर हो",
+    "सीखना रटने पर आधारित हो",
+    "सीखने का उद्देश्य केवल परीक्षा के अंक हों"
+   ],
+   "correctIndex": 0,
+   "explanation": "NCF 2005 asks for connecting knowledge to life outside school and shifting away from rote learning. The other options are what it criticises.",
+   "explanationHi": "NCF 2005 ज्ञान को विद्यालय के बाहर के जीवन से जोड़ने और रटने से दूर जाने की बात करता है। अन्य विकल्प वही हैं जिनकी वह आलोचना करता है।"
+  },
+  {
+   "id": "t04-pedag-03",
+   "part": "B",
+   "section": "pedag",
+   "topic": "Classroom dialogue",
+   "question": "In classroom dialogue, a teacher should mainly -",
+   "questionHi": "कक्षा संवाद में शिक्षक को मुख्यतः क्या करना चाहिए?",
+   "options": [
+    "lecture without interruption",
+    "ask only one-word answer questions",
+    "encourage open-ended questions and listen to students' ideas",
+    "avoid students' questions"
+   ],
+   "optionsHi": [
+    "बिना रुके व्याख्यान देना",
+    "केवल एक शब्द के उत्तर वाले प्रश्न पूछना",
+    "खुले प्रश्नों को प्रोत्साहित करना और विद्यार्थियों के विचार सुनना",
+    "विद्यार्थियों के प्रश्नों से बचना"
+   ],
+   "correctIndex": 2,
+   "explanation": "Dialogue needs two-way communication. Open-ended questions and careful listening build thinking; lecturing alone and avoiding questions do not.",
+   "explanationHi": "संवाद के लिए दो-तरफ़ा संप्रेषण ज़रूरी है। खुले प्रश्न और ध्यान से सुनना चिंतन बढ़ाते हैं; केवल व्याख्यान या प्रश्नों से बचना नहीं।"
+  },
+  {
+   "id": "t04-attitude-01",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Teacher's professional development",
+   "question": "Which practice best supports a teacher's professional development?",
+   "questionHi": "कौन-सी गतिविधि शिक्षक के व्यावसायिक विकास में सबसे अधिक सहायक है?",
+   "options": [
+    "Avoiding feedback from colleagues",
+    "Reflecting regularly on one's own teaching",
+    "Using the same notes for years",
+    "Relying only on the textbook"
+   ],
+   "optionsHi": [
+    "सहकर्मियों के फीडबैक से बचना",
+    "अपने शिक्षण पर नियमित चिंतन करना",
+    "वर्षों तक वही नोट्स प्रयोग करना",
+    "केवल पाठ्यपुस्तक पर निर्भर रहना"
+   ],
+   "correctIndex": 1,
+   "explanation": "Reflective practice helps a teacher find strengths and gaps and improve. The other options prevent growth.",
+   "explanationHi": "चिंतनशील अभ्यास से शिक्षक अपनी शक्तियाँ और कमियाँ पहचानकर सुधार करता है। अन्य विकल्प विकास को रोकते हैं।"
+  },
+  {
+   "id": "t04-attitude-02",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Gender perspective in education",
+   "question": "A gender-sensitive teacher should -",
+   "questionHi": "लिंग-संवेदनशील शिक्षक को क्या करना चाहिए?",
+   "options": [
+    "give leadership roles only to boys",
+    "assign only household-themed tasks to girls",
+    "expect girls to perform poorly in science",
+    "give equal opportunities to boys and girls in all activities"
+   ],
+   "optionsHi": [
+    "नेतृत्व की भूमिकाएँ केवल लड़कों को देना",
+    "लड़कियों को केवल घरेलू विषय वाले कार्य देना",
+    "लड़कियों से विज्ञान में कमज़ोर प्रदर्शन की अपेक्षा करना",
+    "सभी गतिविधियों में लड़कों और लड़कियों को समान अवसर देना"
+   ],
+   "correctIndex": 3,
+   "explanation": "Gender sensitivity means equal opportunity and avoiding stereotypes. The other options reinforce gender bias.",
+   "explanationHi": "लिंग-संवेदनशीलता का अर्थ है समान अवसर देना और रूढ़ियों से बचना। अन्य विकल्प लैंगिक पूर्वाग्रह को बढ़ाते हैं।"
+  }
+ ]
+}

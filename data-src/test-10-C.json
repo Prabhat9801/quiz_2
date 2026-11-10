@@ -1,0 +1,499 @@
+{
+ "questions": [
+  {
+   "id": "t10-hindi-01",
+   "part": "C",
+   "section": "hindi",
+   "topic": "संधि",
+   "question": "'पुनर्जन्म' का सही संधि-विच्छेद क्या है?",
+   "options": [
+    "पुन + जन्म",
+    "पुनः + जन्म",
+    "पुनर + जन्म",
+    "पुनार् + जन्म"
+   ],
+   "correctIndex": 1,
+   "explanation": "'पुनः + जन्म' में विसर्ग के बाद 'ज' आने पर विसर्ग 'र्' बन जाता है, इसलिए 'पुनर्जन्म' बनता है। यह विसर्ग संधि है।"
+  },
+  {
+   "id": "t10-hindi-02",
+   "part": "C",
+   "section": "hindi",
+   "topic": "समास",
+   "question": "'पीताम्बर' में कौन-सा समास है?",
+   "options": [
+    "तत्पुरुष",
+    "कर्मधारय",
+    "द्विगु",
+    "बहुव्रीहि"
+   ],
+   "correctIndex": 3,
+   "explanation": "'पीताम्बर' का अर्थ है 'पीले हैं वस्त्र जिसके' अर्थात् श्रीकृष्ण। यहाँ कोई तीसरा अर्थ प्रधान है, इसलिए बहुव्रीहि समास है।"
+  },
+  {
+   "id": "t10-hindi-03",
+   "part": "C",
+   "section": "hindi",
+   "topic": "विलोम",
+   "question": "'प्रशंसा' का विलोम शब्द कौन-सा है?",
+   "options": [
+    "निंदा",
+    "स्तुति",
+    "सराहना",
+    "बड़ाई"
+   ],
+   "correctIndex": 0,
+   "explanation": "'प्रशंसा' का विलोम 'निंदा' है। स्तुति, सराहना और बड़ाई तो उसके पर्यायवाची हैं।"
+  },
+  {
+   "id": "t10-hindi-04",
+   "part": "C",
+   "section": "hindi",
+   "topic": "अशुद्धि शोधन",
+   "question": "निम्नलिखित में से शुद्ध शब्द कौन-सा है?",
+   "options": [
+    "कवियत्री",
+    "कवईत्री",
+    "कवयित्री",
+    "कवइत्री"
+   ],
+   "correctIndex": 2,
+   "explanation": "शुद्ध रूप 'कवयित्री' है (कवि + यित्री)। अन्य रूप अशुद्ध हैं।"
+  },
+  {
+   "id": "t10-hindi-05",
+   "part": "C",
+   "section": "hindi",
+   "topic": "तत्सम-तद्भव",
+   "question": "'मोर' शब्द का तत्सम रूप क्या है?",
+   "options": [
+    "मोरक",
+    "मयूर",
+    "मायूर",
+    "मयुर"
+   ],
+   "correctIndex": 1,
+   "explanation": "'मोर' तद्भव शब्द है और उसका तत्सम रूप 'मयूर' है।"
+  },
+  {
+   "id": "t10-english-01",
+   "part": "C",
+   "section": "english",
+   "topic": "Articles",
+   "question": "___ Sun rises in the east.",
+   "options": [
+    "A",
+    "An",
+    "The",
+    "No article"
+   ],
+   "correctIndex": 2,
+   "explanation": "The Sun is unique, so the definite article 'the' is used."
+  },
+  {
+   "id": "t10-english-02",
+   "part": "C",
+   "section": "english",
+   "topic": "Conjunctions",
+   "question": "He worked very hard, ___ he could not pass the examination.",
+   "options": [
+    "yet",
+    "so",
+    "because",
+    "unless"
+   ],
+   "correctIndex": 0,
+   "explanation": "'Yet' shows contrast between effort and result. 'So' and 'because' show cause/effect and 'unless' shows a condition."
+  },
+  {
+   "id": "t10-english-03",
+   "part": "C",
+   "section": "english",
+   "topic": "Proverbs",
+   "question": "The proverb 'Too many cooks spoil the broth' means that ___.",
+   "options": [
+    "cooking is a bad habit",
+    "soup is better with many ingredients",
+    "cooks should not be paid",
+    "too many people working on the same task may spoil it"
+   ],
+   "correctIndex": 3,
+   "explanation": "The proverb warns that when too many people try to do the same job, the result is often worse. It is not literally about cooking."
+  },
+  {
+   "id": "t10-english-04",
+   "part": "C",
+   "section": "english",
+   "topic": "Active-passive",
+   "question": "Change into passive voice: 'The manager has signed the letter.'",
+   "options": [
+    "The letter was signed by the manager.",
+    "The letter has been signed by the manager.",
+    "The letter is being signed by the manager.",
+    "The letter had been signed by the manager."
+   ],
+   "correctIndex": 1,
+   "explanation": "The present perfect active 'has signed' becomes 'has been signed' in the passive. The other options change the tense."
+  },
+  {
+   "id": "t10-english-05",
+   "part": "C",
+   "section": "english",
+   "topic": "Antonyms",
+   "question": "Choose the word opposite in meaning to 'generous'.",
+   "options": [
+    "stingy",
+    "kind",
+    "liberal",
+    "noble"
+   ],
+   "correctIndex": 0,
+   "explanation": "'Stingy' (unwilling to give) is the opposite of 'generous'. 'Kind' and 'liberal' are similar in meaning, and 'noble' is not an opposite."
+  },
+  {
+   "id": "t10-mental-01",
+   "part": "C",
+   "section": "mental",
+   "topic": "Analogy",
+   "question": "Author : Book :: Painter : ?",
+   "questionHi": "लेखक : पुस्तक :: चित्रकार : ?",
+   "options": [
+    "Brush",
+    "Painting",
+    "Canvas",
+    "Colour"
+   ],
+   "optionsHi": [
+    "Brush",
+    "Painting",
+    "Canvas",
+    "Colour"
+   ],
+   "correctIndex": 1,
+   "explanation": "An author creates a book; similarly a painter creates a painting. Brush, canvas and colour are only tools or materials.",
+   "explanationHi": "लेखक पुस्तक की रचना करता है, उसी प्रकार चित्रकार painting बनाता है। Brush, canvas और colour केवल साधन या सामग्री हैं।"
+  },
+  {
+   "id": "t10-mental-02",
+   "part": "C",
+   "section": "mental",
+   "topic": "Number series",
+   "question": "Find the next number: 3, 7, 15, 31, 63, ?",
+   "questionHi": "अगली संख्या ज्ञात कीजिए: 3, 7, 15, 31, 63, ?",
+   "options": [
+    "95",
+    "105",
+    "111",
+    "127"
+   ],
+   "optionsHi": [
+    "95",
+    "105",
+    "111",
+    "127"
+   ],
+   "correctIndex": 3,
+   "explanation": "Each term = previous term × 2 + 1 (3→7→15→31→63→127).",
+   "explanationHi": "प्रत्येक पद = पिछला पद × 2 + 1 (3→7→15→31→63→127)।"
+  },
+  {
+   "id": "t10-mental-03",
+   "part": "C",
+   "section": "mental",
+   "topic": "Blood relations",
+   "question": "Pointing to a photograph, a man said, 'Her mother is the only daughter of my mother.' How is the woman in the photograph related to the man?",
+   "questionHi": "एक फ़ोटो की ओर इशारा करके एक व्यक्ति ने कहा, 'इसकी माँ मेरी माँ की इकलौती बेटी है।' फ़ोटो वाली महिला उस व्यक्ति की क्या लगती है?",
+   "options": [
+    "Niece",
+    "Daughter",
+    "Sister",
+    "Cousin"
+   ],
+   "optionsHi": [
+    "भतीजी / भांजी",
+    "बेटी",
+    "बहन",
+    "चचेरी बहन"
+   ],
+   "correctIndex": 0,
+   "explanation": "The only daughter of the man's mother is his sister. So the woman's mother is his sister, which makes the woman his niece.",
+   "explanationHi": "व्यक्ति की माँ की इकलौती बेटी उसकी बहन है। अतः महिला की माँ उसकी बहन है, इसलिए महिला उसकी भतीजी/भांजी है।"
+  },
+  {
+   "id": "t10-mental-04",
+   "part": "C",
+   "section": "mental",
+   "topic": "Coding-decoding",
+   "question": "If A=1, B=2, C=3 ... Z=26, what is the sum of the values of the letters in 'FACE'?",
+   "questionHi": "यदि A=1, B=2, C=3 ... Z=26 हो, तो 'FACE' के अक्षरों के मानों का योग क्या होगा?",
+   "options": [
+    "13",
+    "14",
+    "15",
+    "16"
+   ],
+   "optionsHi": [
+    "13",
+    "14",
+    "15",
+    "16"
+   ],
+   "correctIndex": 2,
+   "explanation": "F=6, A=1, C=3, E=5; 6+1+3+5 = 15.",
+   "explanationHi": "F=6, A=1, C=3, E=5; 6+1+3+5 = 15।"
+  },
+  {
+   "id": "t10-mental-05",
+   "part": "C",
+   "section": "mental",
+   "topic": "Number Series",
+   "question": "Find the missing number in the series: 7, 14, 28, 56, ?, 224",
+   "options": [
+    "84",
+    "112",
+    "140",
+    "168"
+   ],
+   "correctIndex": 1,
+   "explanation": "Each term is double the previous term: 56 × 2 = 112, and 112 × 2 = 224. So the missing number is 112.",
+   "questionHi": "श्रृंखला में लुप्त संख्या ज्ञात कीजिए: 7, 14, 28, 56, ?, 224",
+   "optionsHi": [
+    "84",
+    "112",
+    "140",
+    "168"
+   ],
+   "explanationHi": "हर पद पिछले पद का दोगुना है: 56 × 2 = 112 और 112 × 2 = 224। इसलिए लुप्त संख्या 112 है।"
+  },
+  {
+   "id": "t10-computer-01",
+   "part": "C",
+   "section": "computer",
+   "topic": "Printers",
+   "question": "The unit 'dpi' is used to measure the ___ of a printer.",
+   "questionHi": "प्रिंटर की ___ को मापने के लिए 'dpi' इकाई का प्रयोग होता है।",
+   "options": [
+    "speed",
+    "price",
+    "memory",
+    "resolution"
+   ],
+   "optionsHi": [
+    "गति",
+    "कीमत",
+    "मेमोरी",
+    "रेज़ोल्यूशन (resolution)"
+   ],
+   "correctIndex": 3,
+   "explanation": "DPI (dots per inch) measures print resolution, i.e. the sharpness of the printout. Speed is measured in pages per minute (ppm).",
+   "explanationHi": "DPI (dots per inch) प्रिंट की resolution यानी स्पष्टता मापता है। गति pages per minute (ppm) में मापी जाती है।"
+  },
+  {
+   "id": "t10-computer-02",
+   "part": "C",
+   "section": "computer",
+   "topic": "E-mail - BCC",
+   "question": "In e-mail, what does BCC do?",
+   "questionHi": "ई-मेल में BCC क्या करता है?",
+   "options": [
+    "Hides the recipient's address from other recipients",
+    "Sends the message twice",
+    "Encrypts the message",
+    "Deletes the message after sending"
+   ],
+   "optionsHi": [
+    "प्राप्तकर्ता का पता अन्य प्राप्तकर्ताओं से छिपाता है",
+    "संदेश दो बार भेजता है",
+    "संदेश को एन्क्रिप्ट करता है",
+    "भेजने के बाद संदेश मिटा देता है"
+   ],
+   "correctIndex": 0,
+   "explanation": "BCC means Blind Carbon Copy; those addresses are not visible to the other recipients. It does not duplicate, encrypt or delete the mail.",
+   "explanationHi": "BCC का अर्थ Blind Carbon Copy है; इन पतों को अन्य प्राप्तकर्ता नहीं देख पाते। यह मेल को दोहराता, एन्क्रिप्ट या डिलीट नहीं करता।"
+  },
+  {
+   "id": "t10-computer-03",
+   "part": "C",
+   "section": "computer",
+   "topic": "MS Excel",
+   "question": "In recent versions of MS Excel, a workbook is saved by default with the extension ___.",
+   "questionHi": "MS Excel के नए संस्करणों में वर्कबुक डिफ़ॉल्ट रूप से किस एक्सटेंशन के साथ सुरक्षित होती है?",
+   "options": [
+    ".docx",
+    ".pptx",
+    ".xlsx",
+    ".txt"
+   ],
+   "optionsHi": [
+    ".docx",
+    ".pptx",
+    ".xlsx",
+    ".txt"
+   ],
+   "correctIndex": 2,
+   "explanation": ".xlsx is the default Excel workbook format. .docx is for Word, .pptx for PowerPoint and .txt for plain text.",
+   "explanationHi": ".xlsx Excel वर्कबुक का डिफ़ॉल्ट फ़ॉर्मेट है। .docx Word के लिए, .pptx PowerPoint के लिए और .txt सादे टेक्स्ट के लिए होता है।"
+  },
+  {
+   "id": "t10-computer-04",
+   "part": "C",
+   "section": "computer",
+   "topic": "Keyboard",
+   "question": "Which key deletes the character to the left of the cursor?",
+   "questionHi": "कर्सर के बाईं ओर के अक्षर को कौन-सी कुंजी (key) मिटाती है?",
+   "options": [
+    "Delete",
+    "Backspace",
+    "Tab",
+    "Esc"
+   ],
+   "optionsHi": [
+    "Delete",
+    "Backspace",
+    "Tab",
+    "Esc"
+   ],
+   "correctIndex": 1,
+   "explanation": "Backspace removes the character before (left of) the cursor, while Delete removes the character after (right of) it.",
+   "explanationHi": "Backspace कर्सर के पहले (बाईं ओर) का अक्षर मिटाती है, जबकि Delete उसके बाद (दाईं ओर) का अक्षर मिटाती है।"
+  },
+  {
+   "id": "t10-computer-05",
+   "part": "C",
+   "section": "computer",
+   "topic": "Email",
+   "question": "Which protocol is mainly used for sending e-mail?",
+   "questionHi": "ई-मेल भेजने के लिए मुख्यतः किस प्रोटोकॉल का प्रयोग होता है?",
+   "options": [
+    "HTTP",
+    "FTP",
+    "POP3",
+    "SMTP"
+   ],
+   "optionsHi": [
+    "HTTP",
+    "FTP",
+    "POP3",
+    "SMTP"
+   ],
+   "correctIndex": 3,
+   "explanation": "SMTP (Simple Mail Transfer Protocol) is used to send mail. POP3 is used to receive it, HTTP for web pages and FTP for file transfer.",
+   "explanationHi": "SMTP (Simple Mail Transfer Protocol) मेल भेजने के लिए प्रयोग होता है। POP3 मेल प्राप्त करने के लिए, HTTP वेब पृष्ठों के लिए और FTP फ़ाइल-अंतरण के लिए है।"
+  },
+  {
+   "id": "t10-gk-01",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian Constitution",
+   "question": "Article 21 of the Indian Constitution guarantees ___.",
+   "questionHi": "भारतीय संविधान का अनुच्छेद 21 ___ की गारंटी देता है।",
+   "options": [
+    "Right to Equality",
+    "Freedom of speech",
+    "Protection of life and personal liberty",
+    "Right to form associations"
+   ],
+   "optionsHi": [
+    "समता का अधिकार",
+    "वाक्-स्वातंत्र्य",
+    "प्राण और दैहिक स्वतंत्रता का संरक्षण",
+    "संघ बनाने का अधिकार"
+   ],
+   "correctIndex": 2,
+   "explanation": "Article 21 protects life and personal liberty. Equality is in Articles 14-18 and speech and association freedoms are in Article 19.",
+   "explanationHi": "अनुच्छेद 21 प्राण और दैहिक स्वतंत्रता की रक्षा करता है। समता अनुच्छेद 14-18 में और वाक्-स्वातंत्र्य तथा संघ बनाने की स्वतंत्रता अनुच्छेद 19 में है।"
+  },
+  {
+   "id": "t10-gk-02",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian History",
+   "question": "The Battle of Plassey was fought in the year ___.",
+   "questionHi": "प्लासी का युद्ध ___ में लड़ा गया था।",
+   "options": [
+    "1757",
+    "1764",
+    "1857",
+    "1526"
+   ],
+   "optionsHi": [
+    "1757",
+    "1764",
+    "1857",
+    "1526"
+   ],
+   "correctIndex": 0,
+   "explanation": "The Battle of Plassey (23 June 1757) was won by Robert Clive over Siraj-ud-Daulah. 1764 is Buxar, 1857 the Revolt and 1526 the First Battle of Panipat.",
+   "explanationHi": "प्लासी का युद्ध (23 जून 1757) रॉबर्ट क्लाइव ने सिराजुद्दौला के विरुद्ध जीता। 1764 बक्सर, 1857 विद्रोह और 1526 पानीपत का पहला युद्ध है।"
+  },
+  {
+   "id": "t10-gk-03",
+   "part": "C",
+   "section": "gk",
+   "topic": "Geography",
+   "question": "The Thar Desert is located mainly in which Indian state?",
+   "questionHi": "थार मरुस्थल मुख्यतः भारत के किस राज्य में स्थित है?",
+   "options": [
+    "Gujarat",
+    "Rajasthan",
+    "Haryana",
+    "Punjab"
+   ],
+   "optionsHi": [
+    "गुजरात",
+    "राजस्थान",
+    "हरियाणा",
+    "पंजाब"
+   ],
+   "correctIndex": 1,
+   "explanation": "The Thar (Great Indian) Desert lies mainly in western Rajasthan.",
+   "explanationHi": "थार (वृहद भारतीय) मरुस्थल मुख्यतः पश्चिमी राजस्थान में स्थित है।"
+  },
+  {
+   "id": "t10-gk-04",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian Constitution",
+   "question": "Which Article of the Indian Constitution makes elementary education a Fundamental Right for children aged 6 to 14 years?",
+   "options": [
+    "Article 19",
+    "Article 20",
+    "Article 22",
+    "Article 21A"
+   ],
+   "correctIndex": 3,
+   "explanation": "Article 21A, inserted by the 86th Constitutional Amendment (2002), provides free and compulsory education for children aged 6–14. Articles 19, 20 and 22 deal with freedoms, protection in criminal cases and protection against arrest.",
+   "questionHi": "भारतीय संविधान का कौन-सा अनुच्छेद 6 से 14 वर्ष के बच्चों के लिए प्रारंभिक शिक्षा को मौलिक अधिकार बनाता है?",
+   "optionsHi": [
+    "अनुच्छेद 19",
+    "अनुच्छेद 20",
+    "अनुच्छेद 22",
+    "अनुच्छेद 21A"
+   ],
+   "explanationHi": "86वें संविधान संशोधन (2002) द्वारा जोड़ा गया अनुच्छेद 21A 6–14 वर्ष के बच्चों को निःशुल्क व अनिवार्य शिक्षा देता है। अनुच्छेद 19, 20 और 22 क्रमशः स्वतंत्रता, आपराधिक मामलों में संरक्षण और गिरफ्तारी से संरक्षण से जुड़े हैं।"
+  },
+  {
+   "id": "t10-gk-05",
+   "part": "C",
+   "section": "gk",
+   "topic": "Chhattisgarh GK",
+   "question": "The Chitrakoot Waterfall of Bastar is located on which river?",
+   "questionHi": "बस्तर का चित्रकोट जलप्रपात किस नदी पर स्थित है?",
+   "options": [
+    "Mahanadi",
+    "Shivnath",
+    "Indravati",
+    "Hasdeo"
+   ],
+   "optionsHi": [
+    "महानदी",
+    "शिवनाथ",
+    "इंद्रावती",
+    "हसदेव"
+   ],
+   "correctIndex": 2,
+   "explanation": "Chitrakoot Falls, often called the 'Niagara of India', is on the Indravati river in Bastar district. Mahanadi, Shivnath and Hasdeo flow elsewhere in the state.",
+   "explanationHi": "चित्रकोट जलप्रपात, जिसे 'भारत का नियाग्रा' कहा जाता है, बस्तर में इंद्रावती नदी पर है। महानदी, शिवनाथ और हसदेव राज्य के अन्य भागों में बहती हैं।"
+  }
+ ]
+}

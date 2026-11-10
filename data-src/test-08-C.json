@@ -1,0 +1,499 @@
+{
+ "questions": [
+  {
+   "id": "t08-hindi-01",
+   "part": "C",
+   "section": "hindi",
+   "topic": "तत्सम-तद्भव",
+   "question": "'हाथ' शब्द का तत्सम रूप क्या है?",
+   "options": [
+    "हस्त",
+    "हथ",
+    "कर्म",
+    "पाणिक"
+   ],
+   "correctIndex": 0,
+   "explanation": "'हाथ' तद्भव शब्द है और उसका तत्सम रूप 'हस्त' है। अन्य विकल्प सही तत्सम रूप नहीं हैं।"
+  },
+  {
+   "id": "t08-hindi-02",
+   "part": "C",
+   "section": "hindi",
+   "topic": "पर्यायवाची",
+   "question": "इनमें से कौन-सा शब्द 'जल' का पर्यायवाची नहीं है?",
+   "options": [
+    "नीर",
+    "वारि",
+    "अनल",
+    "पानी"
+   ],
+   "correctIndex": 2,
+   "explanation": "'अनल' का अर्थ अग्नि है; नीर, वारि और पानी जल के पर्यायवाची हैं।"
+  },
+  {
+   "id": "t08-hindi-03",
+   "part": "C",
+   "section": "hindi",
+   "topic": "एक शब्द",
+   "question": "'जिसका कोई शत्रु पैदा ही न हुआ हो' के लिए एक शब्द है:",
+   "options": [
+    "निर्भय",
+    "अजेय",
+    "अमित्र",
+    "अजातशत्रु"
+   ],
+   "correctIndex": 3,
+   "explanation": "जिसका कोई शत्रु जन्मा ही न हो उसे 'अजातशत्रु' कहते हैं। 'अजेय' का अर्थ है जिसे जीता न जा सके।"
+  },
+  {
+   "id": "t08-hindi-04",
+   "part": "C",
+   "section": "hindi",
+   "topic": "प्रत्यय",
+   "question": "'लिखावट' शब्द में कौन-सा प्रत्यय है?",
+   "options": [
+    "लिख",
+    "आवट",
+    "वट",
+    "अट"
+   ],
+   "correctIndex": 1,
+   "explanation": "'लिखावट' = लिख + आवट; यहाँ 'आवट' प्रत्यय है।"
+  },
+  {
+   "id": "t08-hindi-05",
+   "part": "C",
+   "section": "hindi",
+   "topic": "समास",
+   "question": "'दिन-रात' शब्द में कौन-सा समास है?",
+   "options": [
+    "तत्पुरुष",
+    "बहुव्रीहि",
+    "द्वंद्व",
+    "अव्ययीभाव"
+   ],
+   "correctIndex": 2,
+   "explanation": "'दिन और रात' में दोनों पद प्रधान हैं और 'और' से जुड़े हैं, इसलिए द्वंद्व समास है।"
+  },
+  {
+   "id": "t08-english-01",
+   "part": "C",
+   "section": "english",
+   "topic": "Prepositions",
+   "question": "He is senior ____ me in service.",
+   "options": [
+    "than",
+    "to",
+    "from",
+    "with"
+   ],
+   "correctIndex": 1,
+   "explanation": "\"Senior\", \"junior\", \"superior\" and \"inferior\" are followed by \"to\", not \"than\"."
+  },
+  {
+   "id": "t08-english-02",
+   "part": "C",
+   "section": "english",
+   "topic": "Proverbs",
+   "question": "The proverb 'A rolling stone gathers no moss' suggests that:",
+   "options": [
+    "the rich stay rich",
+    "stones are heavy to carry",
+    "moss grows only on rocks",
+    "a person who keeps changing jobs or places builds up nothing lasting"
+   ],
+   "correctIndex": 3,
+   "explanation": "The proverb warns that a restless person who never settles gains little stability or wealth."
+  },
+  {
+   "id": "t08-english-03",
+   "part": "C",
+   "section": "english",
+   "topic": "Active-passive",
+   "question": "Change into passive voice: \"The teacher is teaching the lesson.\"",
+   "options": [
+    "The lesson is being taught by the teacher.",
+    "The lesson was taught by the teacher.",
+    "The lesson has been taught by the teacher.",
+    "The lesson is taught by the teacher."
+   ],
+   "correctIndex": 0,
+   "explanation": "The Present Continuous active becomes 'is/am/are + being + past participle' in the passive. The other options change the tense."
+  },
+  {
+   "id": "t08-english-04",
+   "part": "C",
+   "section": "english",
+   "topic": "Sentence types",
+   "question": "\"How beautiful the garden is!\" is which type of sentence?",
+   "options": [
+    "Interrogative",
+    "Imperative",
+    "Exclamatory",
+    "Declarative"
+   ],
+   "correctIndex": 2,
+   "explanation": "It expresses strong feeling and ends with an exclamation mark, so it is exclamatory."
+  },
+  {
+   "id": "t08-english-05",
+   "part": "C",
+   "section": "english",
+   "topic": "Punctuation",
+   "question": "Choose the correctly punctuated sentence.",
+   "options": [
+    "Its a lovely day, isnt it?",
+    "It's a lovely day, isn't it?",
+    "Its a lovely day isn't it",
+    "It's a lovely day isnt it?"
+   ],
+   "correctIndex": 1,
+   "explanation": "Apostrophes are needed in 'It's' (It is) and 'isn't', and a comma precedes the tag. The other options miss these."
+  },
+  {
+   "id": "t08-mental-01",
+   "part": "C",
+   "section": "mental",
+   "topic": "Arithmetic reasoning",
+   "question": "A man buys a pen for Rs 40 and sells it for Rs 50. His profit percentage is:",
+   "questionHi": "एक आदमी 40 रुपये में एक पेन खरीदकर 50 रुपये में बेचता है। उसका लाभ प्रतिशत है:",
+   "options": [
+    "20%",
+    "30%",
+    "15%",
+    "25%"
+   ],
+   "optionsHi": [
+    "20%",
+    "30%",
+    "15%",
+    "25%"
+   ],
+   "correctIndex": 3,
+   "explanation": "Profit = 50 - 40 = 10. Profit % = (10/40) x 100 = 25%.",
+   "explanationHi": "लाभ = 50 - 40 = 10। लाभ % = (10/40) x 100 = 25%।"
+  },
+  {
+   "id": "t08-mental-02",
+   "part": "C",
+   "section": "mental",
+   "topic": "Syllogism",
+   "question": "Statements: All cats are animals. All animals are living beings. Conclusions: I. All cats are living beings. II. All living beings are cats. Which follows?",
+   "questionHi": "कथन: सभी बिल्लियाँ पशु हैं। सभी पशु जीव हैं। निष्कर्ष: I. सभी बिल्लियाँ जीव हैं। II. सभी जीव बिल्लियाँ हैं। कौन-सा निष्कर्ष अनुसरण करता है?",
+   "options": [
+    "Only I follows",
+    "Only II follows",
+    "Both I and II follow",
+    "Neither I nor II follows"
+   ],
+   "optionsHi": [
+    "केवल I",
+    "केवल II",
+    "I और II दोनों",
+    "न I और न II"
+   ],
+   "correctIndex": 0,
+   "explanation": "Cats are a part of animals, which are a part of living beings, so I follows. II reverses the relation and does not follow.",
+   "explanationHi": "बिल्लियाँ पशुओं का भाग हैं और पशु जीवों का भाग हैं, इसलिए I सही है। II संबंध को उलट देता है, इसलिए गलत है।"
+  },
+  {
+   "id": "t08-mental-03",
+   "part": "C",
+   "section": "mental",
+   "topic": "Calendar",
+   "question": "If today is Monday, which day will it be after 10 days?",
+   "questionHi": "यदि आज सोमवार है, तो 10 दिन बाद कौन-सा दिन होगा?",
+   "options": [
+    "Wednesday",
+    "Friday",
+    "Thursday",
+    "Saturday"
+   ],
+   "optionsHi": [
+    "बुधवार",
+    "शुक्रवार",
+    "गुरुवार",
+    "शनिवार"
+   ],
+   "correctIndex": 2,
+   "explanation": "10 days = 1 week + 3 odd days. Monday + 3 = Thursday.",
+   "explanationHi": "10 दिन = 1 सप्ताह + 3 अतिरिक्त दिन। सोमवार + 3 = गुरुवार।"
+  },
+  {
+   "id": "t08-mental-04",
+   "part": "C",
+   "section": "mental",
+   "topic": "Analogy",
+   "question": "Complete the analogy: 3 : 27 :: 4 : ?",
+   "questionHi": "सादृश्य पूरा कीजिए: 3 : 27 :: 4 : ?",
+   "options": [
+    "16",
+    "64",
+    "48",
+    "12"
+   ],
+   "optionsHi": [
+    "16",
+    "64",
+    "48",
+    "12"
+   ],
+   "correctIndex": 1,
+   "explanation": "27 is the cube of 3 (3×3×3), so the cube of 4 is 64.",
+   "explanationHi": "27, 3 का घन है (3×3×3), इसलिए 4 का घन 64 होगा।"
+  },
+  {
+   "id": "t08-mental-05",
+   "part": "C",
+   "section": "mental",
+   "topic": "Odd one out",
+   "question": "Find the odd one out: 8, 27, 64, 100",
+   "questionHi": "विषम को चुनिए: 8, 27, 64, 100",
+   "options": [
+    "8",
+    "27",
+    "64",
+    "100"
+   ],
+   "optionsHi": [
+    "8",
+    "27",
+    "64",
+    "100"
+   ],
+   "correctIndex": 3,
+   "explanation": "8, 27 and 64 are perfect cubes (2³, 3³, 4³); 100 is not.",
+   "explanationHi": "8, 27 और 64 पूर्ण घन हैं (2³, 3³, 4³); 100 घन नहीं है।"
+  },
+  {
+   "id": "t08-computer-01",
+   "part": "C",
+   "section": "computer",
+   "topic": "Fundamentals",
+   "question": "1 KB (kilobyte) is equal to:",
+   "questionHi": "1 KB (किलोबाइट) बराबर होता है:",
+   "options": [
+    "1024 bytes",
+    "1000 bits",
+    "1024 bits",
+    "100 bytes"
+   ],
+   "optionsHi": [
+    "1024 बाइट",
+    "1000 बिट",
+    "1024 बिट",
+    "100 बाइट"
+   ],
+   "correctIndex": 0,
+   "explanation": "In computing, 1 KB = 1024 bytes. The other values are incorrect.",
+   "explanationHi": "कंप्यूटर में 1 KB = 1024 बाइट होता है। अन्य मान सही नहीं हैं।"
+  },
+  {
+   "id": "t08-computer-02",
+   "part": "C",
+   "section": "computer",
+   "topic": "Storage devices",
+   "question": "Which of the following is a secondary storage device?",
+   "questionHi": "निम्न में से कौन-सा द्वितीयक भंडारण उपकरण है?",
+   "options": [
+    "RAM",
+    "Cache memory",
+    "Hard disk",
+    "Register"
+   ],
+   "optionsHi": [
+    "RAM",
+    "कैश मेमोरी",
+    "हार्ड डिस्क",
+    "रजिस्टर"
+   ],
+   "correctIndex": 2,
+   "explanation": "A hard disk stores data permanently and is secondary storage. RAM, cache and registers are primary (temporary) memory.",
+   "explanationHi": "हार्ड डिस्क डेटा को स्थायी रूप से रखती है और द्वितीयक भंडारण है। RAM, कैश और रजिस्टर प्राथमिक (अस्थायी) मेमोरी हैं।"
+  },
+  {
+   "id": "t08-computer-03",
+   "part": "C",
+   "section": "computer",
+   "topic": "Memory",
+   "question": "Which memory acts as a high-speed buffer between the CPU and the main memory (RAM)?",
+   "questionHi": "कौन-सी मेमोरी CPU और मुख्य मेमोरी (RAM) के बीच तीव्र गति के बफर का कार्य करती है?",
+   "options": [
+    "Hard disk",
+    "Cache memory",
+    "Pen drive",
+    "CD-ROM"
+   ],
+   "optionsHi": [
+    "हार्ड डिस्क",
+    "कैश मेमोरी",
+    "पेन ड्राइव",
+    "सीडी-रोम"
+   ],
+   "correctIndex": 1,
+   "explanation": "Cache memory is small and very fast, and it stores frequently used data to speed up the CPU.",
+   "explanationHi": "कैश मेमोरी छोटी और बहुत तेज़ होती है तथा बार-बार काम आने वाले डेटा को रखकर CPU को तेज़ बनाती है।"
+  },
+  {
+   "id": "t08-computer-04",
+   "part": "C",
+   "section": "computer",
+   "topic": "Multimedia",
+   "question": "MP3 is a file format used for:",
+   "questionHi": "MP3 किसके लिए प्रयुक्त फ़ाइल प्रारूप है?",
+   "options": [
+    "video",
+    "image",
+    "text",
+    "audio"
+   ],
+   "optionsHi": [
+    "वीडियो",
+    "चित्र",
+    "पाठ",
+    "ऑडियो"
+   ],
+   "correctIndex": 3,
+   "explanation": "MP3 is a compressed audio format. Videos use formats like MP4, images use JPEG.",
+   "explanationHi": "MP3 संपीड़ित ऑडियो प्रारूप है। वीडियो के लिए MP4 और चित्र के लिए JPEG जैसे प्रारूप होते हैं।"
+  },
+  {
+   "id": "t08-computer-05",
+   "part": "C",
+   "section": "computer",
+   "topic": "Virus and antivirus",
+   "question": "A malicious program that attaches itself to files and spreads when they are shared is called a:",
+   "questionHi": "ऐसा हानिकारक प्रोग्राम जो फ़ाइलों से जुड़कर उनके साझा होने पर फैलता है, कहलाता है:",
+   "options": [
+    "virus",
+    "firewall",
+    "browser",
+    "compiler"
+   ],
+   "optionsHi": [
+    "वायरस",
+    "फ़ायरवॉल",
+    "ब्राउज़र",
+    "कंपाइलर"
+   ],
+   "correctIndex": 0,
+   "explanation": "A virus attaches to files and spreads. A firewall protects networks, a browser opens websites and a compiler translates code.",
+   "explanationHi": "वायरस फ़ाइलों से जुड़कर फैलता है। फ़ायरवॉल नेटवर्क की रक्षा करता है, ब्राउज़र वेबसाइट खोलता है और कंपाइलर कोड का अनुवाद करता है।"
+  },
+  {
+   "id": "t08-gk-01",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian Parliament",
+   "question": "The Rajya Sabha is presided over by the:",
+   "questionHi": "राज्य सभा की अध्यक्षता कौन करता है?",
+   "options": [
+    "Prime Minister",
+    "Speaker",
+    "Vice-President",
+    "President"
+   ],
+   "optionsHi": [
+    "प्रधानमंत्री",
+    "लोकसभा अध्यक्ष",
+    "उपराष्ट्रपति",
+    "राष्ट्रपति"
+   ],
+   "correctIndex": 2,
+   "explanation": "The Vice-President of India is the ex-officio Chairman of the Rajya Sabha.",
+   "explanationHi": "भारत का उपराष्ट्रपति पदेन राज्य सभा का सभापति होता है।"
+  },
+  {
+   "id": "t08-gk-02",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian History",
+   "question": "Who gave the slogan 'Do or Die' during the Quit India Movement?",
+   "questionHi": "भारत छोड़ो आंदोलन के दौरान 'करो या मरो' का नारा किसने दिया?",
+   "options": [
+    "Mahatma Gandhi",
+    "Subhas Chandra Bose",
+    "Jawaharlal Nehru",
+    "Sardar Patel"
+   ],
+   "optionsHi": [
+    "महात्मा गांधी",
+    "सुभाष चंद्र बोस",
+    "जवाहरलाल नेहरू",
+    "सरदार पटेल"
+   ],
+   "correctIndex": 0,
+   "explanation": "Gandhi gave the call 'Do or Die' in his speech in Bombay in August 1942. Bose's slogan was 'Delhi Chalo'.",
+   "explanationHi": "गांधीजी ने अगस्त 1942 में बंबई के भाषण में 'करो या मरो' का आह्वान किया। बोस का नारा 'दिल्ली चलो' था।"
+  },
+  {
+   "id": "t08-gk-03",
+   "part": "C",
+   "section": "gk",
+   "topic": "Constitution",
+   "question": "Which Fundamental Right did Dr. B. R. Ambedkar call the 'heart and soul' of the Constitution?",
+   "questionHi": "डॉ. बी. आर. अंबेडकर ने किस मौलिक अधिकार को संविधान का 'हृदय और आत्मा' कहा?",
+   "options": [
+    "Right to Equality",
+    "Right to Freedom",
+    "Right to Education",
+    "Right to Constitutional Remedies"
+   ],
+   "optionsHi": [
+    "समानता का अधिकार",
+    "स्वतंत्रता का अधिकार",
+    "शिक्षा का अधिकार",
+    "संवैधानिक उपचारों का अधिकार (Right to Constitutional Remedies)"
+   ],
+   "correctIndex": 3,
+   "explanation": "Ambedkar described Article 32, the Right to Constitutional Remedies, as the heart and soul of the Constitution.",
+   "explanationHi": "अंबेडकर ने अनुच्छेद 32, यानी संवैधानिक उपचारों के अधिकार को संविधान का हृदय और आत्मा कहा।"
+  },
+  {
+   "id": "t08-gk-04",
+   "part": "C",
+   "section": "gk",
+   "topic": "Basic science",
+   "question": "Which vitamin is produced in the skin on exposure to sunlight?",
+   "questionHi": "सूर्य के प्रकाश के संपर्क में त्वचा में कौन-सा विटामिन बनता है?",
+   "options": [
+    "Vitamin A",
+    "Vitamin D",
+    "Vitamin C",
+    "Vitamin K"
+   ],
+   "optionsHi": [
+    "विटामिन A",
+    "विटामिन D",
+    "विटामिन C",
+    "विटामिन K"
+   ],
+   "correctIndex": 1,
+   "explanation": "Sunlight helps the skin synthesise Vitamin D. Vitamin C comes mainly from fruits and A from vegetables, milk and fish oil.",
+   "explanationHi": "सूर्य के प्रकाश से त्वचा विटामिन D बनाती है। विटामिन C मुख्यतः फलों से और A सब्ज़ियों, दूध व मछली के तेल से मिलता है।"
+  },
+  {
+   "id": "t08-gk-05",
+   "part": "C",
+   "section": "gk",
+   "topic": "Chhattisgarh GK",
+   "question": "The High Court of Chhattisgarh is located at:",
+   "questionHi": "छत्तीसगढ़ उच्च न्यायालय कहाँ स्थित है?",
+   "options": [
+    "Bilaspur",
+    "Raipur",
+    "Durg",
+    "Jagdalpur"
+   ],
+   "optionsHi": [
+    "बिलासपुर",
+    "रायपुर",
+    "दुर्ग",
+    "जगदलपुर"
+   ],
+   "correctIndex": 0,
+   "explanation": "The Chhattisgarh High Court is at Bilaspur (Bodri). Raipur is the state capital.",
+   "explanationHi": "छत्तीसगढ़ उच्च न्यायालय बिलासपुर (बोदरी) में है। रायपुर राज्य की राजधानी है।"
+  }
+ ]
+}

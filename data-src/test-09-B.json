@@ -1,0 +1,349 @@
+{
+ "questions": [
+  {
+   "id": "t09-psych-01",
+   "part": "B",
+   "section": "psych",
+   "topic": "Personality (Rogers)",
+   "question": "Carl Rogers emphasised that a healthy self-concept develops through:",
+   "questionHi": "कार्ल रोजर्स के अनुसार स्वस्थ आत्म-संप्रत्यय किससे विकसित होता है?",
+   "options": [
+    "negative reinforcement",
+    "self-efficacy",
+    "unconditional positive regard",
+    "sublimation"
+   ],
+   "optionsHi": [
+    "नकारात्मक पुनर्बलन",
+    "आत्म-प्रभावकारिता",
+    "बिना शर्त सकारात्मक सम्मान",
+    "उदात्तीकरण"
+   ],
+   "correctIndex": 2,
+   "explanation": "Rogers, a humanistic psychologist, stressed unconditional positive regard from significant others.",
+   "explanationHi": "मानवतावादी मनोवैज्ञानिक रोजर्स ने महत्वपूर्ण लोगों से बिना शर्त सकारात्मक सम्मान पर बल दिया।"
+  },
+  {
+   "id": "t09-psych-02",
+   "part": "B",
+   "section": "psych",
+   "topic": "Defence mechanisms",
+   "question": "A dishonest person who accuses others of being dishonest is using the defence mechanism of:",
+   "questionHi": "एक बेईमान व्यक्ति दूसरों को बेईमान कहता है। वह कौन-सा रक्षा-तंत्र प्रयोग कर रहा है?",
+   "options": [
+    "projection",
+    "repression",
+    "regression",
+    "sublimation"
+   ],
+   "optionsHi": [
+    "प्रक्षेपण (projection)",
+    "दमन",
+    "प्रतिगमन",
+    "उदात्तीकरण"
+   ],
+   "correctIndex": 0,
+   "explanation": "Attributing one's own undesirable traits to others is projection.",
+   "explanationHi": "अपने अवांछित गुण दूसरों पर आरोपित करना projection है।"
+  },
+  {
+   "id": "t09-psych-03",
+   "part": "B",
+   "section": "psych",
+   "topic": "Gardner",
+   "question": "In Gardner's theory of multiple intelligences, the ability to understand one's own feelings and goals is called:",
+   "questionHi": "गार्डनर के बहुबुद्धि सिद्धांत में अपनी भावनाओं और लक्ष्यों को समझने की क्षमता कहलाती है:",
+   "options": [
+    "Linguistic intelligence",
+    "Logical-mathematical intelligence",
+    "Interpersonal intelligence",
+    "Intrapersonal intelligence"
+   ],
+   "optionsHi": [
+    "भाषाई बुद्धि",
+    "तार्किक-गणितीय बुद्धि",
+    "अंतर्वैयक्तिक बुद्धि (दूसरों को समझना)",
+    "आत्म-वैयक्तिक बुद्धि (स्वयं को समझना)"
+   ],
+   "correctIndex": 3,
+   "explanation": "Intrapersonal intelligence is self-understanding. Interpersonal intelligence is understanding other people.",
+   "explanationHi": "आत्म-वैयक्तिक (intrapersonal) बुद्धि स्वयं को समझने की क्षमता है, जबकि अंतर्वैयक्तिक (interpersonal) बुद्धि दूसरों को समझने की क्षमता है।"
+  },
+  {
+   "id": "t09-psych-04",
+   "part": "B",
+   "section": "psych",
+   "topic": "Bandura",
+   "question": "Learning by observing and imitating the behaviour of others is the central idea of:",
+   "questionHi": "दूसरों के व्यवहार को देखकर और अनुकरण करके सीखना किसका केंद्रीय विचार है?",
+   "options": [
+    "Pavlov's classical conditioning",
+    "Bandura's social learning theory",
+    "Thorndike's trial and error",
+    "Skinner's operant conditioning"
+   ],
+   "optionsHi": [
+    "पावलॉव का शास्त्रीय अनुबंधन",
+    "बंडूरा का सामाजिक अधिगम सिद्धांत",
+    "थॉर्नडाइक का प्रयास-त्रुटि",
+    "स्किनर का क्रिया-प्रसूत अनुबंधन"
+   ],
+   "correctIndex": 1,
+   "explanation": "Bandura showed that people learn by observation (modelling), as in the Bobo doll experiment. The other theories rely on conditioning or trial and error.",
+   "explanationHi": "बंडूरा ने दिखाया कि लोग अवलोकन (मॉडलिंग) से सीखते हैं, जैसा बोबो डॉल प्रयोग में देखा गया। अन्य सिद्धांत अनुबंधन या प्रयास-त्रुटि पर आधारित हैं।"
+  },
+  {
+   "id": "t09-psych-05",
+   "part": "B",
+   "section": "psych",
+   "topic": "Kohlberg",
+   "question": "A child who obeys rules only to avoid punishment is at which level of Kohlberg's moral development?",
+   "questionHi": "जो बच्चा केवल दंड से बचने के लिए नियम मानता है, वह कोहलबर्ग के नैतिक विकास के किस स्तर पर है?",
+   "options": [
+    "Post-conventional",
+    "Conventional",
+    "Universal",
+    "Pre-conventional"
+   ],
+   "optionsHi": [
+    "उत्तर-परंपरागत",
+    "परंपरागत",
+    "सार्वभौमिक",
+    "पूर्व-परंपरागत"
+   ],
+   "correctIndex": 3,
+   "explanation": "Punishment-avoidance is Stage 1 of the pre-conventional level. Conventional morality is based on social approval and law; post-conventional on principles.",
+   "explanationHi": "दंड से बचना पूर्व-परंपरागत स्तर की पहली अवस्था है। परंपरागत नैतिकता सामाजिक स्वीकृति और कानून पर और उत्तर-परंपरागत सिद्धांतों पर आधारित होती है।"
+  },
+  {
+   "id": "t09-psych-06",
+   "part": "B",
+   "section": "psych",
+   "topic": "Piaget",
+   "question": "A child who understands that the quantity of water stays the same when poured into a taller glass is in which Piagetian stage?",
+   "questionHi": "जो बच्चा समझता है कि पानी को लंबे गिलास में डालने पर उसकी मात्रा वही रहती है, वह पियाजे की किस अवस्था में है?",
+   "options": [
+    "Sensorimotor",
+    "Concrete operational",
+    "Preoperational",
+    "Formal operational"
+   ],
+   "optionsHi": [
+    "संवेदी-गामक",
+    "मूर्त संक्रियात्मक",
+    "पूर्व-संक्रियात्मक",
+    "औपचारिक संक्रियात्मक"
+   ],
+   "correctIndex": 1,
+   "explanation": "Conservation is achieved in the concrete operational stage (about 7 to 11 years). Preoperational children (2 to 7) fail conservation tasks.",
+   "explanationHi": "संरक्षण की समझ मूर्त संक्रियात्मक अवस्था (लगभग 7 से 11 वर्ष) में आती है। पूर्व-संक्रियात्मक अवस्था (2 से 7 वर्ष) के बच्चे संरक्षण कार्यों में असफल रहते हैं।"
+  },
+  {
+   "id": "t09-assess-01",
+   "part": "B",
+   "section": "assess",
+   "topic": "Reliability",
+   "question": "Giving the same test twice to the same group to check consistency of scores is the:",
+   "questionHi": "एक ही समूह को वही परीक्षण दो बार देकर अंकों की संगति जाँचना कहलाता है:",
+   "options": [
+    "split-half method",
+    "parallel-form method",
+    "test-retest method",
+    "item analysis"
+   ],
+   "optionsHi": [
+    "अर्ध-विभाजन विधि",
+    "समांतर-रूप विधि",
+    "test-retest विधि",
+    "पद विश्लेषण"
+   ],
+   "correctIndex": 2,
+   "explanation": "The test-retest method estimates reliability by repeating the same test.",
+   "explanationHi": "Test-retest विधि में वही परीक्षण दोहराकर विश्वसनीयता ज्ञात की जाती है।"
+  },
+  {
+   "id": "t09-assess-02",
+   "part": "B",
+   "section": "assess",
+   "topic": "Peer assessment",
+   "question": "When learners evaluate each other's work using given criteria, it is called:",
+   "questionHi": "जब विद्यार्थी दिए गए मापदंडों से एक-दूसरे के कार्य का मूल्यांकन करते हैं, तो वह है:",
+   "options": [
+    "peer assessment",
+    "external examination",
+    "board examination",
+    "standardised testing"
+   ],
+   "optionsHi": [
+    "सहपाठी मूल्यांकन",
+    "बाह्य परीक्षा",
+    "बोर्ड परीक्षा",
+    "मानकीकृत परीक्षण"
+   ],
+   "correctIndex": 0,
+   "explanation": "Assessment by classmates is peer assessment.",
+   "explanationHi": "सहपाठियों द्वारा किया गया मूल्यांकन peer assessment है।"
+  },
+  {
+   "id": "t09-assess-03",
+   "part": "B",
+   "section": "assess",
+   "topic": "Rubrics",
+   "question": "A scoring guide that describes levels of performance for each criterion of a task is called a:",
+   "questionHi": "किसी कार्य के प्रत्येक मानदंड के लिए प्रदर्शन के स्तरों का वर्णन करने वाली अंकन-मार्गदर्शिका कहलाती है:",
+   "options": [
+    "blueprint",
+    "rubric",
+    "cumulative record",
+    "question bank"
+   ],
+   "optionsHi": [
+    "ब्लूप्रिंट",
+    "रूब्रिक",
+    "संचित अभिलेख",
+    "प्रश्न बैंक"
+   ],
+   "correctIndex": 1,
+   "explanation": "A rubric lists criteria and performance levels, making scoring transparent. A blueprint plans a test's content and weightage.",
+   "explanationHi": "रूब्रिक में मानदंड और प्रदर्शन के स्तर दिए होते हैं, जिससे अंकन पारदर्शी होता है। ब्लूप्रिंट परीक्षा की विषयवस्तु और भारांक की योजना है।"
+  },
+  {
+   "id": "t09-assess-04",
+   "part": "B",
+   "section": "assess",
+   "topic": "Open-book examination",
+   "question": "An open-book examination mainly tests:",
+   "questionHi": "खुली पुस्तक परीक्षा मुख्यतः किसकी जाँच करती है?",
+   "options": [
+    "rote memory",
+    "handwriting speed",
+    "copying ability",
+    "application and higher-order thinking"
+   ],
+   "optionsHi": [
+    "रटने की क्षमता",
+    "लिखने की गति",
+    "नकल करने की क्षमता",
+    "अनुप्रयोग और उच्च-स्तरीय चिंतन"
+   ],
+   "correctIndex": 3,
+   "explanation": "Since material is available, questions focus on understanding and application.",
+   "explanationHi": "सामग्री उपलब्ध होने से प्रश्न समझ और अनुप्रयोग पर केंद्रित होते हैं।"
+  },
+  {
+   "id": "t09-pedag-01",
+   "part": "B",
+   "section": "pedag",
+   "topic": "NCF 2005",
+   "question": "NCF 2005 recommends that learning should move away from:",
+   "questionHi": "NCF 2005 सुझाव देता है कि अधिगम को किससे दूर ले जाना चाहिए?",
+   "options": [
+    "linking knowledge with life",
+    "constructing knowledge",
+    "group work",
+    "rote memorisation"
+   ],
+   "optionsHi": [
+    "ज्ञान को जीवन से जोड़ना",
+    "ज्ञान का निर्माण",
+    "समूह कार्य",
+    "रटने की प्रवृत्ति"
+   ],
+   "correctIndex": 3,
+   "explanation": "NCF 2005 stresses meaningful, child-centred learning connected with life and discourages rote learning. The other three are encouraged.",
+   "explanationHi": "NCF 2005 जीवन से जुड़े, बाल-केंद्रित और अर्थपूर्ण अधिगम पर बल देता है और रटने को हतोत्साहित करता है। अन्य तीन को प्रोत्साहित किया गया है।"
+  },
+  {
+   "id": "t09-pedag-02",
+   "part": "B",
+   "section": "pedag",
+   "topic": "Curriculum (NCF-SE 2023)",
+   "question": "NCF-SE 2023 organises school education into which stages?",
+   "questionHi": "NCF-SE 2023 स्कूली शिक्षा को किन चरणों में बाँटता है?",
+   "options": [
+    "10+2",
+    "5+3+3+4",
+    "6+3+3",
+    "8+4"
+   ],
+   "optionsHi": [
+    "10+2",
+    "5+3+3+4",
+    "6+3+3",
+    "8+4"
+   ],
+   "correctIndex": 1,
+   "explanation": "Aligned with NEP 2020, the stages are Foundational (5), Preparatory (3), Middle (3) and Secondary (4). The 10+2 structure is the older one.",
+   "explanationHi": "NEP 2020 के अनुरूप चरण हैं: आधारभूत (5), तैयारी (3), मध्य (3) और माध्यमिक (4)। 10+2 पुरानी संरचना है।"
+  },
+  {
+   "id": "t09-pedag-03",
+   "part": "B",
+   "section": "pedag",
+   "topic": "Lesson planning",
+   "question": "Learning objectives in a lesson plan should preferably be:",
+   "questionHi": "पाठ योजना में सीखने के उद्देश्य अधिमानतः कैसे होने चाहिए?",
+   "options": [
+    "observable and measurable",
+    "vague and general",
+    "only teacher-centred",
+    "unrelated to content"
+   ],
+   "optionsHi": [
+    "अवलोकनीय और मापनीय",
+    "अस्पष्ट और सामान्य",
+    "केवल शिक्षक-केंद्रित",
+    "विषयवस्तु से असंबद्ध"
+   ],
+   "correctIndex": 0,
+   "explanation": "Objectives stated in observable, measurable terms let the teacher check whether learning has taken place. Vague objectives cannot be assessed.",
+   "explanationHi": "अवलोकनीय और मापनीय उद्देश्य शिक्षक को जाँचने देते हैं कि सीखना हुआ या नहीं। अस्पष्ट उद्देश्यों का आकलन नहीं हो सकता।"
+  },
+  {
+   "id": "t09-attitude-01",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Constructivism",
+   "question": "In a constructivist approach to teaching and learning, the teacher's main role is that of a:",
+   "questionHi": "रचनावादी कक्षा में शिक्षक मुख्यतः किस रूप में कार्य करता है?",
+   "options": [
+    "lecturer",
+    "strict examiner",
+    "facilitator",
+    "dictator"
+   ],
+   "optionsHi": [
+    "व्याख्याता",
+    "कठोर परीक्षक",
+    "सुगमकर्ता",
+    "तानाशाह"
+   ],
+   "correctIndex": 2,
+   "explanation": "Constructivism holds that learners build knowledge themselves, so the teacher guides and facilitates. The other roles keep the learner passive.",
+   "explanationHi": "रचनावाद में विद्यार्थी स्वयं ज्ञान का निर्माण करते हैं, इसलिए शिक्षक मार्गदर्शन और सुगमन करता है। अन्य भूमिकाएँ विद्यार्थी को निष्क्रिय रखती हैं।"
+  },
+  {
+   "id": "t09-attitude-02",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Leadership",
+   "question": "A leader who involves the group in decision-making is called a:",
+   "questionHi": "जो नेता निर्णय लेने में समूह को शामिल करता है, वह कहलाता है:",
+   "options": [
+    "democratic leader",
+    "autocratic leader",
+    "laissez-faire leader",
+    "dictatorial leader"
+   ],
+   "optionsHi": [
+    "लोकतांत्रिक नेता",
+    "निरंकुश नेता",
+    "अहस्तक्षेपी नेता",
+    "तानाशाही नेता"
+   ],
+   "correctIndex": 0,
+   "explanation": "Democratic leadership encourages participation and shared decisions.",
+   "explanationHi": "लोकतांत्रिक नेतृत्व में भागीदारी और साझा निर्णय होते हैं।"
+  }
+ ]
+}

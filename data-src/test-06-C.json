@@ -1,0 +1,499 @@
+{
+ "questions": [
+  {
+   "id": "t06-hindi-01",
+   "part": "C",
+   "section": "hindi",
+   "topic": "अशुद्धि शोधन",
+   "question": "\"आशीर्वाद\" शब्द की सही वर्तनी किस विकल्प में दी गई है?",
+   "options": [
+    "आर्शीवाद",
+    "आशीर्वाद",
+    "आशिर्वाद",
+    "आशीर्बाद"
+   ],
+   "correctIndex": 1,
+   "explanation": "शुद्ध रूप \"आशीर्वाद\" है (आशीः + वाद)। शेष वर्तनियाँ अशुद्ध हैं।"
+  },
+  {
+   "id": "t06-hindi-02",
+   "part": "C",
+   "section": "hindi",
+   "topic": "उपसर्ग-प्रत्यय",
+   "question": "\"अनुशासन\" शब्द में उपसर्ग कौन-सा है?",
+   "options": [
+    "अन",
+    "शासन",
+    "न",
+    "अनु"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"अनुशासन\" = अनु + शासन। यहाँ \"अनु\" उपसर्ग है और \"शासन\" मूल शब्द है। \"अन\" और \"न\" उपसर्ग नहीं हैं।"
+  },
+  {
+   "id": "t06-hindi-03",
+   "part": "C",
+   "section": "hindi",
+   "topic": "तत्सम-तद्भव",
+   "question": "\"अग्नि\" शब्द का तद्भव रूप कौन-सा है?",
+   "options": [
+    "आग",
+    "अंगार",
+    "ज्वाला",
+    "दीप"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"अग्नि\" का तद्भव रूप \"आग\" है। अंगार, ज्वाला और दीप भिन्न अर्थ या शब्द हैं, तद्भव रूप नहीं।"
+  },
+  {
+   "id": "t06-hindi-04",
+   "part": "C",
+   "section": "hindi",
+   "topic": "पर्यायवाची",
+   "question": "इनमें से कौन-सा शब्द \"सूर्य\" का पर्यायवाची नहीं है?",
+   "options": [
+    "दिनकर",
+    "भास्कर",
+    "शशि",
+    "रवि"
+   ],
+   "correctIndex": 2,
+   "explanation": "\"शशि\" का अर्थ चंद्रमा है। दिनकर, भास्कर और रवि सूर्य के पर्यायवाची हैं।"
+  },
+  {
+   "id": "t06-hindi-05",
+   "part": "C",
+   "section": "hindi",
+   "topic": "विलोम शब्द",
+   "question": "\"प्रशंसा\" का विलोम शब्द है-",
+   "options": [
+    "प्रार्थना",
+    "प्रताड़ना",
+    "प्रसन्नता",
+    "निंदा"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"प्रशंसा\" का विलोम \"निंदा\" है। अन्य शब्द विलोम नहीं हैं।"
+  },
+  {
+   "id": "t06-english-01",
+   "part": "C",
+   "section": "english",
+   "topic": "One-word substitution",
+   "question": "Choose the one word for \"a person who loves mankind and helps others\".",
+   "options": [
+    "misanthrope",
+    "philatelist",
+    "philanthropist",
+    "pessimist"
+   ],
+   "correctIndex": 2,
+   "explanation": "A philanthropist loves mankind and works for human welfare; a misanthrope hates people."
+  },
+  {
+   "id": "t06-english-02",
+   "part": "C",
+   "section": "english",
+   "topic": "One-word substitution",
+   "question": "A person who can speak many languages is called a ______.",
+   "options": [
+    "polyglot",
+    "philatelist",
+    "polygamist",
+    "pedant"
+   ],
+   "correctIndex": 0,
+   "explanation": "A polyglot knows several languages. A philatelist collects stamps, a polygamist has more than one spouse and a pedant is overly concerned with rules."
+  },
+  {
+   "id": "t06-english-03",
+   "part": "C",
+   "section": "english",
+   "topic": "Spelling",
+   "question": "Choose the correctly spelt word.",
+   "options": [
+    "Acomodation",
+    "Accommodation",
+    "Accomodation",
+    "Acommodation"
+   ],
+   "correctIndex": 1,
+   "explanation": "The correct spelling has double \"c\" and double \"m\": accommodation."
+  },
+  {
+   "id": "t06-english-04",
+   "part": "C",
+   "section": "english",
+   "topic": "Proverbs",
+   "question": "Complete the proverb: \"Make hay while the ______ shines.\"",
+   "options": [
+    "moon",
+    "star",
+    "lamp",
+    "sun"
+   ],
+   "correctIndex": 3,
+   "explanation": "The proverb advises using an opportunity while it lasts. Hay is made when the sun shines."
+  },
+  {
+   "id": "t06-english-05",
+   "part": "C",
+   "section": "english",
+   "topic": "Active-passive",
+   "question": "Change into the passive voice: \"The teacher praised the student.\"",
+   "options": [
+    "The student was praised by the teacher.",
+    "The student is praised by the teacher.",
+    "The student has been praised by the teacher.",
+    "The teacher was praised by the student."
+   ],
+   "correctIndex": 0,
+   "explanation": "Simple past active becomes \"was/were + past participle\" in the passive. The other options change the tense or swap the doer and receiver."
+  },
+  {
+   "id": "t06-mental-01",
+   "part": "C",
+   "section": "mental",
+   "topic": "Calendar",
+   "question": "If 5 March 2024 was a Tuesday, what day of the week was 5 April 2024?",
+   "questionHi": "यदि 5 मार्च 2024 को मंगलवार था, तो 5 अप्रैल 2024 को सप्ताह का कौन-सा दिन था?",
+   "options": [
+    "Wednesday",
+    "Thursday",
+    "Saturday",
+    "Friday"
+   ],
+   "optionsHi": [
+    "बुधवार",
+    "गुरुवार",
+    "शनिवार",
+    "शुक्रवार"
+   ],
+   "correctIndex": 3,
+   "explanation": "March has 31 days; 31 = 4 weeks + 3 days, so Tuesday + 3 = Friday.",
+   "explanationHi": "मार्च में 31 दिन होते हैं; 31 = 4 सप्ताह + 3 दिन, इसलिए मंगलवार + 3 = शुक्रवार।"
+  },
+  {
+   "id": "t06-mental-02",
+   "part": "C",
+   "section": "mental",
+   "topic": "Ranking",
+   "question": "In a row of 40 students, Ravi's rank from the left is 15. What is his rank from the right?",
+   "questionHi": "40 विद्यार्थियों की एक पंक्ति में रवि का बाईं ओर से स्थान 15वाँ है। दाईं ओर से उसका स्थान कौन-सा है?",
+   "options": [
+    "25th",
+    "26th",
+    "24th",
+    "27th"
+   ],
+   "optionsHi": [
+    "25वाँ",
+    "26वाँ",
+    "24वाँ",
+    "27वाँ"
+   ],
+   "correctIndex": 1,
+   "explanation": "Rank from right = total - rank from left + 1 = 40 - 15 + 1 = 26.",
+   "explanationHi": "दाईं ओर से स्थान = कुल - बाईं ओर से स्थान + 1 = 40 - 15 + 1 = 26।"
+  },
+  {
+   "id": "t06-mental-03",
+   "part": "C",
+   "section": "mental",
+   "topic": "Arithmetic reasoning",
+   "question": "A pencil costs Rs 5 and a notebook costs Rs 20. How many pencils can be bought for the price of 6 notebooks?",
+   "questionHi": "एक पेंसिल की कीमत 5 रुपये और एक कॉपी की कीमत 20 रुपये है। 6 कॉपियों की कीमत में कितनी पेंसिलें आएँगी?",
+   "options": [
+    "20",
+    "30",
+    "24",
+    "12"
+   ],
+   "optionsHi": [
+    "20",
+    "30",
+    "24",
+    "12"
+   ],
+   "correctIndex": 2,
+   "explanation": "6 notebooks cost 6 x 20 = Rs 120. Pencils = 120 / 5 = 24.",
+   "explanationHi": "6 कॉपियों की कीमत 6 x 20 = 120 रुपये। पेंसिलें = 120 / 5 = 24।"
+  },
+  {
+   "id": "t06-mental-04",
+   "part": "C",
+   "section": "mental",
+   "topic": "Syllogism",
+   "question": "Statements: Some cats are dogs. All dogs are birds.\nConclusions: I. Some cats are birds. II. All birds are dogs.",
+   "questionHi": "कथन: कुछ बिल्लियाँ कुत्ते हैं। सभी कुत्ते पक्षी हैं।\nनिष्कर्ष: I. कुछ बिल्लियाँ पक्षी हैं। II. सभी पक्षी कुत्ते हैं।",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Both I and II follow",
+    "Neither I nor II follows"
+   ],
+   "optionsHi": [
+    "केवल निष्कर्ष I अनुसरण करता है",
+    "केवल निष्कर्ष II अनुसरण करता है",
+    "I और II दोनों अनुसरण करते हैं",
+    "न I और न II अनुसरण करता है"
+   ],
+   "correctIndex": 0,
+   "explanation": "The cats that are dogs are also birds, so I follows. II is a wrong conversion of \"All dogs are birds\".",
+   "explanationHi": "जो बिल्लियाँ कुत्ते हैं वे पक्षी भी हैं, इसलिए I सही है। II \"सभी कुत्ते पक्षी हैं\" का गलत विपरीतीकरण है।"
+  },
+  {
+   "id": "t06-mental-05",
+   "part": "C",
+   "section": "mental",
+   "topic": "Calendar",
+   "question": "If today is Wednesday, what day of the week will it be after 100 days?",
+   "questionHi": "यदि आज बुधवार है, तो 100 दिन बाद सप्ताह का कौन-सा दिन होगा?",
+   "options": [
+    "Thursday",
+    "Saturday",
+    "Friday",
+    "Monday"
+   ],
+   "optionsHi": [
+    "गुरुवार",
+    "शनिवार",
+    "शुक्रवार",
+    "सोमवार"
+   ],
+   "correctIndex": 2,
+   "explanation": "100 = 14 weeks + 2 days. Two days after Wednesday is Friday.",
+   "explanationHi": "100 = 14 सप्ताह + 2 दिन। बुधवार के दो दिन बाद शुक्रवार आता है।"
+  },
+  {
+   "id": "t06-computer-01",
+   "part": "C",
+   "section": "computer",
+   "topic": "MS Excel",
+   "question": "In MS Excel, the intersection of a row and a column is called a ______.",
+   "questionHi": "MS Excel में पंक्ति और स्तंभ के कटान बिंदु को क्या कहते हैं?",
+   "options": [
+    "cell",
+    "range",
+    "sheet",
+    "workbook"
+   ],
+   "optionsHi": [
+    "सेल (cell)",
+    "रेंज (range)",
+    "शीट (sheet)",
+    "वर्कबुक (workbook)"
+   ],
+   "correctIndex": 0,
+   "explanation": "A cell is where a row and a column meet (for example B3). A range is a group of cells, a sheet is a page and a workbook is a whole file.",
+   "explanationHi": "सेल वह स्थान है जहाँ पंक्ति और स्तंभ मिलते हैं (जैसे B3)। रेंज कई सेलों का समूह, शीट एक पृष्ठ और वर्कबुक पूरी फ़ाइल है।"
+  },
+  {
+   "id": "t06-computer-02",
+   "part": "C",
+   "section": "computer",
+   "topic": "MS Excel",
+   "question": "The default file extension of a workbook saved in MS Excel 2007 and later is ______.",
+   "questionHi": "MS Excel 2007 और बाद के संस्करणों में सहेजी गई वर्कबुक का डिफ़ॉल्ट फ़ाइल एक्सटेंशन क्या है?",
+   "options": [
+    ".docx",
+    ".pptx",
+    ".xlsx",
+    ".txt"
+   ],
+   "optionsHi": [
+    ".docx",
+    ".pptx",
+    ".xlsx",
+    ".txt"
+   ],
+   "correctIndex": 2,
+   "explanation": ".xlsx is the Excel workbook format; .docx is Word and .pptx is PowerPoint.",
+   "explanationHi": ".xlsx एक्सेल वर्कबुक का प्रारूप है; .docx वर्ड का और .pptx पावरपॉइंट का है।"
+  },
+  {
+   "id": "t06-computer-03",
+   "part": "C",
+   "section": "computer",
+   "topic": "Antivirus",
+   "question": "Which of the following is an antivirus software?",
+   "questionHi": "निम्न में से कौन-सा एंटीवायरस सॉफ्टवेयर है?",
+   "options": [
+    "Notepad",
+    "Paint",
+    "Windows Media Player",
+    "Quick Heal"
+   ],
+   "optionsHi": [
+    "नोटपैड (Notepad)",
+    "पेंट (Paint)",
+    "विंडोज मीडिया प्लेयर",
+    "क्विक हील (Quick Heal)"
+   ],
+   "correctIndex": 3,
+   "explanation": "Quick Heal protects a computer from viruses. Notepad is a text editor, Paint is a drawing tool and Windows Media Player plays media.",
+   "explanationHi": "क्विक हील कंप्यूटर को वायरस से बचाता है। नोटपैड टेक्स्ट एडिटर, पेंट चित्रण का टूल और विंडोज मीडिया प्लेयर मीडिया चलाने का सॉफ्टवेयर है।"
+  },
+  {
+   "id": "t06-computer-04",
+   "part": "C",
+   "section": "computer",
+   "topic": "Storage units",
+   "question": "1 Gigabyte (GB) is equal to ______.",
+   "questionHi": "1 गीगाबाइट (GB) बराबर होता है-",
+   "options": [
+    "1000 KB",
+    "1024 MB",
+    "1024 KB",
+    "100 MB"
+   ],
+   "optionsHi": [
+    "1000 KB",
+    "1024 MB",
+    "1024 KB",
+    "100 MB"
+   ],
+   "correctIndex": 1,
+   "explanation": "In computer storage, 1 GB = 1024 MB, and 1 MB = 1024 KB. The other values are incorrect.",
+   "explanationHi": "कंप्यूटर संग्रहण में 1 GB = 1024 MB और 1 MB = 1024 KB होता है। अन्य मान गलत हैं।"
+  },
+  {
+   "id": "t06-computer-05",
+   "part": "C",
+   "section": "computer",
+   "topic": "Search engines",
+   "question": "Which of the following is a search engine?",
+   "questionHi": "निम्न में से कौन-सा एक सर्च इंजन है?",
+   "options": [
+    "Ubuntu",
+    "Google",
+    "Photoshop",
+    "Windows"
+   ],
+   "optionsHi": [
+    "उबंटू (Ubuntu)",
+    "गूगल (Google)",
+    "फ़ोटोशॉप (Photoshop)",
+    "विंडोज (Windows)"
+   ],
+   "correctIndex": 1,
+   "explanation": "Google searches information on the web. Ubuntu and Windows are operating systems and Photoshop is an image-editing program.",
+   "explanationHi": "गूगल वेब पर जानकारी खोजता है। उबंटू और विंडोज ऑपरेटिंग सिस्टम हैं तथा फ़ोटोशॉप इमेज-एडिटिंग प्रोग्राम है।"
+  },
+  {
+   "id": "t06-gk-01",
+   "part": "C",
+   "section": "gk",
+   "topic": "Basic science (Chemistry)",
+   "question": "What is the pH value of pure water at 25 degrees Celsius?",
+   "questionHi": "25 डिग्री सेल्सियस पर शुद्ध जल का pH मान कितना होता है?",
+   "options": [
+    "0",
+    "5",
+    "7",
+    "14"
+   ],
+   "optionsHi": [
+    "0",
+    "5",
+    "7",
+    "14"
+   ],
+   "correctIndex": 2,
+   "explanation": "Pure water is neutral and has pH 7 at 25 degrees Celsius. Below 7 is acidic and above 7 is basic.",
+   "explanationHi": "25 डिग्री सेल्सियस पर शुद्ध जल उदासीन होता है और उसका pH 7 होता है। 7 से कम अम्लीय और 7 से अधिक क्षारीय होता है।"
+  },
+  {
+   "id": "t06-gk-02",
+   "part": "C",
+   "section": "gk",
+   "topic": "Chhattisgarh GK",
+   "question": "Which bird is the state bird of Chhattisgarh?",
+   "questionHi": "छत्तीसगढ़ का राजकीय पक्षी कौन-सा है?",
+   "options": [
+    "Peacock",
+    "Sarus crane",
+    "Koel",
+    "Hill Myna (Pahari Myna)"
+   ],
+   "optionsHi": [
+    "मोर",
+    "सारस",
+    "कोयल",
+    "पहाड़ी मैना"
+   ],
+   "correctIndex": 3,
+   "explanation": "The Hill Myna (Bastar Pahari Myna) is the state bird of Chhattisgarh.",
+   "explanationHi": "पहाड़ी (बस्तर) मैना छत्तीसगढ़ का राजकीय पक्षी है।"
+  },
+  {
+   "id": "t06-gk-03",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian Constitution / RTI",
+   "question": "The Right to Information Act was enacted in the year ______.",
+   "questionHi": "सूचना का अधिकार अधिनियम किस वर्ष पारित किया गया?",
+   "options": [
+    "2005",
+    "1995",
+    "2002",
+    "2010"
+   ],
+   "optionsHi": [
+    "2005",
+    "1995",
+    "2002",
+    "2010"
+   ],
+   "correctIndex": 0,
+   "explanation": "The RTI Act was passed by Parliament in 2005 and came into full force in October 2005. The other years are incorrect.",
+   "explanationHi": "सूचना का अधिकार अधिनियम संसद द्वारा 2005 में पारित हुआ और अक्टूबर 2005 में पूरी तरह लागू हुआ। अन्य वर्ष गलत हैं।"
+  },
+  {
+   "id": "t06-gk-04",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian History",
+   "question": "Who was the Viceroy of India at the time of the Partition of Bengal in 1905?",
+   "questionHi": "1905 में बंगाल विभाजन के समय भारत का वायसराय कौन था?",
+   "options": [
+    "Lord Ripon",
+    "Lord Curzon",
+    "Lord Dalhousie",
+    "Lord Mountbatten"
+   ],
+   "optionsHi": [
+    "लॉर्ड रिपन",
+    "लॉर्ड कर्ज़न",
+    "लॉर्ड डलहौजी",
+    "लॉर्ड माउंटबेटन"
+   ],
+   "correctIndex": 1,
+   "explanation": "Lord Curzon was Viceroy from 1899 to 1905 and carried out the partition. Ripon, Dalhousie and Mountbatten served in other periods.",
+   "explanationHi": "लॉर्ड कर्ज़न 1899 से 1905 तक वायसराय थे और उन्होंने विभाजन किया। रिपन, डलहौजी और माउंटबेटन अन्य कालों में थे।"
+  },
+  {
+   "id": "t06-gk-05",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian Geography",
+   "question": "Which Indian state has the longest coastline?",
+   "questionHi": "भारत के किस राज्य की तटरेखा सबसे लंबी है?",
+   "options": [
+    "Maharashtra",
+    "Tamil Nadu",
+    "Gujarat",
+    "Andhra Pradesh"
+   ],
+   "optionsHi": [
+    "महाराष्ट्र",
+    "तमिलनाडु",
+    "गुजरात",
+    "आंध्र प्रदेश"
+   ],
+   "correctIndex": 2,
+   "explanation": "Gujarat has the longest coastline among Indian states (over 1,600 km).",
+   "explanationHi": "भारतीय राज्यों में गुजरात की तटरेखा सबसे लंबी (1,600 किमी से अधिक) है।"
+  }
+ ]
+}

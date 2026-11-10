@@ -1,0 +1,349 @@
+{
+ "questions": [
+  {
+   "id": "t08-psych-01",
+   "part": "B",
+   "section": "psych",
+   "topic": "Learning theories (Watson)",
+   "question": "Watson's 'Little Albert' experiment showed that fear can be learned through:",
+   "questionHi": "वाटसन के 'लिटिल अल्बर्ट' प्रयोग ने दिखाया कि भय किसके द्वारा सीखा जा सकता है?",
+   "options": [
+    "observation of models",
+    "reward",
+    "classical conditioning",
+    "insight"
+   ],
+   "optionsHi": [
+    "मॉडल का अवलोकन",
+    "पुरस्कार",
+    "शास्त्रीय अनुबंधन",
+    "अंतर्दृष्टि"
+   ],
+   "correctIndex": 2,
+   "explanation": "Albert learned to fear a white rat when it was paired with a loud noise, which is classical conditioning.",
+   "explanationHi": "अल्बर्ट ने सफेद चूहे को तेज़ आवाज़ के साथ जोड़े जाने पर उससे डरना सीखा, यह शास्त्रीय अनुबंधन है।"
+  },
+  {
+   "id": "t08-psych-02",
+   "part": "B",
+   "section": "psych",
+   "topic": "Intelligence (Gardner)",
+   "question": "Howard Gardner is known for the theory of:",
+   "questionHi": "हॉवर्ड गार्डनर किस सिद्धांत के लिए जाने जाते हैं?",
+   "options": [
+    "Multiple Intelligences",
+    "Triarchic Intelligence",
+    "Two-factor theory",
+    "Psychosexual development"
+   ],
+   "optionsHi": [
+    "बहुबुद्धि सिद्धांत (Multiple Intelligences)",
+    "त्रिविमीय बुद्धि सिद्धांत",
+    "द्वि-कारक सिद्धांत",
+    "मनोलैंगिक विकास सिद्धांत"
+   ],
+   "correctIndex": 0,
+   "explanation": "Gardner proposed Multiple Intelligences. Triarchic theory is Sternberg's, the two-factor theory is Spearman's and psychosexual development is Freud's.",
+   "explanationHi": "गार्डनर ने बहुबुद्धि सिद्धांत दिया। त्रिविमीय सिद्धांत स्टर्नबर्ग का, द्वि-कारक स्पीयरमैन का और मनोलैंगिक विकास फ्रायड का है।"
+  },
+  {
+   "id": "t08-psych-03",
+   "part": "B",
+   "section": "psych",
+   "topic": "Creativity",
+   "question": "Producing many different ideas for one problem is called:",
+   "questionHi": "किसी एक समस्या के लिए अनेक भिन्न विचार उत्पन्न करना क्या कहलाता है?",
+   "options": [
+    "rote memory",
+    "convergent thinking",
+    "fixed intelligence",
+    "divergent thinking"
+   ],
+   "optionsHi": [
+    "रटने की स्मृति",
+    "अभिसारी चिंतन",
+    "स्थिर बुद्धि",
+    "अपसारी चिंतन (divergent thinking)"
+   ],
+   "correctIndex": 3,
+   "explanation": "Divergent thinking, i.e. generating many original answers, is the core of creativity (Guilford). Convergent thinking seeks one correct answer.",
+   "explanationHi": "अपसारी चिंतन में अनेक मौलिक उत्तर खोजे जाते हैं, यह सृजनात्मकता का मूल है (गिलफोर्ड)। अभिसारी चिंतन में एक सही उत्तर खोजा जाता है।"
+  },
+  {
+   "id": "t08-psych-04",
+   "part": "B",
+   "section": "psych",
+   "topic": "Children with special needs",
+   "question": "Dyslexia is a specific learning difficulty related to:",
+   "questionHi": "डिस्लेक्सिया किससे संबंधित विशिष्ट अधिगम कठिनाई है?",
+   "options": [
+    "mathematics",
+    "reading",
+    "motor coordination",
+    "hearing"
+   ],
+   "optionsHi": [
+    "गणित",
+    "पढ़ना",
+    "गामक समन्वय",
+    "सुनना"
+   ],
+   "correctIndex": 1,
+   "explanation": "Dyslexia is a difficulty in reading and decoding words. Mathematics difficulty is dyscalculia and motor coordination difficulty is dyspraxia.",
+   "explanationHi": "डिस्लेक्सिया पढ़ने और शब्दों को पहचानने की कठिनाई है। गणित की कठिनाई डिस्कैल्कुलिया और गामक समन्वय की कठिनाई डिस्प्रैक्सिया है।"
+  },
+  {
+   "id": "t08-psych-05",
+   "part": "B",
+   "section": "psych",
+   "topic": "Learning (transfer)",
+   "question": "When learning in one situation helps learning in another situation, it is called:",
+   "questionHi": "जब एक परिस्थिति में सीखना दूसरी परिस्थिति में सीखने में सहायक होता है, तो उसे क्या कहते हैं?",
+   "options": [
+    "retention",
+    "recall",
+    "transfer of learning",
+    "extinction"
+   ],
+   "optionsHi": [
+    "धारण",
+    "पुनःस्मरण",
+    "अधिगम का स्थानांतरण",
+    "विलोपन"
+   ],
+   "correctIndex": 2,
+   "explanation": "Transfer of learning is the influence of earlier learning on new learning; positive transfer helps.",
+   "explanationHi": "अधिगम का स्थानांतरण पूर्व सीखे हुए का नए सीखने पर प्रभाव है; धनात्मक स्थानांतरण सहायक होता है।"
+  },
+  {
+   "id": "t08-psych-06",
+   "part": "B",
+   "section": "psych",
+   "topic": "Special needs",
+   "question": "A child who is unusually restless, inattentive and impulsive may be showing symptoms of:",
+   "questionHi": "जो बच्चा असामान्य रूप से बेचैन, अनवधान और आवेगी हो, वह किसके लक्षण दिखा सकता है?",
+   "options": [
+    "ADHD",
+    "dyslexia",
+    "visual impairment",
+    "giftedness"
+   ],
+   "optionsHi": [
+    "ADHD",
+    "डिस्लेक्सिया",
+    "दृष्टिबाधा",
+    "प्रतिभाशालीता"
+   ],
+   "correctIndex": 0,
+   "explanation": "Restlessness, inattention and impulsiveness are the core features of ADHD (Attention Deficit Hyperactivity Disorder).",
+   "explanationHi": "बेचैनी, अनवधान और आवेगशीलता ADHD (अवधान अभाव अतिसक्रियता विकार) के मुख्य लक्षण हैं।"
+  },
+  {
+   "id": "t08-assess-01",
+   "part": "B",
+   "section": "assess",
+   "topic": "Assessment tools",
+   "question": "A viva voce examination is an example of an ______ test.",
+   "questionHi": "मौखिक परीक्षा (viva voce) ______ परीक्षण का उदाहरण है।",
+   "options": [
+    "written",
+    "oral",
+    "practical",
+    "objective"
+   ],
+   "optionsHi": [
+    "लिखित",
+    "मौखिक",
+    "प्रायोगिक",
+    "वस्तुनिष्ठ"
+   ],
+   "correctIndex": 1,
+   "explanation": "Viva voce is a spoken question-answer examination, so it is an oral test.",
+   "explanationHi": "वाइवा वोसी में प्रश्न-उत्तर बोलकर होते हैं, इसलिए यह मौखिक परीक्षण है।"
+  },
+  {
+   "id": "t08-assess-02",
+   "part": "B",
+   "section": "assess",
+   "topic": "Taxonomy of objectives",
+   "question": "In the revised Bloom's taxonomy, the highest cognitive level is:",
+   "questionHi": "संशोधित ब्लूम वर्गीकरण में सर्वोच्च संज्ञानात्मक स्तर कौन-सा है?",
+   "options": [
+    "Remembering",
+    "Understanding",
+    "Applying",
+    "Creating"
+   ],
+   "optionsHi": [
+    "स्मरण",
+    "समझ",
+    "अनुप्रयोग",
+    "सृजन"
+   ],
+   "correctIndex": 3,
+   "explanation": "The revised taxonomy runs Remember, Understand, Apply, Analyse, Evaluate and Create, with Create at the top.",
+   "explanationHi": "संशोधित वर्गीकरण में स्मरण, समझ, अनुप्रयोग, विश्लेषण, मूल्यांकन और सृजन क्रम है; सृजन सबसे ऊपर है।"
+  },
+  {
+   "id": "t08-assess-03",
+   "part": "B",
+   "section": "assess",
+   "topic": "Test construction",
+   "question": "Examining each question of a test for its difficulty and discriminating power is called:",
+   "questionHi": "परीक्षण के प्रत्येक प्रश्न की कठिनाई और विभेदन क्षमता की जाँच को क्या कहते हैं?",
+   "options": [
+    "item analysis",
+    "blueprint preparation",
+    "moderation",
+    "scaling"
+   ],
+   "optionsHi": [
+    "पद विश्लेषण (item analysis)",
+    "ब्लूप्रिंट निर्माण",
+    "मॉडरेशन",
+    "मापनी निर्धारण"
+   ],
+   "correctIndex": 0,
+   "explanation": "Item analysis studies the difficulty index and discrimination index of each item.",
+   "explanationHi": "पद विश्लेषण में प्रत्येक प्रश्न का कठिनाई-स्तर और विभेदन-स्तर जाँचा जाता है।"
+  },
+  {
+   "id": "t08-assess-04",
+   "part": "B",
+   "section": "assess",
+   "topic": "Assessment tools",
+   "question": "Assessment of a learner's work by his or her classmates is called:",
+   "questionHi": "किसी विद्यार्थी के कार्य का उसके सहपाठियों द्वारा मूल्यांकन क्या कहलाता है?",
+   "options": [
+    "self-assessment",
+    "teacher assessment",
+    "peer assessment",
+    "external assessment"
+   ],
+   "optionsHi": [
+    "स्व-मूल्यांकन",
+    "शिक्षक मूल्यांकन",
+    "सहपाठी मूल्यांकन (peer assessment)",
+    "बाह्य मूल्यांकन"
+   ],
+   "correctIndex": 2,
+   "explanation": "When classmates assess each other's work, it is peer assessment.",
+   "explanationHi": "जब सहपाठी एक-दूसरे के कार्य का मूल्यांकन करते हैं, तो वह सहपाठी मूल्यांकन होता है।"
+  },
+  {
+   "id": "t08-pedag-01",
+   "part": "B",
+   "section": "pedag",
+   "topic": "Teaching methods",
+   "question": "The Socratic method of teaching mainly relies on:",
+   "questionHi": "शिक्षण की सुकरात विधि मुख्यतः किस पर आधारित है?",
+   "options": [
+    "silent copying",
+    "questioning and dialogue",
+    "long lectures",
+    "memorisation"
+   ],
+   "optionsHi": [
+    "चुपचाप नकल करना",
+    "प्रश्नोत्तर और संवाद",
+    "लंबे व्याख्यान",
+    "रटना"
+   ],
+   "correctIndex": 1,
+   "explanation": "The Socratic method leads learners to think through continued questioning and discussion.",
+   "explanationHi": "सुकरात विधि में लगातार प्रश्न और चर्चा के द्वारा विद्यार्थियों को चिंतन की ओर ले जाया जाता है।"
+  },
+  {
+   "id": "t08-pedag-02",
+   "part": "B",
+   "section": "pedag",
+   "topic": "Lesson planning",
+   "question": "The first step in preparing a lesson plan is to:",
+   "questionHi": "पाठ योजना बनाने का पहला चरण है:",
+   "options": [
+    "decide the homework",
+    "evaluate the learners",
+    "select a textbook",
+    "decide the learning objectives"
+   ],
+   "optionsHi": [
+    "गृहकार्य तय करना",
+    "विद्यार्थियों का मूल्यांकन करना",
+    "पाठ्यपुस्तक चुनना",
+    "सीखने के उद्देश्य तय करना"
+   ],
+   "correctIndex": 3,
+   "explanation": "Objectives guide the content, methods and evaluation, so they come first. Homework and evaluation come later.",
+   "explanationHi": "उद्देश्य सामग्री, विधि और मूल्यांकन का मार्गदर्शन करते हैं, इसलिए वे पहले आते हैं। गृहकार्य और मूल्यांकन बाद में आते हैं।"
+  },
+  {
+   "id": "t08-pedag-03",
+   "part": "B",
+   "section": "pedag",
+   "topic": "Group learning",
+   "question": "In cooperative learning, learners:",
+   "questionHi": "सहकारी अधिगम (cooperative learning) में विद्यार्थी:",
+   "options": [
+    "work in small groups to achieve a shared goal",
+    "compete against each other",
+    "work only alone",
+    "only listen to the teacher"
+   ],
+   "optionsHi": [
+    "साझा लक्ष्य पाने के लिए छोटे समूहों में काम करते हैं",
+    "एक-दूसरे से प्रतिस्पर्धा करते हैं",
+    "केवल अकेले काम करते हैं",
+    "केवल शिक्षक को सुनते हैं"
+   ],
+   "correctIndex": 0,
+   "explanation": "Cooperative learning builds on teamwork towards a common goal. The other options describe competition, individual work or lecturing.",
+   "explanationHi": "सहकारी अधिगम साझा लक्ष्य के लिए टीमवर्क पर आधारित है। अन्य विकल्प प्रतिस्पर्धा, अकेले कार्य या व्याख्यान बताते हैं।"
+  },
+  {
+   "id": "t08-attitude-01",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Teacher development",
+   "question": "A teacher who studies a classroom problem systematically in order to solve it is doing:",
+   "questionHi": "जो शिक्षक किसी कक्षागत समस्या का क्रमबद्ध अध्ययन कर उसे सुलझाता है, वह क्या कर रहा है?",
+   "options": [
+    "rote teaching",
+    "summative testing",
+    "action research",
+    "curriculum framing"
+   ],
+   "optionsHi": [
+    "रटंत शिक्षण",
+    "योगात्मक परीक्षण",
+    "क्रियात्मक अनुसंधान (action research)",
+    "पाठ्यचर्या निर्माण"
+   ],
+   "correctIndex": 2,
+   "explanation": "Action research is a small-scale, systematic inquiry by a teacher to improve their own classroom practice.",
+   "explanationHi": "क्रियात्मक अनुसंधान शिक्षक द्वारा अपनी कक्षा-पद्धति सुधारने के लिए किया गया छोटा, क्रमबद्ध अध्ययन है।"
+  },
+  {
+   "id": "t08-attitude-02",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Gender perspective",
+   "question": "To promote gender equity in the classroom, a teacher should:",
+   "questionHi": "कक्षा में लैंगिक समानता को बढ़ावा देने के लिए शिक्षक को क्या करना चाहिए?",
+   "options": [
+    "assign tasks according to gender",
+    "give equal opportunities to all learners",
+    "seat boys and girls in separate rows always",
+    "ignore gender-based stereotypes"
+   ],
+   "optionsHi": [
+    "लिंग के अनुसार कार्य बाँटना",
+    "सभी विद्यार्थियों को समान अवसर देना",
+    "लड़के-लड़कियों को हमेशा अलग पंक्तियों में बिठाना",
+    "लैंगिक रूढ़ियों की उपेक्षा करना"
+   ],
+   "correctIndex": 1,
+   "explanation": "Equal opportunity and challenging stereotypes promote equity. Assigning tasks by gender or ignoring stereotypes reinforces inequality.",
+   "explanationHi": "समान अवसर देना और रूढ़ियों को चुनौती देना समानता बढ़ाता है। लिंग के आधार पर कार्य देना या रूढ़ियों की उपेक्षा करना असमानता बढ़ाता है।"
+  }
+ ]
+}

@@ -1,0 +1,1059 @@
+{
+ "passages": [
+  {
+   "id": "t08-p1",
+   "genre": "Scientific passage",
+   "title": "The Dance of the Honeybee",
+   "text": "When a honeybee finds a rich patch of flowers, it returns to the hive and performs a 'waggle dance' to share the news. The direction of the straight run in the dance, measured against the vertical of the honeycomb, shows the angle between the food and the sun. The length of the run tells how far the flowers are: the longer the waggle, the greater the distance. Other bees follow the dancer closely, touching her with their antennae, and then fly out to find the food. The Austrian scientist Karl von Frisch spent decades decoding this behaviour and was awarded a Nobel Prize in 1973. Some people once believed that insects were merely simple machines, but the waggle dance suggests a remarkably sophisticated system of communication. Even so, scientists remain cautious. They say that the dance is a message, not a language, because bees cannot use it to talk about anything except food and nesting sites."
+  },
+  {
+   "id": "t08-p2",
+   "genre": "Poetry extract",
+   "title": "The Village Well",
+   "text": "Before the sun has climbed the hill,\nThe women gather, grave and still;\nTheir brass pots ring, the ropes run dry,\nAnd gossip rises to the sky.\nThe well is old; its stones are worn\nBy hands that came before the morn.\nIt gives to all, it asks no fee,\nIt keeps each secret faithfully.\nBut now the pipes are laid in rows,\nAnd water through the tap now flows;\nThe well stands silent, mossed and deep,\nA grandmother lost in endless sleep.\nYet children, passing, drop a stone\nAnd listen for its distant tone,\nAs if the dark were still a friend\nWho answers those who stop and bend."
+  },
+  {
+   "id": "t08-p3",
+   "genre": "Newspaper editorial",
+   "title": "Let the Library Door Stay Open",
+   "text": "The municipal library in our town, which has served three generations of readers, will reduce its opening hours from next month. The authorities blame a shortage of funds and say that most people now read on their phones. This argument is, at best, half true. A phone may carry a thousand books, but it cannot give a poor student a quiet table, a working fan and a librarian who knows which book to hand over next. Nor is the saving significant: the cut will save less than the corporation spends on its annual inaugurations. A library is not a luxury to be trimmed when budgets tighten; it is the cheapest school a town can build. We urge the corporation to reconsider before the shutters come down on a habit that took decades to grow and may take far longer to restore."
+  }
+ ],
+ "questions": [
+  {
+   "id": "t08-gram-01",
+   "part": "A",
+   "section": "gram",
+   "topic": "Transformation of sentences",
+   "question": "Choose the correct simple sentence for: \"As soon as the thief saw the police, he ran away.\"",
+   "options": [
+    "The thief ran away as seeing the police.",
+    "Seen the police, the thief ran away.",
+    "On seeing the police, the thief ran away.",
+    "The police seeing, the thief ran away."
+   ],
+   "correctIndex": 2,
+   "explanation": "A complex sentence with 'As soon as' is reduced to a simple sentence with 'On + -ing'. 'On seeing the police, the thief ran away' is the only grammatical option; the others are ungrammatical."
+  },
+  {
+   "id": "t08-gram-02",
+   "part": "A",
+   "section": "gram",
+   "topic": "Direct and indirect speech",
+   "question": "Change into indirect speech: She said to him, \"Do you know the answer?\"",
+   "options": [
+    "She asked him that he knew the answer.",
+    "She asked him if he knew the answer.",
+    "She told him if he knows the answer.",
+    "She asked him did he know the answer."
+   ],
+   "correctIndex": 1,
+   "explanation": "A yes/no question in indirect speech is introduced by \"if/whether\" with assertive word order and the tense shifts back: \"if he knew the answer\"."
+  },
+  {
+   "id": "t08-gram-03",
+   "part": "A",
+   "section": "gram",
+   "topic": "Inversion and cleft sentences",
+   "question": "It was in 1947 ____ India became independent.",
+   "options": [
+    "that",
+    "what",
+    "whom",
+    "whose"
+   ],
+   "correctIndex": 0,
+   "explanation": "In a cleft sentence \"It was ... that ...\" the relative word \"that\" is used to focus on the time; \"what\", \"whom\" and \"whose\" do not fit."
+  },
+  {
+   "id": "t08-gram-04",
+   "part": "A",
+   "section": "gram",
+   "topic": "Conditional sentences",
+   "question": "Unless you hurry, you ____ the bus.",
+   "options": [
+    "missed",
+    "would have missed",
+    "did miss",
+    "will miss"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"Unless\" means \"if not\". The first conditional uses present simple in the clause with \"unless\" and \"will\" in the main clause: \"will miss\"."
+  },
+  {
+   "id": "t08-gram-05",
+   "part": "A",
+   "section": "gram",
+   "topic": "Elliptical sentence patterns",
+   "question": "Which is the correct elliptical form of: \"He wanted to go, but I did not want to go.\"?",
+   "options": [
+    "He wanted to go, but I didn't want.",
+    "He wanted to go, but I didn't.",
+    "He wanted to go, but I didn't to.",
+    "He wanted to go, but didn't I."
+   ],
+   "correctIndex": 1,
+   "explanation": "The repeated words 'want to go' can be omitted after the auxiliary 'didn't'. Options A and C leave incomplete verb phrases and D has wrong word order."
+  },
+  {
+   "id": "t08-gram-06",
+   "part": "A",
+   "section": "gram",
+   "topic": "Determiners",
+   "question": "Choose the correct determiner: He has ____ friends, so he often feels lonely.",
+   "options": [
+    "a few",
+    "little",
+    "few",
+    "a little"
+   ],
+   "correctIndex": 2,
+   "explanation": "'Few' (almost none) has a negative sense that fits 'lonely' and is used with countable plural nouns. 'A few' is positive; 'little' and 'a little' are for uncountable nouns."
+  },
+  {
+   "id": "t08-gram-07",
+   "part": "A",
+   "section": "gram",
+   "topic": "Modals",
+   "question": "When I was young, I ____ run very fast.",
+   "options": [
+    "could",
+    "can",
+    "shall",
+    "must"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"Could\" expresses past ability. \"Can\" is present, \"shall\" and \"must\" do not express past ability."
+  },
+  {
+   "id": "t08-gram-08",
+   "part": "A",
+   "section": "gram",
+   "topic": "Question tags",
+   "question": "He seldom goes to the temple, ____?",
+   "options": [
+    "doesn't he",
+    "didn't he",
+    "is he",
+    "does he"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"Seldom\" has a negative sense, so the main clause is treated as negative and the tag must be positive: \"does he?\"."
+  },
+  {
+   "id": "t08-gram-09",
+   "part": "A",
+   "section": "gram",
+   "topic": "Phrasal verbs",
+   "question": "Fill in the blank: The cricket match had to be ____ because of heavy rain.",
+   "options": [
+    "called in",
+    "called up",
+    "called off",
+    "called on"
+   ],
+   "correctIndex": 2,
+   "explanation": "'Call off' means to cancel. 'Call in' means to summon, 'call up' means to telephone or recruit, and 'call on' means to visit."
+  },
+  {
+   "id": "t08-gram-10",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subject-verb agreement",
+   "question": "Mathematics ____ my favourite subject.",
+   "options": [
+    "is",
+    "are",
+    "were",
+    "have been"
+   ],
+   "correctIndex": 0,
+   "explanation": "Names of subjects ending in -s (Mathematics, Physics, Economics) take a singular verb, so \"is\"."
+  },
+  {
+   "id": "t08-gram-11",
+   "part": "A",
+   "section": "gram",
+   "topic": "Tenses",
+   "question": "I ____ my homework when the teacher entered the room.",
+   "options": [
+    "do",
+    "was doing",
+    "have been doing",
+    "will do"
+   ],
+   "correctIndex": 1,
+   "explanation": "A longer past action interrupted by a shorter past action uses the past continuous: \"was doing\"."
+  },
+  {
+   "id": "t08-gram-12",
+   "part": "A",
+   "section": "gram",
+   "topic": "Identifying clauses",
+   "question": "Identify the underlined clause: The book (that you lent me) is very interesting.",
+   "options": [
+    "Noun clause",
+    "Adverb clause",
+    "Non-defining relative clause",
+    "Defining relative clause"
+   ],
+   "correctIndex": 3,
+   "explanation": "'That you lent me' modifies 'book' and is essential to identify which book is meant; it has no commas. So it is a defining relative clause."
+  },
+  {
+   "id": "t08-gram-13",
+   "part": "A",
+   "section": "gram",
+   "topic": "Transformation of sentences",
+   "question": "Change into a complex sentence: \"He worked hard, so he passed.\"",
+   "options": [
+    "Because he worked hard, he passed.",
+    "Though he worked hard, he passed.",
+    "He passed so that he worked hard.",
+    "If he worked hard, he passed."
+   ],
+   "correctIndex": 0,
+   "explanation": "'So' shows result; in the complex form the cause becomes a subordinate clause with 'because'. 'Though' shows contrast, and the others change the meaning."
+  },
+  {
+   "id": "t08-gram-14",
+   "part": "A",
+   "section": "gram",
+   "topic": "Direct and indirect speech",
+   "question": "Change into indirect speech: The teacher said, \"The earth moves round the sun.\"",
+   "options": [
+    "The teacher said that the earth moved round the sun.",
+    "The teacher said that the earth had moved round the sun.",
+    "The teacher said that the earth moves round the sun.",
+    "The teacher said that the earth was moving round the sun."
+   ],
+   "correctIndex": 2,
+   "explanation": "A universal truth keeps the present tense in indirect speech, even after a past reporting verb. The other options wrongly backshift the tense."
+  },
+  {
+   "id": "t08-gram-15",
+   "part": "A",
+   "section": "gram",
+   "topic": "Inversion and cleft sentences",
+   "question": "Fill in the blank: Not only ____ the examination, but he also topped it.",
+   "options": [
+    "he passed",
+    "did he pass",
+    "he did pass",
+    "passed he"
+   ],
+   "correctIndex": 1,
+   "explanation": "When a sentence begins with 'Not only', the auxiliary comes before the subject (inversion): 'did he pass'. The other word orders are incorrect."
+  },
+  {
+   "id": "t08-vocab-01",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word formation (affixes)",
+   "question": "The prefix 'mis-' in words like 'misunderstand' and 'misspell' means:",
+   "options": [
+    "again",
+    "wrongly",
+    "before",
+    "against"
+   ],
+   "correctIndex": 1,
+   "explanation": "The prefix 'mis-' means wrongly or badly."
+  },
+  {
+   "id": "t08-vocab-02",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Homophones",
+   "question": "Choose the correct word: The ship was held up at the ____ for two days.",
+   "options": [
+    "pear",
+    "peer",
+    "pair",
+    "pier"
+   ],
+   "correctIndex": 3,
+   "explanation": "A 'pier' is a platform built out into water where ships stop. 'Pear' is a fruit, 'peer' means to look closely or an equal, and 'pair' means two."
+  },
+  {
+   "id": "t08-vocab-03",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Polysemy",
+   "question": "In which sentence does the word 'light' mean 'not heavy'?",
+   "options": [
+    "She carries a light bag.",
+    "Please switch on the light.",
+    "The light is red.",
+    "Light travels faster than sound."
+   ],
+   "correctIndex": 0,
+   "explanation": "Only in 'a light bag' does 'light' mean of little weight. In the others it refers to illumination or a signal."
+  },
+  {
+   "id": "t08-vocab-04",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Collocations",
+   "question": "Choose the correct collocation: She ____ a mistake in the last question.",
+   "options": [
+    "did",
+    "took",
+    "made",
+    "gave"
+   ],
+   "correctIndex": 2,
+   "explanation": "The standard collocation is 'make a mistake'. 'Do', 'take' and 'give' are not used with 'mistake'."
+  },
+  {
+   "id": "t08-vocab-05",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Collocations",
+   "question": "Choose the correct collocation: There was ____ rain throughout the night.",
+   "options": [
+    "strong",
+    "big",
+    "heavy",
+    "tall"
+   ],
+   "correctIndex": 2,
+   "explanation": "'Heavy rain' is the natural collocation. 'Strong rain', 'big rain' and 'tall rain' are not used."
+  },
+  {
+   "id": "t08-vocab-06",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word class conversion",
+   "question": "Choose the correct adjective form of the noun 'danger'.",
+   "options": [
+    "dangerous",
+    "dangerful",
+    "dangering",
+    "dangerly"
+   ],
+   "correctIndex": 0,
+   "explanation": "The suffix -ous forms the adjective 'dangerous'. The other forms do not exist in standard English."
+  },
+  {
+   "id": "t08-vocab-07",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word class conversion",
+   "question": "In the sentence 'I will book a ticket for you', the word 'book' is used as a ______.",
+   "options": [
+    "noun",
+    "adjective",
+    "adverb",
+    "verb"
+   ],
+   "correctIndex": 3,
+   "explanation": "'Book' here means 'reserve' and follows the modal 'will', so it is a verb, though it is usually a noun."
+  },
+  {
+   "id": "t08-vocab-08",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Lexical bundles",
+   "question": "Complete the common lexical bundle: \"____ the other hand, he is quite honest.\"",
+   "options": [
+    "In",
+    "On",
+    "At",
+    "By"
+   ],
+   "correctIndex": 1,
+   "explanation": "'On the other hand' is a fixed expression used to introduce a contrast."
+  },
+  {
+   "id": "t08-vocab-09",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Lexical bundles",
+   "question": "Complete the lexical bundle: \"In the ____ run, honesty pays.\"",
+   "options": [
+    "long",
+    "short",
+    "far",
+    "wide"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"In the long run\" means over a long period of time or in the end."
+  },
+  {
+   "id": "t08-vocab-10",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idioms and phrases",
+   "question": "What does the idiom 'under the weather' mean?",
+   "options": [
+    "Standing in the rain",
+    "Enjoying good weather",
+    "Feeling slightly ill",
+    "Being very rich"
+   ],
+   "correctIndex": 2,
+   "explanation": "'Under the weather' means feeling slightly unwell."
+  },
+  {
+   "id": "t08-vocab-11",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idioms and phrases",
+   "question": "What is meant by 'a white elephant'?",
+   "options": [
+    "A rare and sacred animal",
+    "A costly possession that is of little use",
+    "A symbol of purity",
+    "A large friendly person"
+   ],
+   "correctIndex": 1,
+   "explanation": "A \"white elephant\" is a possession that is costly to keep but of little use or value."
+  },
+  {
+   "id": "t08-vocab-12",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idioms and phrases",
+   "question": "The idiom 'a piece of cake' means:",
+   "options": [
+    "a birthday gift",
+    "a very costly thing",
+    "something sweet",
+    "something very easy"
+   ],
+   "correctIndex": 3,
+   "explanation": "'A piece of cake' means something that is very easy to do."
+  },
+  {
+   "id": "t08-vocab-13",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "Identify the figure of speech: \"All hands on deck!\" (the captain calls the sailors)",
+   "options": [
+    "Simile",
+    "Alliteration",
+    "Synecdoche",
+    "Onomatopoeia"
+   ],
+   "correctIndex": 2,
+   "explanation": "A part (\"hands\") stands for the whole (sailors), which is synecdoche."
+  },
+  {
+   "id": "t08-vocab-14",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "Identify the figure of speech: \"He is as brave as a lion.\"",
+   "options": [
+    "Metaphor",
+    "Simile",
+    "Irony",
+    "Oxymoron"
+   ],
+   "correctIndex": 1,
+   "explanation": "A direct comparison using 'as ... as' is a simile. A metaphor would say 'He is a lion'."
+  },
+  {
+   "id": "t08-vocab-15",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "\"Parting is such sweet sorrow.\" The figure of speech used here is:",
+   "options": [
+    "Oxymoron",
+    "Pun",
+    "Euphemism",
+    "Apostrophe"
+   ],
+   "correctIndex": 0,
+   "explanation": "'Sweet sorrow' combines two contradictory words in one phrase, which is an oxymoron."
+  },
+  {
+   "id": "t08-rc-01",
+   "part": "A",
+   "section": "rc",
+   "topic": "Comprehension",
+   "passageId": "t08-p1",
+   "question": "According to the passage, the length of the waggle run indicates:",
+   "options": [
+    "the type of flower",
+    "the time of day",
+    "the distance of the food",
+    "the number of bees needed"
+   ],
+   "correctIndex": 2,
+   "explanation": "The passage says 'the longer the waggle, the greater the distance'. The others are not mentioned."
+  },
+  {
+   "id": "t08-rc-02",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t08-p1",
+   "question": "Scientists call the dance 'a message, not a language' because:",
+   "options": [
+    "it conveys information only about food and nesting sites",
+    "it is too slow to follow",
+    "it is performed by only one bee in a hive",
+    "it has no fixed rules"
+   ],
+   "correctIndex": 0,
+   "explanation": "The last sentence states bees cannot use it to talk about anything except food and nesting sites. The passage says nothing about speed, a single dancer or lack of rules."
+  },
+  {
+   "id": "t08-rc-03",
+   "part": "A",
+   "section": "rc",
+   "topic": "Vocabulary in context",
+   "passageId": "t08-p1",
+   "question": "The word 'sophisticated' in the passage is closest in meaning to:",
+   "options": [
+    "simple",
+    "artificial",
+    "noisy",
+    "advanced"
+   ],
+   "correctIndex": 3,
+   "explanation": "'Remarkably sophisticated system' means a highly developed, complex system, so 'advanced' fits best. It is the opposite of 'simple'."
+  },
+  {
+   "id": "t08-rc-04",
+   "part": "A",
+   "section": "rc",
+   "topic": "Tone",
+   "passageId": "t08-p1",
+   "question": "The tone of the author in the passage is:",
+   "options": [
+    "sarcastic",
+    "informative and cautious",
+    "humorous",
+    "angrily critical"
+   ],
+   "correctIndex": 1,
+   "explanation": "The author explains facts and ends with the scientists' cautious view. There is no sarcasm, humour or anger."
+  },
+  {
+   "id": "t08-rc-05",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t08-p1",
+   "question": "Which of the following is NOT supported by the passage?",
+   "options": [
+    "Bees touch the dancer with their antennae.",
+    "The dance shows the angle between the food and the sun.",
+    "Von Frisch worked for many years to decode the dance.",
+    "The dance can describe any topic to other bees."
+   ],
+   "correctIndex": 3,
+   "explanation": "The passage says the dance can only talk about food and nesting sites, so D is not supported. A, B and C are all stated."
+  },
+  {
+   "id": "t08-rc-06",
+   "part": "A",
+   "section": "rc",
+   "topic": "Poetic form",
+   "passageId": "t08-p2",
+   "question": "The rhyme scheme of the first four lines of the poem (hill, still, dry, sky) is:",
+   "options": [
+    "ABAB",
+    "AABB",
+    "ABBA",
+    "AAAA"
+   ],
+   "correctIndex": 1,
+   "explanation": "hill/still rhyme and dry/sky rhyme, so the pattern is AABB (rhyming couplets)."
+  },
+  {
+   "id": "t08-rc-07",
+   "part": "A",
+   "section": "rc",
+   "topic": "Figures of speech",
+   "passageId": "t08-p2",
+   "question": "\"A grandmother lost in endless sleep\" is an example of:",
+   "options": [
+    "Simile",
+    "Hyperbole",
+    "Metaphor",
+    "Irony"
+   ],
+   "correctIndex": 2,
+   "explanation": "The well is directly described as a grandmother without 'like' or 'as', which makes it a metaphor."
+  },
+  {
+   "id": "t08-rc-08",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t08-p2",
+   "question": "\"It keeps each secret faithfully\" suggests that the well:",
+   "options": [
+    "is a trusted listener of people's private talk",
+    "is dangerous to visit",
+    "is poorly maintained",
+    "charges money for use"
+   ],
+   "correctIndex": 0,
+   "explanation": "The women's gossip and confidences were shared at the well, which 'kept' them. Line 7 says it 'asks no fee', so D is wrong."
+  },
+  {
+   "id": "t08-rc-09",
+   "part": "A",
+   "section": "rc",
+   "topic": "Tone",
+   "passageId": "t08-p2",
+   "question": "The mood of the poem towards the end is:",
+   "options": [
+    "angry",
+    "cheerful",
+    "fearful",
+    "nostalgic and wistful"
+   ],
+   "correctIndex": 3,
+   "explanation": "The poet recalls the past with gentle sadness, and the children's stone-dropping keeps a memory alive. This is a nostalgic, wistful mood."
+  },
+  {
+   "id": "t08-rc-10",
+   "part": "A",
+   "section": "rc",
+   "topic": "Comprehension",
+   "passageId": "t08-p2",
+   "question": "What has replaced the well as the source of water in the village?",
+   "options": [
+    "Hand pumps",
+    "Piped tap water",
+    "Rain tanks",
+    "A river"
+   ],
+   "correctIndex": 1,
+   "explanation": "The poem says 'the pipes are laid in rows, and water through the tap now flows'."
+  },
+  {
+   "id": "t08-rc-11",
+   "part": "A",
+   "section": "rc",
+   "topic": "Detail",
+   "passageId": "t08-p3",
+   "question": "According to the editorial, the cut in library hours will save less than the corporation spends on its annual:",
+   "options": [
+    "inaugurations",
+    "new buildings",
+    "staff salaries",
+    "road repairs"
+   ],
+   "correctIndex": 0,
+   "explanation": "The passage says the saving is less than the corporation spends on its annual inaugurations."
+  },
+  {
+   "id": "t08-rc-12",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t08-p3",
+   "question": "The phrase 'at best, half true' implies that the authorities' argument is:",
+   "options": [
+    "fully correct",
+    "completely false",
+    "partly correct but incomplete",
+    "irrelevant"
+   ],
+   "correctIndex": 2,
+   "explanation": "'Half true' means there is some truth (people do read on phones), but the argument ignores what a library offers."
+  },
+  {
+   "id": "t08-rc-13",
+   "part": "A",
+   "section": "rc",
+   "topic": "Rhetorical devices",
+   "passageId": "t08-p3",
+   "question": "\"The cheapest school a town can build\" is an example of:",
+   "options": [
+    "Simile",
+    "Onomatopoeia",
+    "Pun",
+    "Metaphor"
+   ],
+   "correctIndex": 3,
+   "explanation": "The library is described as a school without a word like 'like' or 'as', so it is a metaphor."
+  },
+  {
+   "id": "t08-rc-14",
+   "part": "A",
+   "section": "rc",
+   "topic": "Vocabulary in context",
+   "passageId": "t08-p3",
+   "question": "'Before the shutters come down' in the passage means:",
+   "options": [
+    "before the library closes",
+    "before the windows are broken",
+    "before the rain starts",
+    "before a protest begins"
+   ],
+   "correctIndex": 0,
+   "explanation": "Shutters coming down is a figure for closing a place of business. Here it refers to the library closing."
+  },
+  {
+   "id": "t08-rc-15",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t08-p3",
+   "question": "Which of the following is NOT mentioned in the editorial as something a library gives a poor student?",
+   "options": [
+    "A quiet table",
+    "A working fan",
+    "Free internet access",
+    "A librarian who knows which book to hand over"
+   ],
+   "correctIndex": 2,
+   "explanation": "The editorial mentions a quiet table, a working fan and a knowledgeable librarian. Free internet access is not mentioned."
+  },
+  {
+   "id": "t08-ped-01",
+   "part": "A",
+   "section": "ped",
+   "topic": "Methods (TPR)",
+   "question": "Total Physical Response (TPR), developed by James Asher, mainly connects language learning with:",
+   "questionHi": "टोटल फिजिकल रिस्पॉन्स (TPR) विधि, जिसे जेम्स आशर ने विकसित किया, भाषा सीखने को मुख्यतः किससे जोड़ती है?",
+   "options": [
+    "translation",
+    "grammar charts",
+    "memorised dialogues",
+    "physical actions in response to commands"
+   ],
+   "optionsHi": [
+    "अनुवाद",
+    "व्याकरण चार्ट",
+    "रटे हुए संवाद",
+    "आदेशों के प्रत्युत्तर में शारीरिक क्रियाएँ"
+   ],
+   "correctIndex": 3,
+   "explanation": "In TPR learners listen to commands and respond with body movements, which makes comprehension come before speaking.",
+   "explanationHi": "TPR में विद्यार्थी आदेश सुनकर शारीरिक क्रिया करते हैं, इसलिए बोलने से पहले समझ विकसित होती है।"
+  },
+  {
+   "id": "t08-ped-02",
+   "part": "A",
+   "section": "ped",
+   "topic": "Interlanguage",
+   "question": "The concept of 'interlanguage' was proposed by:",
+   "questionHi": "'Interlanguage' की अवधारणा किसने प्रस्तुत की?",
+   "options": [
+    "Larry Selinker",
+    "B.F. Skinner",
+    "Stephen Krashen",
+    "Jerome Bruner"
+   ],
+   "optionsHi": [
+    "लैरी सेलिंकर",
+    "बी.एफ. स्किनर",
+    "स्टीफन क्रेशन",
+    "जेरोम ब्रूनर"
+   ],
+   "correctIndex": 0,
+   "explanation": "Larry Selinker (1972) coined 'interlanguage' for the learner's developing in-between language system. Skinner, Krashen and Bruner are associated with other ideas.",
+   "explanationHi": "लैरी सेलिंकर (1972) ने सीखने वाले की विकसित हो रही मध्यवर्ती भाषा के लिए 'interlanguage' शब्द दिया। स्किनर, क्रेशन और ब्रूनर अन्य विचारों से जुड़े हैं।"
+  },
+  {
+   "id": "t08-ped-03",
+   "part": "A",
+   "section": "ped",
+   "topic": "Multilingual classroom",
+   "question": "In a multilingual classroom, the best use of learners' home languages is to:",
+   "questionHi": "बहुभाषी कक्षा में बच्चों की घरेलू भाषाओं का सबसे अच्छा उपयोग क्या है?",
+   "options": [
+    "ban them completely",
+    "use only the English textbook",
+    "use them as a bridge to learn English",
+    "punish learners who use them"
+   ],
+   "optionsHi": [
+    "उन्हें पूरी तरह प्रतिबंधित करना",
+    "केवल अंग्रेज़ी पाठ्यपुस्तक का उपयोग करना",
+    "अंग्रेज़ी सीखने के लिए उन्हें सेतु की तरह उपयोग करना",
+    "उनका प्रयोग करने वाले बच्चों को दंड देना"
+   ],
+   "correctIndex": 2,
+   "explanation": "Home languages are a resource; using them helps understanding and builds new learning on prior knowledge. Banning or punishing harms confidence.",
+   "explanationHi": "घरेलू भाषाएँ एक संसाधन हैं; इनसे समझ बढ़ती है और पूर्व ज्ञान पर नया ज्ञान बनता है। प्रतिबंध या दंड से आत्मविश्वास घटता है।"
+  },
+  {
+   "id": "t08-ped-04",
+   "part": "A",
+   "section": "ped",
+   "topic": "Remedial teaching",
+   "question": "The first step in remedial teaching is to:",
+   "questionHi": "उपचारात्मक शिक्षण (remedial teaching) का पहला चरण है:",
+   "options": [
+    "give extra homework",
+    "diagnose the specific learning difficulty",
+    "scold the weak learners",
+    "repeat the same lesson to the whole class"
+   ],
+   "optionsHi": [
+    "अतिरिक्त गृहकार्य देना",
+    "सीखने की विशेष कठिनाई का निदान करना",
+    "कमज़ोर बच्चों को डाँटना",
+    "पूरी कक्षा को वही पाठ दोहराना"
+   ],
+   "correctIndex": 1,
+   "explanation": "Remedial work must begin with diagnosis so that teaching targets the real difficulty. The other options do not address the cause.",
+   "explanationHi": "उपचारात्मक कार्य निदान से शुरू होना चाहिए ताकि शिक्षण वास्तविक कठिनाई पर केंद्रित हो। अन्य विकल्प कारण को नहीं सुलझाते।"
+  },
+  {
+   "id": "t08-ped-05",
+   "part": "A",
+   "section": "ped",
+   "topic": "Methods (Suggestopedia)",
+   "question": "Suggestopedia, developed by Georgi Lozanov, tries to lower learners' anxiety by using:",
+   "questionHi": "जॉर्जी लोज़ानोव द्वारा विकसित सजेस्टोपीडिया विधि विद्यार्थियों की चिंता कम करने के लिए किसका उपयोग करती है?",
+   "options": [
+    "strict drills",
+    "relaxation, music and a comfortable environment",
+    "punishment for errors",
+    "only written exercises"
+   ],
+   "optionsHi": [
+    "कठोर अभ्यास (ड्रिल)",
+    "विश्राम, संगीत और आरामदायक वातावरण",
+    "त्रुटियों पर दंड",
+    "केवल लिखित अभ्यास"
+   ],
+   "correctIndex": 1,
+   "explanation": "Suggestopedia uses music, relaxation and a pleasant classroom to reduce stress and help learning.",
+   "explanationHi": "सजेस्टोपीडिया में संगीत, विश्राम और सुखद कक्षा द्वारा तनाव कम कर सीखने में सहायता दी जाती है।"
+  },
+  {
+   "id": "t08-ped-06",
+   "part": "A",
+   "section": "ped",
+   "topic": "Behaviourism",
+   "question": "Which view of language learning is associated with Skinner's behaviourism?",
+   "questionHi": "भाषा सीखने का कौन-सा दृष्टिकोण स्किनर के व्यवहारवाद से जुड़ा है?",
+   "options": [
+    "An inborn Language Acquisition Device",
+    "Learning through social interaction in the ZPD",
+    "Hypothesis testing by the learner",
+    "Habit formation through stimulus, response and reinforcement"
+   ],
+   "optionsHi": [
+    "जन्मजात भाषा अर्जन युक्ति",
+    "ZPD में सामाजिक अंतःक्रिया से सीखना",
+    "सीखने वाले द्वारा परिकल्पना परीक्षण",
+    "उद्दीपन, अनुक्रिया और पुनर्बलन से आदत निर्माण"
+   ],
+   "correctIndex": 3,
+   "explanation": "Behaviourists see language as a habit built by imitation and reinforcement. A is Chomsky's view and B is Vygotsky's.",
+   "explanationHi": "व्यवहारवादी भाषा को अनुकरण और पुनर्बलन से बनी आदत मानते हैं। A चॉम्स्की का और B वाइगोत्स्की का दृष्टिकोण है।"
+  },
+  {
+   "id": "t08-ped-07",
+   "part": "A",
+   "section": "ped",
+   "topic": "Chomsky",
+   "question": "In Chomsky's theory, 'LAD' stands for:",
+   "questionHi": "चॉम्स्की के सिद्धांत में 'LAD' का अर्थ है:",
+   "options": [
+    "Language Acquisition Device",
+    "Language Ability Drill",
+    "Learning and Development",
+    "Listening and Discussion"
+   ],
+   "optionsHi": [
+    "Language Acquisition Device (भाषा अर्जन युक्ति)",
+    "Language Ability Drill",
+    "Learning and Development",
+    "Listening and Discussion"
+   ],
+   "correctIndex": 0,
+   "explanation": "LAD is the innate mental faculty that enables children to acquire language. The other expansions are invented.",
+   "explanationHi": "LAD वह जन्मजात मानसिक क्षमता है जिससे बच्चे भाषा अर्जित करते हैं। अन्य विस्तार गढ़े हुए हैं।"
+  },
+  {
+   "id": "t08-ped-08",
+   "part": "A",
+   "section": "ped",
+   "topic": "Linguistic system",
+   "question": "The study of the structure and formation of words is called:",
+   "questionHi": "शब्दों की बनावट और निर्माण के अध्ययन को कहते हैं:",
+   "options": [
+    "Phonology",
+    "Syntax",
+    "Morphology",
+    "Pragmatics"
+   ],
+   "optionsHi": [
+    "ध्वनि-विज्ञान (Phonology)",
+    "वाक्य-विन्यास (Syntax)",
+    "रूप-विज्ञान (Morphology)",
+    "प्रकरण-विज्ञान (Pragmatics)"
+   ],
+   "correctIndex": 2,
+   "explanation": "Morphology studies words and their parts (morphemes). Phonology deals with sounds, syntax with sentence structure and pragmatics with language in use.",
+   "explanationHi": "Morphology शब्दों और उनके अंशों (morphemes) का अध्ययन है। Phonology ध्वनियों, syntax वाक्य संरचना और pragmatics भाषा के प्रयोग से संबंधित है।"
+  },
+  {
+   "id": "t08-ped-09",
+   "part": "A",
+   "section": "ped",
+   "topic": "Reading (phonics)",
+   "question": "Phonics is a method of teaching reading by linking:",
+   "questionHi": "फोनिक्स (phonics) पढ़ना सिखाने की वह विधि है जो किसे जोड़ती है?",
+   "options": [
+    "sounds with letters",
+    "pictures with colours",
+    "words with mother-tongue meanings",
+    "stories with morals"
+   ],
+   "optionsHi": [
+    "ध्वनियों को अक्षरों से",
+    "चित्रों को रंगों से",
+    "शब्दों को मातृभाषा के अर्थ से",
+    "कहानियों को नैतिकता से"
+   ],
+   "correctIndex": 0,
+   "explanation": "Phonics teaches the relationship between sounds (phonemes) and the letters that represent them.",
+   "explanationHi": "फोनिक्स ध्वनियों (phonemes) और उन्हें दर्शाने वाले अक्षरों के संबंध को सिखाता है।"
+  },
+  {
+   "id": "t08-ped-10",
+   "part": "A",
+   "section": "ped",
+   "topic": "Listening and speaking",
+   "question": "Which activity is best for developing speaking skill in a primary class?",
+   "questionHi": "प्राथमिक कक्षा में बोलने का कौशल विकसित करने के लिए सबसे अच्छी गतिविधि कौन-सी है?",
+   "options": [
+    "Copying from the board",
+    "Silent reading",
+    "Role play and pair talk",
+    "Dictation"
+   ],
+   "optionsHi": [
+    "श्यामपट्ट से नकल करना",
+    "मौन वाचन",
+    "भूमिका-अभिनय और जोड़ी में बातचीत",
+    "श्रुतलेख"
+   ],
+   "correctIndex": 2,
+   "explanation": "Role play and pair talk give real speaking practice. The other activities mainly involve writing or silent reading.",
+   "explanationHi": "भूमिका-अभिनय और जोड़ी में बातचीत से वास्तविक बोलने का अभ्यास मिलता है। अन्य गतिविधियाँ मुख्यतः लिखने या मौन पढ़ने की हैं।"
+  },
+  {
+   "id": "t08-ped-11",
+   "part": "A",
+   "section": "ped",
+   "topic": "Role of grammar",
+   "question": "Teaching grammar 'inductively' means:",
+   "questionHi": "व्याकरण को 'आगमनात्मक' (inductive) ढंग से पढ़ाने का अर्थ है:",
+   "options": [
+    "giving rules first and then examples",
+    "asking learners to memorise rules",
+    "teaching through translation",
+    "letting learners observe examples and discover the rule"
+   ],
+   "optionsHi": [
+    "पहले नियम देना और फिर उदाहरण",
+    "बच्चों से नियम रटवाना",
+    "अनुवाद के माध्यम से पढ़ाना",
+    "बच्चों को उदाहरण देखकर स्वयं नियम खोजने देना"
+   ],
+   "correctIndex": 3,
+   "explanation": "In the inductive approach learners move from examples to the rule. Giving the rule first is the deductive approach.",
+   "explanationHi": "आगमनात्मक विधि में बच्चे उदाहरणों से नियम की ओर जाते हैं। पहले नियम बताना निगमनात्मक (deductive) विधि है।"
+  },
+  {
+   "id": "t08-ped-12",
+   "part": "A",
+   "section": "ped",
+   "topic": "Grammar-Translation Method",
+   "question": "The Grammar-Translation Method mainly emphasises:",
+   "questionHi": "व्याकरण-अनुवाद विधि मुख्यतः किस पर बल देती है?",
+   "options": [
+    "oral fluency",
+    "reading, writing, rules and translation",
+    "listening drills",
+    "communicative tasks"
+   ],
+   "optionsHi": [
+    "मौखिक प्रवाह",
+    "पढ़ना, लिखना, नियम और अनुवाद",
+    "श्रवण अभ्यास",
+    "संप्रेषणात्मक कार्य"
+   ],
+   "correctIndex": 1,
+   "explanation": "This method teaches through rules, vocabulary lists and translation, giving little attention to speaking.",
+   "explanationHi": "यह विधि नियमों, शब्द-सूचियों और अनुवाद से पढ़ाती है तथा बोलने पर कम ध्यान देती है।"
+  },
+  {
+   "id": "t08-ped-13",
+   "part": "A",
+   "section": "ped",
+   "topic": "Learning difficulties",
+   "question": "Dyslexia is a learning difficulty mainly related to:",
+   "questionHi": "डिस्लेक्सिया मुख्यतः किससे संबंधित अधिगम कठिनाई है?",
+   "options": [
+    "arithmetic",
+    "handwriting",
+    "reading and decoding words",
+    "hearing"
+   ],
+   "optionsHi": [
+    "अंकगणित",
+    "हस्तलेखन",
+    "पढ़ना और शब्दों को पहचानना",
+    "सुनना"
+   ],
+   "correctIndex": 2,
+   "explanation": "Dyslexia is a difficulty in reading and decoding words despite normal intelligence.",
+   "explanationHi": "डिस्लेक्सिया सामान्य बुद्धि के बावजूद पढ़ने और शब्दों को पहचानने की कठिनाई है।"
+  },
+  {
+   "id": "t08-ped-14",
+   "part": "A",
+   "section": "ped",
+   "topic": "Learning difficulties",
+   "question": "Difficulty in handwriting and written expression is called:",
+   "questionHi": "हस्तलेखन और लिखित अभिव्यक्ति की कठिनाई को क्या कहते हैं?",
+   "options": [
+    "dysgraphia",
+    "dyscalculia",
+    "dyslexia",
+    "aphasia"
+   ],
+   "optionsHi": [
+    "डिस्ग्राफिया",
+    "डिस्कैल्कुलिया",
+    "डिस्लेक्सिया",
+    "वाचाघात (aphasia)"
+   ],
+   "correctIndex": 0,
+   "explanation": "Dysgraphia affects writing; dyscalculia affects mathematics and dyslexia affects reading.",
+   "explanationHi": "डिस्ग्राफिया लेखन को, डिस्कैल्कुलिया गणित को और डिस्लेक्सिया पढ़ने को प्रभावित करता है।"
+  },
+  {
+   "id": "t08-ped-15",
+   "part": "A",
+   "section": "ped",
+   "topic": "Errors and interlanguage",
+   "question": "A child says \"goed\" instead of \"went\". This is an example of:",
+   "questionHi": "एक बच्चा \"went\" की जगह \"goed\" कहता है। यह किसका उदाहरण है?",
+   "options": [
+    "imitation",
+    "overgeneralisation",
+    "code-switching",
+    "fossilisation"
+   ],
+   "optionsHi": [
+    "अनुकरण",
+    "अतिसामान्यीकरण (overgeneralisation)",
+    "कोड-स्विचिंग",
+    "जड़ीभवन (fossilisation)"
+   ],
+   "correctIndex": 1,
+   "explanation": "The child applies the regular \"-ed\" rule to an irregular verb; this is overgeneralisation.",
+   "explanationHi": "बच्चा नियमित \"-ed\" नियम को अनियमित क्रिया पर लगा देता है; यह अतिसामान्यीकरण है।"
+  }
+ ]
+}

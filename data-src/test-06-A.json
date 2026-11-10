@@ -1,0 +1,1059 @@
+{
+ "passages": [
+  {
+   "id": "t06-p1",
+   "genre": "Scientific passage",
+   "title": "The Language of the Hive",
+   "text": "Honeybees communicate the location of food through a remarkable behaviour known as the waggle dance. When a forager finds a rich patch of flowers, it returns to the hive and moves in a figure-of-eight pattern on the vertical honeycomb. The angle of the straight central run, measured against the direction of gravity, indicates the direction of the food in relation to the sun. The duration of the waggle shows the distance: the longer the waggle, the farther the flowers. Other bees follow the dancer closely, touching her with their antennae, and then fly out to find the source. Scientists once doubted that an insect could pass on such precise information, but decades of careful experiments have confirmed the system. Interestingly, the dance remains accurate even on cloudy days, because bees can detect patterns of polarised light in the sky. This ability, invisible to humans, allows the colony to gather food efficiently, and it reminds us how much remains to be discovered about even the smallest creatures."
+  },
+  {
+   "id": "t06-p2",
+   "genre": "Poetry (original verse)",
+   "title": "The Potter's Wheel",
+   "text": "The wheel spins slowly in the dusty yard,\nAnd clay, once lifeless, learns to rise;\nThe potter's hands, though rough and scarred,\nHold patience in their gentle ties.\nHe does not hurry, does not force,\nBut coaxes shape from shapeless earth;\nEach curve is born of steady course,\nEach vessel is a quiet birth.\nSome pots will carry water home,\nSome hold the lamps of festival;\nHe never knows where they will roam,\nYet shapes each one as if for all.\nThe sun goes down; the pots are set\nIn rows to dry, a silent crowd.\nHe wipes his brow, and has not yet\nSaid whether he is tired or proud.\nTomorrow, more clay will wait;\nHe smiles, for work is not a weight."
+  },
+  {
+   "id": "t06-p3",
+   "genre": "Newspaper editorial",
+   "title": "Libraries Are Not a Luxury",
+   "text": "Public libraries are often the first casualties when municipal budgets are trimmed. Their value does not appear on a balance sheet: no ribbon is cut for a child who finds her first book, and no statistic records the unemployed young man who prepares for an interview at a reading-room table. Yet these quiet transactions shape a city's future far more than many showy projects do. Critics argue that in the age of smartphones, libraries are redundant. This argument confuses information with understanding. A phone may supply a million facts, but a library offers a calm space, trained guidance and, above all, a community of readers. Closing such institutions to save a small sum is like cutting down an orchard to save the cost of watering it. Councils would do well to remember that a society is judged not only by the roads it builds but also by the minds it nourishes. It is time to treat libraries as essential infrastructure, not as optional luxuries."
+  }
+ ],
+ "questions": [
+  {
+   "id": "t06-gram-01",
+   "part": "A",
+   "section": "gram",
+   "topic": "Tenses",
+   "question": "She ______ in this school since 2010.",
+   "options": [
+    "teaches",
+    "is teaching",
+    "has been teaching",
+    "taught"
+   ],
+   "correctIndex": 2,
+   "explanation": "'Since 2010' shows an action that began in the past and continues now, so the present perfect continuous 'has been teaching' is used. Simple present, present continuous and simple past do not fit 'since'."
+  },
+  {
+   "id": "t06-gram-02",
+   "part": "A",
+   "section": "gram",
+   "topic": "Identifying clauses",
+   "question": "Identify the clause in italics: \"The book that you lent me is excellent.\"",
+   "options": [
+    "Defining relative clause",
+    "Non-defining relative clause",
+    "Noun clause",
+    "Adverb clause of time"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"that you lent me\" modifies the noun \"book\" and is essential to identify which book is meant, so it is a defining relative clause. It is not set off by commas (so not non-defining), it does not act as a noun, and it does not tell time."
+  },
+  {
+   "id": "t06-gram-03",
+   "part": "A",
+   "section": "gram",
+   "topic": "Transformation of sentences",
+   "question": "Convert into a compound sentence: \"Despite being poor, he was honest.\"",
+   "options": [
+    "He was poor, so he was honest.",
+    "He was poor because he was honest.",
+    "Though he was poor, he was honest.",
+    "He was poor, but he was honest."
+   ],
+   "correctIndex": 3,
+   "explanation": "A compound sentence joins two independent clauses with a coordinator; \"but\" keeps the contrast. Option C is a complex sentence."
+  },
+  {
+   "id": "t06-gram-04",
+   "part": "A",
+   "section": "gram",
+   "topic": "Direct-Indirect speech",
+   "question": "Change into indirect speech: He said to me, \"Where do you live?\"",
+   "options": [
+    "He asked me where do I live.",
+    "He asked me where I lived.",
+    "He told me where I lived.",
+    "He asked me where did I live."
+   ],
+   "correctIndex": 1,
+   "explanation": "A wh-question is reported with \"asked\", normal word order and backshift (live to lived), \"you\" to \"I\". The other options keep question order or use \"told\"."
+  },
+  {
+   "id": "t06-gram-05",
+   "part": "A",
+   "section": "gram",
+   "topic": "Inversion and cleft sentences",
+   "question": "Hardly had he reached the office ______ the phone rang.",
+   "options": [
+    "when",
+    "than",
+    "while",
+    "after"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"Hardly ... when\" is the correct correlative pair; \"than\" goes with \"No sooner\". \"While\" and \"after\" do not fit this pattern."
+  },
+  {
+   "id": "t06-gram-06",
+   "part": "A",
+   "section": "gram",
+   "topic": "Conditional sentences",
+   "question": "Unless you ______ now, you will miss the train.",
+   "options": [
+    "will hurry",
+    "hurry",
+    "hurried",
+    "are hurrying"
+   ],
+   "correctIndex": 1,
+   "explanation": "\"Unless\" already carries a negative sense, so the verb in the if-clause is in the simple present: \"Unless you hurry\"."
+  },
+  {
+   "id": "t06-gram-07",
+   "part": "A",
+   "section": "gram",
+   "topic": "Elliptical sentence pattern",
+   "question": "Which of the following sentences contains ellipsis (omission of words that can be recovered from the context)?",
+   "options": [
+    "Ravi likes tea and Mohan likes coffee.",
+    "Ravi likes tea and Mohan coffee.",
+    "Ravi, who likes tea, is here.",
+    "Does Ravi like tea?"
+   ],
+   "correctIndex": 1,
+   "explanation": "In \"Mohan coffee\" the verb \"likes\" is omitted but understood from the first clause, which is ellipsis (gapping). The other sentences are complete; nothing is omitted."
+  },
+  {
+   "id": "t06-gram-08",
+   "part": "A",
+   "section": "gram",
+   "topic": "Determiners",
+   "question": "He has ______ friends in the city, so he feels lonely.",
+   "options": [
+    "a few",
+    "a little",
+    "little",
+    "few"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"Few\" (with a plural countable noun) means almost none and gives a negative sense that fits \"lonely\". \"A few\" is positive; \"little\" and \"a little\" are used with uncountable nouns."
+  },
+  {
+   "id": "t06-gram-09",
+   "part": "A",
+   "section": "gram",
+   "topic": "Modals",
+   "question": "You ______ smoke here; it is strictly prohibited.",
+   "options": [
+    "needn't",
+    "may",
+    "mustn't",
+    "can"
+   ],
+   "correctIndex": 2,
+   "explanation": "\"Mustn't\" expresses prohibition. \"Needn't\" means no necessity, while \"may\" and \"can\" would suggest permission, which contradicts \"prohibited\"."
+  },
+  {
+   "id": "t06-gram-10",
+   "part": "A",
+   "section": "gram",
+   "topic": "Question tag",
+   "question": "Nobody called me yesterday, ______?",
+   "options": [
+    "did they",
+    "didn't they",
+    "did he",
+    "was it"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"Nobody\" is negative in meaning, so the tag is positive; \"nobody\" is referred to by \"they\". Hence \"did they\"."
+  },
+  {
+   "id": "t06-gram-11",
+   "part": "A",
+   "section": "gram",
+   "topic": "Finite and non-finite verbs",
+   "question": "Identify the non-finite verb: \"Seeing the tiger, the boy ran away.\"",
+   "options": [
+    "ran",
+    "boy",
+    "tiger",
+    "Seeing"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"Seeing\" is a present participle and has no tense or subject agreement, so it is non-finite. \"Ran\" is the finite verb; \"boy\" and \"tiger\" are nouns."
+  },
+  {
+   "id": "t06-gram-12",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subject-verb agreement",
+   "question": "Each of the players ______ a medal.",
+   "options": [
+    "have won",
+    "has won",
+    "were winning",
+    "win"
+   ],
+   "correctIndex": 1,
+   "explanation": "'Each' takes a singular verb, so 'has won' is correct. 'Have won' and 'win' are plural; 'were winning' does not fit the sense."
+  },
+  {
+   "id": "t06-gram-13",
+   "part": "A",
+   "section": "gram",
+   "topic": "Tenses",
+   "question": "I ______ in this city since 2015.",
+   "options": [
+    "have been living",
+    "am living",
+    "lived",
+    "had lived"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"Since 2015\" shows an action that began in the past and continues now, so the present perfect continuous is used. \"Am living\" and \"lived\" do not link past to present; \"had lived\" is past perfect."
+  },
+  {
+   "id": "t06-gram-14",
+   "part": "A",
+   "section": "gram",
+   "topic": "Identifying clauses",
+   "question": "Identify the noun clause: \"I do not know what he wants.\"",
+   "options": [
+    "I do not know",
+    "do not know what",
+    "he wants what",
+    "what he wants"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"What he wants\" is the object of \"know\", so it works as a noun clause. \"I do not know\" is the main clause; the other options are not clauses in the sentence."
+  },
+  {
+   "id": "t06-gram-15",
+   "part": "A",
+   "section": "gram",
+   "topic": "Elliptical patterns",
+   "question": "In \"Some people like tea; others, coffee\", which word is omitted from the second clause?",
+   "options": [
+    "is",
+    "are",
+    "like",
+    "likes"
+   ],
+   "correctIndex": 2,
+   "explanation": "The clause means \"others like coffee\"; the verb \"like\" is left out to avoid repetition, which is ellipsis."
+  },
+  {
+   "id": "t06-vocab-01",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idioms",
+   "question": "Choose the meaning of the idiom \"to bite the bullet\".",
+   "options": [
+    "To eat something very quickly",
+    "To face a painful situation bravely",
+    "To argue angrily",
+    "To avoid a problem"
+   ],
+   "correctIndex": 1,
+   "explanation": "The idiom means to endure something unpleasant with courage. The other meanings are not related to the phrase."
+  },
+  {
+   "id": "t06-vocab-02",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "Identify the figure of speech in \"deafening silence\".",
+   "options": [
+    "Metonymy",
+    "Pun",
+    "Irony",
+    "Oxymoron"
+   ],
+   "correctIndex": 3,
+   "explanation": "Two contradictory words are combined in one phrase, which is an oxymoron."
+  },
+  {
+   "id": "t06-vocab-03",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word formation (morphemes)",
+   "question": "How many morphemes are there in the word \"unbreakable\"?",
+   "options": [
+    "Three",
+    "Two",
+    "Four",
+    "One"
+   ],
+   "correctIndex": 0,
+   "explanation": "un- + break + -able: one prefix, one root and one suffix, so three morphemes."
+  },
+  {
+   "id": "t06-vocab-04",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Polysemy",
+   "question": "In which sentence is the word \"bank\" used in the sense of the edge of a river?",
+   "options": [
+    "I need to deposit money in the bank.",
+    "The bank will open at ten.",
+    "We sat on the bank and watched the boats.",
+    "He works as a clerk in a bank."
+   ],
+   "correctIndex": 2,
+   "explanation": "\"Bank\" is polysemous. Only the first sentence refers to land beside the water; the rest refer to a financial institution."
+  },
+  {
+   "id": "t06-vocab-05",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Collocations",
+   "question": "He ______ a lie to his teacher.",
+   "options": [
+    "said",
+    "told",
+    "spoke",
+    "talked"
+   ],
+   "correctIndex": 1,
+   "explanation": "The natural collocation is \"tell a lie\". \"Say a lie\", \"speak a lie\" and \"talk a lie\" are not idiomatic."
+  },
+  {
+   "id": "t06-vocab-06",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word class conversion",
+   "question": "The word \"light\" in \"Light the lamp\" is used as a ______.",
+   "options": [
+    "verb",
+    "noun",
+    "adjective",
+    "adverb"
+   ],
+   "correctIndex": 0,
+   "explanation": "Here \"light\" is an action word (to ignite), so it works as a verb. As a noun it would name brightness; as an adjective it would describe a noun."
+  },
+  {
+   "id": "t06-vocab-07",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Lexical bundles",
+   "question": "The phrase \"on the other hand\" is used to ______.",
+   "options": [
+    "add a similar point",
+    "give an example",
+    "conclude an argument",
+    "introduce a contrasting point"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"On the other hand\" is a lexical bundle that signals contrast. Similarity, examples and conclusions use \"similarly\", \"for instance\" and \"in conclusion\"."
+  },
+  {
+   "id": "t06-vocab-08",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idioms",
+   "question": "Choose the meaning of \"a blessing in disguise\".",
+   "options": [
+    "A prayer said secretly",
+    "A false promise",
+    "Something good that seems bad at first",
+    "A gift given in public"
+   ],
+   "correctIndex": 2,
+   "explanation": "The idiom describes a misfortune that later proves beneficial. The other meanings are literal guesses and are wrong."
+  },
+  {
+   "id": "t06-vocab-09",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "\"Deafening silence\" is an example of ______.",
+   "options": [
+    "metaphor",
+    "oxymoron",
+    "simile",
+    "euphemism"
+   ],
+   "correctIndex": 1,
+   "explanation": "An oxymoron joins two contradictory words (deafening + silence). A metaphor compares directly; a simile uses \"like/as\"; a euphemism is a softer word for something unpleasant."
+  },
+  {
+   "id": "t06-vocab-10",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Homophones",
+   "question": "Which of the following pairs consists of homophones?",
+   "options": [
+    "sit - seat",
+    "ship - sheep",
+    "bad - bed",
+    "knight - night"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"Knight\" and \"night\" sound the same but differ in spelling and meaning. The other pairs differ in pronunciation."
+  },
+  {
+   "id": "t06-vocab-11",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word class conversion",
+   "question": "The verb form of the noun \"strength\" is ______.",
+   "options": [
+    "strengthen",
+    "strengthed",
+    "strongen",
+    "strengthify"
+   ],
+   "correctIndex": 0,
+   "explanation": "Adding -en to \"strength\" gives the verb \"strengthen\". The other forms do not exist."
+  },
+  {
+   "id": "t06-vocab-12",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Collocations",
+   "question": "He was arrested for ______ a serious crime.",
+   "options": [
+    "doing",
+    "making",
+    "committing",
+    "performing"
+   ],
+   "correctIndex": 2,
+   "explanation": "We \"commit\" a crime. \"Doing\", \"making\" and \"performing\" a crime are not natural collocations."
+  },
+  {
+   "id": "t06-vocab-13",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idioms",
+   "question": "What does the idiom \"to turn a blind eye\" mean?",
+   "options": [
+    "To lose one's eyesight",
+    "To close the eyes in prayer",
+    "To look at something carefully",
+    "To pretend not to notice something wrong"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"Turn a blind eye\" means to deliberately ignore something one knows is wrong."
+  },
+  {
+   "id": "t06-vocab-14",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "\"I have told you a million times to be on time.\" The figure of speech used is ______.",
+   "options": [
+    "irony",
+    "hyperbole",
+    "pun",
+    "metonymy"
+   ],
+   "correctIndex": 1,
+   "explanation": "A \"million times\" is an obvious overstatement for emphasis, which is hyperbole. It is not irony (opposite meaning), a pun (wordplay) or metonymy (substitution of a related name)."
+  },
+  {
+   "id": "t06-vocab-15",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word class conversion",
+   "question": "Which of the following can be used both as a noun and as a verb without any change in form?",
+   "options": [
+    "Walk",
+    "Beauty",
+    "Quickly",
+    "Happy"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"Walk\" works as a noun (\"a walk\") and a verb (\"to walk\"). \"Beauty\" is only a noun, \"quickly\" is an adverb and \"happy\" is an adjective."
+  },
+  {
+   "id": "t06-rc-01",
+   "part": "A",
+   "section": "rc",
+   "topic": "Main idea",
+   "passageId": "t06-p1",
+   "question": "What is the passage mainly about?",
+   "options": [
+    "How bees build honeycombs",
+    "How honeybees share information about food through dance",
+    "Why bees fear cloudy weather",
+    "How scientists breed bees"
+   ],
+   "correctIndex": 1,
+   "explanation": "The whole passage explains the waggle dance and how it indicates the direction and distance of food. The other topics are not discussed."
+  },
+  {
+   "id": "t06-rc-02",
+   "part": "A",
+   "section": "rc",
+   "topic": "Detail",
+   "passageId": "t06-p1",
+   "question": "According to the passage, the distance of the food is shown by ______.",
+   "options": [
+    "the angle of the central run",
+    "the touch of antennae",
+    "the pattern of polarised light",
+    "the duration of the waggle"
+   ],
+   "correctIndex": 3,
+   "explanation": "The passage says \"the duration of the waggle shows the distance\". The angle shows direction; antennae touching is how bees follow; polarised light helps on cloudy days."
+  },
+  {
+   "id": "t06-rc-03",
+   "part": "A",
+   "section": "rc",
+   "topic": "Vocabulary in context",
+   "passageId": "t06-p1",
+   "question": "The word \"precise\" in the passage (precise information) most nearly means ______.",
+   "options": [
+    "exact",
+    "vague",
+    "quick",
+    "secret"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"Precise\" means exact and accurate; the dance conveys exact direction and distance."
+  },
+  {
+   "id": "t06-rc-04",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t06-p1",
+   "question": "It can be inferred from the passage that earlier scientists ______.",
+   "options": [
+    "had invented the waggle dance",
+    "disliked studying bees",
+    "underestimated the abilities of insects",
+    "were sure bees could not fly"
+   ],
+   "correctIndex": 2,
+   "explanation": "The line \"Scientists once doubted that an insect could pass on such precise information\" implies they underestimated insects. The other statements have no basis."
+  },
+  {
+   "id": "t06-rc-05",
+   "part": "A",
+   "section": "rc",
+   "topic": "Tone",
+   "passageId": "t06-p1",
+   "question": "The tone of the writer in the last sentence is ______.",
+   "options": [
+    "critical and angry",
+    "admiring and curious",
+    "indifferent",
+    "sarcastic"
+   ],
+   "correctIndex": 1,
+   "explanation": "The writer marvels at bees (\"reminds us how much remains to be discovered\"), which shows admiration and curiosity."
+  },
+  {
+   "id": "t06-rc-06",
+   "part": "A",
+   "section": "rc",
+   "topic": "Theme",
+   "passageId": "t06-p2",
+   "question": "The central idea of the poem is ______.",
+   "options": [
+    "dedication and patience in humble work",
+    "the pride of wealth",
+    "the sadness of old age",
+    "the beauty of festivals"
+   ],
+   "correctIndex": 0,
+   "explanation": "The poem shows the potter working patiently and shaping every pot with care. It does not deal with wealth, old age or festivals as its main idea."
+  },
+  {
+   "id": "t06-rc-07",
+   "part": "A",
+   "section": "rc",
+   "topic": "Figure of speech",
+   "passageId": "t06-p2",
+   "question": "In \"clay, once lifeless, learns to rise\", the poet uses ______.",
+   "options": [
+    "simile",
+    "hyperbole",
+    "personification",
+    "irony"
+   ],
+   "correctIndex": 2,
+   "explanation": "Clay is given the human ability to learn, which is personification. No comparison word is used (simile), nothing is exaggerated, and there is no opposite meaning."
+  },
+  {
+   "id": "t06-rc-08",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t06-p2",
+   "question": "The lines \"has not yet / Said whether he is tired or proud\" suggest that the potter feels ______.",
+   "options": [
+    "only angry",
+    "completely bored",
+    "afraid of the market",
+    "both weary and satisfied"
+   ],
+   "correctIndex": 3,
+   "explanation": "He does not say whether he is tired or proud, which suggests that both feelings are mixed. Anger, boredom and fear are not hinted at."
+  },
+  {
+   "id": "t06-rc-09",
+   "part": "A",
+   "section": "rc",
+   "topic": "Vocabulary in context",
+   "passageId": "t06-p2",
+   "question": "The word \"coaxes\" in the poem means ______.",
+   "options": [
+    "forcefully breaks",
+    "gently persuades",
+    "quickly sells",
+    "secretly hides"
+   ],
+   "correctIndex": 1,
+   "explanation": "He \"does not force\" but \"coaxes\", so it means to persuade gently."
+  },
+  {
+   "id": "t06-rc-10",
+   "part": "A",
+   "section": "rc",
+   "topic": "Interpretation",
+   "passageId": "t06-p2",
+   "question": "What does the last line, \"for work is not a weight\", mean?",
+   "options": [
+    "He has no work to do",
+    "He wants to lift heavy loads",
+    "To him work is a joy, not a burden",
+    "He is too poor to rest"
+   ],
+   "correctIndex": 2,
+   "explanation": "The potter smiles at the thought of more work, so he does not see it as a burden. The others misread the line."
+  },
+  {
+   "id": "t06-rc-11",
+   "part": "A",
+   "section": "rc",
+   "topic": "Central argument",
+   "passageId": "t06-p3",
+   "question": "The writer's main argument is that ______.",
+   "options": [
+    "smartphones should be banned",
+    "new roads are unnecessary",
+    "councils should build more malls",
+    "libraries deserve funding as essential infrastructure"
+   ],
+   "correctIndex": 3,
+   "explanation": "The last sentence says libraries should be treated \"as essential infrastructure\". The writer does not attack smartphones or roads."
+  },
+  {
+   "id": "t06-rc-12",
+   "part": "A",
+   "section": "rc",
+   "topic": "Rhetorical device",
+   "passageId": "t06-p3",
+   "question": "The comparison \"like cutting down an orchard to save the cost of watering it\" is a ______.",
+   "options": [
+    "simile",
+    "metaphor",
+    "irony",
+    "personification"
+   ],
+   "correctIndex": 0,
+   "explanation": "The comparison uses \"like\", so it is a simile. A metaphor would not use \"like\", and there is no irony or personification."
+  },
+  {
+   "id": "t06-rc-13",
+   "part": "A",
+   "section": "rc",
+   "topic": "Vocabulary in context",
+   "passageId": "t06-p3",
+   "question": "The phrase \"municipal budgets are trimmed\" means that the budgets are ______.",
+   "options": [
+    "decorated",
+    "reduced",
+    "approved",
+    "printed"
+   ],
+   "correctIndex": 1,
+   "explanation": "To trim a budget is to cut it down or reduce it."
+  },
+  {
+   "id": "t06-rc-14",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t06-p3",
+   "question": "By saying the argument \"confuses information with understanding\", the writer implies that ______.",
+   "options": [
+    "phones give no facts",
+    "libraries have no information",
+    "having facts is not the same as understanding them",
+    "understanding is useless"
+   ],
+   "correctIndex": 2,
+   "explanation": "The writer admits a phone supplies facts but says a library also offers guidance and a community, so facts alone do not mean understanding."
+  },
+  {
+   "id": "t06-rc-15",
+   "part": "A",
+   "section": "rc",
+   "topic": "Tone",
+   "passageId": "t06-p3",
+   "question": "The tone of the editorial can best be described as ______.",
+   "options": [
+    "earnest and persuasive",
+    "humorous",
+    "hopeless",
+    "neutral and factual"
+   ],
+   "correctIndex": 0,
+   "explanation": "The writer argues strongly and urges action (\"It is time to ...\"), which is an earnest and persuasive tone."
+  },
+  {
+   "id": "t06-ped-01",
+   "part": "A",
+   "section": "ped",
+   "topic": "Role of grammar",
+   "question": "In modern English language teaching, grammar is best taught ______.",
+   "questionHi": "अंग्रेज़ी भाषा शिक्षण में व्याकरण को सबसे अच्छी तरह कैसे पढ़ाया जाना चाहिए?",
+   "options": [
+    "by memorising rules in isolation",
+    "only through translation",
+    "only after students finish the textbook",
+    "in context, as a tool for meaningful communication"
+   ],
+   "optionsHi": [
+    "नियमों को अलग से रटकर",
+    "केवल अनुवाद के माध्यम से",
+    "पाठ्यपुस्तक पूरी होने के बाद ही",
+    "संदर्भ में, सार्थक संप्रेषण के साधन के रूप में"
+   ],
+   "correctIndex": 3,
+   "explanation": "Grammar is a means to communicate. Teaching it in context through use helps learners apply it. Rote rule learning, translation-only and delayed teaching do not build communication.",
+   "explanationHi": "व्याकरण संप्रेषण का साधन है। संदर्भ में प्रयोग के साथ सिखाने से छात्र उसे लागू कर पाते हैं। नियम रटना, केवल अनुवाद या देर से सिखाना संप्रेषण नहीं बढ़ाता।"
+  },
+  {
+   "id": "t06-ped-02",
+   "part": "A",
+   "section": "ped",
+   "topic": "Methods: Grammar-Translation",
+   "question": "Which method gives prime importance to grammar rules and translation, using the mother tongue as the medium?",
+   "questionHi": "कौन-सी विधि व्याकरण के नियमों और अनुवाद को सबसे अधिक महत्व देती है और माध्यम के रूप में मातृभाषा का उपयोग करती है?",
+   "options": [
+    "Direct Method",
+    "Grammar-Translation Method",
+    "Audio-Lingual Method",
+    "Communicative Approach"
+   ],
+   "optionsHi": [
+    "प्रत्यक्ष विधि",
+    "व्याकरण-अनुवाद विधि",
+    "श्रव्य-भाषिक विधि",
+    "संप्रेषणात्मक उपागम"
+   ],
+   "correctIndex": 1,
+   "explanation": "The Grammar-Translation Method teaches rules and translation using the mother tongue. The other methods reduce or avoid the use of the mother tongue.",
+   "explanationHi": "व्याकरण-अनुवाद विधि में नियम और अनुवाद मातृभाषा के माध्यम से सिखाए जाते हैं। अन्य विधियाँ मातृभाषा का प्रयोग कम या बंद करती हैं।"
+  },
+  {
+   "id": "t06-ped-03",
+   "part": "A",
+   "section": "ped",
+   "topic": "Methods: Direct Method",
+   "question": "Which method avoids the use of the mother tongue and uses objects, pictures and demonstration to teach meaning?",
+   "questionHi": "कौन-सी विधि मातृभाषा के प्रयोग से बचती है और अर्थ सिखाने के लिए वस्तुओं, चित्रों तथा प्रदर्शन का उपयोग करती है?",
+   "options": [
+    "Direct Method",
+    "Grammar-Translation Method",
+    "Bilingual Method",
+    "Structural Approach"
+   ],
+   "optionsHi": [
+    "प्रत्यक्ष विधि",
+    "व्याकरण-अनुवाद विधि",
+    "द्विभाषिक विधि",
+    "संरचनात्मक उपागम"
+   ],
+   "correctIndex": 0,
+   "explanation": "The Direct Method links words directly to objects and actions without translation. The Grammar-Translation and Bilingual methods use the mother tongue.",
+   "explanationHi": "प्रत्यक्ष विधि में शब्दों को सीधे वस्तुओं और क्रियाओं से जोड़ा जाता है, अनुवाद नहीं किया जाता। व्याकरण-अनुवाद और द्विभाषिक विधि में मातृभाषा का प्रयोग होता है।"
+  },
+  {
+   "id": "t06-ped-04",
+   "part": "A",
+   "section": "ped",
+   "topic": "Methods: TPR",
+   "question": "Total Physical Response (TPR), which links language with physical action, was developed by ______.",
+   "questionHi": "भाषा को शारीरिक क्रिया से जोड़ने वाली टोटल फिजिकल रिस्पांस (TPR) पद्धति किसने विकसित की?",
+   "options": [
+    "Noam Chomsky",
+    "Stephen Krashen",
+    "James Asher",
+    "Jerome Bruner"
+   ],
+   "optionsHi": [
+    "नोम चॉम्स्की",
+    "स्टीफन क्रैशेन",
+    "जेम्स एशर",
+    "जेरोम ब्रूनर"
+   ],
+   "correctIndex": 2,
+   "explanation": "James Asher developed TPR, in which learners respond to commands with physical movement.",
+   "explanationHi": "जेम्स एशर ने TPR विकसित की, जिसमें शिक्षार्थी आदेशों का उत्तर शारीरिक गति से देते हैं।"
+  },
+  {
+   "id": "t06-ped-05",
+   "part": "A",
+   "section": "ped",
+   "topic": "Methods: Silent Way",
+   "question": "Coloured Cuisenaire rods are a characteristic teaching aid of which method?",
+   "questionHi": "रंगीन क्यूज़ेनेयर छड़ें किस शिक्षण पद्धति का विशिष्ट साधन हैं?",
+   "options": [
+    "The Silent Way",
+    "Grammar-Translation Method",
+    "Audio-Lingual Method",
+    "Direct Method"
+   ],
+   "optionsHi": [
+    "साइलेंट वे",
+    "व्याकरण-अनुवाद पद्धति",
+    "श्रव्य-भाषिक पद्धति",
+    "प्रत्यक्ष पद्धति"
+   ],
+   "correctIndex": 0,
+   "explanation": "Caleb Gattegno's Silent Way uses coloured rods to teach vocabulary and structures.",
+   "explanationHi": "केलेब गैटेग्नो की साइलेंट वे में शब्दावली और संरचनाएँ सिखाने के लिए रंगीन छड़ों का प्रयोग होता है।"
+  },
+  {
+   "id": "t06-ped-06",
+   "part": "A",
+   "section": "ped",
+   "topic": "Methods: TBLT",
+   "question": "In Task-Based Language Teaching (TBLT), the main unit of the lesson is a ______.",
+   "questionHi": "कार्य-आधारित भाषा शिक्षण (TBLT) में पाठ की मुख्य इकाई क्या होती है?",
+   "options": [
+    "grammar rule",
+    "vocabulary list",
+    "dictation",
+    "task"
+   ],
+   "optionsHi": [
+    "व्याकरण का नियम",
+    "शब्द-सूची",
+    "श्रुतलेख",
+    "कार्य (task)"
+   ],
+   "correctIndex": 3,
+   "explanation": "TBLT organises learning around meaningful tasks such as planning a trip. Rules, word lists and dictation are not its central unit.",
+   "explanationHi": "TBLT में सीखना सार्थक कार्यों, जैसे यात्रा की योजना बनाना, के आसपास संगठित होता है। नियम, शब्द-सूची और श्रुतलेख इसकी मुख्य इकाई नहीं हैं।"
+  },
+  {
+   "id": "t06-ped-07",
+   "part": "A",
+   "section": "ped",
+   "topic": "Diverse classroom and multilingualism",
+   "question": "A teacher has students with different home languages. The best approach is to ______.",
+   "questionHi": "एक शिक्षक की कक्षा में छात्रों की घरेलू भाषाएँ अलग-अलग हैं। सबसे अच्छा तरीका क्या है?",
+   "options": [
+    "ban all languages except English",
+    "treat the languages of the learners as a resource for learning",
+    "punish the use of home language",
+    "teach only the students who know English"
+   ],
+   "optionsHi": [
+    "अंग्रेज़ी के अलावा सभी भाषाओं पर रोक लगाना",
+    "छात्रों की भाषाओं को सीखने के संसाधन के रूप में उपयोग करना",
+    "घरेलू भाषा बोलने पर दंड देना",
+    "केवल उन्हीं को पढ़ाना जो अंग्रेज़ी जानते हैं"
+   ],
+   "correctIndex": 1,
+   "explanation": "Multilingualism is a strength; using home languages helps understanding and builds confidence. Banning or punishing them harms learning and excludes learners.",
+   "explanationHi": "बहुभाषिकता एक शक्ति है; घरेलू भाषाओं के प्रयोग से समझ और आत्मविश्वास बढ़ता है। प्रतिबंध या दंड से सीखना बाधित होता है और बच्चे बाहर हो जाते हैं।"
+  },
+  {
+   "id": "t06-ped-08",
+   "part": "A",
+   "section": "ped",
+   "topic": "Errors vs mistakes",
+   "question": "A \"mistake\" differs from an \"error\" because a mistake is ______.",
+   "questionHi": "\"Mistake\" (भूल) और \"error\" (त्रुटि) में अंतर यह है कि mistake क्या है?",
+   "options": [
+    "a result of lack of knowledge of the rule",
+    "a systematic and repeated deviation",
+    "a performance slip that the learner can usually self-correct",
+    "a sign of a language disorder"
+   ],
+   "optionsHi": [
+    "नियम के ज्ञान की कमी का परिणाम",
+    "व्यवस्थित और बार-बार होने वाला विचलन",
+    "प्रदर्शन में हुई चूक, जिसे सीखने वाला प्रायः स्वयं सुधार सकता है",
+    "भाषा-विकार का संकेत"
+   ],
+   "correctIndex": 2,
+   "explanation": "Mistakes are random slips (tiredness, carelessness) and can be self-corrected. Errors reflect gaps in knowledge and are systematic.",
+   "explanationHi": "Mistake थकान या लापरवाही से हुई आकस्मिक चूक है जिसे स्वयं सुधारा जा सकता है। Error ज्ञान की कमी दिखाती है और व्यवस्थित होती है।"
+  },
+  {
+   "id": "t06-ped-09",
+   "part": "A",
+   "section": "ped",
+   "topic": "Interlanguage",
+   "question": "The term \"interlanguage\" refers to ______.",
+   "questionHi": "\"अंतर्भाषा\" (interlanguage) शब्द किसे दर्शाता है?",
+   "options": [
+    "the learner's developing language system between the first language and the target language",
+    "a language used between two countries",
+    "a translation exercise",
+    "the mother tongue of the learner"
+   ],
+   "optionsHi": [
+    "सीखने वाले की पहली भाषा और लक्ष्य भाषा के बीच विकसित हो रही भाषा-प्रणाली",
+    "दो देशों के बीच प्रयुक्त भाषा",
+    "एक अनुवाद अभ्यास",
+    "सीखने वाले की मातृभाषा"
+   ],
+   "correctIndex": 0,
+   "explanation": "Interlanguage (Selinker) is the transitional system a second language learner builds, with features of L1 and L2. The other options are not what the term means.",
+   "explanationHi": "अंतर्भाषा (सेलिंकर) वह संक्रमणकालीन प्रणाली है जो द्वितीय भाषा सीखने वाला बनाता है, जिसमें L1 और L2 दोनों की विशेषताएँ होती हैं। अन्य विकल्प इस शब्द का अर्थ नहीं हैं।"
+  },
+  {
+   "id": "t06-ped-10",
+   "part": "A",
+   "section": "ped",
+   "topic": "Teaching-learning materials",
+   "question": "The English textbook should be used by the teacher mainly as ______.",
+   "questionHi": "अंग्रेज़ी की पाठ्यपुस्तक का शिक्षक को मुख्य रूप से किस प्रकार उपयोग करना चाहिए?",
+   "options": [
+    "the only source of learning",
+    "one of the resources for learning, along with other materials",
+    "a book to be memorised word by word",
+    "a material to be avoided"
+   ],
+   "optionsHi": [
+    "सीखने का एकमात्र स्रोत",
+    "अन्य सामग्री के साथ सीखने के एक संसाधन के रूप में",
+    "शब्दशः रटने की पुस्तक",
+    "बचने योग्य सामग्री"
+   ],
+   "correctIndex": 1,
+   "explanation": "A textbook is a useful resource but should be supplemented by multimedia and local resources. Treating it as the only source or memorising it limits learning.",
+   "explanationHi": "पाठ्यपुस्तक उपयोगी संसाधन है, पर उसके साथ मल्टीमीडिया और स्थानीय संसाधन भी लेने चाहिए। उसे एकमात्र स्रोत मानना या रटवाना सीखने को सीमित करता है।"
+  },
+  {
+   "id": "t06-ped-11",
+   "part": "A",
+   "section": "ped",
+   "topic": "Remedial teaching",
+   "question": "Remedial teaching in language begins with ______.",
+   "questionHi": "भाषा में उपचारात्मक शिक्षण की शुरुआत किससे होती है?",
+   "options": [
+    "giving more homework",
+    "a final examination",
+    "transfer to a lower class",
+    "diagnosis of the learner's difficulties"
+   ],
+   "optionsHi": [
+    "अधिक गृहकार्य देने से",
+    "अंतिम परीक्षा से",
+    "निचली कक्षा में भेजने से",
+    "सीखने वाले की कठिनाइयों के निदान से"
+   ],
+   "correctIndex": 3,
+   "explanation": "Remedial work must first identify the exact problem (diagnosis) before planning suitable activities. Extra homework, exams or demotion do not address the cause.",
+   "explanationHi": "उपचारात्मक कार्य में पहले सही समस्या पहचानी जाती है (निदान), फिर उपयुक्त गतिविधियाँ बनती हैं। अधिक गृहकार्य, परीक्षा या पदावनति कारण को नहीं सुलझाती।"
+  },
+  {
+   "id": "t06-ped-12",
+   "part": "A",
+   "section": "ped",
+   "topic": "Language learning and acquisition (Krashen)",
+   "question": "In Krashen's Input Hypothesis, \"i + 1\" means ______.",
+   "questionHi": "क्रैशेन की इनपुट परिकल्पना में \"i + 1\" का क्या अर्थ है?",
+   "options": [
+    "one extra hour of study",
+    "input exactly at the current level",
+    "input slightly above the learner's current level",
+    "the first lesson of a course"
+   ],
+   "optionsHi": [
+    "पढ़ाई का एक अतिरिक्त घंटा",
+    "ठीक वर्तमान स्तर का इनपुट",
+    "सीखने वाले के वर्तमान स्तर से थोड़ा ऊपर का इनपुट",
+    "पाठ्यक्रम का पहला पाठ"
+   ],
+   "correctIndex": 2,
+   "explanation": "Here \"i\" is the current level and \"+1\" is the next stage, so comprehensible input should be a little beyond the learner's present ability. The other options misread the formula.",
+   "explanationHi": "यहाँ \"i\" वर्तमान स्तर है और \"+1\" अगला चरण, यानी बोधगम्य इनपुट सीखने वाले की वर्तमान क्षमता से थोड़ा आगे होना चाहिए। अन्य विकल्प सूत्र को गलत समझते हैं।"
+  },
+  {
+   "id": "t06-ped-13",
+   "part": "A",
+   "section": "ped",
+   "topic": "Theories: Skinner",
+   "question": "According to B. F. Skinner, language is learned through ______.",
+   "questionHi": "बी. एफ. स्किनर के अनुसार भाषा कैसे सीखी जाती है?",
+   "options": [
+    "imitation and reinforcement",
+    "an innate Language Acquisition Device",
+    "the Zone of Proximal Development",
+    "stages of cognitive development"
+   ],
+   "optionsHi": [
+    "अनुकरण और पुनर्बलन से",
+    "जन्मजात भाषा अर्जन युक्ति (LAD) से",
+    "निकटतम विकास क्षेत्र (ZPD) से",
+    "संज्ञानात्मक विकास की अवस्थाओं से"
+   ],
+   "correctIndex": 0,
+   "explanation": "Skinner, a behaviourist, said language is a habit formed through imitation and reinforcement. LAD is Chomsky's idea, ZPD is Vygotsky's and stages are Piaget's.",
+   "explanationHi": "व्यवहारवादी स्किनर के अनुसार भाषा अनुकरण और पुनर्बलन से बनी आदत है। LAD चॉम्स्की का, ZPD वाइगोत्स्की का और अवस्थाएँ पियाजे का विचार हैं।"
+  },
+  {
+   "id": "t06-ped-14",
+   "part": "A",
+   "section": "ped",
+   "topic": "Theories: Chomsky",
+   "question": "The concept of the Language Acquisition Device (LAD) was given by ______.",
+   "questionHi": "भाषा अर्जन युक्ति (LAD) की अवधारणा किसने दी?",
+   "options": [
+    "B. F. Skinner",
+    "Lev Vygotsky",
+    "Stephen Krashen",
+    "Noam Chomsky"
+   ],
+   "optionsHi": [
+    "बी. एफ. स्किनर",
+    "लेव वाइगोत्स्की",
+    "स्टीफन क्रैशेन",
+    "नोम चॉम्स्की"
+   ],
+   "correctIndex": 3,
+   "explanation": "Chomsky proposed that children are born with an innate LAD. Skinner stressed reinforcement, Vygotsky social interaction and Krashen input.",
+   "explanationHi": "चॉम्स्की ने कहा कि बच्चे जन्म से ही LAD लेकर आते हैं। स्किनर ने पुनर्बलन, वाइगोत्स्की ने सामाजिक अंतःक्रिया और क्रैशेन ने इनपुट पर बल दिया।"
+  },
+  {
+   "id": "t06-ped-15",
+   "part": "A",
+   "section": "ped",
+   "topic": "Linguistic system - Syntax",
+   "question": "The branch of linguistics that studies how words combine to form sentences is ______.",
+   "questionHi": "भाषाविज्ञान की वह शाखा जो शब्दों के मिलकर वाक्य बनाने का अध्ययन करती है, क्या कहलाती है?",
+   "options": [
+    "phonology",
+    "syntax",
+    "semantics",
+    "phonetics"
+   ],
+   "optionsHi": [
+    "स्वनिमविज्ञान (फोनोलॉजी)",
+    "वाक्यविन्यास (सिंटैक्स)",
+    "अर्थविज्ञान (सिमेंटिक्स)",
+    "ध्वनिविज्ञान (फोनेटिक्स)"
+   ],
+   "correctIndex": 1,
+   "explanation": "Syntax deals with sentence structure and word order. Semantics is meaning; phonology and phonetics deal with sounds.",
+   "explanationHi": "सिंटैक्स वाक्य-संरचना और शब्द-क्रम का अध्ययन है। सिमेंटिक्स अर्थ का, फोनोलॉजी व फोनेटिक्स ध्वनियों का अध्ययन करते हैं।"
+  }
+ ]
+}
