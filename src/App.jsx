@@ -25,7 +25,7 @@ function App() {
       <main className="mx-auto max-w-4xl px-3 sm:px-4 py-4 sm:py-6">
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/tests" element={<TestSeries />} />
+          <Route path="/series" element={<TestSeries />} />
           <Route path="/quiz" element={<Quiz />} />
           <Route path="/review/:id" element={<Review />} />
           <Route path="/history" element={<History />} />

@@ -18,7 +18,7 @@ export default function Home() {
 
       <div className="grid gap-3 sm:gap-4 grid-cols-1 sm:grid-cols-2 mb-6">
         <Link
-          to="/tests"
+          to="/series"
           className="rounded-xl border border-indigo-200 bg-indigo-50 p-4 sm:p-5 shadow-sm transition hover:border-indigo-400 hover:shadow-md"
         >
           <div className="text-2xl sm:text-3xl mb-2">📝</div>

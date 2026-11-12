@@ -19,3 +19,9 @@ Forked from `quiz-ITI` (ITI Electronic Mechanic quiz app: 170 topics, ~5.9k Hind
 - Facts were generated from model knowledge only; spot-check Chhattisgarh GK, NEP 2020 and NCF items.
 - PDF text is raster (not selectable) because of Devanagari shaping.
 - Reading-comprehension passages and poetry are original, not from past papers.
+
+## 2026-11-12 — Bug fixes after first deploy (iPhone)
+- **Submit looked dead on iPhone / history not saved.** Reproduced with Playwright WebKit (iPhone 13 emulation) against the Render deploy: Submit used `window.confirm`, which iOS in-app browsers (and Safari's "prevent dialogs") block/auto-dismiss, so the handler returned silently and the test was never saved. Fixed with an in-page confirmation modal.
+- **History storage rewritten.** Dropped sql.js/WASM (extra failure point, no benefit) for `idb-keyval` + localStorage + in-memory fallbacks; saving never throws or blocks navigation; Review shows a warning banner if nothing could be persisted (private mode). Also asks `navigator.storage.persist()`. Old attempts saved in the previous sql.js DB are not migrated.
+- **`/tests` route renamed `/series`.** `public/tests/` (question data) made nginx redirect a direct open/refresh of `/tests` to `http://host:10000/tests/` (Render's internal port) → page never loaded. nginx now has `absolute_redirect off`.
+- Fixed bottom bar safe-area padding for iPhone (`viewport-fit=cover`).

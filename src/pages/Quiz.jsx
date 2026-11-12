@@ -17,6 +17,7 @@ export default function Quiz() {
   const [timeRemaining, setTimeRemaining] = useState(state?.timerSeconds ?? null)
   const [timeUp, setTimeUp] = useState(false)
   const [submitting, setSubmitting] = useState(false)
+  const [confirmOpen, setConfirmOpen] = useState(false)
   const startTimeRef = useRef(Date.now())
 
   useEffect(() => {
@@ -57,7 +58,7 @@ export default function Quiz() {
     return (
       <div>
         <p className="text-slate-600 mb-3">Ye test load nahi ho paya.</p>
-        <button onClick={() => navigate('/tests')} className="text-indigo-700 font-medium">Tests par jao</button>
+        <button onClick={() => navigate('/series')} className="text-indigo-700 font-medium">Tests par jao</button>
       </div>
     )
   }
@@ -82,14 +83,14 @@ export default function Quiz() {
     if (i >= 0) setCurrentIndex(i)
   }
 
+  // In-page confirmation (window.confirm is blocked/auto-dismissed in many iPhone in-app browsers,
+  // which made Submit look dead).
+  function handleSubmitClick() {
+    if (!submitting) setConfirmOpen(true)
+  }
+
   async function handleSubmit() {
-    const left = questions.length - answeredCount
-    const ok = window.confirm(
-      left > 0
-        ? `${left} question abhi unattempted hain. Phir bhi test submit karna hai?`
-        : 'Test submit kar dein?'
-    )
-    if (!ok) return
+    setConfirmOpen(false)
     setSubmitting(true)
     const timeTakenSeconds = state.timerSeconds
       ? state.timerSeconds - (timeRemaining ?? 0)
@@ -205,7 +206,7 @@ export default function Quiz() {
         <p className="mt-3 text-xs text-slate-400">Option dobara dabane se answer hat jayega.</p>
       </div>
 
-      <div className="fixed bottom-0 left-0 right-0 border-t border-slate-200 bg-white">
+      <div className="fixed bottom-0 left-0 right-0 z-20 border-t border-slate-200 bg-white pb-[env(safe-area-inset-bottom)]">
         <div className="mx-auto max-w-2xl px-2 sm:px-4 py-2.5 sm:py-3 flex items-center justify-between gap-1.5 sm:gap-2">
           <button
             type="button"
@@ -229,15 +230,52 @@ export default function Quiz() {
 
           <button
             type="button"
-            onClick={handleSubmit}
+            onClick={handleSubmitClick}
             disabled={submitting}
             className="ml-auto rounded-lg bg-indigo-600 px-3 sm:px-5 py-2 text-xs sm:text-sm font-semibold text-white hover:bg-indigo-700 disabled:opacity-50 shrink-0"
           >
-            <span className="sm:hidden">Submit</span>
-            <span className="hidden sm:inline">Submit Test</span>
+            <span className="sm:hidden">{submitting ? 'Saving…' : 'Submit'}</span>
+            <span className="hidden sm:inline">{submitting ? 'Saving…' : 'Submit Test'}</span>
           </button>
         </div>
       </div>
+
+      {confirmOpen && (
+        <div
+          className="fixed inset-0 z-50 flex items-end sm:items-center justify-center bg-black/50 p-4"
+          onClick={() => setConfirmOpen(false)}
+        >
+          <div
+            className="w-full max-w-sm rounded-xl bg-white p-5 shadow-xl"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <h2 className="text-base font-semibold text-slate-900 mb-1">Test submit karna hai?</h2>
+            <p className="text-sm text-slate-600 mb-4">
+              {answeredCount} answered
+              {questions.length - answeredCount > 0
+                ? ` · ${questions.length - answeredCount} abhi unattempted hain`
+                : ' · saare questions attempt ho gaye'}
+              . Submit ke baad answers badle nahi ja sakte.
+            </p>
+            <div className="flex gap-2">
+              <button
+                type="button"
+                onClick={() => setConfirmOpen(false)}
+                className="flex-1 rounded-lg border border-slate-300 py-2.5 text-sm font-medium text-slate-700"
+              >
+                Wapas jao
+              </button>
+              <button
+                type="button"
+                onClick={handleSubmit}
+                className="flex-1 rounded-lg bg-indigo-600 py-2.5 text-sm font-semibold text-white"
+              >
+                Haan, Submit
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   )
 }

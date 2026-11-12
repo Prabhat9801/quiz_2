@@ -1,6 +1,8 @@
 server {
     listen ${PORT};
     server_name _;
+    # Never build absolute redirects: Render's internal PORT would leak into the Location header.
+    absolute_redirect off;
     root /usr/share/nginx/html;
     index index.html;
 
@@ -12,18 +14,9 @@ server {
         add_header Cache-Control "no-cache";
     }
 
-    # sql.js wasm file must be served with the correct MIME type
-    location ~* \.wasm$ {
-        add_header Content-Type application/wasm;
-    }
-
-    # Question bank JSON changes across deploys now (question bank is being actively
-    # expanded unit-by-unit, unlike the original one-time-build assumption). Do NOT
-    # cache this immutably any more - a returning visitor's browser would otherwise
-    # keep serving a stale question bank for up to a year after a new deploy. Cache
-    # briefly with must-revalidate so repeat requests within a session are still fast,
-    # but any new deploy is picked up on the visitor's very next page load.
-    location /questions/ {
+    # Question bank (public/tests/*.json). Short cache so a new deploy is picked up quickly.
+    location /tests/ {
+        try_files $uri =404;
         add_header Cache-Control "public, max-age=300, must-revalidate";
     }
 }

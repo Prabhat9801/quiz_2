@@ -57,6 +57,12 @@ export default function Review() {
 
   return (
     <div className="max-w-2xl">
+      {attempt.persisted === false && (
+        <div className="mb-3 rounded-lg bg-amber-100 px-3 py-2 text-sm text-amber-900">
+          ⚠️ Is browser me history save nahi ho paayi (private mode ya storage blocked). Ye result sirf
+          abhi dikh raha hai — PDF download kar lo. History ke liye normal (non-private) browser use karo.
+        </div>
+      )}
       <div className="rounded-xl border border-slate-200 bg-white p-4 sm:p-5 mb-6">
         <div className="text-sm text-slate-500 mb-1">{attempt.title}</div>
         <div className="flex flex-wrap items-baseline gap-2 sm:gap-3 mb-1">
