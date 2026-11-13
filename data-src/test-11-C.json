@@ -1,0 +1,499 @@
+{
+ "questions": [
+  {
+   "id": "t11-hindi-01",
+   "part": "C",
+   "section": "hindi",
+   "topic": "संधि-विच्छेद",
+   "question": "'दिग्गज' शब्द का सही संधि-विच्छेद है:",
+   "options": [
+    "दिग + गज",
+    "दिक् + गज",
+    "दिग् + गज",
+    "दिक + गज"
+   ],
+   "correctIndex": 1,
+   "explanation": "'दिक् + गज' में क् के बाद ग आने पर क् का ग् हो जाता है, इसलिए दिग्गज बनता है। यह व्यंजन संधि है। अन्य विकल्पों में मूल शब्द 'दिक्' का रूप गलत है।"
+  },
+  {
+   "id": "t11-hindi-02",
+   "part": "C",
+   "section": "hindi",
+   "topic": "समास",
+   "question": "'आजीवन' शब्द में कौन-सा समास है?",
+   "options": [
+    "द्विगु",
+    "तत्पुरुष",
+    "अव्ययीभाव",
+    "कर्मधारय"
+   ],
+   "correctIndex": 2,
+   "explanation": "'आजीवन' का विग्रह है 'जीवन-पर्यंत'। पहला पद 'आ' अव्यय है और समस्त पद क्रिया-विशेषण की तरह प्रयुक्त होता है, इसलिए यह अव्ययीभाव समास है।"
+  },
+  {
+   "id": "t11-hindi-03",
+   "part": "C",
+   "section": "hindi",
+   "topic": "शब्द-शुद्धि",
+   "question": "निम्नलिखित में से कौन-सा शब्द शुद्ध है?",
+   "options": [
+    "उज्ज्वल",
+    "उज्जवल",
+    "उज्वल",
+    "उजज्वल"
+   ],
+   "correctIndex": 0,
+   "explanation": "शुद्ध रूप 'उज्ज्वल' है (उत् + ज्वल से बना: ज् + ज्व)। 'उज्जवल' में संयुक्ताक्षर 'ज्व' का ज् छूट गया है, इसलिए वह अशुद्ध है।"
+  },
+  {
+   "id": "t11-hindi-04",
+   "part": "C",
+   "section": "hindi",
+   "topic": "मुहावरे और लोकोक्तियाँ",
+   "question": "लोकोक्ति 'नाच न जाने आँगन टेढ़ा' का अर्थ है:",
+   "options": [
+    "नाचने के लिए बड़ा आँगन चाहिए",
+    "आँगन टेढ़ा हो तो नाच नहीं हो सकता",
+    "नाचने वाले को आँगन पसंद नहीं आता",
+    "अपनी अयोग्यता का दोष दूसरों या साधनों पर डालना"
+   ],
+   "correctIndex": 3,
+   "explanation": "जो व्यक्ति काम करना नहीं जानता वह बहाना बनाकर साधनों (आँगन) को दोष देता है। यही इस लोकोक्ति का आशय है।"
+  },
+  {
+   "id": "t11-hindi-05",
+   "part": "C",
+   "section": "hindi",
+   "topic": "श्रुतिसम भिन्नार्थक शब्द",
+   "question": "'कुल' और 'कूल' शब्दों के अर्थ क्रमशः हैं:",
+   "options": [
+    "किनारा और वंश",
+    "वंश और जल",
+    "वंश और किनारा",
+    "पूरा और किनारा"
+   ],
+   "correctIndex": 2,
+   "explanation": "'कुल' का अर्थ वंश/खानदान है और 'कूल' का अर्थ किनारा (तट) है। दोनों श्रुतिसम भिन्नार्थक शब्द हैं।"
+  },
+  {
+   "id": "t11-english-01",
+   "part": "C",
+   "section": "english",
+   "topic": "One-word substitution",
+   "question": "A person who studies or collects coins is called a:",
+   "options": [
+    "philatelist",
+    "cartographer",
+    "calligrapher",
+    "numismatist"
+   ],
+   "correctIndex": 3,
+   "explanation": "Numismatics is the study or collection of coins. A philatelist collects stamps, a cartographer draws maps and a calligrapher practises fine handwriting."
+  },
+  {
+   "id": "t11-english-02",
+   "part": "C",
+   "section": "english",
+   "topic": "Prepositions",
+   "question": "Rahul is senior ___ me by two years.",
+   "options": [
+    "to",
+    "than",
+    "from",
+    "with"
+   ],
+   "correctIndex": 0,
+   "explanation": "Adjectives such as senior, junior, superior and inferior take 'to', not 'than'. So 'senior to me' is correct."
+  },
+  {
+   "id": "t11-english-03",
+   "part": "C",
+   "section": "english",
+   "topic": "Spot the error",
+   "question": "Choose the part that contains an error: 'Scarcely had we reached the station / when the train / had left / without waiting for us.'",
+   "options": [
+    "Scarcely had we reached the station",
+    "when the train",
+    "had left",
+    "without waiting for us"
+   ],
+   "correctIndex": 2,
+   "explanation": "After 'Scarcely had + subject + past participle', the second clause takes the simple past: 'when the train left'. 'Had left' is incorrect."
+  },
+  {
+   "id": "t11-english-04",
+   "part": "C",
+   "section": "english",
+   "topic": "Idioms",
+   "question": "To 'bell the cat' means to:",
+   "options": [
+    "reveal a secret",
+    "undertake a dangerous task on behalf of a group",
+    "punish a rival",
+    "warn someone from afar"
+   ],
+   "correctIndex": 1,
+   "explanation": "From the fable in which mice plan to hang a bell on the cat's neck: to take on a risky task that benefits everyone. The other meanings are unrelated."
+  },
+  {
+   "id": "t11-english-05",
+   "part": "C",
+   "section": "english",
+   "topic": "Active-passive",
+   "question": "Change into the passive voice: 'They will have completed the bridge by December.'",
+   "options": [
+    "The bridge will have been completed by them by December.",
+    "The bridge will be completed by them by December.",
+    "The bridge would have been completed by them by December.",
+    "The bridge has been completed by them by December."
+   ],
+   "correctIndex": 0,
+   "explanation": "The future perfect passive is 'will have been + past participle'. The other options change the tense or the modal."
+  },
+  {
+   "id": "t11-mental-01",
+   "part": "C",
+   "section": "mental",
+   "topic": "Mixed series",
+   "question": "Find the next term: 4, 7, 8, 11, 16, 15, 32, ?",
+   "questionHi": "अगला पद ज्ञात कीजिए: 4, 7, 8, 11, 16, 15, 32, ?",
+   "options": [
+    "17",
+    "19",
+    "21",
+    "23"
+   ],
+   "optionsHi": [
+    "17",
+    "19",
+    "21",
+    "23"
+   ],
+   "correctIndex": 1,
+   "explanation": "Two series alternate. Odd places: 4, 8, 16, 32 (doubling). Even places: 7, 11, 15, ... (add 4), so the next is 19.",
+   "explanationHi": "दो श्रेणियाँ एकांतर में हैं। विषम स्थान: 4, 8, 16, 32 (दुगुना)। सम स्थान: 7, 11, 15, ... (+4), अतः अगला पद 19 है।"
+  },
+  {
+   "id": "t11-mental-02",
+   "part": "C",
+   "section": "mental",
+   "topic": "Blood relations",
+   "question": "Pointing to a man, Meera said, 'His mother is the only daughter of my mother.' How is the man related to Meera?",
+   "questionHi": "एक पुरुष की ओर इशारा करके मीरा ने कहा, 'उसकी माँ मेरी माँ की इकलौती बेटी है।' वह पुरुष मीरा का क्या लगता है?",
+   "options": [
+    "Son",
+    "Brother",
+    "Nephew",
+    "Cousin"
+   ],
+   "optionsHi": [
+    "पुत्र",
+    "भाई",
+    "भतीजा/भांजा",
+    "चचेरा भाई"
+   ],
+   "correctIndex": 0,
+   "explanation": "Meera's mother's only daughter is Meera herself. So the man's mother is Meera, and he is her son.",
+   "explanationHi": "मीरा की माँ की इकलौती बेटी स्वयं मीरा है। इसलिए उस पुरुष की माँ मीरा है और वह उसका पुत्र है।"
+  },
+  {
+   "id": "t11-mental-03",
+   "part": "C",
+   "section": "mental",
+   "topic": "Direction and distance",
+   "question": "A man walks 17 km east, then 12 km north, then 8 km west. How far is he from his starting point?",
+   "questionHi": "एक व्यक्ति 17 किमी पूर्व, फिर 12 किमी उत्तर, फिर 8 किमी पश्चिम चलता है। वह प्रारंभिक बिंदु से कितनी दूर है?",
+   "options": [
+    "12 km",
+    "13 km",
+    "15 km",
+    "21 km"
+   ],
+   "optionsHi": [
+    "12 किमी",
+    "13 किमी",
+    "15 किमी",
+    "21 किमी"
+   ],
+   "correctIndex": 2,
+   "explanation": "Net east displacement = 17 - 8 = 9 km; north = 12 km. Distance = square root of (81 + 144) = 15 km.",
+   "explanationHi": "पूर्व की ओर शुद्ध विस्थापन = 17 - 8 = 9 किमी; उत्तर = 12 किमी। दूरी = वर्गमूल (81 + 144) = 15 किमी।"
+  },
+  {
+   "id": "t11-mental-04",
+   "part": "C",
+   "section": "mental",
+   "topic": "Clock angle",
+   "question": "What is the angle between the hour hand and the minute hand of a clock at 4:20?",
+   "questionHi": "घड़ी में 4:20 बजे घंटे की सुई और मिनट की सुई के बीच कितना कोण होता है?",
+   "options": [
+    "0 degrees",
+    "5 degrees",
+    "20 degrees",
+    "10 degrees"
+   ],
+   "optionsHi": [
+    "0 डिग्री",
+    "5 डिग्री",
+    "20 डिग्री",
+    "10 डिग्री"
+   ],
+   "correctIndex": 3,
+   "explanation": "At 4:20 the hour hand is at 4 x 30 + 20 x 0.5 = 130 degrees; the minute hand is at 20 x 6 = 120 degrees. The difference is 10 degrees.",
+   "explanationHi": "4:20 पर घंटे की सुई 4 x 30 + 20 x 0.5 = 130 डिग्री पर और मिनट की सुई 20 x 6 = 120 डिग्री पर होती है। अंतर 10 डिग्री है।"
+  },
+  {
+   "id": "t11-mental-05",
+   "part": "C",
+   "section": "mental",
+   "topic": "Syllogism",
+   "question": "Statements: All poets are dreamers. Some dreamers are teachers.\nConclusions: I. Some poets are teachers. II. Some teachers are dreamers.",
+   "questionHi": "कथन: सभी कवि स्वप्नदर्शी हैं। कुछ स्वप्नदर्शी शिक्षक हैं।\nनिष्कर्ष: I. कुछ कवि शिक्षक हैं। II. कुछ शिक्षक स्वप्नदर्शी हैं।",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Both I and II follow",
+    "Neither I nor II follows"
+   ],
+   "optionsHi": [
+    "केवल निष्कर्ष I अनुसरण करता है",
+    "केवल निष्कर्ष II अनुसरण करता है",
+    "I और II दोनों अनुसरण करते हैं",
+    "न I न II अनुसरण करता है"
+   ],
+   "correctIndex": 1,
+   "explanation": "'Some dreamers are teachers' converts to 'Some teachers are dreamers', so II follows. The teachers who are dreamers may not be poets, so I does not necessarily follow.",
+   "explanationHi": "'कुछ स्वप्नदर्शी शिक्षक हैं' का परिवर्तन 'कुछ शिक्षक स्वप्नदर्शी हैं' होता है, अतः II अनुसरण करता है। वे शिक्षक कवि न भी हों, इसलिए I आवश्यक रूप से सही नहीं है।"
+  },
+  {
+   "id": "t11-computer-01",
+   "part": "C",
+   "section": "computer",
+   "topic": "Excel functions",
+   "question": "In =VLOOKUP(A2, D2:F20, 3, FALSE), the last argument FALSE instructs Excel to:",
+   "questionHi": "=VLOOKUP(A2, D2:F20, 3, FALSE) में अंतिम तर्क FALSE, Excel को क्या निर्देश देता है?",
+   "options": [
+    "sort the table in descending order",
+    "return the third row",
+    "look for an exact match only",
+    "ignore the lookup value"
+   ],
+   "optionsHi": [
+    "तालिका को अवरोही क्रम में सजाना",
+    "तीसरी पंक्ति लौटाना",
+    "केवल सटीक मिलान खोजना",
+    "खोज-मान की उपेक्षा करना"
+   ],
+   "correctIndex": 2,
+   "explanation": "FALSE (or 0) requests an exact match. The number 3 selects the third column of the table, not row. The lookup value A2 is what is searched for.",
+   "explanationHi": "FALSE (या 0) सटीक मिलान माँगता है। संख्या 3 तालिका का तीसरा स्तंभ (कॉलम) चुनती है, पंक्ति नहीं। A2 वही मान है जिसे खोजा जाता है।"
+  },
+  {
+   "id": "t11-computer-02",
+   "part": "C",
+   "section": "computer",
+   "topic": "Number systems",
+   "question": "The hexadecimal number 2F is equal to which decimal number?",
+   "questionHi": "हेक्साडेसिमल संख्या 2F दशमलव में कितनी होती है?",
+   "options": [
+    "37",
+    "57",
+    "63",
+    "47"
+   ],
+   "optionsHi": [
+    "37",
+    "57",
+    "63",
+    "47"
+   ],
+   "correctIndex": 3,
+   "explanation": "2F = 2 x 16 + 15 = 32 + 15 = 47.",
+   "explanationHi": "2F = 2 x 16 + 15 = 32 + 15 = 47।"
+  },
+  {
+   "id": "t11-computer-03",
+   "part": "C",
+   "section": "computer",
+   "topic": "MS Word features",
+   "question": "In MS Word, Mail Merge combines a main document (such as a letter) with a:",
+   "questionHi": "MS Word में Mail Merge एक मुख्य दस्तावेज़ (जैसे पत्र) को किसके साथ जोड़ता है?",
+   "options": [
+    "data source such as a list of recipients",
+    "macro",
+    "template style",
+    "footnote list"
+   ],
+   "optionsHi": [
+    "डेटा स्रोत, जैसे प्राप्तकर्ताओं की सूची",
+    "मैक्रो",
+    "टेम्पलेट शैली",
+    "फ़ुटनोट सूची"
+   ],
+   "correctIndex": 0,
+   "explanation": "Mail Merge inserts fields from a data source (names, addresses) into the main document to produce personalised copies.",
+   "explanationHi": "Mail Merge डेटा स्रोत (नाम, पते) के फ़ील्ड मुख्य दस्तावेज़ में डालकर व्यक्तिगत प्रतियाँ बनाता है।"
+  },
+  {
+   "id": "t11-computer-04",
+   "part": "C",
+   "section": "computer",
+   "topic": "Network devices",
+   "question": "Which device connects different networks and forwards data packets on the basis of IP addresses?",
+   "questionHi": "कौन-सा उपकरण अलग-अलग नेटवर्कों को जोड़ता है और IP पते के आधार पर डेटा पैकेट आगे भेजता है?",
+   "options": [
+    "Hub",
+    "Repeater",
+    "Switch",
+    "Router"
+   ],
+   "optionsHi": [
+    "हब (Hub)",
+    "रिपीटर (Repeater)",
+    "स्विच (Switch)",
+    "राउटर (Router)"
+   ],
+   "correctIndex": 3,
+   "explanation": "A router works at the network layer and forwards packets using IP addresses between networks. A hub broadcasts to all ports, a switch uses MAC addresses within a LAN, and a repeater only regenerates signals.",
+   "explanationHi": "राउटर नेटवर्क परत पर कार्य कर IP पतों से नेटवर्कों के बीच पैकेट भेजता है। हब सभी पोर्ट पर प्रसारित करता है, स्विच LAN में MAC पते का उपयोग करता है और रिपीटर केवल संकेत को दोबारा प्रबल करता है।"
+  },
+  {
+   "id": "t11-computer-05",
+   "part": "C",
+   "section": "computer",
+   "topic": "Malware",
+   "question": "Which malware can replicate itself and spread across a network without attaching to a host file?",
+   "questionHi": "कौन-सा मैलवेयर किसी होस्ट फ़ाइल से जुड़े बिना स्वयं की प्रतियाँ बनाकर नेटवर्क में फैल सकता है?",
+   "options": [
+    "Trojan horse",
+    "Worm",
+    "Spyware",
+    "Keylogger"
+   ],
+   "optionsHi": [
+    "ट्रोजन हॉर्स",
+    "वर्म (Worm)",
+    "स्पाइवेयर",
+    "कीलॉगर"
+   ],
+   "correctIndex": 1,
+   "explanation": "A worm is self-replicating and spreads independently over networks. A Trojan disguises itself as useful software and does not replicate; spyware and keyloggers secretly collect information.",
+   "explanationHi": "वर्म स्वयं की प्रतियाँ बनाता है और नेटवर्क पर स्वतंत्र रूप से फैलता है। ट्रोजन उपयोगी सॉफ़्टवेयर का रूप धरता है और प्रतिकृति नहीं बनाता; स्पाइवेयर और कीलॉगर चुपके से जानकारी चुराते हैं।"
+  },
+  {
+   "id": "t11-gk-01",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian Constitution",
+   "question": "Article 21A, which provides free and compulsory education to children aged 6 to 14 years, was inserted by which Constitutional Amendment?",
+   "questionHi": "अनुच्छेद 21A, जो 6 से 14 वर्ष के बच्चों को निःशुल्क और अनिवार्य शिक्षा देता है, किस संविधान संशोधन द्वारा जोड़ा गया?",
+   "options": [
+    "42nd Amendment",
+    "44th Amendment",
+    "73rd Amendment",
+    "86th Amendment"
+   ],
+   "optionsHi": [
+    "42वाँ संशोधन",
+    "44वाँ संशोधन",
+    "73वाँ संशोधन",
+    "86वाँ संशोधन"
+   ],
+   "correctIndex": 3,
+   "explanation": "The 86th Amendment Act, 2002 inserted Article 21A. The 42nd is the 'mini-Constitution', the 44th removed the right to property from Fundamental Rights, and the 73rd deals with Panchayati Raj.",
+   "explanationHi": "86वें संशोधन अधिनियम, 2002 ने अनुच्छेद 21A जोड़ा। 42वाँ 'लघु संविधान' है, 44वें ने संपत्ति का अधिकार मौलिक अधिकारों से हटाया और 73वाँ पंचायती राज से संबंधित है।"
+  },
+  {
+   "id": "t11-gk-02",
+   "part": "C",
+   "section": "gk",
+   "topic": "Geography - Mountain passes",
+   "question": "Which mountain pass connects Srinagar with Leh?",
+   "questionHi": "कौन-सा दर्रा श्रीनगर को लेह से जोड़ता है?",
+   "options": [
+    "Banihal Pass",
+    "Zoji La",
+    "Nathu La",
+    "Shipki La"
+   ],
+   "optionsHi": [
+    "बनिहाल दर्रा",
+    "ज़ोजिला",
+    "नाथू ला",
+    "शिपकी ला"
+   ],
+   "correctIndex": 1,
+   "explanation": "Zoji La in the Himalayas links the Kashmir Valley (Srinagar) with Ladakh (Leh). Banihal connects Jammu and Kashmir Valley, Nathu La is in Sikkim and Shipki La in Himachal Pradesh.",
+   "explanationHi": "हिमालय का ज़ोजिला कश्मीर घाटी (श्रीनगर) को लद्दाख (लेह) से जोड़ता है। बनिहाल जम्मू को कश्मीर घाटी से जोड़ता है, नाथू ला सिक्किम में और शिपकी ला हिमाचल प्रदेश में है।"
+  },
+  {
+   "id": "t11-gk-03",
+   "part": "C",
+   "section": "gk",
+   "topic": "Science - SI units",
+   "question": "The SI unit of luminous intensity is:",
+   "questionHi": "ज्योति-तीव्रता (luminous intensity) की SI इकाई है:",
+   "options": [
+    "candela",
+    "lumen",
+    "lux",
+    "watt"
+   ],
+   "optionsHi": [
+    "कैंडेला",
+    "लूमेन",
+    "लक्स",
+    "वाट"
+   ],
+   "correctIndex": 0,
+   "explanation": "Candela is the SI base unit of luminous intensity. Lumen measures luminous flux, lux measures illuminance, and watt measures power.",
+   "explanationHi": "कैंडेला ज्योति-तीव्रता की SI मूल इकाई है। लूमेन ज्योति-फ्लक्स, लक्स प्रदीप्ति और वाट शक्ति की इकाई है।"
+  },
+  {
+   "id": "t11-gk-04",
+   "part": "C",
+   "section": "gk",
+   "topic": "Modern Indian history",
+   "question": "The Poona Pact, which gave reserved seats to the Depressed Classes in the legislatures, was signed in which year?",
+   "questionHi": "पूना समझौता, जिसने विधान-मंडलों में दलित वर्गों को आरक्षित सीटें दीं, किस वर्ष हुआ?",
+   "options": [
+    "1930",
+    "1931",
+    "1932",
+    "1935"
+   ],
+   "optionsHi": [
+    "1930",
+    "1931",
+    "1932",
+    "1935"
+   ],
+   "correctIndex": 2,
+   "explanation": "The Poona Pact was signed in September 1932 between Gandhi and Dr B. R. Ambedkar after the Communal Award. The Gandhi-Irwin Pact was 1931 and the Government of India Act was 1935.",
+   "explanationHi": "पूना समझौता सितंबर 1932 में कम्युनल अवार्ड के बाद गांधीजी और डॉ. बी. आर. आंबेडकर के बीच हुआ। गांधी-इरविन समझौता 1931 में और भारत सरकार अधिनियम 1935 में हुआ।"
+  },
+  {
+   "id": "t11-gk-05",
+   "part": "C",
+   "section": "gk",
+   "topic": "Chhattisgarh history",
+   "question": "Which town was founded as the capital of the Kalchuri dynasty of Chhattisgarh by Ratnadeva I?",
+   "questionHi": "छत्तीसगढ़ के कलचुरि वंश के रत्नदेव प्रथम ने किस नगर को अपनी राजधानी के रूप में बसाया?",
+   "options": [
+    "Ratanpur",
+    "Sirpur",
+    "Arang",
+    "Rajim"
+   ],
+   "optionsHi": [
+    "रतनपुर",
+    "सिरपुर",
+    "आरंग",
+    "राजिम"
+   ],
+   "correctIndex": 0,
+   "explanation": "Ratnadeva I of the Kalchuri line founded Ratanpur (Ratnapura) in Bilaspur district as the capital. Sirpur was the capital of the Sharabhpuriya/Panduvanshi kings, while Arang and Rajim are other historic towns.",
+   "explanationHi": "कलचुरि वंश के रत्नदेव प्रथम ने बिलासपुर ज़िले में रतनपुर (रत्नपुर) बसाकर उसे राजधानी बनाया। सिरपुर शरभपुरीय/पांडुवंशी राजाओं की राजधानी थी; आरंग और राजिम अन्य ऐतिहासिक नगर हैं।"
+  }
+ ]
+}

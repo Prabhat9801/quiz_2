@@ -1,0 +1,499 @@
+{
+ "questions": [
+  {
+   "id": "t16-hindi-01",
+   "part": "C",
+   "section": "hindi",
+   "topic": "संधि-विच्छेद",
+   "question": "‘षडानन’ शब्द का सही संधि-विच्छेद है",
+   "options": [
+    "षड् + आनन",
+    "षट् + आनन",
+    "षठ् + आनन",
+    "षड + आनन"
+   ],
+   "correctIndex": 1,
+   "explanation": "‘षट्’ के बाद स्वर ‘आ’ आने पर ट् का ड् हो जाता है और ‘षडानन’ बनता है; मूल रूप ‘षट्’ है। यह व्यंजन संधि है।"
+  },
+  {
+   "id": "t16-hindi-02",
+   "part": "C",
+   "section": "hindi",
+   "topic": "समास",
+   "question": "निम्नलिखित में अव्ययीभाव समास का उदाहरण है",
+   "options": [
+    "यथाशक्ति",
+    "राजपुत्र",
+    "चक्रपाणि",
+    "महापुरुष"
+   ],
+   "correctIndex": 0,
+   "explanation": "‘यथाशक्ति’ (शक्ति के अनुसार) में पहला पद अव्यय है। राजपुत्र तत्पुरुष, चक्रपाणि बहुव्रीहि और महापुरुष कर्मधारय है।"
+  },
+  {
+   "id": "t16-hindi-03",
+   "part": "C",
+   "section": "hindi",
+   "topic": "मुहावरे/लोकोक्तियाँ",
+   "question": "मुहावरा ‘नौ दो ग्यारह होना’ का अर्थ है",
+   "options": [
+    "बहुत धनी हो जाना",
+    "हिसाब लगाना",
+    "संख्या में बढ़ना",
+    "भाग जाना"
+   ],
+   "correctIndex": 3,
+   "explanation": "‘नौ दो ग्यारह होना’ का अर्थ है चुपचाप या जल्दी से भाग जाना।"
+  },
+  {
+   "id": "t16-hindi-04",
+   "part": "C",
+   "section": "hindi",
+   "topic": "तत्सम-तद्भव",
+   "question": "तत्सम शब्द ‘वधू’ का तद्भव रूप है",
+   "options": [
+    "बधू",
+    "बहन",
+    "बहू",
+    "बेटी"
+   ],
+   "correctIndex": 2,
+   "explanation": "‘वधू’ से तद्भव रूप ‘बहू’ बना है; ‘व’ का ‘ब’ और ‘ध’ का ‘ह’ हो गया।"
+  },
+  {
+   "id": "t16-hindi-05",
+   "part": "C",
+   "section": "hindi",
+   "topic": "कारक-पहचान",
+   "question": "‘पेड़ से पत्ता गिरा’ वाक्य में ‘से’ चिह्न किस कारक का है?",
+   "options": [
+    "करण",
+    "अपादान",
+    "संबंध",
+    "अधिकरण"
+   ],
+   "correctIndex": 1,
+   "explanation": "जहाँ अलगाव या दूर होने का भाव हो, वहाँ ‘से’ अपादान कारक का चिह्न है। करण में साधन का भाव होता है।"
+  },
+  {
+   "id": "t16-english-01",
+   "part": "C",
+   "section": "english",
+   "topic": "One-word substitution",
+   "question": "Government by the rich is called",
+   "options": [
+    "oligarchy",
+    "aristocracy",
+    "plutocracy",
+    "theocracy"
+   ],
+   "correctIndex": 2,
+   "explanation": "Plutocracy = rule by the wealthy; oligarchy = rule by a few; aristocracy = rule by the nobility; theocracy = rule by religious leaders."
+  },
+  {
+   "id": "t16-english-02",
+   "part": "C",
+   "section": "english",
+   "topic": "Prepositions",
+   "question": "Choose the grammatically correct sentence.",
+   "options": [
+    "He is senior than me by two years.",
+    "He is senior to me by two years.",
+    "He is senior from me by two years.",
+    "He is senior of me by two years."
+   ],
+   "correctIndex": 1,
+   "explanation": "Adjectives such as senior, junior, superior and inferior take \"to\", not \"than\"."
+  },
+  {
+   "id": "t16-english-03",
+   "part": "C",
+   "section": "english",
+   "topic": "Idioms",
+   "question": "\"To cut a sorry figure\" means to",
+   "options": [
+    "make a poor or pitiful impression",
+    "reduce expenses carefully",
+    "apologise sincerely",
+    "draw a sad picture"
+   ],
+   "correctIndex": 0,
+   "explanation": "The idiom means to appear in an unimpressive or embarrassing way."
+  },
+  {
+   "id": "t16-english-04",
+   "part": "C",
+   "section": "english",
+   "topic": "Active-passive",
+   "question": "Choose the correct passive form of \"They will have completed the work by Friday.\"",
+   "options": [
+    "The work will be completed by them by Friday.",
+    "The work would have been completed by them by Friday.",
+    "The work will have completed by them by Friday.",
+    "The work will have been completed by them by Friday."
+   ],
+   "correctIndex": 3,
+   "explanation": "Future perfect passive = will have been + past participle."
+  },
+  {
+   "id": "t16-english-05",
+   "part": "C",
+   "section": "english",
+   "topic": "Articles",
+   "question": "Ramesh is ___ M.Sc. while Suresh is ___ B.Sc.",
+   "options": [
+    "a, an",
+    "an, an",
+    "an, a",
+    "a, a"
+   ],
+   "correctIndex": 2,
+   "explanation": "Articles follow sound: \"M\" is pronounced \"em\" (vowel sound), so \"an\"; \"B\" is pronounced \"bee\", so \"a\"."
+  },
+  {
+   "id": "t16-mental-01",
+   "part": "C",
+   "section": "mental",
+   "topic": "Blood relations",
+   "question": "Pointing to a man, Kavita said, \"His mother is the only daughter of my mother's father.\" How is the man related to Kavita?",
+   "questionHi": "एक पुरुष की ओर संकेत करके कविता ने कहा, \"इसकी माँ मेरी माँ के पिता की इकलौती पुत्री है।\" वह पुरुष कविता का क्या लगता है?",
+   "options": [
+    "Brother",
+    "Cousin",
+    "Uncle",
+    "Nephew"
+   ],
+   "optionsHi": [
+    "भाई",
+    "चचेरा भाई",
+    "चाचा/मामा",
+    "भतीजा/भांजा"
+   ],
+   "correctIndex": 0,
+   "explanation": "My mother's father's only daughter is Kavita's own mother. So the man's mother is Kavita's mother, making him her brother.",
+   "explanationHi": "कविता की माँ के पिता की इकलौती पुत्री स्वयं कविता की माँ है। अतः पुरुष की माँ कविता की माँ है, यानी वह कविता का भाई है।"
+  },
+  {
+   "id": "t16-mental-02",
+   "part": "C",
+   "section": "mental",
+   "topic": "Mixed series",
+   "question": "Find the next term: 2, 6, 5, 15, 14, 42, ?",
+   "questionHi": "अगली संख्या ज्ञात कीजिए: 2, 6, 5, 15, 14, 42, ?",
+   "options": [
+    "43",
+    "45",
+    "126",
+    "41"
+   ],
+   "optionsHi": [
+    "43",
+    "45",
+    "126",
+    "41"
+   ],
+   "correctIndex": 3,
+   "explanation": "The pattern alternates x3 and -1: 2x3=6, 6-1=5, 5x3=15, 15-1=14, 14x3=42, 42-1=41.",
+   "explanationHi": "श्रेणी में बारी-बारी से x3 और -1 होता है: 2x3=6, 6-1=5, 5x3=15, 15-1=14, 14x3=42, 42-1=41।"
+  },
+  {
+   "id": "t16-mental-03",
+   "part": "C",
+   "section": "mental",
+   "topic": "Arrangement",
+   "question": "Six persons P, Q, R, S, T and U sit in a row facing north. Q is at the extreme left and U at the extreme right. R is third from the left and P is immediately to the right of R. S is immediately to the left of U. Who sits second from the left?",
+   "questionHi": "छह व्यक्ति P, Q, R, S, T और U उत्तर की ओर मुँह करके एक पंक्ति में बैठे हैं। Q बाएँ छोर पर और U दाएँ छोर पर है। R बाएँ से तीसरा है और P, R के ठीक दाएँ है। S, U के ठीक बाएँ है। बाएँ से दूसरे स्थान पर कौन बैठा है?",
+   "options": [
+    "S",
+    "P",
+    "T",
+    "R"
+   ],
+   "optionsHi": [
+    "S",
+    "P",
+    "T",
+    "R"
+   ],
+   "correctIndex": 2,
+   "explanation": "Order from left: Q, T, R, P, S, U. R is third, P is fourth, U sixth, S fifth, Q first, so T is second.",
+   "explanationHi": "बाएँ से क्रम: Q, T, R, P, S, U। R तीसरा, P चौथा, U छठा, S पाँचवाँ, Q पहला; अतः T दूसरा है।"
+  },
+  {
+   "id": "t16-mental-04",
+   "part": "C",
+   "section": "mental",
+   "topic": "Clock angle",
+   "question": "What is the angle between the hands of a clock at 4:20?",
+   "questionHi": "घड़ी में 4:20 बजे घंटे और मिनट की सुइयों के बीच कितना कोण होता है?",
+   "options": [
+    "20 degrees",
+    "10 degrees",
+    "5 degrees",
+    "0 degrees"
+   ],
+   "optionsHi": [
+    "20 डिग्री",
+    "10 डिग्री",
+    "5 डिग्री",
+    "0 डिग्री"
+   ],
+   "correctIndex": 1,
+   "explanation": "Angle = |30H - 5.5M| = |120 - 110| = 10 degrees.",
+   "explanationHi": "कोण = |30H - 5.5M| = |120 - 110| = 10 डिग्री।"
+  },
+  {
+   "id": "t16-mental-05",
+   "part": "C",
+   "section": "mental",
+   "topic": "Syllogism",
+   "question": "Statements: Some pens are books. All books are tables. No table is a chair. Conclusions: I. Some pens are tables. II. Some pens are not chairs. III. No pen is a chair.",
+   "questionHi": "कथन: कुछ पेन किताबें हैं। सभी किताबें मेज़ हैं। कोई मेज़ कुर्सी नहीं है। निष्कर्ष: I. कुछ पेन मेज़ हैं। II. कुछ पेन कुर्सी नहीं हैं। III. कोई पेन कुर्सी नहीं है।",
+   "options": [
+    "Only I and II follow",
+    "Only I follows",
+    "All three follow",
+    "Only II and III follow"
+   ],
+   "optionsHi": [
+    "केवल I और II अनुसरण करते हैं",
+    "केवल I अनुसरण करता है",
+    "तीनों अनुसरण करते हैं",
+    "केवल II और III अनुसरण करते हैं"
+   ],
+   "correctIndex": 0,
+   "explanation": "Pens that are books are tables, and no table is a chair; so I and II follow. Nothing is stated about all pens, so III does not follow.",
+   "explanationHi": "जो पेन किताबें हैं वे मेज़ हैं और कोई मेज़ कुर्सी नहीं; अतः I और II सही हैं। सभी पेनों के बारे में कुछ नहीं कहा गया, इसलिए III सही नहीं।"
+  },
+  {
+   "id": "t16-computer-01",
+   "part": "C",
+   "section": "computer",
+   "topic": "Excel references",
+   "question": "In Excel, cell B2 contains =A$1*$C2. If this formula is copied to cell C3, it becomes",
+   "questionHi": "एक्सेल में सेल B2 में =A$1*$C2 है। इसे सेल C3 में कॉपी करने पर सूत्र हो जाएगा",
+   "options": [
+    "=A$1*$C2",
+    "=B$2*$C3",
+    "=B$1*$D3",
+    "=B$1*$C3"
+   ],
+   "optionsHi": [
+    "=A$1*$C2",
+    "=B$2*$C3",
+    "=B$1*$D3",
+    "=B$1*$C3"
+   ],
+   "correctIndex": 3,
+   "explanation": "Moving one column right and one row down: A shifts to B (column relative), $1 stays (row absolute); $C stays (column absolute) and row 2 shifts to 3.",
+   "explanationHi": "एक कॉलम दाएँ और एक पंक्ति नीचे जाने पर A, B हो जाता है (कॉलम सापेक्ष), $1 वही रहता है (पंक्ति निरपेक्ष); $C वही रहता है और पंक्ति 2, 3 हो जाती है।"
+  },
+  {
+   "id": "t16-computer-02",
+   "part": "C",
+   "section": "computer",
+   "topic": "Number systems",
+   "question": "The octal number 157 is equal to which decimal number?",
+   "questionHi": "अष्टाधारी (octal) संख्या 157 दशमलव में कितनी होती है?",
+   "options": [
+    "103",
+    "119",
+    "111",
+    "125"
+   ],
+   "optionsHi": [
+    "103",
+    "119",
+    "111",
+    "125"
+   ],
+   "correctIndex": 2,
+   "explanation": "157 (octal) = 1x64 + 5x8 + 7 = 64 + 40 + 7 = 111.",
+   "explanationHi": "157 (अष्टाधारी) = 1x64 + 5x8 + 7 = 64 + 40 + 7 = 111।"
+  },
+  {
+   "id": "t16-computer-03",
+   "part": "C",
+   "section": "computer",
+   "topic": "Network devices",
+   "question": "Which device uses MAC addresses to forward frames to a specific port in a LAN?",
+   "questionHi": "कौन-सा उपकरण LAN में MAC पते के आधार पर फ़्रेम को किसी विशेष पोर्ट तक भेजता है?",
+   "options": [
+    "Hub",
+    "Switch",
+    "Repeater",
+    "Modem"
+   ],
+   "optionsHi": [
+    "हब",
+    "स्विच",
+    "रिपीटर",
+    "मॉडेम"
+   ],
+   "correctIndex": 1,
+   "explanation": "A switch learns MAC addresses and sends frames only to the right port; a hub broadcasts to all ports and a repeater only regenerates signals.",
+   "explanationHi": "स्विच MAC पते सीखकर फ़्रेम केवल सही पोर्ट पर भेजता है; हब सभी पोर्ट पर भेजता है और रिपीटर केवल सिग्नल को पुनः उत्पन्न करता है।"
+  },
+  {
+   "id": "t16-computer-04",
+   "part": "C",
+   "section": "computer",
+   "topic": "Security",
+   "question": "Logging in with a password plus a one-time code sent to the registered mobile is an example of",
+   "questionHi": "पासवर्ड के साथ पंजीकृत मोबाइल पर भेजे गए वन-टाइम कोड से लॉग-इन करना किसका उदाहरण है?",
+   "options": [
+    "two-factor authentication",
+    "symmetric encryption",
+    "a firewall rule",
+    "data compression"
+   ],
+   "optionsHi": [
+    "द्वि-कारक प्रमाणीकरण (two-factor authentication)",
+    "सममित एन्क्रिप्शन",
+    "फ़ायरवॉल नियम",
+    "डेटा संपीड़न"
+   ],
+   "correctIndex": 0,
+   "explanation": "Two different proofs (something you know plus something you have) make two-factor authentication. Encryption, firewalls and compression do not authenticate users.",
+   "explanationHi": "दो अलग प्रमाण (कुछ जो आप जानते हैं + कुछ जो आपके पास है) द्वि-कारक प्रमाणीकरण बनाते हैं; एन्क्रिप्शन, फ़ायरवॉल और संपीड़न उपयोगकर्ता का प्रमाणीकरण नहीं करते।"
+  },
+  {
+   "id": "t16-computer-05",
+   "part": "C",
+   "section": "computer",
+   "topic": "Cloud models",
+   "question": "In which cloud model does the provider supply virtual servers, storage and networking while the user installs the operating system and applications?",
+   "questionHi": "किस क्लाउड मॉडल में प्रदाता वर्चुअल सर्वर, स्टोरेज और नेटवर्किंग देता है और उपयोगकर्ता स्वयं ऑपरेटिंग सिस्टम व एप्लिकेशन इंस्टॉल करता है?",
+   "options": [
+    "SaaS",
+    "PaaS",
+    "DaaS",
+    "IaaS"
+   ],
+   "optionsHi": [
+    "SaaS",
+    "PaaS",
+    "DaaS",
+    "IaaS"
+   ],
+   "correctIndex": 3,
+   "explanation": "Infrastructure as a Service gives raw computing infrastructure; PaaS gives a platform for developers, and SaaS gives ready-made applications.",
+   "explanationHi": "IaaS मूल कंप्यूटिंग अवसंरचना देता है; PaaS डेवलपरों को प्लेटफ़ॉर्म देता है और SaaS तैयार एप्लिकेशन देता है।"
+  },
+  {
+   "id": "t16-gk-01",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian Constitution",
+   "question": "Which Article of the Constitution of India provides for the Election Commission?",
+   "questionHi": "भारतीय संविधान का कौन-सा अनुच्छेद निर्वाचन आयोग की व्यवस्था करता है?",
+   "options": [
+    "Article 280",
+    "Article 324",
+    "Article 315",
+    "Article 148"
+   ],
+   "optionsHi": [
+    "अनुच्छेद 280",
+    "अनुच्छेद 324",
+    "अनुच्छेद 315",
+    "अनुच्छेद 148"
+   ],
+   "correctIndex": 1,
+   "explanation": "Article 324 vests the superintendence, direction and control of elections in the Election Commission. Article 280 is Finance Commission, 315 Public Service Commissions and 148 the CAG.",
+   "explanationHi": "अनुच्छेद 324 चुनावों के अधीक्षण, निदेशन और नियंत्रण का दायित्व निर्वाचन आयोग को देता है। अनुच्छेद 280 वित्त आयोग, 315 लोक सेवा आयोग और 148 CAG से संबंधित है।"
+  },
+  {
+   "id": "t16-gk-02",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian economy",
+   "question": "When the RBI increases the Cash Reserve Ratio (CRR), the immediate effect on commercial banks is",
+   "questionHi": "जब RBI नकद आरक्षित अनुपात (CRR) बढ़ाता है, तो वाणिज्यिक बैंकों पर तात्कालिक प्रभाव होता है",
+   "options": [
+    "a reduction in the funds available for lending",
+    "an increase in lendable funds",
+    "a fall in the bank rate to zero",
+    "automatic rise in deposit interest"
+   ],
+   "optionsHi": [
+    "ऋण देने के लिए उपलब्ध धन में कमी",
+    "ऋण योग्य धन में वृद्धि",
+    "बैंक दर का शून्य हो जाना",
+    "जमा ब्याज दर का स्वतः बढ़ना"
+   ],
+   "correctIndex": 0,
+   "explanation": "CRR is the share of deposits banks must keep with the RBI; raising it leaves less money to lend.",
+   "explanationHi": "CRR जमा का वह हिस्सा है जो बैंकों को RBI के पास रखना पड़ता है; इसे बढ़ाने पर उधार देने के लिए कम धन बचता है।"
+  },
+  {
+   "id": "t16-gk-03",
+   "part": "C",
+   "section": "gk",
+   "topic": "Modern Indian history",
+   "question": "The Poona Pact (1932) was signed after Gandhi's fast against",
+   "questionHi": "पूना समझौता (1932) गांधीजी के किस के विरुद्ध उपवास के बाद हुआ?",
+   "options": [
+    "the Rowlatt Act",
+    "the Partition of Bengal",
+    "the Simon Commission",
+    "Ramsay MacDonald's Communal Award"
+   ],
+   "optionsHi": [
+    "रौलट एक्ट",
+    "बंगाल विभाजन",
+    "साइमन कमीशन",
+    "रैमज़े मैक्डोनाल्ड का सांप्रदायिक पंचाट (Communal Award)"
+   ],
+   "correctIndex": 3,
+   "explanation": "Gandhi fasted in Yerwada jail against separate electorates for the Depressed Classes; the Pact with Ambedkar gave them reserved seats in joint electorates.",
+   "explanationHi": "गांधीजी ने येरवदा जेल में दलित वर्गों के लिए पृथक निर्वाचक मंडल के विरुद्ध उपवास किया; अंबेडकर के साथ पूना समझौते में संयुक्त निर्वाचन में आरक्षित सीटें दी गईं।"
+  },
+  {
+   "id": "t16-gk-04",
+   "part": "C",
+   "section": "gk",
+   "topic": "Chhattisgarh GK",
+   "question": "Which temple of Chhattisgarh, built by the Nagvanshi rulers in Kabirdham district, is called the \"Khajuraho of Chhattisgarh\"?",
+   "questionHi": "छत्तीसगढ़ का कौन-सा मंदिर, जो कबीरधाम जिले में नागवंशी शासकों ने बनवाया, \"छत्तीसगढ़ का खजुराहो\" कहलाता है?",
+   "options": [
+    "Laxman temple, Sirpur",
+    "Danteshwari temple",
+    "Bhoramdeo temple",
+    "Mahamaya temple, Ratanpur"
+   ],
+   "optionsHi": [
+    "लक्ष्मण मंदिर, सिरपुर",
+    "दंतेश्वरी मंदिर",
+    "भोरमदेव मंदिर",
+    "महामाया मंदिर, रतनपुर"
+   ],
+   "correctIndex": 2,
+   "explanation": "Bhoramdeo temple, with sculptures on its outer walls like Khajuraho, is called the Khajuraho of Chhattisgarh. The others are famous for other reasons.",
+   "explanationHi": "भोरमदेव मंदिर की बाहरी दीवारों की मूर्तिकला खजुराहो जैसी है, इसलिए इसे छत्तीसगढ़ का खजुराहो कहते हैं; अन्य मंदिर अन्य कारणों से प्रसिद्ध हैं।"
+  },
+  {
+   "id": "t16-gk-05",
+   "part": "C",
+   "section": "gk",
+   "topic": "Science",
+   "question": "The escape velocity from the surface of the Earth is approximately",
+   "questionHi": "पृथ्वी की सतह से पलायन वेग लगभग होता है",
+   "options": [
+    "7.9 km/s",
+    "11.2 km/s",
+    "9.8 km/s",
+    "15.0 km/s"
+   ],
+   "optionsHi": [
+    "7.9 किमी/सेकंड",
+    "11.2 किमी/सेकंड",
+    "9.8 किमी/सेकंड",
+    "15.0 किमी/सेकंड"
+   ],
+   "correctIndex": 1,
+   "explanation": "Escape velocity = sqrt(2gR), about 11.2 km/s. 7.9 km/s is the orbital velocity near the surface and 9.8 is the value of g in m/s^2.",
+   "explanationHi": "पलायन वेग = वर्गमूल(2gR) लगभग 11.2 किमी/से है। 7.9 किमी/से निकट-सतह कक्षीय वेग है और 9.8 g का मान (मी/से^2) है।"
+  }
+ ]
+}

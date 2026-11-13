@@ -1,0 +1,349 @@
+{
+ "questions": [
+  {
+   "id": "t16-psych-01",
+   "part": "B",
+   "section": "psych",
+   "topic": "Kohlberg and Gilligan",
+   "question": "A student refuses to cheat because \"a good person looks after relationships and cares for everyone affected\". Gilligan's critique of Kohlberg would call this reasoning an",
+   "questionHi": "एक विद्यार्थी नकल करने से मना करता है क्योंकि \"अच्छा व्यक्ति रिश्तों का ध्यान रखता है और प्रभावित सभी की परवाह करता है।\" कोहलबर्ग की गिलिगन द्वारा की गई आलोचना के अनुसार यह तर्क क्या है?",
+   "options": [
+    "ethic of care",
+    "ethic of justice only",
+    "pre-conventional reasoning",
+    "heteronomous morality"
+   ],
+   "optionsHi": [
+    "देखभाल की नैतिकता (ethic of care)",
+    "केवल न्याय की नैतिकता",
+    "पूर्व-रूढ़िगत तर्क",
+    "परतंत्र नैतिकता"
+   ],
+   "correctIndex": 0,
+   "explanation": "Gilligan argued that Kohlberg's scheme prioritised an ethic of justice and that many (especially girls) reason from an ethic of care and responsibility.",
+   "explanationHi": "गिलिगन ने कहा कि कोहलबर्ग का सिद्धांत न्याय की नैतिकता को प्राथमिकता देता है, जबकि बहुत-से लोग (विशेषकर लड़कियाँ) देखभाल और ज़िम्मेदारी की नैतिकता से सोचते हैं।"
+  },
+  {
+   "id": "t16-psych-02",
+   "part": "B",
+   "section": "psych",
+   "topic": "Erikson",
+   "question": "A 16-year-old boy keeps trying different roles, friends and ideas to understand who he is. According to Erikson, he is going through the crisis of",
+   "questionHi": "16 वर्ष का एक लड़का यह समझने के लिए कि वह कौन है, अलग-अलग भूमिकाएँ, मित्र और विचार आज़माता रहता है। एरिक्सन के अनुसार वह किस संकट से गुज़र रहा है?",
+   "options": [
+    "industry versus inferiority",
+    "initiative versus guilt",
+    "intimacy versus isolation",
+    "identity versus role confusion"
+   ],
+   "optionsHi": [
+    "उद्यमिता बनाम हीनता",
+    "पहल बनाम अपराध-बोध",
+    "आत्मीयता बनाम अलगाव",
+    "पहचान बनाम भूमिका भ्रम"
+   ],
+   "correctIndex": 3,
+   "explanation": "Adolescence (about 12-18 years) is the stage of identity versus role confusion. Industry vs inferiority is 6-12; initiative vs guilt 3-6; intimacy vs isolation is young adulthood.",
+   "explanationHi": "किशोरावस्था (लगभग 12-18 वर्ष) में पहचान बनाम भूमिका भ्रम की अवस्था होती है। उद्यमिता बनाम हीनता 6-12 वर्ष, पहल बनाम अपराध-बोध 3-6 वर्ष और आत्मीयता बनाम अलगाव युवावस्था में होती है।"
+  },
+  {
+   "id": "t16-psych-03",
+   "part": "B",
+   "section": "psych",
+   "topic": "Piaget sub-stages",
+   "question": "A 14-month-old drops toys from different heights to see what happens each time. In Piaget's sensorimotor period, this is characteristic of",
+   "questionHi": "14 माह का शिशु यह देखने के लिए कि हर बार क्या होता है, खिलौनों को अलग-अलग ऊँचाई से गिराता है। पियाजे की संवेदी-गामक अवस्था में यह किसकी विशेषता है?",
+   "options": [
+    "primary circular reactions",
+    "secondary circular reactions",
+    "tertiary circular reactions",
+    "mental representation"
+   ],
+   "optionsHi": [
+    "प्राथमिक वृत्तीय प्रतिक्रियाएँ",
+    "द्वितीयक वृत्तीय प्रतिक्रियाएँ",
+    "तृतीयक वृत्तीय प्रतिक्रियाएँ",
+    "मानसिक निरूपण"
+   ],
+   "correctIndex": 2,
+   "explanation": "Tertiary circular reactions (12-18 months) involve deliberate experimentation with variation; primary reactions centre on the infant's own body, secondary on repeating interesting effects on objects.",
+   "explanationHi": "तृतीयक वृत्तीय प्रतिक्रियाएँ (12-18 माह) में शिशु जानबूझकर प्रयोग करता है; प्राथमिक अपने शरीर पर केंद्रित होती हैं और द्वितीयक रोचक प्रभावों को वस्तुओं पर दोहराने से जुड़ी होती हैं।"
+  },
+  {
+   "id": "t16-psych-04",
+   "part": "B",
+   "section": "psych",
+   "topic": "Vygotsky vs Piaget",
+   "question": "Vygotsky differed from Piaget chiefly in holding that",
+   "questionHi": "वाइगोत्स्की पियाजे से मुख्यतः किस बात में भिन्न थे?",
+   "options": [
+    "development is purely biological maturation",
+    "social interaction and guided help lead cognitive development",
+    "children learn best in isolation",
+    "language plays no role in thought"
+   ],
+   "optionsHi": [
+    "विकास केवल जैविक परिपक्वता है",
+    "सामाजिक अंतःक्रिया और मार्गदर्शित सहायता संज्ञानात्मक विकास को आगे बढ़ाती है",
+    "बच्चे अकेले में सबसे अच्छा सीखते हैं",
+    "चिंतन में भाषा की कोई भूमिका नहीं"
+   ],
+   "correctIndex": 1,
+   "explanation": "Vygotsky stressed that learning in a social context pulls development forward; Piaget saw development as largely preceding learning, driven by individual construction.",
+   "explanationHi": "वाइगोत्स्की ने ज़ोर दिया कि सामाजिक संदर्भ में अधिगम विकास को आगे खींचता है; पियाजे विकास को अधिकतर व्यक्तिगत रचना से संचालित और अधिगम से पहले मानते थे।"
+  },
+  {
+   "id": "t16-psych-05",
+   "part": "B",
+   "section": "psych",
+   "topic": "Cattell",
+   "question": "Which of the following is an example of Cattell's crystallised intelligence?",
+   "questionHi": "निम्न में से कौन-सा कैटेल की क्रिस्टलीकृत बुद्धि का उदाहरण है?",
+   "options": [
+    "using vocabulary and general knowledge acquired over the years",
+    "solving a novel pattern puzzle quickly",
+    "reasoning with unfamiliar abstract symbols",
+    "remembering a new phone number briefly"
+   ],
+   "optionsHi": [
+    "वर्षों में अर्जित शब्दावली एवं सामान्य ज्ञान का उपयोग करना",
+    "किसी नई पहेली को शीघ्र हल करना",
+    "अपरिचित अमूर्त प्रतीकों के साथ तर्क करना",
+    "नया फ़ोन नंबर थोड़े समय के लिए याद रखना"
+   ],
+   "correctIndex": 0,
+   "explanation": "Crystallised intelligence is knowledge and skills accumulated through experience and culture; fluid intelligence is novel problem-solving that is less dependent on prior learning.",
+   "explanationHi": "क्रिस्टलीकृत बुद्धि अनुभव और संस्कृति से अर्जित ज्ञान व कौशल है; तरल बुद्धि नई समस्याओं को हल करने की क्षमता है जो पूर्व अधिगम पर कम निर्भर है।"
+  },
+  {
+   "id": "t16-psych-06",
+   "part": "B",
+   "section": "psych",
+   "topic": "Guilford and creativity",
+   "question": "Guilford linked creativity most closely with",
+   "questionHi": "गिलफ़ोर्ड ने सृजनात्मकता को सबसे अधिक किससे जोड़ा?",
+   "options": [
+    "convergent thinking",
+    "rote memory",
+    "psychomotor speed",
+    "divergent thinking"
+   ],
+   "optionsHi": [
+    "अभिसारी चिंतन",
+    "रटंत स्मृति",
+    "मनोगामक गति",
+    "अपसारी चिंतन"
+   ],
+   "correctIndex": 3,
+   "explanation": "Divergent thinking (many original answers to an open problem) is the core of creativity; convergent thinking seeks a single correct answer.",
+   "explanationHi": "अपसारी चिंतन (खुली समस्या के अनेक मौलिक उत्तर) सृजनात्मकता का मूल है; अभिसारी चिंतन एक सही उत्तर खोजता है।"
+  },
+  {
+   "id": "t16-assess-01",
+   "part": "B",
+   "section": "assess",
+   "topic": "Reliability",
+   "question": "If the same test is administered twice to the same group after a gap and the scores are correlated, the coefficient obtained is a measure of",
+   "questionHi": "यदि एक ही परीक्षण एक ही समूह को अंतराल के बाद दो बार दिया जाए और प्राप्तांकों का सहसंबंध निकाला जाए, तो प्राप्त गुणांक किसका माप है?",
+   "options": [
+    "content validity",
+    "test-retest reliability",
+    "split-half reliability",
+    "inter-rater reliability"
+   ],
+   "optionsHi": [
+    "अंतर्वस्तु वैधता",
+    "पुनः परीक्षण विश्वसनीयता",
+    "अर्ध-विच्छेद विश्वसनीयता",
+    "अंतर-मूल्यांकनकर्ता विश्वसनीयता"
+   ],
+   "correctIndex": 1,
+   "explanation": "Correlation between two administrations of the same test gives test-retest reliability (stability); split-half uses one administration split into halves.",
+   "explanationHi": "एक ही परीक्षण को दो बार देकर प्राप्तांकों का सहसंबंध पुनः परीक्षण (स्थिरता) विश्वसनीयता देता है; अर्ध-विच्छेद में एक ही प्रशासन को दो भागों में बाँटा जाता है।"
+  },
+  {
+   "id": "t16-assess-02",
+   "part": "B",
+   "section": "assess",
+   "topic": "Item analysis",
+   "question": "In item analysis, an item answered correctly by 90% of the upper group and 30% of the lower group has a discrimination index of",
+   "questionHi": "प्रश्न-विश्लेषण में, किसी प्रश्न का उत्तर उच्च समूह के 90% और निम्न समूह के 30% ने सही दिया। उसका विभेदन सूचकांक कितना है?",
+   "options": [
+    "0.60",
+    "0.30",
+    "0.90",
+    "1.20"
+   ],
+   "optionsHi": [
+    "0.60",
+    "0.30",
+    "0.90",
+    "1.20"
+   ],
+   "correctIndex": 0,
+   "explanation": "Discrimination index = proportion correct in upper group minus proportion correct in lower group = 0.90 - 0.30 = 0.60.",
+   "explanationHi": "विभेदन सूचकांक = उच्च समूह का सही अनुपात - निम्न समूह का सही अनुपात = 0.90 - 0.30 = 0.60।"
+  },
+  {
+   "id": "t16-assess-03",
+   "part": "B",
+   "section": "assess",
+   "topic": "Validity",
+   "question": "A teacher prepares a blueprint (table of specifications) to ensure that an achievement test covers all units and objectives in proportion. This mainly improves its",
+   "questionHi": "एक शिक्षक यह सुनिश्चित करने के लिए ब्लूप्रिंट (विनिर्देश तालिका) बनाता है कि उपलब्धि परीक्षण सभी इकाइयों और उद्देश्यों को अनुपात में समेटे। इससे मुख्यतः क्या सुधरता है?",
+   "options": [
+    "predictive validity",
+    "test-retest reliability",
+    "objectivity of scoring only",
+    "content validity"
+   ],
+   "optionsHi": [
+    "भविष्यवाणी वैधता",
+    "पुनः परीक्षण विश्वसनीयता",
+    "केवल अंकन की वस्तुनिष्ठता",
+    "अंतर्वस्तु वैधता"
+   ],
+   "correctIndex": 3,
+   "explanation": "A blueprint ensures representative sampling of content and objectives, i.e. content validity.",
+   "explanationHi": "ब्लूप्रिंट पाठ्य-वस्तु और उद्देश्यों का प्रतिनिधिक प्रतिदर्श सुनिश्चित करता है, यानी अंतर्वस्तु वैधता।"
+  },
+  {
+   "id": "t16-assess-04",
+   "part": "B",
+   "section": "assess",
+   "topic": "Norm vs criterion referencing",
+   "question": "A driving test in which every candidate who achieves the set standard receives a licence, irrespective of how others perform, is",
+   "questionHi": "एक ड्राइविंग टेस्ट, जिसमें निर्धारित मानक प्राप्त करने वाले हर उम्मीदवार को, दूसरों के प्रदर्शन की परवाह किए बिना, लाइसेंस मिलता है, कैसा परीक्षण है?",
+   "options": [
+    "norm-referenced",
+    "aptitude-based",
+    "criterion-referenced",
+    "ipsative"
+   ],
+   "optionsHi": [
+    "मानक-संदर्भित (norm-referenced)",
+    "अभिक्षमता-आधारित",
+    "मानदंड-संदर्भित",
+    "स्वयं से तुलनात्मक (ipsative)"
+   ],
+   "correctIndex": 2,
+   "explanation": "Criterion-referenced assessment compares performance with a fixed standard; norm-referenced compares candidates with one another.",
+   "explanationHi": "मानदंड-संदर्भित मूल्यांकन में निष्पादन की तुलना निश्चित मानक से होती है; मानक-संदर्भित में परीक्षार्थियों की आपस में तुलना होती है।"
+  },
+  {
+   "id": "t16-pedag-01",
+   "part": "B",
+   "section": "pedag",
+   "topic": "Curriculum principles",
+   "question": "According to the spiral curriculum idea of Bruner, of a spiral curriculum key concepts should be",
+   "questionHi": "ब्रूनर के सर्पिल पाठ्यचर्या (spiral curriculum) विचार के अनुसार मूल अवधारणाएँ होनी चाहिए",
+   "options": [
+    "taught once and never returned to",
+    "introduced only in the final year",
+    "revisited repeatedly at increasing levels of complexity",
+    "restricted to the brightest students"
+   ],
+   "optionsHi": [
+    "एक बार पढ़ाकर दोबारा न छुई जाने वाली",
+    "केवल अंतिम वर्ष में आरंभ की जाने वाली",
+    "बढ़ती जटिलता के स्तरों पर बार-बार दोहराई जानी",
+    "केवल मेधावी विद्यार्थियों तक सीमित"
+   ],
+   "correctIndex": 2,
+   "explanation": "Bruner proposed that the curriculum revisit basic ideas, building on them each time with greater depth.",
+   "explanationHi": "ब्रूनर के अनुसार पाठ्यचर्या में मूल विचारों को बार-बार, हर बार अधिक गहराई के साथ लिया जाना चाहिए।"
+  },
+  {
+   "id": "t16-pedag-02",
+   "part": "B",
+   "section": "pedag",
+   "topic": "5E model",
+   "question": "In the 5E constructivist lesson model, the correct sequence is",
+   "questionHi": "5E रचनावादी पाठ मॉडल में सही क्रम है",
+   "options": [
+    "Explain, Engage, Explore, Evaluate, Elaborate",
+    "Engage, Explore, Explain, Elaborate, Evaluate",
+    "Explore, Engage, Elaborate, Explain, Evaluate",
+    "Engage, Explain, Explore, Evaluate, Elaborate"
+   ],
+   "optionsHi": [
+    "Explain, Engage, Explore, Evaluate, Elaborate",
+    "Engage, Explore, Explain, Elaborate, Evaluate",
+    "Explore, Engage, Elaborate, Explain, Evaluate",
+    "Engage, Explain, Explore, Evaluate, Elaborate"
+   ],
+   "correctIndex": 1,
+   "explanation": "The 5E model begins by engaging curiosity, then exploring, explaining, elaborating (extending) and finally evaluating.",
+   "explanationHi": "5E मॉडल में पहले जिज्ञासा जगाई जाती है, फिर अन्वेषण, व्याख्या, विस्तार और अंत में मूल्यांकन होता है।"
+  },
+  {
+   "id": "t16-pedag-03",
+   "part": "B",
+   "section": "pedag",
+   "topic": "Holistic progress card",
+   "question": "The \"Holistic Progress Card\" suggested in NEP 2020 is intended to",
+   "questionHi": "NEP 2020 में सुझाए गए \"समग्र प्रगति कार्ड\" का उद्देश्य है",
+   "options": [
+    "give a 360-degree view of a learner including self- and peer-assessment",
+    "report only marks in written examinations",
+    "rank students by their marks",
+    "replace all teacher assessment with machine scoring"
+   ],
+   "optionsHi": [
+    "स्व- एवं सहपाठी-मूल्यांकन सहित शिक्षार्थी का 360-डिग्री चित्र देना",
+    "केवल लिखित परीक्षा के अंक दर्ज करना",
+    "विद्यार्थियों को अंकों के आधार पर क्रमबद्ध करना",
+    "शिक्षक के सभी मूल्यांकन को मशीन से बदल देना"
+   ],
+   "correctIndex": 0,
+   "explanation": "The card records cognitive, affective and psychomotor progress with inputs from the student, peers and teachers; it is not rank-based.",
+   "explanationHi": "यह कार्ड शिक्षार्थी, सहपाठियों और शिक्षकों के इनपुट के साथ संज्ञानात्मक, भावात्मक और मनोगामक प्रगति दर्ज करता है; यह रैंक-आधारित नहीं है।"
+  },
+  {
+   "id": "t16-attitude-01",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Constructivism",
+   "question": "In a constructivist classroom, the teacher's role is best described as",
+   "questionHi": "रचनावादी कक्षा में शिक्षक की भूमिका को सबसे अच्छी तरह कैसे बताया जा सकता है?",
+   "options": [
+    "the sole source of knowledge",
+    "a strict controller of silence",
+    "an examiner who rewards memorisation",
+    "a facilitator who designs experiences for learners to build their own understanding"
+   ],
+   "optionsHi": [
+    "ज्ञान का एकमात्र स्रोत",
+    "चुप्पी का कठोर नियंत्रक",
+    "रटने को पुरस्कृत करने वाला परीक्षक",
+    "ऐसा सुगमकर्ता जो सीखने वालों के लिए अनुभव रचता है ताकि वे स्वयं समझ बनाएँ"
+   ],
+   "correctIndex": 3,
+   "explanation": "Constructivism views learners as active constructors of knowledge and the teacher as a guide/facilitator.",
+   "explanationHi": "रचनावाद में शिक्षार्थी ज्ञान के सक्रिय निर्माता और शिक्षक मार्गदर्शक/सुगमकर्ता होता है।"
+  },
+  {
+   "id": "t16-attitude-02",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Gender perspective",
+   "question": "Teachers who consistently ask science questions to boys and craft questions to girls are, in effect, reinforcing",
+   "questionHi": "जो शिक्षक लगातार लड़कों से विज्ञान के प्रश्न और लड़कियों से शिल्प के प्रश्न पूछते हैं, वे वस्तुतः किसे मज़बूत कर रहे हैं?",
+   "options": [
+    "an inclusive curriculum",
+    "the formal curriculum",
+    "the hidden curriculum of gender stereotypes",
+    "co-curricular balance"
+   ],
+   "optionsHi": [
+    "समावेशी पाठ्यचर्या को",
+    "औपचारिक पाठ्यचर्या को",
+    "लैंगिक रूढ़ियों के छिपे हुए पाठ्यक्रम (hidden curriculum) को",
+    "सह-पाठ्यचर्या संतुलन को"
+   ],
+   "correctIndex": 2,
+   "explanation": "Unintended messages conveyed through classroom practices form the hidden curriculum; here they reinforce gender stereotypes.",
+   "explanationHi": "कक्षा-व्यवहार से मिलने वाले अनजाने संदेश छिपा हुआ पाठ्यक्रम बनाते हैं; यहाँ वे लैंगिक रूढ़ियों को मज़बूत करते हैं।"
+  }
+ ]
+}

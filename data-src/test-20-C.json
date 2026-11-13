@@ -1,0 +1,499 @@
+{
+ "questions": [
+  {
+   "id": "t20-hindi-01",
+   "part": "C",
+   "section": "hindi",
+   "topic": "संधि-विच्छेद",
+   "question": "\"उन्नयन\" का सही संधि-विच्छेद है",
+   "options": [
+    "उन् + नयन",
+    "उद् + नयन",
+    "उत + नयन",
+    "उत् + नयन"
+   ],
+   "correctIndex": 3,
+   "explanation": "उत् + नयन = उन्नयन। यहाँ \"त्\" के बाद \"न\" आने पर त् का न् हो जाता है (व्यंजन संधि)। अन्य विच्छेद नियमानुसार शुद्ध नहीं हैं।"
+  },
+  {
+   "id": "t20-hindi-02",
+   "part": "C",
+   "section": "hindi",
+   "topic": "समास",
+   "question": "\"दशानन\" में कौन-सा समास है?",
+   "options": [
+    "कर्मधारय",
+    "बहुव्रीहि",
+    "तत्पुरुष",
+    "द्विगु"
+   ],
+   "correctIndex": 1,
+   "explanation": "\"दस हैं आनन जिसके अर्थात् रावण\" - अन्य पद की ओर संकेत करने से बहुव्रीहि समास।"
+  },
+  {
+   "id": "t20-hindi-03",
+   "part": "C",
+   "section": "hindi",
+   "topic": "लोकोक्ति",
+   "question": "\"अधजल गगरी छलकत जाय\" लोकोक्ति का अर्थ है",
+   "options": [
+    "कम ज्ञान वाला व्यक्ति अधिक दिखावा करता है",
+    "आधा भरा घड़ा भारी होता है",
+    "पानी भरना शुभ होता है",
+    "गरीब व्यक्ति दानी होता है"
+   ],
+   "correctIndex": 0,
+   "explanation": "अधूरे ज्ञान वाले लोग ही अपनी जानकारी का अधिक प्रदर्शन करते हैं।"
+  },
+  {
+   "id": "t20-hindi-04",
+   "part": "C",
+   "section": "hindi",
+   "topic": "पर्यायवाची/अर्थ",
+   "question": "\"कलत्र\" शब्द का अर्थ है",
+   "options": [
+    "पुत्र",
+    "मित्र",
+    "पत्नी",
+    "भाई"
+   ],
+   "correctIndex": 2,
+   "explanation": "\"कलत्र\" का अर्थ पत्नी है।"
+  },
+  {
+   "id": "t20-hindi-05",
+   "part": "C",
+   "section": "hindi",
+   "topic": "तत्सम-तद्भव",
+   "question": "\"अंधकार\" का तद्भव रूप है",
+   "options": [
+    "उजाला",
+    "अँधेरा",
+    "अंधा",
+    "काला"
+   ],
+   "correctIndex": 1,
+   "explanation": "अंधकार (तत्सम) से अँधेरा (तद्भव) बना है।"
+  },
+  {
+   "id": "t20-english-01",
+   "part": "C",
+   "section": "english",
+   "topic": "One-word substitution",
+   "question": "A form of government in which the richest people rule is called",
+   "options": [
+    "oligarchy",
+    "aristocracy",
+    "theocracy",
+    "plutocracy"
+   ],
+   "correctIndex": 3,
+   "explanation": "Plutocracy = rule by the wealthy. Oligarchy is rule by a few, aristocracy by nobles and theocracy by religious leaders."
+  },
+  {
+   "id": "t20-english-02",
+   "part": "C",
+   "section": "english",
+   "topic": "Prepositions",
+   "question": "My cousin is senior ___ me by two years.",
+   "options": [
+    "than",
+    "from",
+    "to",
+    "of"
+   ],
+   "correctIndex": 2,
+   "explanation": "\"Senior\", \"junior\", \"superior\" and \"inferior\" take \"to\", not \"than\". The other prepositions are not idiomatic here."
+  },
+  {
+   "id": "t20-english-03",
+   "part": "C",
+   "section": "english",
+   "topic": "Spot the error",
+   "question": "Find the part with the error: Neither of the two brothers (A) / were present (B) / at the ceremony (C) / yesterday (D).",
+   "options": [
+    "(B) were present",
+    "(A) Neither of the two brothers",
+    "(C) at the ceremony",
+    "(D) yesterday"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"Neither of\" takes a singular verb, so \"was present\" is correct; \"were\" is the error. The other parts are correct."
+  },
+  {
+   "id": "t20-english-04",
+   "part": "C",
+   "section": "english",
+   "topic": "Idioms",
+   "question": "To \"play devil's advocate\" means to",
+   "options": [
+    "support a wicked person",
+    "argue the opposite side to test an argument",
+    "criticise someone unfairly",
+    "refuse to take part in a discussion"
+   ],
+   "correctIndex": 1,
+   "explanation": "The phrase means arguing against a position, even without believing in it, to test it. The other meanings are not idiomatic."
+  },
+  {
+   "id": "t20-english-05",
+   "part": "C",
+   "section": "english",
+   "topic": "One-word substitution",
+   "question": "Choose the one word for \"a place where bees are kept\".",
+   "options": [
+    "aviary",
+    "vivarium",
+    "apiary",
+    "aquarium"
+   ],
+   "correctIndex": 2,
+   "explanation": "An apiary (Latin apis, bee) is where bees are kept; an aviary is for birds, a vivarium for small animals, an aquarium for fish."
+  },
+  {
+   "id": "t20-mental-01",
+   "part": "C",
+   "section": "mental",
+   "topic": "Mixed series",
+   "question": "Find the next term: 5, 10, 7, 14, 11, 22, ?",
+   "questionHi": "अगला पद ज्ञात कीजिए: 5, 10, 7, 14, 11, 22, ?",
+   "options": [
+    "19",
+    "17",
+    "18",
+    "44"
+   ],
+   "optionsHi": [
+    "19",
+    "17",
+    "18",
+    "44"
+   ],
+   "correctIndex": 0,
+   "explanation": "The pattern is \"multiply by 2, then subtract 3\" repeated: 5 to 10, 10 to 7, 7 to 14, 14 to 11, 11 to 22, and so 22 to 19.",
+   "explanationHi": "क्रम: ×2 फिर −3: 5→10, 10→7, 7→14, 14→11, 11→22, 22→19। अतः अगला पद 19 है।"
+  },
+  {
+   "id": "t20-mental-02",
+   "part": "C",
+   "section": "mental",
+   "topic": "Coding-decoding",
+   "question": "If CLOUD is coded as DNRYI, how is FIELD coded?",
+   "questionHi": "यदि CLOUD को DNRYI लिखा जाता है, तो FIELD को कैसे लिखा जाएगा?",
+   "options": [
+    "GKHPJ",
+    "GJHPI",
+    "GKIPI",
+    "GKHPI"
+   ],
+   "optionsHi": [
+    "GKHPJ",
+    "GJHPI",
+    "GKIPI",
+    "GKHPI"
+   ],
+   "correctIndex": 3,
+   "explanation": "The letters shift by +1, +2, +3, +4, +5 in order. FIELD: F+1=G, I+2=K, E+3=H, L+4=P, D+5=I, giving GKHPI.",
+   "explanationHi": "अक्षर क्रमशः +1, +2, +3, +4, +5 खिसकते हैं। FIELD: F+1=G, I+2=K, E+3=H, L+4=P, D+5=I, अर्थात् GKHPI।"
+  },
+  {
+   "id": "t20-mental-03",
+   "part": "C",
+   "section": "mental",
+   "topic": "Blood relations",
+   "question": "A is B's sister. C is B's mother. D is C's father. E is D's son. How is A related to E?",
+   "questionHi": "A, B की बहन है। C, B की माँ है। D, C का पिता है। E, D का पुत्र है। A का E से क्या संबंध है?",
+   "options": [
+    "Sister",
+    "Daughter",
+    "Niece",
+    "Cousin"
+   ],
+   "optionsHi": [
+    "बहन",
+    "पुत्री",
+    "भतीजी/भांजी (Niece)",
+    "चचेरी बहन"
+   ],
+   "correctIndex": 2,
+   "explanation": "D is the maternal grandfather of A. E is D's son, so E is C's brother, i.e. A's maternal uncle. A (female) is therefore E's niece.",
+   "explanationHi": "D, A का नाना है। E, D का पुत्र है, अतः E, C का भाई यानी A का मामा है। इसलिए A (स्त्री) E की भांजी है।"
+  },
+  {
+   "id": "t20-mental-04",
+   "part": "C",
+   "section": "mental",
+   "topic": "Direction and distance",
+   "question": "A man walks 8 km north, turns right and walks 6 km, then turns right again and walks 16 km. How far is he from the starting point?",
+   "questionHi": "एक व्यक्ति 8 km उत्तर चलता है, दाएँ मुड़कर 6 km चलता है, फिर दाएँ मुड़कर 16 km चलता है। वह प्रारंभिक बिंदु से कितनी दूर है?",
+   "options": [
+    "14 km",
+    "10 km",
+    "12 km",
+    "8 km"
+   ],
+   "optionsHi": [
+    "14 km",
+    "10 km",
+    "12 km",
+    "8 km"
+   ],
+   "correctIndex": 1,
+   "explanation": "Net displacement: 6 km east and (16-8) = 8 km south. Distance = sqrt(6^2 + 8^2) = 10 km.",
+   "explanationHi": "कुल विस्थापन: 6 km पूर्व और (16-8) = 8 km दक्षिण। दूरी = sqrt(6^2 + 8^2) = 10 km।"
+  },
+  {
+   "id": "t20-mental-05",
+   "part": "C",
+   "section": "mental",
+   "topic": "Calendar",
+   "question": "If today is Wednesday, what day of the week was it 100 days ago?",
+   "questionHi": "यदि आज बुधवार है, तो 100 दिन पहले कौन-सा दिन था?",
+   "options": [
+    "Monday",
+    "Sunday",
+    "Tuesday",
+    "Friday"
+   ],
+   "optionsHi": [
+    "सोमवार",
+    "रविवार",
+    "मंगलवार",
+    "शुक्रवार"
+   ],
+   "correctIndex": 0,
+   "explanation": "100 = 14 x 7 + 2, so 100 days earlier is 2 days before Wednesday, which is Monday.",
+   "explanationHi": "100 = 14 x 7 + 2, अतः 100 दिन पहले बुधवार से 2 दिन पीछे यानी सोमवार था।"
+  },
+  {
+   "id": "t20-computer-01",
+   "part": "C",
+   "section": "computer",
+   "topic": "Excel VLOOKUP",
+   "question": "In =VLOOKUP(A2, D2:F10, 3, FALSE), the argument FALSE means",
+   "questionHi": "=VLOOKUP(A2, D2:F10, 3, FALSE) में FALSE का अर्थ है",
+   "options": [
+    "an approximate match is allowed",
+    "the lookup is case-sensitive",
+    "the table is sorted in ascending order",
+    "an exact match is required"
+   ],
+   "optionsHi": [
+    "अनुमानित मिलान की अनुमति है",
+    "खोज case-sensitive है",
+    "तालिका आरोही क्रम में सजी है",
+    "सटीक मिलान आवश्यक है"
+   ],
+   "correctIndex": 3,
+   "explanation": "The fourth argument (range_lookup) FALSE or 0 forces an exact match; TRUE approximate matching needs sorted data. VLOOKUP is not case-sensitive.",
+   "explanationHi": "चौथा तर्क (range_lookup) FALSE या 0 सटीक मिलान कराता है; TRUE में अनुमानित मिलान के लिए डेटा क्रमबद्ध होना चाहिए। VLOOKUP case-sensitive नहीं है।"
+  },
+  {
+   "id": "t20-computer-02",
+   "part": "C",
+   "section": "computer",
+   "topic": "Excel references",
+   "question": "The formula =B2*$C$1 in cell D2 is copied to D4. What formula appears in D4?",
+   "questionHi": "सेल D2 में सूत्र =B2*$C$1 को D4 में कॉपी किया गया। D4 में कौन-सा सूत्र आएगा?",
+   "options": [
+    "=B4*$C$1",
+    "=B4*C3",
+    "=B2*$C$3",
+    "=B4*$C$3"
+   ],
+   "optionsHi": [
+    "=B4*$C$1",
+    "=B4*C3",
+    "=B2*$C$3",
+    "=B4*$C$3"
+   ],
+   "correctIndex": 0,
+   "explanation": "B2 is a relative reference and shifts to B4; $C$1 is absolute and stays fixed.",
+   "explanationHi": "B2 सापेक्ष संदर्भ है और B4 हो जाता है; $C$1 निरपेक्ष है और स्थिर रहता है।"
+  },
+  {
+   "id": "t20-computer-03",
+   "part": "C",
+   "section": "computer",
+   "topic": "Number systems",
+   "question": "The octal equivalent of the binary number 101110 is",
+   "questionHi": "बाइनरी संख्या 101110 का ऑक्टल मान है",
+   "options": [
+    "46",
+    "56",
+    "65",
+    "54"
+   ],
+   "optionsHi": [
+    "46",
+    "56",
+    "65",
+    "54"
+   ],
+   "correctIndex": 1,
+   "explanation": "Group bits in threes: 101 = 5, 110 = 6, so the octal number is 56.",
+   "explanationHi": "तीन-तीन बिट के समूह: 101 = 5, 110 = 6, अतः ऑक्टल संख्या 56 है।"
+  },
+  {
+   "id": "t20-computer-04",
+   "part": "C",
+   "section": "computer",
+   "topic": "Email protocols",
+   "question": "Which protocol lets an email client read messages while leaving them on the server, so that they stay synchronised across devices?",
+   "questionHi": "कौन-सा प्रोटोकॉल ईमेल क्लाइंट को संदेश सर्वर पर रखकर पढ़ने देता है, जिससे वे सभी उपकरणों में समकालिक रहते हैं?",
+   "options": [
+    "SMTP",
+    "POP3",
+    "IMAP",
+    "FTP"
+   ],
+   "optionsHi": [
+    "SMTP",
+    "POP3",
+    "IMAP",
+    "FTP"
+   ],
+   "correctIndex": 2,
+   "explanation": "IMAP keeps mail on the server and synchronises state. SMTP only sends mail, POP3 usually downloads and removes it, and FTP transfers files.",
+   "explanationHi": "IMAP मेल को सर्वर पर रखता है और स्थिति समकालिक करता है। SMTP केवल मेल भेजता है, POP3 सामान्यतः डाउनलोड कर हटा देता है और FTP फ़ाइलें स्थानांतरित करता है।"
+  },
+  {
+   "id": "t20-computer-05",
+   "part": "C",
+   "section": "computer",
+   "topic": "Cloud models",
+   "question": "In cloud computing, the model in which the provider supplies virtual machines, storage and networks while the user installs the operating system and applications is",
+   "questionHi": "क्लाउड कंप्यूटिंग में वह मॉडल, जिसमें प्रदाता वर्चुअल मशीन, स्टोरेज और नेटवर्क देता है और उपयोगकर्ता ऑपरेटिंग सिस्टम व एप्लिकेशन स्वयं स्थापित करता है, है",
+   "options": [
+    "SaaS",
+    "PaaS",
+    "DaaS",
+    "IaaS"
+   ],
+   "optionsHi": [
+    "SaaS",
+    "PaaS",
+    "DaaS",
+    "IaaS"
+   ],
+   "correctIndex": 3,
+   "explanation": "Infrastructure as a Service gives raw computing resources. SaaS delivers finished software, PaaS gives a development platform.",
+   "explanationHi": "Infrastructure as a Service मूल कंप्यूटिंग संसाधन देता है। SaaS तैयार सॉफ़्टवेयर देता है और PaaS विकास का प्लेटफ़ॉर्म।"
+  },
+  {
+   "id": "t20-gk-01",
+   "part": "C",
+   "section": "gk",
+   "topic": "Constitution: ordinances",
+   "question": "Under which Article can the President promulgate ordinances when Parliament is not in session?",
+   "questionHi": "संसद का सत्र न चल रहा हो तब राष्ट्रपति किस अनुच्छेद के अंतर्गत अध्यादेश जारी कर सकता है?",
+   "options": [
+    "Article 72",
+    "Article 123",
+    "Article 110",
+    "Article 352"
+   ],
+   "optionsHi": [
+    "अनुच्छेद 72",
+    "अनुच्छेद 123",
+    "अनुच्छेद 110",
+    "अनुच्छेद 352"
+   ],
+   "correctIndex": 1,
+   "explanation": "Article 123 gives the President ordinance-making power; Article 72 is pardon, Article 110 defines Money Bills, Article 352 is national emergency.",
+   "explanationHi": "अनुच्छेद 123 राष्ट्रपति को अध्यादेश की शक्ति देता है; अनुच्छेद 72 क्षमादान, 110 धन विधेयक और 352 राष्ट्रीय आपातकाल से संबंधित है।"
+  },
+  {
+   "id": "t20-gk-02",
+   "part": "C",
+   "section": "gk",
+   "topic": "Modern history",
+   "question": "The 1854 document called the \"Magna Carta of English Education in India\" is",
+   "questionHi": "1854 का वह दस्तावेज़ जिसे \"भारत में अंग्रेज़ी शिक्षा का मैग्नाकार्टा\" कहा जाता है, है",
+   "options": [
+    "Macaulay's Minute",
+    "Hunter Commission Report",
+    "Wood's Despatch",
+    "Sadler Commission Report"
+   ],
+   "optionsHi": [
+    "मैकाले का विवरण-पत्र",
+    "हंटर आयोग की रिपोर्ट",
+    "वुड का घोषणा-पत्र (Wood's Despatch)",
+    "सैडलर आयोग की रिपोर्ट"
+   ],
+   "correctIndex": 2,
+   "explanation": "Wood's Despatch (1854) laid the foundation of the modern education system, including universities. Macaulay's Minute was 1835; Hunter (1882) and Sadler (1917-19) came later.",
+   "explanationHi": "वुड के घोषणा-पत्र (1854) ने विश्वविद्यालयों सहित आधुनिक शिक्षा-प्रणाली की नींव रखी। मैकाले का विवरण-पत्र 1835 का है; हंटर (1882) और सैडलर (1917-19) बाद के हैं।"
+  },
+  {
+   "id": "t20-gk-03",
+   "part": "C",
+   "section": "gk",
+   "topic": "Geography",
+   "question": "The Shipki La pass, through which the Sutlej enters India, is located in",
+   "questionHi": "शिपकी ला दर्रा, जिससे होकर सतलुज भारत में प्रवेश करती है, स्थित है",
+   "options": [
+    "Himachal Pradesh",
+    "Uttarakhand",
+    "Sikkim",
+    "Arunachal Pradesh"
+   ],
+   "optionsHi": [
+    "हिमाचल प्रदेश में",
+    "उत्तराखंड में",
+    "सिक्किम में",
+    "अरुणाचल प्रदेश में"
+   ],
+   "correctIndex": 0,
+   "explanation": "Shipki La is on the India-Tibet border in Kinnaur, Himachal Pradesh. Sikkim has Nathu La and Jelep La.",
+   "explanationHi": "शिपकी ला हिमाचल प्रदेश के किन्नौर में भारत-तिब्बत सीमा पर है। सिक्किम में नाथू ला और जेलेप ला हैं।"
+  },
+  {
+   "id": "t20-gk-04",
+   "part": "C",
+   "section": "gk",
+   "topic": "Science",
+   "question": "The normal pH of human blood is approximately",
+   "questionHi": "मानव रक्त का सामान्य pH लगभग होता है",
+   "options": [
+    "6.4",
+    "8.4",
+    "7.0",
+    "7.4"
+   ],
+   "optionsHi": [
+    "6.4",
+    "8.4",
+    "7.0",
+    "7.4"
+   ],
+   "correctIndex": 3,
+   "explanation": "Blood is slightly alkaline, with pH about 7.35-7.45. A value of 7.0 is neutral and 6.4 and 8.4 are outside the safe range.",
+   "explanationHi": "रक्त हल्का क्षारीय है, pH लगभग 7.35-7.45। 7.0 उदासीन है, 6.4 और 8.4 सुरक्षित सीमा से बाहर हैं।"
+  },
+  {
+   "id": "t20-gk-05",
+   "part": "C",
+   "section": "gk",
+   "topic": "Chhattisgarh",
+   "question": "Rajim, called the \"Prayag of Chhattisgarh\", lies at the confluence of the Mahanadi with which two rivers?",
+   "questionHi": "राजिम, जिसे \"छत्तीसगढ़ का प्रयाग\" कहा जाता है, महानदी के साथ किन दो नदियों के संगम पर स्थित है?",
+   "options": [
+    "Hasdeo and Arpa",
+    "Pairi and Sondur",
+    "Sheonath and Kharun",
+    "Indravati and Shabari"
+   ],
+   "optionsHi": [
+    "हसदेव और अरपा",
+    "पैरी और सोंढूर",
+    "शिवनाथ और खारून",
+    "इंद्रावती और शबरी"
+   ],
+   "correctIndex": 1,
+   "explanation": "Rajim, famous for the Rajivlochan temple and its annual fair, lies where the Pairi and Sondur meet the Mahanadi. The other pairs are not connected with this confluence.",
+   "explanationHi": "राजिम, राजीवलोचन मंदिर और वार्षिक मेले के लिए प्रसिद्ध, वहाँ स्थित है जहाँ पैरी और सोंढूर महानदी से मिलती हैं। अन्य जोड़ियाँ इस संगम से संबंधित नहीं हैं।"
+  }
+ ]
+}

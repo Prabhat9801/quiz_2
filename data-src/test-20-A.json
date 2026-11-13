@@ -1,0 +1,1059 @@
+{
+ "passages": [
+  {
+   "id": "t20-p1",
+   "genre": "Scientific passage",
+   "title": "The Quiet Partnership",
+   "text": "Lichens are often mistaken for a single organism, yet each one is a partnership: a fungus provides structure and shelter, while an alga or cyanobacterium living among its threads manufactures food through photosynthesis. For over a century, biologists described the arrangement as mutual benefit, but some researchers now argue that the fungus is, in effect, a gentle farmer that keeps its partner in captivity, since the alga can often survive alone whereas the fungus rarely can. Whatever the truth, the union is remarkably successful. Lichens colonise bare rock, tree bark and even Antarctic stones where almost nothing else survives, and over centuries their acids slowly break rock into the first thin soil on which mosses and flowering plants later settle.\n\nBecause lichens have no roots or protective skin, they absorb water and dissolved substances directly from the air. This makes them poor survivors in polluted cities but excellent witnesses. Several species disappear when sulphur dioxide rises, and their return to city trees is therefore read by ecologists as evidence that the air is improving. It would be unwise, however, to treat any single species as a perfect gauge; moisture, the age of the tree and the acidity of its bark also decide which lichens grow, and a bare trunk does not always indicate pollution."
+  },
+  {
+   "id": "t20-p2",
+   "genre": "Poetry extract",
+   "title": "The Potter's Wheel",
+   "text": "He bends above the turning clay\nAs though in prayer, not toil,\nAnd lets the slow wheel say for him\nWhat hands alone would spoil.\n\nA press too hard, the vessel bursts;\nToo light, it will not stand.\nSo patience is the secret skill\nThat guides the shaping hand.\n\nThe clay remembers every touch\nAnd keeps what it is shown;\nA tremor in the potter's thumb\nWill harden into stone.\n\nThe kiln will test what he has made\nWith fire he cannot ease;\nSome pots will ring and some will crack,\nAnd neither one he sees\n\nUntil the heat has gone. He waits,\nUnhurried, by the door;\nFor all his art is learning how\nTo wish, and then no more."
+  },
+  {
+   "id": "t20-p3",
+   "genre": "Drama extract",
+   "title": "The Idle Room",
+   "text": "SCENE: The verandah of a village school. MEERA, the headmistress, is arranging books. RAMLAL, the Sarpanch, enters with a file.\n\nRAMLAL: Headmistress, the panchayat has a proposal. Your library room is lying idle. We could rent it to the grain cooperative.\nMEERA: Idle? Come on a Saturday, Sarpanchji. Twenty children sit on that floor from morning until the caretaker locks up.\nRAMLAL: (glancing at the file) The register shows only nine books issued last month.\nMEERA: The register shows what the children carried home. It does not show what they read standing between the shelves, because their fathers need the lamp at night.\nRAMLAL: Sentiment will not pay for the new roof.\nMEERA: Neither will a bag of rice, if the roof shelters children who cannot read the label on it.\nRAMLAL: (after a pause, softening) You argue as though I were an enemy of the school.\nMEERA: Not an enemy. Merely a man who has measured the room, and not what it holds.\nRAMLAL: Hm. Perhaps I should visit on Saturday."
+  }
+ ],
+ "questions": [
+  {
+   "id": "t20-gram-01",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subjunctive \"high time\"",
+   "question": "It is high time the government ___ stringent measures against adulteration.",
+   "options": [
+    "takes",
+    "took",
+    "will take",
+    "has taken"
+   ],
+   "correctIndex": 1,
+   "explanation": "\"It is (high) time + subject\" is followed by the past subjunctive form, so \"took\" is correct although the sense is present."
+  },
+  {
+   "id": "t20-gram-02",
+   "part": "A",
+   "section": "gram",
+   "topic": "Negative inversion",
+   "question": "Not until the audit was completed ___ the extent of the fraud.",
+   "options": [
+    "the board discovered",
+    "the board did discover",
+    "had the board discovered",
+    "did the board discover"
+   ],
+   "correctIndex": 3,
+   "explanation": "After \"Not until + clause\" the main clause takes inversion with an auxiliary: \"did the board discover\". The other forms lack inversion or use the wrong tense."
+  },
+  {
+   "id": "t20-gram-03",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subjunctive",
+   "question": "The committee insisted that the secretary ___ the minutes before Friday.",
+   "options": [
+    "submit",
+    "submits",
+    "submitted",
+    "was submitting"
+   ],
+   "correctIndex": 0,
+   "explanation": "After verbs like insist/demand/recommend, the mandative subjunctive uses the bare infinitive: \"submit\". The other forms are indicative."
+  },
+  {
+   "id": "t20-gram-04",
+   "part": "A",
+   "section": "gram",
+   "topic": "Reported speech",
+   "question": "She said, \"I have been waiting here since morning.\" The correct indirect form is:",
+   "options": [
+    "She said that she has been waiting here since morning.",
+    "She said that she was waiting there since morning.",
+    "She said that she had been waiting there since morning.",
+    "She said that she had waited here since morning."
+   ],
+   "correctIndex": 2,
+   "explanation": "Present perfect continuous backshifts to past perfect continuous, and \"here\" becomes \"there\". Option 2 keeps the tense and place unchanged; options 3 and 4 change the aspect."
+  },
+  {
+   "id": "t20-gram-05",
+   "part": "A",
+   "section": "gram",
+   "topic": "Reported speech",
+   "question": "The teacher reminded the class that water ___ at 100 degrees Celsius at sea level.",
+   "options": [
+    "had boiled",
+    "was boiling",
+    "boils",
+    "would boil"
+   ],
+   "correctIndex": 2,
+   "explanation": "A universal truth keeps the present tense even after a past reporting verb, so \"boils\" is correct."
+  },
+  {
+   "id": "t20-gram-06",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subject-verb agreement",
+   "question": "She is one of those teachers who ___ never tired of correcting notebooks.",
+   "options": [
+    "are",
+    "is",
+    "has been",
+    "was"
+   ],
+   "correctIndex": 0,
+   "explanation": "In \"one of those ... who\", the relative pronoun refers to the plural \"teachers\", so the verb is plural: \"are\". Singular forms or past tense are wrong here."
+  },
+  {
+   "id": "t20-gram-07",
+   "part": "A",
+   "section": "gram",
+   "topic": "Modal perfect",
+   "question": "The lights were off and his car was gone, so he ___ at home when we called.",
+   "options": [
+    "needn't have been",
+    "shouldn't be",
+    "mightn't be",
+    "can't have been"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"Can't have been\" expresses a strong negative deduction about the past. \"Needn't have been\" means unnecessary action; the others do not carry past reference."
+  },
+  {
+   "id": "t20-gram-08",
+   "part": "A",
+   "section": "gram",
+   "topic": "Determiners with uncountables",
+   "question": "There is ___ hope of his recovery; the doctors have almost given up.",
+   "options": [
+    "a little",
+    "little",
+    "few",
+    "a few"
+   ],
+   "correctIndex": 1,
+   "explanation": "\"Little\" (without a) gives a negative sense: almost none. \"A little\" is positive; few/a few go with countable nouns, and hope is uncountable here."
+  },
+  {
+   "id": "t20-gram-09",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subject-verb agreement (correlatives)",
+   "question": "Not only the students but also the teacher ___ responsible for the delay.",
+   "options": [
+    "is",
+    "are",
+    "were",
+    "have been"
+   ],
+   "correctIndex": 0,
+   "explanation": "With \"not only... but also\" the verb agrees with the nearer subject, \"the teacher\", which is singular and present here: \"is\"."
+  },
+  {
+   "id": "t20-gram-10",
+   "part": "A",
+   "section": "gram",
+   "topic": "Cleft sentences",
+   "question": "Which of the following is an it-cleft sentence?",
+   "options": [
+    "What Gandhi led was the Salt March.",
+    "The Salt March was led by Gandhi.",
+    "It was Gandhi who led the Salt March.",
+    "Led by Gandhi, the march reached Dandi."
+   ],
+   "correctIndex": 2,
+   "explanation": "An it-cleft has the structure \"It + be + focus + clause\". Option 2 is a wh- (pseudo-)cleft, option 3 a plain passive and option 4 a participial phrase."
+  },
+  {
+   "id": "t20-gram-11",
+   "part": "A",
+   "section": "gram",
+   "topic": "Ellipsis and substitution",
+   "question": "I haven't seen the film, but my sister ___.",
+   "options": [
+    "have",
+    "has",
+    "did",
+    "does"
+   ],
+   "correctIndex": 1,
+   "explanation": "The auxiliary \"has\" substitutes for \"has seen it\" (elliptical). \"Have\" does not agree with the singular subject; did/does do not match the present perfect."
+  },
+  {
+   "id": "t20-gram-12",
+   "part": "A",
+   "section": "gram",
+   "topic": "Transformation",
+   "question": "Convert into a complex sentence: \"Being poor, he could not buy the book.\"",
+   "options": [
+    "He was poor and he could not buy the book.",
+    "Though he was poor, he could not buy the book.",
+    "If he were poor, he could not buy the book.",
+    "As he was poor, he could not buy the book."
+   ],
+   "correctIndex": 3,
+   "explanation": "The participial phrase of reason becomes a subordinate clause of reason (\"As he was poor\"). Option 2 is compound; options 3 and 4 change the meaning (concession/condition)."
+  },
+  {
+   "id": "t20-gram-13",
+   "part": "A",
+   "section": "gram",
+   "topic": "Tenses",
+   "question": "By the time the rescue team arrived, the villagers ___ for help for two days.",
+   "options": [
+    "had been waiting",
+    "have been waiting",
+    "are waiting",
+    "will have been waiting"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"By the time\" + past simple needs the past perfect continuous for the earlier, ongoing action. The other tenses do not fit a past reference point."
+  },
+  {
+   "id": "t20-gram-14",
+   "part": "A",
+   "section": "gram",
+   "topic": "Phrasal verbs",
+   "question": "The minister's careless remark ___ a storm of protest.",
+   "options": [
+    "set in",
+    "set about",
+    "set off",
+    "set aside"
+   ],
+   "correctIndex": 2,
+   "explanation": "\"Set off\" = to cause to start. \"Set in\" = begin (of bad weather/decay), \"set about\" = begin doing, \"set aside\" = reserve/ignore."
+  },
+  {
+   "id": "t20-gram-15",
+   "part": "A",
+   "section": "gram",
+   "topic": "Non-finite verbs",
+   "question": "In \"She is said to have left the country\", the phrase \"to have left\" is a:",
+   "options": [
+    "perfect participle",
+    "gerund",
+    "finite verb phrase",
+    "perfect infinitive"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"To have + past participle\" is the perfect infinitive. A participle or gerund would not take \"to\", and the phrase is non-finite, not finite."
+  },
+  {
+   "id": "t20-vocab-01",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word meaning",
+   "question": "\"Pusillanimous\" means",
+   "options": [
+    "generous in spirit",
+    "proud and arrogant",
+    "faint-hearted and lacking courage",
+    "cunning and deceitful"
+   ],
+   "correctIndex": 2,
+   "explanation": "Pusillanimous (Latin pusillus + animus) means timid and cowardly."
+  },
+  {
+   "id": "t20-vocab-02",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Prefixes",
+   "question": "Which word contains a prefix meaning \"around\"?",
+   "options": [
+    "circumnavigate",
+    "contradict",
+    "subjugate",
+    "intercept"
+   ],
+   "correctIndex": 0,
+   "explanation": "Circum- = around (circumnavigate = sail around). Contra- = against, sub- = under, inter- = between."
+  },
+  {
+   "id": "t20-vocab-03",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Polysemy",
+   "question": "In which sentence does \"strike\" mean \"to discover suddenly\"?",
+   "options": [
+    "The clock struck twelve.",
+    "The workers decided to strike from Monday.",
+    "She struck a pose for the camera.",
+    "The drillers struck oil at 300 metres."
+   ],
+   "correctIndex": 3,
+   "explanation": "\"Struck oil\" = found it. The other uses mean sounded, stop work and adopt, respectively."
+  },
+  {
+   "id": "t20-vocab-04",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Homophones and near-homophones",
+   "question": "The red scarf was a perfect ___ to her black dress.",
+   "options": [
+    "compliment",
+    "complement",
+    "supplement",
+    "implement"
+   ],
+   "correctIndex": 1,
+   "explanation": "Complement = something that completes or goes well with. Compliment = praise; supplement = an addition; implement = tool."
+  },
+  {
+   "id": "t20-vocab-05",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Collocations",
+   "question": "A ___ of bees was seen hanging from the branch.",
+   "options": [
+    "pack",
+    "swarm",
+    "herd",
+    "shoal"
+   ],
+   "correctIndex": 1,
+   "explanation": "Collocation restricts the collective noun: a swarm of bees. Pack (wolves), herd (cattle), shoal (fish)."
+  },
+  {
+   "id": "t20-vocab-06",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word class conversion",
+   "question": "In \"She elbowed her way through the crowd\", the word \"elbowed\" is formed by conversion from a",
+   "options": [
+    "adjective to a verb",
+    "verb to a noun",
+    "adverb to an adjective",
+    "noun to a verb"
+   ],
+   "correctIndex": 3,
+   "explanation": "Conversion changes the word class without any affix: the noun \"elbow\" is used as a verb."
+  },
+  {
+   "id": "t20-vocab-07",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Lexical bundles",
+   "question": "Which lexical bundle signals concession?",
+   "options": [
+    "having said that",
+    "as a result of",
+    "in the event of",
+    "on account of"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"Having said that\" introduces a contrasting/concessive point. The others express result, condition and cause."
+  },
+  {
+   "id": "t20-vocab-08",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idiom",
+   "question": "\"To steal a march on someone\" means to",
+   "options": [
+    "follow them secretly",
+    "copy their handwriting",
+    "gain an advantage over them by acting first",
+    "invite them to a procession"
+   ],
+   "correctIndex": 2,
+   "explanation": "The idiom comes from the military sense of marching ahead of an opponent unnoticed."
+  },
+  {
+   "id": "t20-vocab-09",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word meaning",
+   "question": "\"Quixotic\" describes a person or plan that is",
+   "options": [
+    "cruelly practical",
+    "humorously talkative",
+    "ruthlessly ambitious",
+    "extremely idealistic but impractical"
+   ],
+   "correctIndex": 3,
+   "explanation": "From Cervantes' Don Quixote; quixotic means romantically idealistic with little regard for practicality."
+  },
+  {
+   "id": "t20-vocab-10",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Sound devices",
+   "question": "A harsh, jarring combination of sounds in a line of verse is called",
+   "options": [
+    "euphony",
+    "cacophony",
+    "onomatopoeia",
+    "assonance"
+   ],
+   "correctIndex": 1,
+   "explanation": "Cacophony is deliberately harsh-sounding language; euphony is its pleasant opposite."
+  },
+  {
+   "id": "t20-vocab-11",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Rhetoric",
+   "question": "A sudden fall from the sublime to the ridiculous in speech or writing is called",
+   "options": [
+    "pathos",
+    "climax",
+    "bathos",
+    "irony"
+   ],
+   "correctIndex": 2,
+   "explanation": "Bathos is an anticlimax; pathos evokes pity, and climax is a rising order of intensity."
+  },
+  {
+   "id": "t20-vocab-12",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word meaning",
+   "question": "\"Ephemeral\" means",
+   "options": [
+    "lasting for a very short time",
+    "lasting for ever",
+    "extremely delicate",
+    "kept secret"
+   ],
+   "correctIndex": 0,
+   "explanation": "From Greek ephemeros (\"for a day\"): short-lived."
+  },
+  {
+   "id": "t20-vocab-13",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Wordplay",
+   "question": "A play on words that exploits similar sounds or double meanings is called",
+   "options": [
+    "antithesis",
+    "litotes",
+    "apostrophe",
+    "paronomasia"
+   ],
+   "correctIndex": 3,
+   "explanation": "Paronomasia is the technical name for a pun."
+  },
+  {
+   "id": "t20-vocab-14",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "Which line is an example of epistrophe?",
+   "options": [
+    "Never, never, never give up.",
+    "They demanded freedom; they fought for freedom; they died for freedom.",
+    "Fair is foul, and foul is fair.",
+    "I came, I saw, I conquered."
+   ],
+   "correctIndex": 1,
+   "explanation": "Epistrophe repeats the same word at the END of successive clauses (\"freedom\"). Option 2 is epizeuxis, option 3 chiasmus (antimetabole) and option 4 asyndeton."
+  },
+  {
+   "id": "t20-vocab-15",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Suffixes",
+   "question": "The suffix \"-escent\" in \"adolescent\" means",
+   "options": [
+    "becoming or beginning to be",
+    "full of",
+    "without",
+    "capable of being"
+   ],
+   "correctIndex": 0,
+   "explanation": "-escent (from Latin -escere) means growing or becoming, so adolescent = growing up. -ful, -less and -able give the other meanings."
+  },
+  {
+   "id": "t20-rc-01",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference (passage 1)",
+   "passageId": "t20-p1",
+   "question": "Which one of the following statements is NOT supported by the passage?",
+   "options": [
+    "Lichens grow best in the most polluted cities.",
+    "Lichens take in water directly from the air.",
+    "Lichens living on rock help form the first soil.",
+    "The acidity of bark affects which lichens grow on a tree."
+   ],
+   "correctIndex": 0,
+   "explanation": "The passage says several lichens disappear when sulphur dioxide rises, so growing best in polluted cities contradicts it. The other statements are stated directly."
+  },
+  {
+   "id": "t20-rc-02",
+   "part": "A",
+   "section": "rc",
+   "topic": "Vocabulary in context",
+   "passageId": "t20-p1",
+   "question": "In the passage, lichens are called \"excellent witnesses\" because they",
+   "options": [
+    "can testify in legal cases",
+    "survive in all environments",
+    "compete with other plants",
+    "provide evidence about air quality"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"Witnesses\" is used figuratively: lichens give evidence of pollution levels. They are, in fact, \"poor survivors\" in polluted cities, so option 3 is wrong."
+  },
+  {
+   "id": "t20-rc-03",
+   "part": "A",
+   "section": "rc",
+   "topic": "Tone and attitude",
+   "passageId": "t20-p1",
+   "question": "The author's attitude to using lichens as pollution indicators is best described as",
+   "options": [
+    "wholly dismissive",
+    "cautiously appreciative",
+    "uncritically enthusiastic",
+    "indifferent"
+   ],
+   "correctIndex": 1,
+   "explanation": "The author values them but warns \"it would be unwise to treat any single species as a perfect gauge\" - appreciation with caution."
+  },
+  {
+   "id": "t20-rc-04",
+   "part": "A",
+   "section": "rc",
+   "topic": "Rhetorical devices",
+   "passageId": "t20-p1",
+   "question": "The phrase \"a gentle farmer that keeps its partner in captivity\" is a",
+   "options": [
+    "metaphor",
+    "simile",
+    "hyperbole",
+    "irony"
+   ],
+   "correctIndex": 0,
+   "explanation": "The fungus is directly described as a farmer without \"like/as\": a metaphor."
+  },
+  {
+   "id": "t20-rc-05",
+   "part": "A",
+   "section": "rc",
+   "topic": "Main idea",
+   "passageId": "t20-p1",
+   "question": "The passage is chiefly concerned with showing that lichens",
+   "options": [
+    "are plants that grow only in unpolluted places.",
+    "always exploit the algae that live inside them.",
+    "are ecologically important fungus-alga partnerships whose value as pollution indicators needs careful interpretation.",
+    "are governed in their distribution by sulphur dioxide alone."
+   ],
+   "correctIndex": 2,
+   "explanation": "The passage covers the partnership, soil-building and indicator use with caveats. Options 2, 3 and 4 are over-generalisations that the passage denies."
+  },
+  {
+   "id": "t20-rc-06",
+   "part": "A",
+   "section": "rc",
+   "topic": "Figures of speech",
+   "passageId": "t20-p2",
+   "question": "\"As though in prayer, not toil\" contains a",
+   "options": [
+    "metaphor",
+    "simile",
+    "oxymoron",
+    "apostrophe"
+   ],
+   "correctIndex": 1,
+   "explanation": "The comparison is introduced by \"as though\": simile."
+  },
+  {
+   "id": "t20-rc-07",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t20-p2",
+   "question": "The lines \"A tremor in the potter's thumb / Will harden into stone\" suggest that",
+   "options": [
+    "the potter's thumb is made of stone",
+    "pots are made from stones",
+    "the potter is physically weak",
+    "faults in handling become permanent once the pot is fired"
+   ],
+   "correctIndex": 3,
+   "explanation": "The clay \"remembers every touch\"; a slip is fixed permanently in the fired pot. The rest take the image literally."
+  },
+  {
+   "id": "t20-rc-08",
+   "part": "A",
+   "section": "rc",
+   "topic": "Meaning of lines",
+   "passageId": "t20-p2",
+   "question": "The last two lines, \"learning how / To wish, and then no more\", mean that the potter must",
+   "options": [
+    "hope for success but accept what he cannot control",
+    "give up making pots",
+    "wish for more kilns",
+    "stop learning new skills"
+   ],
+   "correctIndex": 0,
+   "explanation": "After doing his best he can only wish; the firing outcome is beyond his control."
+  },
+  {
+   "id": "t20-rc-09",
+   "part": "A",
+   "section": "rc",
+   "topic": "Poem: stanza meaning (passage 2)",
+   "passageId": "t20-p2",
+   "question": "The second stanza of the poem chiefly conveys that",
+   "options": [
+    "strength is the potter's chief virtue",
+    "pots must be made as thin as possible",
+    "good pottery needs patient, balanced pressure",
+    "clay is difficult to obtain"
+   ],
+   "correctIndex": 2,
+   "explanation": "\"Too hard, it bursts; too light, it will not stand\" shows balance, and the stanza names patience as the secret skill."
+  },
+  {
+   "id": "t20-rc-10",
+   "part": "A",
+   "section": "rc",
+   "topic": "Poem: inference (passage 2)",
+   "passageId": "t20-p2",
+   "question": "\"And neither one he sees / Until the heat has gone\" implies that the potter",
+   "options": [
+    "is careless about his work",
+    "expects every pot to crack",
+    "leaves before the firing ends",
+    "learns the result of firing only after the kiln cools"
+   ],
+   "correctIndex": 3,
+   "explanation": "The potter cannot see whether pots ring or crack until the heat is gone; he waits by the door, so he does not leave."
+  },
+  {
+   "id": "t20-rc-11",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t20-p3",
+   "question": "Meera's remark about the register implies that it",
+   "options": [
+    "is deliberately falsified by the staff",
+    "understates the real use of the library",
+    "shows that books are not needed",
+    "records nine books too many"
+   ],
+   "correctIndex": 1,
+   "explanation": "Children read in the library without taking books home, so issue figures undercount use."
+  },
+  {
+   "id": "t20-rc-12",
+   "part": "A",
+   "section": "rc",
+   "topic": "Tone",
+   "passageId": "t20-p3",
+   "question": "Meera's reply, \"Neither will a bag of rice, if the roof shelters children who cannot read the label on it\", is",
+   "options": [
+    "humble and apologetic",
+    "angry and abusive",
+    "confused and hesitant",
+    "firm and ironical"
+   ],
+   "correctIndex": 3,
+   "explanation": "She turns his practical argument against him with sharp irony while remaining polite."
+  },
+  {
+   "id": "t20-rc-13",
+   "part": "A",
+   "section": "rc",
+   "topic": "Attitude",
+   "passageId": "t20-p3",
+   "question": "At the beginning of the scene, Ramlal's attitude to the library is mainly",
+   "options": [
+    "utilitarian",
+    "sentimental",
+    "hostile to education",
+    "curious about books"
+   ],
+   "correctIndex": 0,
+   "explanation": "He judges the room by its economic use (rent, register), a practical or utilitarian approach, though he is not hostile."
+  },
+  {
+   "id": "t20-rc-14",
+   "part": "A",
+   "section": "rc",
+   "topic": "Rhetorical devices",
+   "passageId": "t20-p3",
+   "question": "Meera's last line, \"a man who has measured the room, and not what it holds\", chiefly uses",
+   "options": [
+    "onomatopoeia",
+    "pun",
+    "antithesis",
+    "apostrophe"
+   ],
+   "correctIndex": 2,
+   "explanation": "It contrasts the room's size with its contents: antithesis. There is no sound imitation, wordplay or address to an absent person."
+  },
+  {
+   "id": "t20-rc-15",
+   "part": "A",
+   "section": "rc",
+   "topic": "Logical sequencing",
+   "passageId": "t20-p3",
+   "question": "The scene ends with Ramlal",
+   "options": [
+    "insisting on renting the room",
+    "resigning as Sarpanch",
+    "showing the first sign of a changed attitude",
+    "abusing the headmistress"
+   ],
+   "correctIndex": 2,
+   "explanation": "He softens and says he might visit on Saturday, suggesting a partial change of heart, not a decision to rent."
+  },
+  {
+   "id": "t20-ped-01",
+   "part": "A",
+   "section": "ped",
+   "topic": "Swain's output hypothesis",
+   "question": "According to Swain's Output Hypothesis, producing the target language helps acquisition mainly because it",
+   "questionHi": "स्वेन की Output Hypothesis के अनुसार लक्ष्य भाषा बोलना या लिखना अधिगम में मुख्यतः इसलिए सहायक है क्योंकि यह",
+   "options": [
+    "replaces the need for any input",
+    "makes learners notice gaps in their own knowledge",
+    "removes the affective filter",
+    "lets learners avoid grammar"
+   ],
+   "optionsHi": [
+    "इनपुट की ज़रूरत को खत्म कर देता है",
+    "सीखने वाले को अपने ज्ञान की कमियों का ध्यान कराता है",
+    "affective filter को हटा देता है",
+    "व्याकरण से बचने देता है"
+   ],
+   "correctIndex": 1,
+   "explanation": "Swain argued that pushed output makes learners notice what they cannot yet say and test hypotheses. It complements, not replaces, input; the affective filter is Krashen's idea.",
+   "explanationHi": "स्वेन के अनुसार \"pushed output\" से सीखने वाला जान पाता है कि वह क्या नहीं कह पा रहा और अपनी परिकल्पनाओं को परखता है। यह input का विकल्प नहीं, पूरक है; affective filter क्रैशेन की अवधारणा है।"
+  },
+  {
+   "id": "t20-ped-02",
+   "part": "A",
+   "section": "ped",
+   "topic": "Contrastive Analysis",
+   "question": "The strong form of Lado's Contrastive Analysis Hypothesis predicts that learning difficulty arises mainly where",
+   "questionHi": "लाडो की Contrastive Analysis Hypothesis का प्रबल रूप भविष्यवाणी करता है कि सीखने की कठिनाई मुख्यतः वहाँ होती है जहाँ",
+   "options": [
+    "the learner has no motivation",
+    "the structures of the mother tongue and the target language differ",
+    "the teacher uses the mother tongue",
+    "the target language has a long literature"
+   ],
+   "optionsHi": [
+    "विद्यार्थी में प्रेरणा नहीं होती",
+    "मातृभाषा और लक्ष्य भाषा की संरचनाएँ भिन्न होती हैं",
+    "शिक्षक मातृभाषा का प्रयोग करता है",
+    "लक्ष्य भाषा का साहित्य बहुत लंबा होता है"
+   ],
+   "correctIndex": 1,
+   "explanation": "Lado held that differences between L1 and L2 cause difficulty and errors, while similarities facilitate transfer. Later research showed many errors are not predicted this way.",
+   "explanationHi": "लाडो के अनुसार L1 और L2 के अंतर कठिनाई और त्रुटियाँ पैदा करते हैं, जबकि समानताएँ अंतरण में सहायक होती हैं। बाद के शोध में अनेक त्रुटियाँ इस प्रकार अनुमानित नहीं पाई गईं।"
+  },
+  {
+   "id": "t20-ped-03",
+   "part": "A",
+   "section": "ped",
+   "topic": "Cummins interdependence",
+   "question": "According to Cummins' Linguistic Interdependence Hypothesis, skills developed in the first language",
+   "questionHi": "कमिंस की Linguistic Interdependence Hypothesis के अनुसार पहली भाषा में विकसित कौशल",
+   "options": [
+    "interfere with L2 and must be suppressed",
+    "are unrelated to L2 learning",
+    "are lost once L2 instruction starts",
+    "can transfer to the second language through a common underlying proficiency"
+   ],
+   "optionsHi": [
+    "L2 में बाधा डालते हैं और उन्हें दबाना चाहिए",
+    "L2 सीखने से असंबंधित हैं",
+    "L2 शिक्षण शुरू होते ही खो जाते हैं",
+    "एक साझा अंतर्निहित दक्षता (common underlying proficiency) के माध्यम से दूसरी भाषा में स्थानांतरित हो सकते हैं"
+   ],
+   "correctIndex": 3,
+   "explanation": "Cummins argued that L1 and L2 share a common underlying proficiency, so literacy and concepts built in L1 support L2.",
+   "explanationHi": "कमिंस के अनुसार L1 और L2 की दक्षता का आधार साझा है, इसलिए L1 में बनी साक्षरता और अवधारणाएँ L2 की मदद करती हैं।"
+  },
+  {
+   "id": "t20-ped-04",
+   "part": "A",
+   "section": "ped",
+   "topic": "Cummins' BICS and CALP",
+   "question": "According to Cummins, Cognitive Academic Language Proficiency (CALP) in a second language generally takes",
+   "questionHi": "कमिन्स के अनुसार द्वितीय भाषा में Cognitive Academic Language Proficiency (CALP) विकसित होने में सामान्यतः लगते हैं",
+   "options": [
+    "about five to seven years to develop",
+    "a few weeks",
+    "only one month of immersion",
+    "no time, since it is innate"
+   ],
+   "optionsHi": [
+    "लगभग पाँच से सात वर्ष",
+    "कुछ सप्ताह",
+    "केवल एक माह का immersion",
+    "कोई समय नहीं, क्योंकि यह जन्मजात है"
+   ],
+   "correctIndex": 0,
+   "explanation": "Cummins found BICS (conversational fluency) appears in about 1–2 years, but CALP (academic language) typically needs 5–7 years.",
+   "explanationHi": "कमिन्स के अनुसार BICS (बोलचाल की प्रवाहिता) 1-2 वर्ष में आ जाती है, पर CALP (शैक्षणिक भाषा) में सामान्यतः 5-7 वर्ष लगते हैं।"
+  },
+  {
+   "id": "t20-ped-05",
+   "part": "A",
+   "section": "ped",
+   "topic": "Halliday's functions",
+   "question": "A child who keeps asking \"Why does it rain?\" is using, in Halliday's terms, the",
+   "questionHi": "हैलिडे के अनुसार जो बच्चा बार-बार पूछता है \"बारिश क्यों होती है?\", वह भाषा का कौन-सा प्रकार्य प्रयोग कर रहा है?",
+   "options": [
+    "regulatory function",
+    "personal function",
+    "heuristic function",
+    "instrumental function"
+   ],
+   "optionsHi": [
+    "regulatory function",
+    "personal function",
+    "heuristic function",
+    "instrumental function"
+   ],
+   "correctIndex": 2,
+   "explanation": "The heuristic function is language used to learn and explore the environment (asking questions). Regulatory controls behaviour, personal expresses identity, instrumental satisfies needs.",
+   "explanationHi": "Heuristic function में भाषा का उपयोग सीखने-खोजने (प्रश्न पूछने) के लिए होता है। Regulatory व्यवहार नियंत्रित करता है, personal पहचान व्यक्त करता है, instrumental ज़रूरतें पूरी करता है।"
+  },
+  {
+   "id": "t20-ped-06",
+   "part": "A",
+   "section": "ped",
+   "topic": "Hymes' communicative competence",
+   "question": "Hymes criticised Chomsky's notion of competence mainly because it ignored",
+   "questionHi": "हाइम्स ने चॉम्स्की की competence की अवधारणा की मुख्य आलोचना इसलिए की क्योंकि वह उपेक्षा करती थी",
+   "options": [
+    "the role of universal grammar",
+    "innate language ability",
+    "the existence of syntax",
+    "knowing what is appropriate in a given social context"
+   ],
+   "optionsHi": [
+    "universal grammar की भूमिका की",
+    "जन्मजात भाषा-क्षमता की",
+    "वाक्य-विन्यास के अस्तित्व की",
+    "किसी सामाजिक संदर्भ में क्या उचित है, इसके ज्ञान की"
+   ],
+   "correctIndex": 3,
+   "explanation": "Hymes added sociolinguistic appropriateness: knowing when, where and to whom to say what. He did not reject syntax or innateness as such.",
+   "explanationHi": "हाइम्स ने सामाजिक-भाषिक उपयुक्तता जोड़ी: कब, कहाँ और किससे क्या कहना है। उन्होंने वाक्य-विन्यास या जन्मजात क्षमता को नकारा नहीं।"
+  },
+  {
+   "id": "t20-ped-07",
+   "part": "A",
+   "section": "ped",
+   "topic": "Canale and Swain",
+   "question": "A learner forgets the word \"umbrella\" and says \"the thing you hold over your head when it rains\". In Canale and Swain's model, this shows",
+   "questionHi": "कैनेल और स्वेन के मॉडल में, जब सीखने वाला \"umbrella\" शब्द भूलकर कहता है \"वह चीज़ जिसे बारिश में सिर के ऊपर पकड़ते हैं\", तो यह दर्शाता है",
+   "options": [
+    "grammatical competence",
+    "strategic competence",
+    "discourse competence",
+    "sociolinguistic competence"
+   ],
+   "optionsHi": [
+    "grammatical competence",
+    "strategic competence",
+    "discourse competence",
+    "sociolinguistic competence"
+   ],
+   "correctIndex": 1,
+   "explanation": "Paraphrasing to overcome a gap in vocabulary is a communication strategy: strategic competence.",
+   "explanationHi": "शब्द-भंडार की कमी को वैकल्पिक कथन से पूरा करना संप्रेषण-रणनीति है: strategic competence।"
+  },
+  {
+   "id": "t20-ped-08",
+   "part": "A",
+   "section": "ped",
+   "topic": "Error analysis",
+   "question": "Unlike contrastive analysis, which predicts difficulty from L1-L2 differences, error analysis studies",
+   "questionHi": "Contrastive analysis जहाँ L1-L2 के अंतर से कठिनाई का अनुमान लगाता है, वहीं error analysis अध्ययन करता है",
+   "options": [
+    "only the learner's mother tongue",
+    "native-speaker pronunciation",
+    "the actual errors found in learners' output",
+    "teachers' lesson plans"
+   ],
+   "optionsHi": [
+    "केवल सीखने वाले की मातृभाषा का",
+    "मूल वक्ता के उच्चारण का",
+    "सीखने वाले के वास्तविक प्रयोग में मिलीं त्रुटियों का",
+    "शिक्षकों की पाठ योजनाओं का"
+   ],
+   "correctIndex": 2,
+   "explanation": "Error analysis (Corder) examines learners' real errors to find their causes, including those not due to L1 transfer.",
+   "explanationHi": "Error analysis (कॉर्डर) सीखने वालों की वास्तविक त्रुटियों और उनके कारणों का अध्ययन करता है, जिनमें L1 के प्रभाव से परे कारण भी होते हैं।"
+  },
+  {
+   "id": "t20-ped-09",
+   "part": "A",
+   "section": "ped",
+   "topic": "Chomsky LAD",
+   "question": "The Language Acquisition Device (LAD) proposed by Chomsky is",
+   "questionHi": "चॉम्स्की द्वारा प्रस्तावित Language Acquisition Device (LAD) है",
+   "options": [
+    "an innate mental faculty that lets children build grammar from limited input",
+    "a classroom audio-visual gadget",
+    "a test of grammatical accuracy",
+    "a habit formed by reinforcement"
+   ],
+   "optionsHi": [
+    "एक जन्मजात मानसिक क्षमता जो बच्चों को सीमित इनपुट से व्याकरण बनाने देती है",
+    "कक्षा में प्रयुक्त श्रव्य-दृश्य उपकरण",
+    "व्याकरणिक शुद्धता की परीक्षा",
+    "पुनर्बलन से बनी आदत"
+   ],
+   "correctIndex": 0,
+   "explanation": "Chomsky LAD is an innate capacity for language; behaviourist habit formation was what he rejected.",
+   "explanationHi": "चॉम्स्की का LAD भाषा के लिए जन्मजात क्षमता है; व्यवहारवादियों की आदत-निर्माण की धारणा को उन्होंने अस्वीकार किया।"
+  },
+  {
+   "id": "t20-ped-10",
+   "part": "A",
+   "section": "ped",
+   "topic": "Krashen's Monitor hypothesis",
+   "question": "Which of the following is NOT one of the conditions for effective use of the Monitor in Krashen's theory?",
+   "questionHi": "क्रैशेन के सिद्धांत में Monitor के प्रभावी उपयोग की शर्तों में कौन-सी शर्त शामिल नहीं है?",
+   "options": [
+    "Having enough time",
+    "Focusing on form",
+    "Knowing the relevant rule",
+    "Receiving input slightly beyond the current level (i+1)"
+   ],
+   "optionsHi": [
+    "पर्याप्त समय होना",
+    "रूप (form) पर ध्यान देना",
+    "संबंधित नियम का ज्ञान होना",
+    "वर्तमान स्तर से थोड़ा आगे का इनपुट (i+1) मिलना"
+   ],
+   "correctIndex": 3,
+   "explanation": "The Monitor needs time, focus on form and knowledge of the rule. \"i+1\" belongs to the Input Hypothesis, not to Monitor conditions.",
+   "explanationHi": "Monitor के लिए समय, form पर ध्यान और नियम का ज्ञान ज़रूरी है। \"i+1\" Input Hypothesis का हिस्सा है, Monitor की शर्त नहीं।"
+  },
+  {
+   "id": "t20-ped-11",
+   "part": "A",
+   "section": "ped",
+   "topic": "Revised Bloom's taxonomy",
+   "question": "In the revised Bloom (Anderson and Krathwohl) taxonomy, which language task targets the \"Analyse\" level?",
+   "questionHi": "संशोधित ब्लूम (एंडरसन व क्रैथवॉल) वर्गीकरण में कौन-सा भाषा-कार्य \"Analyse\" स्तर को लक्षित करता है?",
+   "options": [
+    "Listing the characters of a story",
+    "Distinguishing facts from opinions in an editorial",
+    "Writing an original story",
+    "Summarising a paragraph in one's own words"
+   ],
+   "optionsHi": [
+    "कहानी के पात्रों की सूची बनाना",
+    "संपादकीय में तथ्य और राय में अंतर करना",
+    "मौलिक कहानी लिखना",
+    "अनुच्छेद का सार अपने शब्दों में लिखना"
+   ],
+   "correctIndex": 1,
+   "explanation": "Analyse = breaking material into parts and finding relationships, e.g. separating fact from opinion. Listing = remember, summarising = understand, original writing = create.",
+   "explanationHi": "Analyse = सामग्री को भागों में बाँटकर संबंध खोजना, जैसे तथ्य व राय अलग करना। सूची बनाना = remember, सार = understand, मौलिक लेखन = create।"
+  },
+  {
+   "id": "t20-ped-12",
+   "part": "A",
+   "section": "ped",
+   "topic": "Halliday functions",
+   "question": "In Halliday's functional model, the 'heuristic' function of language is used to",
+   "questionHi": "हैलिडे के कार्यात्मक मॉडल में भाषा का 'heuristic' कार्य प्रयुक्त होता है",
+   "options": [
+    "explore and learn about the environment, as when asking questions",
+    "satisfy material needs",
+    "control the behaviour of others",
+    "maintain social relationships"
+   ],
+   "optionsHi": [
+    "प्रश्न पूछने जैसे कार्यों से परिवेश को जानने और सीखने के लिए",
+    "भौतिक आवश्यकताएँ पूरी करने के लिए",
+    "दूसरों के व्यवहार को नियंत्रित करने के लिए",
+    "सामाजिक संबंध बनाए रखने के लिए"
+   ],
+   "correctIndex": 0,
+   "explanation": "Heuristic = learning and discovering (why? how?). Satisfying needs is instrumental, controlling others regulatory, relationships interactional.",
+   "explanationHi": "Heuristic = सीखना और खोजना (क्यों? कैसे?)। आवश्यकता-पूर्ति instrumental, नियंत्रण regulatory और संबंध interactional कार्य हैं।"
+  },
+  {
+   "id": "t20-ped-13",
+   "part": "A",
+   "section": "ped",
+   "topic": "Scaffolding and ZPD",
+   "question": "A teacher gives sentence starters for the first essay, fewer for the second and none for the third. This illustrates",
+   "questionHi": "एक शिक्षक पहले निबंध में वाक्य-प्रारंभ देता है, दूसरे में कम और तीसरे में बिल्कुल नहीं। यह उदाहरण है",
+   "options": [
+    "behaviourist drilling",
+    "the affective filter",
+    "gradual fading of scaffolding within the ZPD",
+    "the direct method"
+   ],
+   "optionsHi": [
+    "व्यवहारवादी ड्रिल का",
+    "affective filter का",
+    "ZPD में scaffolding को धीरे-धीरे हटाने का",
+    "प्रत्यक्ष विधि का"
+   ],
+   "correctIndex": 2,
+   "explanation": "Support is reduced as the learner becomes capable of independent performance: Vygotskian scaffolding and its fading.",
+   "explanationHi": "जैसे-जैसे विद्यार्थी स्वतंत्र प्रदर्शन के योग्य होता है, सहायता घटाई जाती है: वाइगोत्स्की का scaffolding और उसका fading।"
+  },
+  {
+   "id": "t20-ped-14",
+   "part": "A",
+   "section": "ped",
+   "topic": "Errors vs mistakes",
+   "question": "A learner writes \"He goes to school\" correctly but says \"He go to school\" when speaking fast and corrects it when asked. According to Corder, the spoken slip is a",
+   "questionHi": "एक विद्यार्थी \"He goes to school\" सही लिखता है पर जल्दी बोलते समय \"He go to school\" कह देता है और पूछने पर सुधार लेता है। कॉर्डर के अनुसार यह बोलचाल की चूक है",
+   "options": [
+    "mistake (performance error)",
+    "systematic error of competence",
+    "fossilised error",
+    "case of language transfer"
+   ],
+   "optionsHi": [
+    "mistake (निष्पादन की चूक)",
+    "योग्यता की व्यवस्थित त्रुटि (error)",
+    "fossilised error",
+    "भाषा-अंतरण का मामला"
+   ],
+   "correctIndex": 0,
+   "explanation": "A mistake is a random performance lapse the learner can self-correct; an error reflects incomplete knowledge and cannot be self-corrected.",
+   "explanationHi": "Mistake निष्पादन की आकस्मिक चूक है जिसे सीखने वाला स्वयं सुधार लेता है; error अधूरे ज्ञान को दर्शाती है और स्वयं नहीं सुधरती।"
+  },
+  {
+   "id": "t20-ped-15",
+   "part": "A",
+   "section": "ped",
+   "topic": "TBLT",
+   "question": "Prabhu's Bangalore Project is associated with which approach?",
+   "questionHi": "प्रभु का Bangalore Project किस उपागम से जुड़ा है?",
+   "options": [
+    "Audio-lingual drilling",
+    "Grammar-Translation",
+    "The Direct Method",
+    "Task-based (procedural syllabus) teaching"
+   ],
+   "optionsHi": [
+    "Audio-lingual ड्रिल",
+    "Grammar-Translation",
+    "प्रत्यक्ष विधि",
+    "Task-based (procedural syllabus) शिक्षण"
+   ],
+   "correctIndex": 3,
+   "explanation": "Prabhu's Communicational Teaching Project used problem-solving tasks rather than a grammatical syllabus: a forerunner of task-based teaching.",
+   "explanationHi": "प्रभु की परियोजना में व्याकरणिक पाठ्यक्रम की जगह समस्या-समाधान कार्य (tasks) दिए गए: यह task-based शिक्षण का अग्रदूत है।"
+  }
+ ]
+}

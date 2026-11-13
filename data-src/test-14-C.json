@@ -1,0 +1,499 @@
+{
+ "questions": [
+  {
+   "id": "t14-hindi-01",
+   "part": "C",
+   "section": "hindi",
+   "topic": "संधि-विच्छेद",
+   "question": "'सज्जन' शब्द का सही संधि-विच्छेद है",
+   "options": [
+    "सत् + जन",
+    "सद् + जन",
+    "सज् + जन",
+    "सत्य + जन"
+   ],
+   "correctIndex": 0,
+   "explanation": "'सत्' के अंत का 'त्' व्यंजन संधि में 'ज' के पहले 'ज्' हो जाता है: सत् + जन = सज्जन।"
+  },
+  {
+   "id": "t14-hindi-02",
+   "part": "C",
+   "section": "hindi",
+   "topic": "समास",
+   "question": "'चक्रपाणि' शब्द में कौन-सा समास है?",
+   "options": [
+    "कर्मधारय",
+    "द्विगु",
+    "तत्पुरुष",
+    "बहुव्रीहि"
+   ],
+   "correctIndex": 3,
+   "explanation": "विग्रह: चक्र है पाणि (हाथ) में जिसके, अर्थात् विष्णु। समस्त पद किसी तीसरे अर्थ का बोध कराता है, अतः बहुव्रीहि समास।"
+  },
+  {
+   "id": "t14-hindi-03",
+   "part": "C",
+   "section": "hindi",
+   "topic": "मुहावरे",
+   "question": "'गूलर का फूल होना' मुहावरे का अर्थ है",
+   "options": [
+    "बहुत सुंदर होना",
+    "बहुत कमज़ोर होना",
+    "दुर्लभ होना (कभी न दिखना)",
+    "अचानक धनी हो जाना"
+   ],
+   "correctIndex": 2,
+   "explanation": "गूलर का फूल प्रायः दिखाई नहीं देता, इसलिए इस मुहावरे का अर्थ है ऐसा व्यक्ति या वस्तु जो बहुत कम दिखे/दुर्लभ हो।"
+  },
+  {
+   "id": "t14-hindi-04",
+   "part": "C",
+   "section": "hindi",
+   "topic": "अनेकार्थी शब्द",
+   "question": "'अंबर' शब्द के दो अर्थ हैं",
+   "options": [
+    "आकाश और पृथ्वी",
+    "आकाश और वस्त्र",
+    "जल और वस्त्र",
+    "वस्त्र और अग्नि"
+   ],
+   "correctIndex": 1,
+   "explanation": "'अंबर' का अर्थ आकाश भी है और वस्त्र (कपड़ा) भी। जल, पृथ्वी या अग्नि इसके अर्थ नहीं हैं।"
+  },
+  {
+   "id": "t14-hindi-05",
+   "part": "C",
+   "section": "hindi",
+   "topic": "शब्द-शुद्धि",
+   "question": "निम्नलिखित में शुद्ध वर्तनी वाला शब्द कौन-सा है?",
+   "options": [
+    "उज्ज्वल",
+    "उज्वल",
+    "उज्जवल",
+    "उजवल"
+   ],
+   "correctIndex": 0,
+   "explanation": "शुद्ध रूप 'उज्ज्वल' है (उद् + ज्वल: द् का ज् होकर ज्ज् + ज्व)।"
+  },
+  {
+   "id": "t14-english-01",
+   "part": "C",
+   "section": "english",
+   "topic": "One-word substitution",
+   "question": "The study of ancient inscriptions is called",
+   "options": [
+    "numismatics",
+    "philately",
+    "epigraphy",
+    "cartography"
+   ],
+   "correctIndex": 2,
+   "explanation": "Epigraphy studies inscriptions; numismatics deals with coins, philately with stamps and cartography with maps."
+  },
+  {
+   "id": "t14-english-02",
+   "part": "C",
+   "section": "english",
+   "topic": "Prepositions",
+   "question": "The accused was acquitted ____ the charge of murder.",
+   "options": [
+    "from",
+    "of",
+    "for",
+    "on"
+   ],
+   "correctIndex": 1,
+   "explanation": "\"Acquit someone of a charge\" is the fixed prepositional pattern; \"acquitted from/for/on\" is not standard."
+  },
+  {
+   "id": "t14-english-03",
+   "part": "C",
+   "section": "english",
+   "topic": "Spot the error",
+   "question": "Find the part with the error: \"Neither of the two proposals (A) / were (B) / acceptable to (C) / the committee. (D: No error)\"",
+   "options": [
+    "were",
+    "Neither of the two proposals",
+    "acceptable to",
+    "No error"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"Neither\" takes a singular verb in formal usage, so \"were\" should be \"was\"."
+  },
+  {
+   "id": "t14-english-04",
+   "part": "C",
+   "section": "english",
+   "topic": "Idioms",
+   "question": "The idiom \"a red herring\" means",
+   "options": [
+    "a rare delicacy",
+    "a sign of danger",
+    "an expensive mistake",
+    "a misleading clue that distracts from the real issue"
+   ],
+   "correctIndex": 3,
+   "explanation": "A red herring is something that diverts attention from the real issue or question, especially a false clue."
+  },
+  {
+   "id": "t14-english-05",
+   "part": "C",
+   "section": "english",
+   "topic": "Active-passive",
+   "question": "Change into passive voice: \"Who taught you French?\"",
+   "options": [
+    "By whom French was taught to you?",
+    "Who was French taught to you by?",
+    "By whom were you taught French?",
+    "Whom were you taught by French?"
+   ],
+   "correctIndex": 2,
+   "explanation": "The interrogative \"who\" as subject becomes \"by whom\" in the passive, with the object \"you\" as the new subject: \"By whom were you taught French?\""
+  },
+  {
+   "id": "t14-mental-01",
+   "part": "C",
+   "section": "mental",
+   "topic": "Number series",
+   "question": "Find the next term: 4, 6, 12, 14, 28, 30, ?",
+   "questionHi": "अगला पद ज्ञात कीजिए: 4, 6, 12, 14, 28, 30, ?",
+   "options": [
+    "32",
+    "58",
+    "62",
+    "60"
+   ],
+   "optionsHi": [
+    "32",
+    "58",
+    "62",
+    "60"
+   ],
+   "correctIndex": 3,
+   "explanation": "The pattern alternates +2 and ×2: 4+2=6, 6×2=12, 12+2=14, 14×2=28, 28+2=30, 30×2=60.",
+   "explanationHi": "पैटर्न बारी-बारी से +2 और ×2 है: 4+2=6, 6×2=12, 12+2=14, 14×2=28, 28+2=30, 30×2=60।"
+  },
+  {
+   "id": "t14-mental-02",
+   "part": "C",
+   "section": "mental",
+   "topic": "Mixed series",
+   "question": "Find the next term: 5, 10, 8, 16, 14, 28, ?",
+   "questionHi": "अगला पद ज्ञात कीजिए: 5, 10, 8, 16, 14, 28, ?",
+   "options": [
+    "30",
+    "56",
+    "26",
+    "24"
+   ],
+   "optionsHi": [
+    "30",
+    "56",
+    "26",
+    "24"
+   ],
+   "correctIndex": 2,
+   "explanation": "The pattern alternates ×2 and −2: 5×2=10, 10−2=8, 8×2=16, 16−2=14, 14×2=28, then 28−2 = 26.",
+   "explanationHi": "पैटर्न बारी-बारी से ×2 और −2 है: 5×2=10, 10−2=8, 8×2=16, 16−2=14, 14×2=28, फिर 28−2 = 26।"
+  },
+  {
+   "id": "t14-mental-03",
+   "part": "C",
+   "section": "mental",
+   "topic": "Blood relations",
+   "question": "Pointing to a lady, Arun said, \"She is the wife of the only son of my mother's father.\" How is the lady related to Arun?",
+   "questionHi": "एक महिला की ओर इशारा करके अरुण ने कहा, \"वह मेरी माँ के पिता के इकलौते पुत्र की पत्नी है।\" वह महिला अरुण की क्या लगती है?",
+   "options": [
+    "Mother",
+    "Maternal aunt (mami)",
+    "Sister",
+    "Niece"
+   ],
+   "optionsHi": [
+    "माँ",
+    "मामी",
+    "बहन",
+    "भतीजी"
+   ],
+   "correctIndex": 1,
+   "explanation": "The only son of Arun's mother's father is Arun's maternal uncle (mama); his wife is Arun's mami.",
+   "explanationHi": "अरुण की माँ के पिता का इकलौता पुत्र अरुण का मामा है; उसकी पत्नी अरुण की मामी है।"
+  },
+  {
+   "id": "t14-mental-04",
+   "part": "C",
+   "section": "mental",
+   "topic": "Clock angle",
+   "question": "What is the angle between the hands of a clock at 4:30?",
+   "questionHi": "4:30 बजे घड़ी की सुइयों के बीच कितना कोण होता है?",
+   "options": [
+    "45°",
+    "75°",
+    "30°",
+    "60°"
+   ],
+   "optionsHi": [
+    "45°",
+    "75°",
+    "30°",
+    "60°"
+   ],
+   "correctIndex": 0,
+   "explanation": "At 4:30 the minute hand is at 180°; the hour hand is at 4×30 + 15 = 135°. Difference = 45°.",
+   "explanationHi": "4:30 पर मिनट की सुई 180° पर और घंटे की सुई 4×30 + 15 = 135° पर होती है। अंतर = 45°।"
+  },
+  {
+   "id": "t14-mental-05",
+   "part": "C",
+   "section": "mental",
+   "topic": "Direction and distance",
+   "question": "A man walks 7 km north, then 12 km east, then 2 km south. How far is he from his starting point?",
+   "questionHi": "एक आदमी 7 km उत्तर, फिर 12 km पूर्व, फिर 2 km दक्षिण चलता है। वह अपने प्रारंभिक स्थान से कितनी दूर है?",
+   "options": [
+    "14 km",
+    "17 km",
+    "21 km",
+    "13 km"
+   ],
+   "optionsHi": [
+    "14 km",
+    "17 km",
+    "21 km",
+    "13 km"
+   ],
+   "correctIndex": 3,
+   "explanation": "Net north = 7 − 2 = 5 km, east = 12 km. Distance = √(5² + 12²) = √169 = 13 km.",
+   "explanationHi": "उत्तर की ओर कुल = 7 − 2 = 5 km, पूर्व = 12 km। दूरी = √(5² + 12²) = √169 = 13 km।"
+  },
+  {
+   "id": "t14-computer-01",
+   "part": "C",
+   "section": "computer",
+   "topic": "Excel references",
+   "question": "In Excel, the formula =A1*$B$1 is entered in C1 and copied down to C3. What does C3 contain?",
+   "questionHi": "Excel में सूत्र =A1*$B$1 को C1 में लिखकर C3 तक नीचे कॉपी किया गया। C3 में क्या सूत्र होगा?",
+   "options": [
+    "=A3*$B$3",
+    "=A3*$B$1",
+    "=A1*$B$1",
+    "=A3*B1"
+   ],
+   "optionsHi": [
+    "=A3*$B$3",
+    "=A3*$B$1",
+    "=A1*$B$1",
+    "=A3*B1"
+   ],
+   "correctIndex": 1,
+   "explanation": "The relative reference A1 shifts to A3; the absolute reference $B$1 stays fixed.",
+   "explanationHi": "सापेक्ष संदर्भ A1 बदलकर A3 हो जाता है; निरपेक्ष संदर्भ $B$1 स्थिर रहता है।"
+  },
+  {
+   "id": "t14-computer-02",
+   "part": "C",
+   "section": "computer",
+   "topic": "Relative and absolute reference",
+   "question": "The formula =B$2*$C3 is in cell D3. If it is copied to cell E4, it becomes",
+   "questionHi": "सेल D3 में सूत्र =B$2*$C3 है। इसे सेल E4 में कॉपी करने पर वह बन जाएगा",
+   "options": [
+    "=C$2*$C4",
+    "=C$3*$D4",
+    "=B$2*$C3",
+    "=C$2*$D4"
+   ],
+   "optionsHi": [
+    "=C$2*$C4",
+    "=C$3*$D4",
+    "=B$2*$C3",
+    "=C$2*$D4"
+   ],
+   "correctIndex": 0,
+   "explanation": "Copying one column right and one row down: B$2 (row fixed) becomes C$2; $C3 (column fixed) becomes $C4.",
+   "explanationHi": "एक कॉलम दाएँ और एक पंक्ति नीचे कॉपी करने पर B$2 (पंक्ति स्थिर) C$2 बनता है; $C3 (कॉलम स्थिर) $C4 बनता है।"
+  },
+  {
+   "id": "t14-computer-03",
+   "part": "C",
+   "section": "computer",
+   "topic": "Number systems",
+   "question": "The binary equivalent of the decimal number 45 is",
+   "questionHi": "दशमलव संख्या 45 का द्विआधारी (binary) रूप है",
+   "options": [
+    "101011",
+    "110101",
+    "101110",
+    "101101"
+   ],
+   "optionsHi": [
+    "101011",
+    "110101",
+    "101110",
+    "101101"
+   ],
+   "correctIndex": 3,
+   "explanation": "45 = 32 + 8 + 4 + 1, so bits 2^5, 2^3, 2^2 and 2^0 are 1: 101101.",
+   "explanationHi": "45 = 32 + 8 + 4 + 1, अतः 2^5, 2^3, 2^2 और 2^0 के बिट 1 हैं: 101101।"
+  },
+  {
+   "id": "t14-computer-04",
+   "part": "C",
+   "section": "computer",
+   "topic": "Memory hierarchy",
+   "question": "Which list arranges memory from fastest to slowest?",
+   "questionHi": "कौन-सी सूची स्मृति को सबसे तेज़ से सबसे धीमी के क्रम में दर्शाती है?",
+   "options": [
+    "Hard disk, RAM, cache, registers",
+    "RAM, registers, cache, hard disk",
+    "Registers, cache, RAM, hard disk",
+    "Cache, registers, hard disk, RAM"
+   ],
+   "optionsHi": [
+    "हार्ड डिस्क, RAM, कैश, रजिस्टर",
+    "RAM, रजिस्टर, कैश, हार्ड डिस्क",
+    "रजिस्टर, कैश, RAM, हार्ड डिस्क",
+    "कैश, रजिस्टर, हार्ड डिस्क, RAM"
+   ],
+   "correctIndex": 2,
+   "explanation": "Registers sit inside the CPU and are fastest, followed by cache, main memory (RAM) and secondary storage (hard disk), which is slowest.",
+   "explanationHi": "रजिस्टर CPU के भीतर होते हैं और सबसे तेज़ हैं, फिर कैश, मुख्य स्मृति (RAM) और अंत में द्वितीयक भंडारण (हार्ड डिस्क) जो सबसे धीमा है।"
+  },
+  {
+   "id": "t14-computer-05",
+   "part": "C",
+   "section": "computer",
+   "topic": "Cloud models",
+   "question": "A company rents virtual servers and storage from a provider and installs its own operating system and software on them. This service model is",
+   "questionHi": "एक कंपनी प्रदाता से वर्चुअल सर्वर और स्टोरेज किराये पर लेती है और उन पर अपना ऑपरेटिंग सिस्टम और सॉफ्टवेयर स्थापित करती है। यह सेवा मॉडल है",
+   "options": [
+    "SaaS",
+    "IaaS",
+    "PaaS",
+    "DaaS"
+   ],
+   "optionsHi": [
+    "SaaS",
+    "IaaS",
+    "PaaS",
+    "DaaS"
+   ],
+   "correctIndex": 1,
+   "explanation": "Infrastructure as a Service gives raw computing resources (servers, storage, networking). PaaS gives a development platform and SaaS gives ready-made applications.",
+   "explanationHi": "IaaS (Infrastructure as a Service) में मूल कंप्यूटिंग संसाधन (सर्वर, स्टोरेज, नेटवर्क) मिलते हैं। PaaS विकास का मंच और SaaS तैयार एप्लिकेशन देता है।"
+  },
+  {
+   "id": "t14-gk-01",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian Constitution",
+   "question": "The Right to Education (Article 21A) was inserted into the Constitution by which Amendment?",
+   "questionHi": "शिक्षा का अधिकार (अनुच्छेद 21A) संविधान में किस संशोधन द्वारा जोड़ा गया?",
+   "options": [
+    "42nd Amendment (1976)",
+    "44th Amendment (1978)",
+    "73rd Amendment (1992)",
+    "86th Amendment (2002)"
+   ],
+   "optionsHi": [
+    "42वाँ संशोधन (1976)",
+    "44वाँ संशोधन (1978)",
+    "73वाँ संशोधन (1992)",
+    "86वाँ संशोधन (2002)"
+   ],
+   "correctIndex": 3,
+   "explanation": "The 86th Amendment Act, 2002 inserted Article 21A (free and compulsory education for ages 6–14). The 42nd added Fundamental Duties, the 44th removed the right to property from Fundamental Rights, and the 73rd dealt with Panchayati Raj.",
+   "explanationHi": "86वें संशोधन अधिनियम, 2002 ने अनुच्छेद 21A (6–14 वर्ष के बच्चों हेतु निःशुल्क और अनिवार्य शिक्षा) जोड़ा। 42वें ने मूल कर्तव्य जोड़े, 44वें ने संपत्ति का अधिकार मूल अधिकारों से हटाया और 73वाँ पंचायती राज से संबंधित है।"
+  },
+  {
+   "id": "t14-gk-02",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian History",
+   "question": "The Partition of Bengal (1905) was annulled in which year?",
+   "questionHi": "बंगाल विभाजन (1905) को किस वर्ष रद्द किया गया?",
+   "options": [
+    "1909",
+    "1912",
+    "1911",
+    "1916"
+   ],
+   "optionsHi": [
+    "1909",
+    "1912",
+    "1911",
+    "1916"
+   ],
+   "correctIndex": 2,
+   "explanation": "Announced by Lord Curzon in 1905, the partition was annulled in 1911 at the time of the Delhi Durbar of George V, when the capital was also shifted to Delhi.",
+   "explanationHi": "लॉर्ड कर्ज़न ने 1905 में बंगाल का विभाजन किया; जॉर्ज पंचम के दिल्ली दरबार (1911) के समय इसे रद्द किया गया और राजधानी भी दिल्ली ले जाई गई।"
+  },
+  {
+   "id": "t14-gk-03",
+   "part": "C",
+   "section": "gk",
+   "topic": "Geography",
+   "question": "Nathu La pass connects Sikkim with which region?",
+   "questionHi": "नाथू ला दर्रा सिक्किम को किस क्षेत्र से जोड़ता है?",
+   "options": [
+    "Nepal",
+    "Tibet (China)",
+    "Bhutan",
+    "Myanmar"
+   ],
+   "optionsHi": [
+    "नेपाल",
+    "तिब्बत (चीन)",
+    "भूटान",
+    "म्यांमार"
+   ],
+   "correctIndex": 1,
+   "explanation": "Nathu La, in the Eastern Himalaya, links Sikkim with Tibet and lies on an old Silk Route branch.",
+   "explanationHi": "पूर्वी हिमालय में स्थित नाथू ला सिक्किम को तिब्बत से जोड़ता है और प्राचीन रेशम मार्ग की एक शाखा पर है।"
+  },
+  {
+   "id": "t14-gk-04",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian Economy",
+   "question": "The Cash Reserve Ratio (CRR) is the percentage of a bank's net demand and time liabilities that it must keep with",
+   "questionHi": "नकद आरक्षित अनुपात (CRR) बैंक की शुद्ध माँग और सावधि देनदारियों का वह प्रतिशत है जो उसे किसके पास रखना होता है?",
+   "options": [
+    "the Reserve Bank of India",
+    "the Government of India",
+    "the State Bank of India",
+    "the Finance Commission"
+   ],
+   "optionsHi": [
+    "भारतीय रिज़र्व बैंक",
+    "भारत सरकार",
+    "भारतीय स्टेट बैंक",
+    "वित्त आयोग"
+   ],
+   "correctIndex": 0,
+   "explanation": "Banks must hold a prescribed share of their deposits as cash balances with the RBI; CRR is a monetary-policy tool for controlling liquidity.",
+   "explanationHi": "बैंकों को अपनी जमा का निर्धारित हिस्सा RBI के पास नकद शेष के रूप में रखना पड़ता है; CRR तरलता नियंत्रित करने का मौद्रिक नीति उपकरण है।"
+  },
+  {
+   "id": "t14-gk-05",
+   "part": "C",
+   "section": "gk",
+   "topic": "Chhattisgarh GK",
+   "question": "The Bhoramdeo temple, often called the \"Khajuraho of Chhattisgarh\", is located in which district?",
+   "questionHi": "भोरमदेव मंदिर, जिसे प्रायः \"छत्तीसगढ़ का खजुराहो\" कहा जाता है, किस जिले में स्थित है?",
+   "options": [
+    "Bilaspur",
+    "Raipur",
+    "Korba",
+    "Kabirdham"
+   ],
+   "optionsHi": [
+    "बिलासपुर",
+    "रायपुर",
+    "कोरबा",
+    "कबीरधाम"
+   ],
+   "correctIndex": 3,
+   "explanation": "Bhoramdeo temple (Nagvanshi period, 11th century) is near Kawardha in Kabirdham district; its erotic sculptures give it the Khajuraho comparison.",
+   "explanationHi": "भोरमदेव मंदिर (नागवंशी काल, 11वीं सदी) कबीरधाम जिले में कवर्धा के निकट है; इसकी मूर्तिकला के कारण इसकी तुलना खजुराहो से होती है।"
+  }
+ ]
+}

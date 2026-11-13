@@ -13,7 +13,7 @@ export default function Home() {
         Lecturer Recruitment (English) — Test Series
       </h1>
       <p className="text-sm sm:text-base text-slate-600 mb-5">
-        10 full-length mock tests · har test 100 questions · 100 marks · 2 ghante · negative marking ¼.
+        20 full-length mock tests (1–10 standard, 11–20 advanced) · har test 100 questions · 100 marks · 2 ghante · negative marking ¼.
       </p>
 
       <div className="grid gap-3 sm:gap-4 grid-cols-1 sm:grid-cols-2 mb-6">
@@ -22,7 +22,7 @@ export default function Home() {
           className="rounded-xl border border-indigo-200 bg-indigo-50 p-4 sm:p-5 shadow-sm transition hover:border-indigo-400 hover:shadow-md"
         >
           <div className="text-2xl sm:text-3xl mb-2">📝</div>
-          <div className="text-base sm:text-lg font-semibold text-slate-900">Test Series 1–10</div>
+          <div className="text-base sm:text-lg font-semibold text-slate-900">Test Series 1–20</div>
           <div className="text-sm text-slate-600 mt-1">Test shuru karo ya PDF download karo</div>
         </Link>
         <Link

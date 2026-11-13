@@ -1,0 +1,1059 @@
+{
+ "passages": [
+  {
+   "id": "t11-p1",
+   "genre": "Newspaper editorial",
+   "title": "The Quiet Politics of Maps",
+   "text": "A map is often mistaken for a mirror, yet it is closer to an argument. Every cartographer must decide what to omit, and omission is never innocent. The familiar Mercator projection, devised in 1569 for sailors who needed straight lines of constant compass bearing, inflates regions near the poles so grossly that Greenland appears comparable to Africa, though Africa is about fourteen times larger. The distortion was a fair price for navigation; it becomes a questionable one when the same image hangs unexamined in thousands of classrooms, silently teaching that the temperate north is vast and the tropics modest. Defenders reply that no flat map can be faithful, since a sphere cannot be flattened without tearing or stretching, and this is mathematically true. But the truth is a shield as well as a fact: it excuses the habit of choosing the convention that flatters the chooser. Alternative projections exist, each distorting differently, and the honest response is not to hunt for a perfect one but to teach students to ask what any given map has sacrificed, and for whom. A citizen who reads maps sceptically is better equipped than one who merely reads them."
+  },
+  {
+   "id": "t11-p2",
+   "genre": "Poetry extract",
+   "title": "The Ferryman at Dusk",
+   "text": "The river does not hurry, nor does he.\nEach evening, when the cattle stand like thoughts\nHalf-formed against the amber of the bank,\nHe pushes off, and carries over, one by one,\nThe tired, the late, the quarrelsome, the proud.\nThey pay him in small coin and smaller talk;\nHe keeps the coin. The talk he lets go down\nThe current with the leaves. What would he say\nThat water has not said, and said again\nMore patiently? He knows the farther shore\nIs never what the passenger had hoped,\nNor what the passenger had feared. It is\nA shore. And in the dark, the lantern swings\nA little circle, saying: here, and here,\nAnd here, as if the world were only this:\nA rope, a pole, a slow insistent crossing.\nAnd when the last one lands, he does not watch\nThem climb the bank. He turns the empty boat\nAgainst the stream, and the stream, who has no side,\nBears him back, unthanked, to where the cattle wait."
+  },
+  {
+   "id": "t11-p3",
+   "genre": "Drama extract",
+   "title": "The Ledger",
+   "text": "SCENE: A village school verandah, late afternoon. RUKMINI, the headmistress, sweeps; ARVIND, a young inspector, studies a ledger.\n\nARVIND: (not looking up) Forty-one enrolled, and yesterday's register shows nineteen present. You must find that disappointing.\n\nRUKMINI: Disappointing is a word for people who expect weather to obey them. It is harvest. Half my children are in the fields, and the other half are minding the ones too small to be useful.\n\nARVIND: Rules are rules, Madam. Attendance below seventy per cent...\n\nRUKMINI: (stops sweeping) Tell me, Inspector, does your ledger have a column for the girl who walks six kilometres to sit at that window, and then sits there hungry?\n\nARVIND: (after a pause) It does not.\n\nRUKMINI: Then it is an honest ledger. It records only what it was taught to see. (She resumes sweeping, more gently.) I do not blame it. I merely decline to be judged by it alone.\n\nARVIND: (closing the book, almost smiling) You are not what I was warned about.\n\nRUKMINI: And what were you warned about?\n\nARVIND: That I should find a woman who would argue.\n\nRUKMINI: And have you not?\n\nARVIND: Yes. But I did not expect to lose."
+  }
+ ],
+ "questions": [
+  {
+   "id": "t11-gram-01",
+   "part": "A",
+   "section": "gram",
+   "topic": "Elliptical patterns",
+   "question": "Consider the sentence: 'My mother loves my brother more than I.' According to standard grammar, the elliptical clause implies that:",
+   "options": [
+    "my mother loves me less than she loves my brother",
+    "I love my brother less than my mother does",
+    "my mother loves both of us equally",
+    "my mother loves my brother and not me"
+   ],
+   "correctIndex": 1,
+   "explanation": "The nominative 'I' after 'than' shows that a full clause is understood: 'more than I (love him)'. So the meaning is that the speaker's love for the brother is less than the mother's. For the first meaning one would write 'more than me'."
+  },
+  {
+   "id": "t11-gram-02",
+   "part": "A",
+   "section": "gram",
+   "topic": "Determiners",
+   "question": "Hardly ___ information about the missing manuscript was available to the researchers.",
+   "options": [
+    "many",
+    "several",
+    "a few",
+    "any"
+   ],
+   "correctIndex": 3,
+   "explanation": "'Information' is uncountable, so 'many', 'several' and 'a few' (used with plural countable nouns) are wrong. 'Hardly any' is the standard negative-sense quantifier with uncountables."
+  },
+  {
+   "id": "t11-gram-03",
+   "part": "A",
+   "section": "gram",
+   "topic": "Modals",
+   "question": "She ___ have left the office; her coat is still on the chair and her computer is switched on.",
+   "options": [
+    "can't",
+    "mustn't",
+    "needn't",
+    "shouldn't"
+   ],
+   "correctIndex": 0,
+   "explanation": "'Can't have + past participle' expresses a strong negative deduction about the past based on evidence. 'Mustn't' expresses prohibition, 'needn't have' lack of necessity, and 'shouldn't have' criticism."
+  },
+  {
+   "id": "t11-gram-04",
+   "part": "A",
+   "section": "gram",
+   "topic": "Question tag",
+   "question": "Nothing can be done now, ___?",
+   "options": [
+    "can't it",
+    "can nothing",
+    "can it",
+    "can they"
+   ],
+   "correctIndex": 2,
+   "explanation": "'Nothing' is treated as a negative word, so the statement is negative in sense and takes a positive tag; the pronoun for 'nothing' is 'it'. Hence 'can it?'."
+  },
+  {
+   "id": "t11-gram-05",
+   "part": "A",
+   "section": "gram",
+   "topic": "Non-finite verbs (dangling modifiers)",
+   "question": "Which of the following sentences is free of a dangling modifier?",
+   "options": [
+    "Walking down the road, a snake was seen by us.",
+    "Having finished the exam, the bell rang loudly.",
+    "Having studied the data, the researcher found the pattern clear.",
+    "Tired after the journey, the bed looked inviting."
+   ],
+   "correctIndex": 2,
+   "explanation": "In C the participial phrase 'Having studied the data' logically modifies the subject 'the researcher'. In A, B and D the participle would wrongly attach to 'a snake', 'the bell' and 'the bed'."
+  },
+  {
+   "id": "t11-gram-06",
+   "part": "A",
+   "section": "gram",
+   "topic": "Phrasal verbs",
+   "question": "'Our plans to open a branch in Durg fell through at the last moment.' Here 'fell through' means:",
+   "options": [
+    "were postponed indefinitely",
+    "were warmly approved",
+    "were opposed by the staff",
+    "failed to materialise"
+   ],
+   "correctIndex": 3,
+   "explanation": "'Fall through' means to fail to happen or be completed. The sentence does not suggest postponement, approval or opposition."
+  },
+  {
+   "id": "t11-gram-07",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subject-verb agreement",
+   "question": "Meena is one of those teachers who ___ never lost the respect of their students.",
+   "options": [
+    "has",
+    "have",
+    "is",
+    "was"
+   ],
+   "correctIndex": 1,
+   "explanation": "In 'one of those ... who', the relative pronoun 'who' refers to the plural 'teachers', not to 'one', so the verb is plural: 'have'."
+  },
+  {
+   "id": "t11-gram-08",
+   "part": "A",
+   "section": "gram",
+   "topic": "Tenses",
+   "question": "By next March, Ruchi ___ in this school for twenty years.",
+   "options": [
+    "will have been teaching",
+    "will teach",
+    "has been taught",
+    "would teach"
+   ],
+   "correctIndex": 0,
+   "explanation": "A duration up to a future point, with an activity continuing, calls for the future perfect continuous: 'will have been teaching'. The other options do not express this."
+  },
+  {
+   "id": "t11-gram-09",
+   "part": "A",
+   "section": "gram",
+   "topic": "Identifying clauses",
+   "question": "In 'The fact that he had lied surprised everyone', the clause 'that he had lied' is:",
+   "options": [
+    "a defining relative clause",
+    "an adverb clause of reason",
+    "a noun clause in apposition to 'fact'",
+    "a non-finite clause"
+   ],
+   "correctIndex": 2,
+   "explanation": "'That' here is a conjunction, not a relative pronoun, and the clause explains the noun 'fact' (the fact = he had lied). It is therefore a noun clause in apposition. It is finite and does not give a reason."
+  },
+  {
+   "id": "t11-gram-10",
+   "part": "A",
+   "section": "gram",
+   "topic": "Transformation of sentences",
+   "question": "Which of the following is the correct complex-sentence form of 'Being ill, he could not attend the meeting'?",
+   "options": [
+    "Though he was ill, he could not attend the meeting.",
+    "He was ill and he could not attend the meeting.",
+    "As he was ill, he could not attend the meeting.",
+    "He was ill, so he could not attend the meeting."
+   ],
+   "correctIndex": 2,
+   "explanation": "The participial phrase expresses cause, so it becomes a subordinate clause of reason: 'As he was ill'. B and D are compound sentences, and A wrongly expresses concession."
+  },
+  {
+   "id": "t11-gram-11",
+   "part": "A",
+   "section": "gram",
+   "topic": "Direct-Indirect speech",
+   "question": "Choose the correct indirect form: He said to me, 'Where did you put the file yesterday?'",
+   "options": [
+    "He asked me where did I put the file yesterday.",
+    "He asked me where I put the file yesterday.",
+    "He asked me where had I put the file the day before.",
+    "He asked me where I had put the file the previous day."
+   ],
+   "correctIndex": 3,
+   "explanation": "In reported questions the word order becomes normal (no inversion), simple past shifts to past perfect, and 'yesterday' becomes 'the previous day' or 'the day before'. Only D does all three."
+  },
+  {
+   "id": "t11-gram-12",
+   "part": "A",
+   "section": "gram",
+   "topic": "Inversion",
+   "question": "Only after the results were declared ___ the error in the question paper.",
+   "options": [
+    "did the board notice",
+    "the board noticed",
+    "the board did notice",
+    "noticed the board"
+   ],
+   "correctIndex": 0,
+   "explanation": "When a sentence begins with 'Only after/when/if ...', subject-auxiliary inversion is needed in the main clause: 'did the board notice'."
+  },
+  {
+   "id": "t11-gram-13",
+   "part": "A",
+   "section": "gram",
+   "topic": "Cleft sentences",
+   "question": "Which is a correct cleft sentence emphasising 'yesterday' in 'Ramesh broke the window yesterday'?",
+   "options": [
+    "It was Ramesh yesterday that broke the window.",
+    "It was yesterday that Ramesh broke the window.",
+    "It yesterday was that Ramesh broke the window.",
+    "What broke the window was yesterday Ramesh."
+   ],
+   "correctIndex": 1,
+   "explanation": "The it-cleft pattern is 'It was + focused element + that + rest of the clause'. B places 'yesterday' in focus and keeps the rest intact; the others break the pattern."
+  },
+  {
+   "id": "t11-gram-14",
+   "part": "A",
+   "section": "gram",
+   "topic": "Conditionals",
+   "question": "If she ___ the scholarship last year, she would be studying in Delhi now.",
+   "options": [
+    "won",
+    "has won",
+    "would have won",
+    "had won"
+   ],
+   "correctIndex": 3,
+   "explanation": "This is a mixed conditional: a past unreal condition (if + past perfect) with a present result (would + base verb). So 'had won' is needed."
+  },
+  {
+   "id": "t11-gram-15",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subjunctive",
+   "question": "The committee recommended that the director ___ his post immediately.",
+   "options": [
+    "resign",
+    "resigns",
+    "resigned",
+    "will resign"
+   ],
+   "correctIndex": 0,
+   "explanation": "After verbs such as recommend, suggest, insist, demand, the mandative subjunctive uses the bare infinitive for all persons: 'that the director resign'."
+  },
+  {
+   "id": "t11-vocab-01",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Collocations",
+   "question": "The sudden floods ___ havoc across the delta villages.",
+   "options": [
+    "wrecked",
+    "wracked",
+    "wreaked",
+    "racked"
+   ],
+   "correctIndex": 2,
+   "explanation": "'Wreak havoc' is the fixed collocation (wreak = inflict). 'Wreck' means to destroy, while 'wrack/rack' collocate with pain or nerves."
+  },
+  {
+   "id": "t11-vocab-02",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word class conversion",
+   "question": "In which sentence is 'round' used as a preposition?",
+   "options": [
+    "He took a round trip to Nagpur.",
+    "The children ran round the garden.",
+    "They round the figure off to the nearest ten.",
+    "It was the final round of the quiz."
+   ],
+   "correctIndex": 1,
+   "explanation": "In B 'round' links to the noun phrase 'the garden' and shows movement (British usage = around). In A it is an adjective, in C a verb and in D a noun."
+  },
+  {
+   "id": "t11-vocab-03",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word class conversion",
+   "question": "In 'We must up our game this season', the word 'up' functions as:",
+   "options": [
+    "a preposition",
+    "an adverb",
+    "a noun",
+    "a verb by conversion"
+   ],
+   "correctIndex": 3,
+   "explanation": "'Up' normally an adverb or preposition is used here with the object 'our game' and means 'to increase'. This is conversion (zero derivation) into a verb."
+  },
+  {
+   "id": "t11-vocab-04",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Lexical bundles",
+   "question": "Which of the following is a lexical bundle (a frequent, transparent multi-word sequence) rather than an opaque idiom?",
+   "options": [
+    "in the case of",
+    "kick the bucket",
+    "spill the beans",
+    "red herring"
+   ],
+   "correctIndex": 0,
+   "explanation": "'In the case of' is a recurrent, compositional sequence common in academic prose. The others have meanings (die, reveal a secret, misleading clue) that cannot be worked out from their words."
+  },
+  {
+   "id": "t11-vocab-05",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Lexical bundles",
+   "question": "The bundle 'as far as I am concerned' functions mainly to:",
+   "options": [
+    "introduce a reason",
+    "signal a concession to an opponent",
+    "mark the claim as the speaker's own stance and limit its scope",
+    "indicate a sequence of events"
+   ],
+   "correctIndex": 2,
+   "explanation": "It is a stance bundle: it presents what follows as the speaker's view or area of concern. It does not signal cause, concession or time order."
+  },
+  {
+   "id": "t11-vocab-06",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idiomaticity and opacity",
+   "question": "'His tearful apology cut no ice with the jury.' The idiom 'cut no ice' means:",
+   "options": [
+    "cooled the atmosphere",
+    "angered the jury",
+    "was written clumsily",
+    "made no impression on"
+   ],
+   "correctIndex": 3,
+   "explanation": "'Cut no ice' means to have no influence or effect on someone. The meaning is opaque and cannot be derived from the individual words."
+  },
+  {
+   "id": "t11-vocab-07",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idiomaticity and opacity",
+   "question": "A 'Pyrrhic victory' is one that:",
+   "options": [
+    "is won at so great a cost that it is almost a defeat",
+    "is gained without any fighting",
+    "is celebrated by the defeated side",
+    "is achieved by deceit"
+   ],
+   "correctIndex": 0,
+   "explanation": "The phrase comes from King Pyrrhus of Epirus, whose heavy losses made his victories ruinous. It means a victory achieved at devastating cost."
+  },
+  {
+   "id": "t11-vocab-08",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Homophones",
+   "question": "The clerk ordered pens, files and other ___ for the office.",
+   "options": [
+    "stationary",
+    "stationery",
+    "stationers",
+    "stationing"
+   ],
+   "correctIndex": 1,
+   "explanation": "'Stationery' means writing materials. 'Stationary' is an adjective meaning not moving, 'stationers' are shopkeepers; 'stationing' is a verb form."
+  },
+  {
+   "id": "t11-vocab-09",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "Identify the figure of speech in 'The Crown refused to comment on the matter.'",
+   "options": [
+    "Synecdoche",
+    "Metaphor",
+    "Hyperbole",
+    "Metonymy"
+   ],
+   "correctIndex": 3,
+   "explanation": "'The Crown' stands for the monarchy or royal authority, an associated idea rather than a part of it. That substitution of an associated name is metonymy. Synecdoche would use a part for the whole."
+  },
+  {
+   "id": "t11-vocab-10",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "'He spent a sleepless night.' The adjective 'sleepless' here is an example of:",
+   "options": [
+    "oxymoron",
+    "litotes",
+    "transferred epithet",
+    "zeugma"
+   ],
+   "correctIndex": 2,
+   "explanation": "'Sleepless' properly describes the person, but is transferred to the night. This is a transferred epithet (hypallage)."
+  },
+  {
+   "id": "t11-vocab-11",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "'She lost her keys and her temper in the same hour.' This sentence illustrates:",
+   "options": [
+    "zeugma",
+    "antithesis",
+    "tautology",
+    "pleonasm"
+   ],
+   "correctIndex": 0,
+   "explanation": "One verb ('lost') governs two objects in different senses, one literal and one figurative: zeugma. There is no contrast, repetition or redundancy."
+  },
+  {
+   "id": "t11-vocab-12",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "'She is no mean cook.' The figure of speech used is:",
+   "options": [
+    "hyperbole",
+    "litotes",
+    "paradox",
+    "climax"
+   ],
+   "correctIndex": 1,
+   "explanation": "Litotes affirms something by denying its opposite ('no mean cook' = an excellent cook), an ironic understatement."
+  },
+  {
+   "id": "t11-vocab-13",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "Which of the following is a paradox rather than a simple oxymoron?",
+   "options": [
+    "living death",
+    "'The child is father of the man'",
+    "cruel kindness",
+    "open secret"
+   ],
+   "correctIndex": 1,
+   "explanation": "An oxymoron joins two contradictory words in a phrase (A, C, D). A paradox is a whole statement that seems self-contradictory but expresses a truth, as in Wordsworth's line."
+  },
+  {
+   "id": "t11-vocab-14",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word formation",
+   "question": "Which word contains a Greek prefix meaning 'around'?",
+   "options": [
+    "periphery",
+    "epilogue",
+    "synthesis",
+    "metaphor"
+   ],
+   "correctIndex": 0,
+   "explanation": "'Peri-' means around (periphery = outer boundary). 'Epi-' means upon or after, 'syn-' together, and 'meta-' change or beyond."
+  },
+  {
+   "id": "t11-vocab-15",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Polysemy",
+   "question": "In which sentence does 'sound' mean 'reliable and sensible'?",
+   "options": [
+    "The sound of the temple bell carried across the valley.",
+    "The baby was sound asleep within minutes.",
+    "She gave me sound advice about investing my savings.",
+    "They sailed across the Sound at dawn."
+   ],
+   "correctIndex": 2,
+   "explanation": "In C 'sound' is an adjective meaning reliable. A is a noun for noise, B means deep, and D is a noun for a narrow sea channel."
+  },
+  {
+   "id": "t11-rc-01",
+   "part": "A",
+   "section": "rc",
+   "topic": "Author's purpose",
+   "passageId": "t11-p1",
+   "question": "The author's main purpose in the passage is to:",
+   "options": [
+    "condemn the Mercator projection as navigationally useless",
+    "encourage readers to treat maps as selective arguments and read them critically",
+    "prove mathematically that a perfect flat map is impossible",
+    "recommend replacing Mercator with a single superior projection"
+   ],
+   "correctIndex": 1,
+   "explanation": "The final lines advise teaching students to ask what a map has sacrificed. The author accepts Mercator's navigational value, treats the mathematical point as a given, and rejects the search for one perfect map."
+  },
+  {
+   "id": "t11-rc-02",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t11-p1",
+   "question": "Which of the following CANNOT be inferred from the passage?",
+   "options": [
+    "Greenland looks larger on Mercator maps than its true size warrants",
+    "The Mercator projection served a genuine practical purpose when devised",
+    "Mercator deliberately exaggerated polar regions to flatter European powers",
+    "Every projection of a sphere onto a plane involves some distortion"
+   ],
+   "correctIndex": 2,
+   "explanation": "The author says the distortion served sailors and persists by habit; no motive of flattering European powers is stated. A, B and D are all supported."
+  },
+  {
+   "id": "t11-rc-03",
+   "part": "A",
+   "section": "rc",
+   "topic": "Rhetorical devices",
+   "passageId": "t11-p1",
+   "question": "'The truth is a shield as well as a fact.' The metaphor suggests that:",
+   "options": [
+    "a true statement can be used to deflect legitimate criticism",
+    "truth always protects those who speak it",
+    "mathematical facts are difficult to question",
+    "defenders of Mercator are fighting a war"
+   ],
+   "correctIndex": 0,
+   "explanation": "The author concedes the mathematical point but says it is used to excuse choosing convenient conventions, i.e. to deflect criticism."
+  },
+  {
+   "id": "t11-rc-04",
+   "part": "A",
+   "section": "rc",
+   "topic": "Vocabulary in context",
+   "passageId": "t11-p1",
+   "question": "In the phrase 'omission is never innocent', the word 'innocent' means:",
+   "options": [
+    "naive and inexperienced",
+    "legally not guilty",
+    "childlike in nature",
+    "neutral and free of consequence"
+   ],
+   "correctIndex": 3,
+   "explanation": "The author means that leaving things out is never a neutral, consequence-free act; it always shapes the viewer's impression."
+  },
+  {
+   "id": "t11-rc-05",
+   "part": "A",
+   "section": "rc",
+   "topic": "Title",
+   "passageId": "t11-p1",
+   "question": "Which of the following would be the most suitable title for the passage?",
+   "options": [
+    "A Brief History of Navigation",
+    "Maps Are Never Neutral",
+    "Greenland and Africa Compared",
+    "Why Teachers Dislike Atlases"
+   ],
+   "correctIndex": 1,
+   "explanation": "The passage argues that every map selects and distorts, so it should be read critically. Navigation history and the Greenland comparison are only illustrations; teachers' dislike of atlases is not mentioned."
+  },
+  {
+   "id": "t11-rc-06",
+   "part": "A",
+   "section": "rc",
+   "topic": "Tone",
+   "passageId": "t11-p2",
+   "question": "The tone of the poem is best described as:",
+   "options": [
+    "contemplative and quietly detached",
+    "bitter and resentful",
+    "jubilant and celebratory",
+    "anxious and urgent"
+   ],
+   "correctIndex": 0,
+   "explanation": "The slow rhythm, the unhurried ferryman and the calm images create a reflective, detached mood. Nothing suggests bitterness, joy or urgency."
+  },
+  {
+   "id": "t11-rc-07",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t11-p2",
+   "question": "'The talk he lets go down / The current with the leaves' implies that the ferryman:",
+   "options": [
+    "records every conversation in memory",
+    "resents the passengers' chatter",
+    "does not cling to idle conversation",
+    "exchanges news with the river"
+   ],
+   "correctIndex": 2,
+   "explanation": "Letting talk drift away with the leaves means he lets it go without holding on to it. There is no sign of resentment."
+  },
+  {
+   "id": "t11-rc-08",
+   "part": "A",
+   "section": "rc",
+   "topic": "Rhetorical devices",
+   "passageId": "t11-p2",
+   "question": "The short sentence 'It is / A shore.' mainly serves to:",
+   "options": [
+    "emphasise the physical beauty of the far bank",
+    "express the ferryman's disappointment",
+    "hint that the shore is dangerous",
+    "deflate both the hopes and fears that passengers attach to the destination"
+   ],
+   "correctIndex": 3,
+   "explanation": "Coming right after 'never what the passenger had hoped, nor what the passenger had feared', the plain statement reduces the destination to an ordinary shore."
+  },
+  {
+   "id": "t11-rc-09",
+   "part": "A",
+   "section": "rc",
+   "topic": "Figures of speech",
+   "passageId": "t11-p2",
+   "question": "'the stream, who has no side' is an example of:",
+   "options": [
+    "metonymy",
+    "personification",
+    "hyperbole",
+    "apostrophe"
+   ],
+   "correctIndex": 1,
+   "explanation": "The stream is given a human quality (having or lacking a side) and addressed with 'who': personification. It is not addressed directly, so not apostrophe."
+  },
+  {
+   "id": "t11-rc-10",
+   "part": "A",
+   "section": "rc",
+   "topic": "Central idea",
+   "passageId": "t11-p2",
+   "question": "Which of the following best expresses the central idea of the extract?",
+   "options": [
+    "Ferrying is a profitable but tiring profession",
+    "Passengers are ungrateful to those who serve them",
+    "Life is best met as a patient, unillusioned act of passage",
+    "Rivers are more eloquent than people"
+   ],
+   "correctIndex": 2,
+   "explanation": "The ferryman, the plain shore and the closing image of 'a slow insistent crossing' point to a calm acceptance of life's passage. Other options pick up only minor details."
+  },
+  {
+   "id": "t11-rc-11",
+   "part": "A",
+   "section": "rc",
+   "topic": "Tone and attitude",
+   "passageId": "t11-p3",
+   "question": "Rukmini's remark 'Disappointing is a word for people who expect weather to obey them' is mainly:",
+   "options": [
+    "a confession of failure",
+    "a joke at the Inspector's age",
+    "an apology for low attendance",
+    "a dignified rebuke implying that absence is shaped by forces beyond her control"
+   ],
+   "correctIndex": 3,
+   "explanation": "She compares attendance with weather, something one cannot command, and then names the harvest. It is a firm, composed correction of the Inspector's assumption."
+  },
+  {
+   "id": "t11-rc-12",
+   "part": "A",
+   "section": "rc",
+   "topic": "Rhetorical devices",
+   "passageId": "t11-p3",
+   "question": "Rukmini's question about 'a column for the girl who walks six kilometres' is meant:",
+   "options": [
+    "to show that statistics miss human circumstances",
+    "to request that a column be added to the ledger",
+    "to praise the girl's physical endurance",
+    "to ask for midday meals"
+   ],
+   "correctIndex": 0,
+   "explanation": "It is a rhetorical question: she does not seek an answer but exposes how a numerical record ignores a child's real hardship."
+  },
+  {
+   "id": "t11-rc-13",
+   "part": "A",
+   "section": "rc",
+   "topic": "Figures of speech",
+   "passageId": "t11-p3",
+   "question": "'Then it is an honest ledger. It records only what it was taught to see.' This statement is chiefly:",
+   "options": [
+    "literal praise",
+    "gentle irony that exposes the ledger's limits",
+    "hyperbole",
+    "a euphemism for dishonesty"
+   ],
+   "correctIndex": 1,
+   "explanation": "The praise of 'honesty' carries a hidden criticism: the ledger is honest but narrow. This gentle irony is how Rukmini criticises without insulting."
+  },
+  {
+   "id": "t11-rc-14",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t11-p3",
+   "question": "Arvind's last line, 'I did not expect to lose', suggests that he:",
+   "options": [
+    "plans to report the school",
+    "is offended by her rudeness",
+    "has been won over to her broader view without feeling humiliated",
+    "believes the rules should be rewritten tomorrow"
+   ],
+   "correctIndex": 2,
+   "explanation": "He is 'almost smiling' and admits he lost the argument. This shows he has accepted her point good-humouredly, not that he is angry or about to take action."
+  },
+  {
+   "id": "t11-rc-15",
+   "part": "A",
+   "section": "rc",
+   "topic": "Logical sequencing",
+   "passageId": "t11-p3",
+   "question": "Across the scene, Arvind's attitude moves from:",
+   "options": [
+    "rule-bound formality to silent concession to open respect",
+    "hostility to indifference to anger",
+    "admiration to doubt to rule-bound formality",
+    "sympathy to irritation to withdrawal"
+   ],
+   "correctIndex": 0,
+   "explanation": "He begins with figures and rules, falls silent ('It does not'), and ends by admitting he has not met what he was warned about."
+  },
+  {
+   "id": "t11-ped-01",
+   "part": "A",
+   "section": "ped",
+   "topic": "Swain's Output Hypothesis",
+   "question": "According to Swain's Output Hypothesis, producing language (speaking or writing) is important because it:",
+   "questionHi": "स्वेन (Swain) की Output Hypothesis के अनुसार भाषा का उत्पादन (बोलना या लिखना) इसलिए महत्त्वपूर्ण है क्योंकि वह:",
+   "options": [
+    "pushes learners to notice gaps in their knowledge and process syntax more deeply",
+    "only supplies additional input",
+    "removes the need for comprehensible input",
+    "lowers the affective filter"
+   ],
+   "optionsHi": [
+    "शिक्षार्थी को अपने ज्ञान की कमियाँ पहचानने और वाक्य-रचना को गहराई से समझने के लिए प्रेरित करता है",
+    "केवल अतिरिक्त input देता है",
+    "comprehensible input की आवश्यकता समाप्त कर देता है",
+    "affective filter को कम करता है"
+   ],
+   "correctIndex": 0,
+   "explanation": "Swain argued that output forces learners to move from meaning-based to syntactic processing and to notice what they cannot yet say. It complements, not replaces, input.",
+   "explanationHi": "स्वेन के अनुसार बोलने-लिखने से शिक्षार्थी अर्थ से आगे बढ़कर वाक्य-रचना पर ध्यान देता है और अपनी कमियाँ पहचानता है। यह input का पूरक है, विकल्प नहीं।"
+  },
+  {
+   "id": "t11-ped-02",
+   "part": "A",
+   "section": "ped",
+   "topic": "Long's Interaction Hypothesis",
+   "question": "Michael Long's Interaction Hypothesis claims that second-language acquisition is facilitated most by:",
+   "questionHi": "माइकल लॉन्ग (Long) की Interaction Hypothesis के अनुसार द्वितीय भाषा अर्जन में सबसे अधिक सहायक है:",
+   "options": [
+    "silent listening to native speakers",
+    "explicit teaching of rules",
+    "negotiation of meaning during conversational interaction",
+    "repetitive drilling of patterns"
+   ],
+   "optionsHi": [
+    "मूल वक्ताओं को चुपचाप सुनना",
+    "नियमों का स्पष्ट शिक्षण",
+    "बातचीत के दौरान अर्थ की बातचीत (negotiation of meaning)",
+    "पैटर्न का बार-बार अभ्यास (drilling)"
+   ],
+   "correctIndex": 2,
+   "explanation": "Long held that when learners and interlocutors negotiate meaning (clarification requests, repetition, rephrasing), input becomes comprehensible and acquisition is promoted.",
+   "explanationHi": "लॉन्ग के अनुसार जब वक्ता स्पष्टीकरण माँगते, दोहराते या दूसरे शब्दों में समझाते हैं तो input समझने योग्य बनता है और अर्जन बढ़ता है।"
+  },
+  {
+   "id": "t11-ped-03",
+   "part": "A",
+   "section": "ped",
+   "topic": "Krashen's Affective Filter",
+   "question": "Two learners receive the same comprehensible input, but one acquires English much faster. Which hypothesis of Krashen best explains this?",
+   "questionHi": "दो शिक्षार्थियों को समान comprehensible input मिलता है, पर एक अंग्रेज़ी बहुत तेज़ी से अर्जित करता है। क्रैशन की कौन-सी परिकल्पना इसे सबसे अच्छा समझाती है?",
+   "options": [
+    "Natural Order Hypothesis",
+    "Monitor Hypothesis",
+    "Acquisition-Learning Hypothesis",
+    "Affective Filter Hypothesis"
+   ],
+   "optionsHi": [
+    "Natural Order Hypothesis",
+    "Monitor Hypothesis",
+    "Acquisition-Learning Hypothesis",
+    "Affective Filter Hypothesis"
+   ],
+   "correctIndex": 3,
+   "explanation": "The Affective Filter (anxiety, low motivation, low self-confidence) can block input from reaching the language acquisition device, so equal input gives unequal results.",
+   "explanationHi": "Affective Filter (चिंता, कम प्रेरणा, कम आत्मविश्वास) input को अर्जन तंत्र तक पहुँचने से रोक सकता है, इसलिए समान input से भी परिणाम अलग होते हैं।"
+  },
+  {
+   "id": "t11-ped-04",
+   "part": "A",
+   "section": "ped",
+   "topic": "Krashen's Monitor Hypothesis",
+   "question": "According to Krashen's Monitor Hypothesis, the learner can use the Monitor effectively only when he or she:",
+   "questionHi": "क्रैशन की Monitor Hypothesis के अनुसार शिक्षार्थी Monitor का प्रभावी उपयोग केवल तभी कर सकता है जब वह:",
+   "options": [
+    "is speaking spontaneously under time pressure",
+    "has time, focuses on form, and knows the rule",
+    "is in the silent period",
+    "is a young child"
+   ],
+   "optionsHi": [
+    "समय के दबाव में सहज रूप से बोल रहा हो",
+    "उसके पास समय हो, वह रूप (form) पर ध्यान दे और नियम जानता हो",
+    "मौन अवधि (silent period) में हो",
+    "छोटा बच्चा हो"
+   ],
+   "correctIndex": 1,
+   "explanation": "Krashen's three conditions for Monitor use are enough time, focus on form, and knowledge of the rule. Spontaneous speech under pressure leaves no room for monitoring.",
+   "explanationHi": "क्रैशन के अनुसार Monitor के लिए तीन शर्तें हैं: पर्याप्त समय, form पर ध्यान और नियम का ज्ञान। दबाव में सहज बोलने में यह संभव नहीं।"
+  },
+  {
+   "id": "t11-ped-05",
+   "part": "A",
+   "section": "ped",
+   "topic": "Schumann's Acculturation Model",
+   "question": "Schumann's Acculturation Model explains success in second-language learning mainly in terms of:",
+   "questionHi": "शुमान (Schumann) का Acculturation Model द्वितीय भाषा सीखने की सफलता को मुख्यतः किस आधार पर समझाता है?",
+   "options": [
+    "social and psychological distance between the learner and the target-language community",
+    "the learner's IQ",
+    "the order of acquisition of morphemes",
+    "the amount of grammar drill"
+   ],
+   "optionsHi": [
+    "शिक्षार्थी और लक्ष्य भाषा समुदाय के बीच सामाजिक तथा मनोवैज्ञानिक दूरी",
+    "शिक्षार्थी का IQ",
+    "morphemes के अर्जन का क्रम",
+    "व्याकरण के अभ्यास की मात्रा"
+   ],
+   "correctIndex": 0,
+   "explanation": "Schumann proposed that the smaller the social and psychological distance between learners and the target community, the greater the acculturation and the better the acquisition.",
+   "explanationHi": "शुमान के अनुसार शिक्षार्थी और लक्ष्य समुदाय की दूरी जितनी कम होगी, अनुकूलन और भाषा अर्जन उतना बेहतर होगा।"
+  },
+  {
+   "id": "t11-ped-06",
+   "part": "A",
+   "section": "ped",
+   "topic": "Cummins' BICS and CALP",
+   "question": "Which statement about Cummins' BICS and CALP is correct?",
+   "questionHi": "कमिन्स (Cummins) के BICS और CALP के बारे में कौन-सा कथन सही है?",
+   "options": [
+    "BICS takes 5-7 years to develop, CALP only about 2 years",
+    "BICS is cognitively demanding and context-reduced",
+    "CALP, the language of academic tasks, generally takes longer to develop than BICS",
+    "BICS and CALP refer to reading and writing respectively"
+   ],
+   "optionsHi": [
+    "BICS विकसित होने में 5-7 वर्ष लेता है, CALP केवल लगभग 2 वर्ष",
+    "BICS संज्ञानात्मक रूप से कठिन और संदर्भ-रहित है",
+    "CALP, यानी शैक्षणिक कार्यों की भाषा, आमतौर पर BICS से अधिक समय में विकसित होती है",
+    "BICS और CALP क्रमशः पढ़ना और लिखना हैं"
+   ],
+   "correctIndex": 2,
+   "explanation": "BICS (everyday conversational fluency) develops in about 2 years; CALP (academic language) takes roughly 5-7 years. BICS is context-embedded and less demanding.",
+   "explanationHi": "BICS (रोज़मर्रा की बातचीत) लगभग 2 वर्ष में और CALP (शैक्षणिक भाषा) लगभग 5-7 वर्ष में विकसित होती है। BICS संदर्भ-युक्त और कम कठिन होती है।"
+  },
+  {
+   "id": "t11-ped-07",
+   "part": "A",
+   "section": "ped",
+   "topic": "Halliday's functions of language",
+   "question": "A child who keeps asking 'Why does it rain?' is using which of Halliday's functions of language?",
+   "questionHi": "जो बच्चा बार-बार पूछता है 'बारिश क्यों होती है?', वह हॉलिडे (Halliday) के भाषा-प्रकार्यों में से किसका उपयोग कर रहा है?",
+   "options": [
+    "Instrumental",
+    "Regulatory",
+    "Personal",
+    "Heuristic"
+   ],
+   "optionsHi": [
+    "Instrumental",
+    "Regulatory",
+    "Personal",
+    "Heuristic"
+   ],
+   "correctIndex": 3,
+   "explanation": "The heuristic function is language used to explore and learn about the environment ('tell me why'). Instrumental is for getting needs, regulatory for controlling others, personal for expressing identity.",
+   "explanationHi": "Heuristic प्रकार्य में भाषा का उपयोग वातावरण को जानने-समझने ('मुझे बताओ क्यों') के लिए होता है। Instrumental आवश्यकताओं के लिए, regulatory दूसरों को नियंत्रित करने के लिए और personal अपनी पहचान व्यक्त करने के लिए है।"
+  },
+  {
+   "id": "t11-ped-08",
+   "part": "A",
+   "section": "ped",
+   "topic": "Hymes' communicative competence",
+   "question": "In Dell Hymes' view, communicative competence includes knowing whether an utterance is formally possible, feasible, appropriate and:",
+   "questionHi": "डेल हाइम्स (Hymes) के अनुसार संप्रेषणात्मक क्षमता में यह जानना शामिल है कि कथन औपचारिक रूप से संभव, व्यवहार्य, उपयुक्त और ___ है।",
+   "options": [
+    "etymologically traceable",
+    "actually done or attested in occurrence",
+    "phonetically accurate",
+    "orthographically correct"
+   ],
+   "optionsHi": [
+    "व्युत्पत्ति की दृष्टि से खोजने योग्य",
+    "वास्तव में प्रयोग में आया हुआ (done/attested)",
+    "ध्वन्यात्मक रूप से शुद्ध",
+    "वर्तनी की दृष्टि से सही"
+   ],
+   "correctIndex": 1,
+   "explanation": "Hymes' four parameters are: formally possible, feasible, appropriate in context, and actually performed (attested).",
+   "explanationHi": "हाइम्स के चार मानदंड हैं: औपचारिक रूप से संभव, व्यवहार्य, संदर्भ में उपयुक्त तथा वास्तव में प्रयुक्त।"
+  },
+  {
+   "id": "t11-ped-09",
+   "part": "A",
+   "section": "ped",
+   "topic": "Canale and Swain",
+   "question": "A learner forgets the word 'umbrella' and says 'the thing we open in the rain'. Which component of Canale and Swain's model does this show?",
+   "questionHi": "एक शिक्षार्थी 'umbrella' शब्द भूल जाता है और कहता है 'वह चीज़ जिसे हम बारिश में खोलते हैं'। यह कैनेल और स्वेन के मॉडल के किस घटक को दर्शाता है?",
+   "options": [
+    "Grammatical competence",
+    "Sociolinguistic competence",
+    "Strategic competence",
+    "Discourse competence"
+   ],
+   "optionsHi": [
+    "Grammatical competence",
+    "Sociolinguistic competence",
+    "Strategic competence",
+    "Discourse competence"
+   ],
+   "correctIndex": 2,
+   "explanation": "Using paraphrase or circumlocution to overcome a gap in vocabulary is a communication strategy, i.e. strategic competence.",
+   "explanationHi": "शब्द की कमी को घुमा-फिराकर (circumlocution) कहकर पूरा करना संप्रेषण-रणनीति है, यानी strategic competence।"
+  },
+  {
+   "id": "t11-ped-10",
+   "part": "A",
+   "section": "ped",
+   "topic": "Error Analysis vs Contrastive Analysis",
+   "question": "Which statement correctly distinguishes Error Analysis from Contrastive Analysis?",
+   "questionHi": "Error Analysis और Contrastive Analysis का अंतर कौन-सा कथन सही बताता है?",
+   "options": [
+    "Error Analysis studies the actual errors learners make, whereas Contrastive Analysis predicts errors by comparing L1 and L2",
+    "Error Analysis compares L1 and L2 before learning begins, whereas Contrastive Analysis studies actual errors",
+    "Both claim that all errors come from L1 interference",
+    "Contrastive Analysis studies only spoken errors, Error Analysis only written errors"
+   ],
+   "optionsHi": [
+    "Error Analysis शिक्षार्थी की वास्तविक त्रुटियों का अध्ययन करता है, जबकि Contrastive Analysis L1 और L2 की तुलना से त्रुटियों का पूर्वानुमान लगाता है",
+    "Error Analysis सीखने से पहले L1 और L2 की तुलना करता है, जबकि Contrastive Analysis वास्तविक त्रुटियों का अध्ययन करता है",
+    "दोनों मानते हैं कि सभी त्रुटियाँ L1 के हस्तक्षेप से आती हैं",
+    "Contrastive Analysis केवल मौखिक और Error Analysis केवल लिखित त्रुटियों का अध्ययन करता है"
+   ],
+   "correctIndex": 0,
+   "explanation": "Contrastive Analysis predicts difficulty from L1-L2 differences; Error Analysis (Corder) examines learners' actual errors and found that many are not due to L1 at all.",
+   "explanationHi": "Contrastive Analysis L1-L2 के अंतर से कठिनाइयों का अनुमान लगाता है; Error Analysis (कॉर्डर) वास्तविक त्रुटियों को देखता है और पाता है कि कई त्रुटियों का कारण L1 नहीं होता।"
+  },
+  {
+   "id": "t11-ped-11",
+   "part": "A",
+   "section": "ped",
+   "topic": "Fossilisation",
+   "question": "Persistent non-target forms that remain in a learner's interlanguage despite continued exposure and instruction are called:",
+   "questionHi": "निरंतर संपर्क और शिक्षण के बावजूद शिक्षार्थी की interlanguage में बने रहने वाले गैर-मानक रूप क्या कहलाते हैं?",
+   "options": [
+    "overgeneralisation",
+    "fossilisation",
+    "code-switching",
+    "transfer"
+   ],
+   "optionsHi": [
+    "अतिसामान्यीकरण (overgeneralisation)",
+    "जीवाश्मीकरण (fossilisation)",
+    "code-switching",
+    "अंतरण (transfer)"
+   ],
+   "correctIndex": 1,
+   "explanation": "Selinker used 'fossilisation' for errors that become permanent features of interlanguage. Overgeneralisation and transfer are sources of errors, not their permanence.",
+   "explanationHi": "सेलिंकर ने उन त्रुटियों के लिए 'fossilisation' शब्द दिया जो interlanguage का स्थायी भाग बन जाती हैं। Overgeneralisation और transfer त्रुटियों के स्रोत हैं।"
+  },
+  {
+   "id": "t11-ped-12",
+   "part": "A",
+   "section": "ped",
+   "topic": "Revised Bloom's Taxonomy",
+   "question": "In Anderson and Krathwohl's revised Bloom's taxonomy, 'writing an original ending for a story' belongs to which level?",
+   "questionHi": "एंडरसन और क्रैथवोल (Anderson-Krathwohl) की संशोधित ब्लूम टैक्सोनॉमी में 'कहानी का मौलिक अंत लिखना' किस स्तर में आता है?",
+   "options": [
+    "Understand",
+    "Analyse",
+    "Evaluate",
+    "Create"
+   ],
+   "optionsHi": [
+    "Understand (समझना)",
+    "Analyse (विश्लेषण)",
+    "Evaluate (मूल्यांकन)",
+    "Create (सृजन)"
+   ],
+   "correctIndex": 3,
+   "explanation": "Producing something new and original is the highest level, Create. Analyse means breaking material into parts, Evaluate means judging with criteria.",
+   "explanationHi": "कुछ नया और मौलिक रचना सर्वोच्च स्तर 'Create' है। Analyse का अर्थ भागों में बाँटना और Evaluate का अर्थ मानदंड पर परखना है।"
+  },
+  {
+   "id": "t11-ped-13",
+   "part": "A",
+   "section": "ped",
+   "topic": "Scaffolding and ZPD",
+   "question": "A teacher first models a paragraph, then provides sentence frames, and later removes the frames as students gain confidence. This gradual withdrawal of support is called:",
+   "questionHi": "शिक्षक पहले अनुच्छेद का नमूना दिखाता है, फिर वाक्य-ढाँचे देता है और विद्यार्थियों का आत्मविश्वास बढ़ने पर उन्हें हटा देता है। सहायता को धीरे-धीरे हटाना क्या कहलाता है?",
+   "options": [
+    "fading of scaffolds within the ZPD",
+    "negative reinforcement",
+    "lock-step drilling",
+    "error fossilisation"
+   ],
+   "optionsHi": [
+    "ZPD के भीतर scaffolds का क्रमिक हटाना (fading)",
+    "नकारात्मक पुनर्बलन",
+    "यांत्रिक अभ्यास (drilling)",
+    "त्रुटि का जीवाश्मीकरण"
+   ],
+   "correctIndex": 0,
+   "explanation": "Vygotskian scaffolding gives support in the Zone of Proximal Development and fades it as the learner becomes independent.",
+   "explanationHi": "वाइगोत्स्की के अनुसार ZPD में सहायता दी जाती है और विद्यार्थी के स्वतंत्र होने पर उसे धीरे-धीरे हटाया जाता है।"
+  },
+  {
+   "id": "t11-ped-14",
+   "part": "A",
+   "section": "ped",
+   "topic": "CLIL",
+   "question": "CLIL (Content and Language Integrated Learning) refers to:",
+   "questionHi": "CLIL (Content and Language Integrated Learning) का अर्थ है:",
+   "options": [
+    "teaching language only through grammar rules",
+    "a method that avoids using any first language",
+    "teaching a subject through an additional language, with a dual focus on content and language",
+    "remedial language classes after school"
+   ],
+   "optionsHi": [
+    "केवल व्याकरण के नियमों से भाषा पढ़ाना",
+    "ऐसी विधि जिसमें कोई प्रथम भाषा प्रयोग नहीं होती",
+    "किसी विषय को अतिरिक्त भाषा के माध्यम से पढ़ाना, जिसमें विषय और भाषा दोनों पर ध्यान हो",
+    "स्कूल के बाद उपचारात्मक भाषा कक्षाएँ"
+   ],
+   "correctIndex": 2,
+   "explanation": "In CLIL a non-language subject (e.g. science) is taught through an additional language so that both subject knowledge and language skills develop.",
+   "explanationHi": "CLIL में किसी विषय (जैसे विज्ञान) को अतिरिक्त भाषा में पढ़ाया जाता है ताकि विषय-ज्ञान और भाषा-कौशल दोनों विकसित हों।"
+  },
+  {
+   "id": "t11-ped-15",
+   "part": "A",
+   "section": "ped",
+   "topic": "Multilingual classroom",
+   "question": "In a classroom where learners share Chhattisgarhi, Hindi and English, 'translanguaging' means:",
+   "questionHi": "जिस कक्षा में विद्यार्थी छत्तीसगढ़ी, हिंदी और अंग्रेज़ी जानते हैं, वहाँ 'translanguaging' का अर्थ है:",
+   "options": [
+    "banning home languages to maximise English exposure",
+    "translating each lesson word by word",
+    "testing students only in their mother tongue",
+    "strategically using learners' full linguistic repertoire to support understanding"
+   ],
+   "optionsHi": [
+    "अंग्रेज़ी के अधिकतम संपर्क के लिए घर की भाषाओं पर रोक लगाना",
+    "हर पाठ का शब्द-दर-शब्द अनुवाद करना",
+    "विद्यार्थियों की केवल मातृभाषा में परीक्षा लेना",
+    "समझ बढ़ाने के लिए विद्यार्थियों के पूरे भाषाई भंडार का सोच-समझकर उपयोग करना"
+   ],
+   "correctIndex": 3,
+   "explanation": "Translanguaging treats all of a learner's languages as one resource and lets learners move between them to understand and express ideas. It is not banning, word-by-word translation or mother-tongue-only testing.",
+   "explanationHi": "Translanguaging में विद्यार्थी की सभी भाषाओं को एक संसाधन माना जाता है और वे समझने-अभिव्यक्त करने के लिए उनके बीच आवागमन करते हैं।"
+  }
+ ]
+}

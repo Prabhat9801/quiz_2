@@ -1,0 +1,349 @@
+{
+ "questions": [
+  {
+   "id": "t20-psych-01",
+   "part": "B",
+   "section": "psych",
+   "topic": "Gilligan",
+   "question": "Gilligan criticised Kohlberg's theory of moral development mainly because it",
+   "questionHi": "गिलिगन ने कोहलबर्ग के सिद्धांत की आलोचना इस आधार पर की कि वह",
+   "options": [
+    "ignored cognitive development",
+    "used only children as subjects",
+    "stressed a justice orientation and neglected the ethic of care",
+    "rejected stages altogether"
+   ],
+   "optionsHi": [
+    "संज्ञानात्मक विकास को नज़रअंदाज़ करता है",
+    "केवल बच्चों पर आधारित था",
+    "न्याय के अभिविन्यास पर बल देता है और देखभाल की नैतिकता (ethic of care) की उपेक्षा करता है",
+    "चरणों को पूरी तरह नकारता है"
+   ],
+   "correctIndex": 2,
+   "explanation": "Gilligan argued that women often reason morally through care and relationships, which Kohlberg's justice-based scheme undervalued. She did not reject stages or cognition.",
+   "explanationHi": "गिलिगन के अनुसार स्त्रियाँ प्रायः देखभाल और संबंधों के आधार पर नैतिक निर्णय लेती हैं, जिसे कोहलबर्ग की न्याय-आधारित योजना ने कम आँका। उन्होंने चरणों या संज्ञान को नहीं नकारा।"
+  },
+  {
+   "id": "t20-psych-02",
+   "part": "B",
+   "section": "psych",
+   "topic": "Erikson",
+   "question": "A nine-year-old gains confidence by completing school projects and receiving praise. Which Eriksonian crisis is being resolved successfully?",
+   "questionHi": "एक नौ वर्षीय बच्चा स्कूल प्रोजेक्ट पूरे करके और प्रशंसा पाकर आत्मविश्वास पाता है। एरिक्सन का कौन-सा संकट सफलतापूर्वक सुलझ रहा है?",
+   "options": [
+    "Industry versus inferiority",
+    "Initiative versus guilt",
+    "Identity versus role confusion",
+    "Trust versus mistrust"
+   ],
+   "optionsHi": [
+    "Industry versus inferiority",
+    "Initiative versus guilt",
+    "Identity versus role confusion",
+    "Trust versus mistrust"
+   ],
+   "correctIndex": 0,
+   "explanation": "Industry vs inferiority covers roughly 6-12 years: competence through accomplishment. Initiative vs guilt is 3-6, identity vs confusion is adolescence and trust vs mistrust is infancy.",
+   "explanationHi": "Industry vs inferiority लगभग 6-12 वर्ष की अवस्था है: उपलब्धि से कौशल का भाव। Initiative vs guilt 3-6 वर्ष, identity vs confusion किशोरावस्था और trust vs mistrust शैशव की अवस्था है।"
+  },
+  {
+   "id": "t20-psych-03",
+   "part": "B",
+   "section": "psych",
+   "topic": "Cattell",
+   "question": "Solving unfamiliar pattern problems, largely independent of schooling, mainly reflects Cattell's",
+   "questionHi": "अपरिचित पैटर्न-समस्याओं को हल करना, जो काफ़ी हद तक शिक्षा से स्वतंत्र है, मुख्यतः कैटेल की किस बुद्धि को दर्शाता है?",
+   "options": [
+    "crystallised intelligence",
+    "emotional intelligence",
+    "practical intelligence",
+    "fluid intelligence"
+   ],
+   "optionsHi": [
+    "crystallised intelligence",
+    "emotional intelligence",
+    "practical intelligence",
+    "fluid intelligence"
+   ],
+   "correctIndex": 3,
+   "explanation": "Fluid intelligence is the capacity to reason with novel material; crystallised intelligence is accumulated knowledge such as vocabulary.",
+   "explanationHi": "Fluid intelligence नई सामग्री पर तर्क करने की क्षमता है; crystallised intelligence शब्दावली जैसा संचित ज्ञान है।"
+  },
+  {
+   "id": "t20-psych-04",
+   "part": "B",
+   "section": "psych",
+   "topic": "Kohlberg stages",
+   "question": "A person obeys the law because 'rules must be followed to keep society in order'. In Kohlberg's theory this is",
+   "questionHi": "कोई व्यक्ति इसलिए कानून मानता है कि 'समाज की व्यवस्था के लिए नियमों का पालन आवश्यक है'। कोहलबर्ग के सिद्धांत में यह है",
+   "options": [
+    "Stage 1, punishment orientation",
+    "Stage 4, law and order orientation",
+    "Stage 2, instrumental orientation",
+    "Stage 5, social contract orientation"
+   ],
+   "optionsHi": [
+    "चरण 1, punishment orientation",
+    "चरण 4, law and order orientation",
+    "चरण 2, instrumental orientation",
+    "चरण 5, social contract orientation"
+   ],
+   "correctIndex": 1,
+   "explanation": "Stage 4 (conventional level) values duty, authority and maintaining the social order.",
+   "explanationHi": "चरण 4 (conventional स्तर) में कर्तव्य, अधिकार और सामाजिक व्यवस्था बनाए रखने को महत्त्व मिलता है।"
+  },
+  {
+   "id": "t20-psych-05",
+   "part": "B",
+   "section": "psych",
+   "topic": "Sternberg",
+   "question": "A student with little formal schooling adapts brilliantly to a new workplace. Sternberg would credit this to",
+   "questionHi": "औपचारिक शिक्षा कम होने पर भी एक विद्यार्थी नए कार्यस्थल में बख़ूबी ढल जाता है। स्टर्नबर्ग इसका श्रेय देंगे",
+   "options": [
+    "componential (analytical) intelligence",
+    "contextual (practical) intelligence",
+    "experiential (creative) intelligence",
+    "general factor \"g\""
+   ],
+   "optionsHi": [
+    "componential (विश्लेषणात्मक) बुद्धि को",
+    "contextual (व्यावहारिक) बुद्धि को",
+    "experiential (सृजनात्मक) बुद्धि को",
+    "सामान्य कारक \"g\" को"
+   ],
+   "correctIndex": 1,
+   "explanation": "Contextual intelligence is \"street smartness\": adapting to, shaping or selecting environments. Componential is analytical, experiential is insight/creativity.",
+   "explanationHi": "Contextual बुद्धि \"व्यावहारिक समझ\" है: परिवेश के अनुकूल ढलना, उसे बदलना या चुनना। Componential विश्लेषणात्मक और experiential अंतर्दृष्टि/सृजनशीलता है।"
+  },
+  {
+   "id": "t20-psych-06",
+   "part": "B",
+   "section": "psych",
+   "topic": "Piaget substages",
+   "question": "A 15-month-old drops a toy from different heights to see what happens. Piaget would call this",
+   "questionHi": "15 माह का बच्चा खिलौने को अलग-अलग ऊँचाई से गिराकर देखता है कि क्या होता है। पियाजे इसे कहेंगे",
+   "options": [
+    "primary circular reaction",
+    "secondary circular reaction",
+    "reflex activity",
+    "tertiary circular reaction"
+   ],
+   "optionsHi": [
+    "primary circular reaction",
+    "secondary circular reaction",
+    "reflex activity",
+    "tertiary circular reaction"
+   ],
+   "correctIndex": 3,
+   "explanation": "Tertiary circular reactions (12-18 months) are deliberate experiments with new actions. Primary involve own body, secondary involve repeating interesting effects on objects.",
+   "explanationHi": "Tertiary circular reactions (12-18 माह) नई क्रियाओं के साथ सोद्देश्य प्रयोग हैं। Primary अपने शरीर तक सीमित, secondary वस्तुओं पर रोचक प्रभाव दोहराना है।"
+  },
+  {
+   "id": "t20-assess-01",
+   "part": "B",
+   "section": "assess",
+   "topic": "Reliability",
+   "question": "Cronbach's alpha is used mainly to estimate a test's",
+   "questionHi": "क्रॉनबाख का अल्फ़ा मुख्यतः किसी परीक्षण की किस चीज़ का आकलन करने में प्रयुक्त होता है?",
+   "options": [
+    "internal consistency reliability",
+    "predictive validity",
+    "face validity",
+    "objectivity"
+   ],
+   "optionsHi": [
+    "आंतरिक संगति विश्वसनीयता (internal consistency)",
+    "predictive validity",
+    "face validity",
+    "वस्तुनिष्ठता (objectivity)"
+   ],
+   "correctIndex": 0,
+   "explanation": "Alpha shows how consistently items measure the same construct (internal consistency). Validity types and objectivity are estimated differently.",
+   "explanationHi": "अल्फ़ा बताता है कि प्रश्न एक ही अवधारणा को कितनी संगति से मापते हैं। Validity के प्रकार और objectivity अलग तरीकों से आँके जाते हैं।"
+  },
+  {
+   "id": "t20-assess-02",
+   "part": "B",
+   "section": "assess",
+   "topic": "Item analysis",
+   "question": "In item analysis, an item answered correctly by 90% of the students has a difficulty index of 0.90 and is",
+   "questionHi": "Item analysis में जिस प्रश्न का 90% विद्यार्थी सही उत्तर देते हैं, उसका कठिनता-सूचकांक 0.90 होता है और वह है",
+   "options": [
+    "of moderate difficulty",
+    "too difficult",
+    "too easy",
+    "a perfect discriminator"
+   ],
+   "optionsHi": [
+    "मध्यम कठिनाई का",
+    "बहुत कठिन",
+    "बहुत सरल",
+    "आदर्श विभेदक"
+   ],
+   "correctIndex": 2,
+   "explanation": "The difficulty index is the proportion answering correctly; a high value means an easy item. Such an item also discriminates poorly because nearly everyone passes.",
+   "explanationHi": "कठिनता-सूचकांक सही उत्तर देने वालों का अनुपात है; ऊँचा मान सरल प्रश्न दर्शाता है। लगभग सभी के सही करने से ऐसा प्रश्न विभेदन भी कम करता है।"
+  },
+  {
+   "id": "t20-assess-03",
+   "part": "B",
+   "section": "assess",
+   "topic": "Validity",
+   "question": "Which tool best ensures the content validity of an achievement test?",
+   "questionHi": "उपलब्धि परीक्षण की अंतर्वस्तु-वैधता (content validity) सुनिश्चित करने का सर्वोत्तम साधन कौन-सा है?",
+   "options": [
+    "Computing the test-retest coefficient",
+    "Using only multiple-choice items",
+    "Increasing the test length",
+    "A blueprint (table of specifications)"
+   ],
+   "optionsHi": [
+    "test-retest गुणांक निकालना",
+    "केवल बहुविकल्पी प्रश्न रखना",
+    "परीक्षण की लंबाई बढ़ाना",
+    "ब्लूप्रिंट (विशिष्टता तालिका)"
+   ],
+   "correctIndex": 3,
+   "explanation": "A blueprint maps items to content areas and objectives, ensuring representative sampling. Test-retest concerns reliability.",
+   "explanationHi": "ब्लूप्रिंट प्रश्नों को विषय-क्षेत्रों और उद्देश्यों से जोड़ता है जिससे प्रतिनिधि प्रतिदर्श मिलता है। Test-retest विश्वसनीयता से संबंधित है।"
+  },
+  {
+   "id": "t20-assess-04",
+   "part": "B",
+   "section": "assess",
+   "topic": "Referencing",
+   "question": "A driving licence test that requires examinees to complete all ten manoeuvres correctly is an example of",
+   "questionHi": "ड्राइविंग लाइसेंस परीक्षा, जिसमें सभी दस अभ्यास सही करने ज़रूरी हैं, उदाहरण है",
+   "options": [
+    "criterion-referenced assessment",
+    "norm-referenced assessment",
+    "ipsative assessment",
+    "aptitude testing"
+   ],
+   "optionsHi": [
+    "मानदंड-संदर्भित (criterion-referenced) आकलन का",
+    "मानक-संदर्भित (norm-referenced) आकलन का",
+    "ipsative आकलन का",
+    "अभिक्षमता परीक्षण का"
+   ],
+   "correctIndex": 0,
+   "explanation": "Performance is judged against a fixed standard, not against other candidates, so it is criterion-referenced.",
+   "explanationHi": "प्रदर्शन की तुलना अन्य परीक्षार्थियों से नहीं, बल्कि निश्चित मानक से होती है, इसलिए यह criterion-referenced है।"
+  },
+  {
+   "id": "t20-pedag-01",
+   "part": "B",
+   "section": "pedag",
+   "topic": "5E model",
+   "question": "In the 5E model, the phase in which the teacher checks what learners have understood is",
+   "questionHi": "5E मॉडल में वह चरण जिसमें शिक्षक जाँचता है कि विद्यार्थियों ने क्या समझा, है",
+   "options": [
+    "Engage",
+    "Evaluate",
+    "Explore",
+    "Elaborate"
+   ],
+   "optionsHi": [
+    "Engage",
+    "Evaluate",
+    "Explore",
+    "Elaborate"
+   ],
+   "correctIndex": 1,
+   "explanation": "Evaluate is the phase of assessing understanding; Engage arouses interest, Explore gives hands-on experience, Elaborate extends the concept.",
+   "explanationHi": "Evaluate में समझ का मूल्यांकन होता है; Engage रुचि जगाता है, Explore प्रत्यक्ष अनुभव देता है, Elaborate अवधारणा को विस्तार देता है।"
+  },
+  {
+   "id": "t20-pedag-02",
+   "part": "B",
+   "section": "pedag",
+   "topic": "NEP 2020 stages",
+   "question": "Under the 5+3+3+4 structure of NEP 2020, the Foundational Stage covers the ages",
+   "questionHi": "NEP 2020 की 5+3+3+4 संरचना में Foundational Stage किन आयु-वर्षों को कवर करता है",
+   "options": [
+    "6 to 11 years",
+    "8 to 11 years",
+    "3 to 8 years",
+    "11 to 14 years"
+   ],
+   "optionsHi": [
+    "6 से 11 वर्ष",
+    "8 से 11 वर्ष",
+    "3 से 8 वर्ष",
+    "11 से 14 वर्ष"
+   ],
+   "correctIndex": 2,
+   "explanation": "The 5 of 5+3+3+4 is the Foundational Stage: three years of preschool plus Classes 1 and 2, ages 3 to 8.",
+   "explanationHi": "5+3+3+4 का पहला 5 Foundational Stage है: तीन वर्ष का प्रीस्कूल और कक्षा 1-2, यानी आयु 3 से 8 वर्ष।"
+  },
+  {
+   "id": "t20-pedag-03",
+   "part": "B",
+   "section": "pedag",
+   "topic": "NCF 2005",
+   "question": "Which of the following is NOT a guiding principle of NCF 2005?",
+   "questionHi": "निम्नलिखित में से कौन-सा NCF 2005 का मार्गदर्शक सिद्धांत नहीं है?",
+   "options": [
+    "Treating the prescribed textbook as the sole source of learning",
+    "Connecting knowledge to life outside school",
+    "Shifting learning away from rote methods",
+    "Making examinations more flexible and integrated with classroom life"
+   ],
+   "optionsHi": [
+    "निर्धारित पाठ्यपुस्तक को सीखने का एकमात्र स्रोत मानना",
+    "ज्ञान को स्कूल के बाहर के जीवन से जोड़ना",
+    "अधिगम को रटंत विधि से दूर ले जाना",
+    "परीक्षाओं को अधिक लचीला और कक्षा-जीवन से जुड़ा बनाना"
+   ],
+   "correctIndex": 0,
+   "explanation": "NCF 2005 asks for enriching the curriculum beyond textbooks. The other three are among its stated guiding principles.",
+   "explanationHi": "NCF 2005 पाठ्यचर्या को पाठ्यपुस्तक से आगे समृद्ध करने की बात करता है। अन्य तीनों उसके घोषित मार्गदर्शक सिद्धांत हैं।"
+  },
+  {
+   "id": "t20-attitude-01",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Constructivism",
+   "question": "Which classroom practice best reflects a constructivist view of knowledge?",
+   "questionHi": "कौन-सी कक्षा-गतिविधि ज्ञान के रचनावादी दृष्टिकोण को सबसे अच्छे ढंग से दर्शाती है?",
+   "options": [
+    "The teacher dictates notes for memorisation",
+    "Students copy model answers",
+    "Knowledge is transferred unchanged from teacher to learner",
+    "Students predict, test and discuss ideas, building meaning from experience"
+   ],
+   "optionsHi": [
+    "शिक्षक नोट्स बोलकर रटवाता है",
+    "विद्यार्थी आदर्श उत्तर नकल करते हैं",
+    "ज्ञान शिक्षक से विद्यार्थी को ज्यों-का-त्यों हस्तांतरित होता है",
+    "विद्यार्थी अनुमान लगाते, परखते और चर्चा करते हैं तथा अनुभव से अर्थ बनाते हैं"
+   ],
+   "correctIndex": 3,
+   "explanation": "Constructivism sees learners as active builders of knowledge. The other options treat knowledge as something transmitted.",
+   "explanationHi": "रचनावाद में विद्यार्थी ज्ञान के सक्रिय निर्माता होते हैं। अन्य विकल्प ज्ञान को हस्तांतरित वस्तु मानते हैं।"
+  },
+  {
+   "id": "t20-attitude-02",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Gender perspective",
+   "question": "A teacher always asks girls to decorate the classroom and boys to lead the debate team. This reinforces gender stereotypes through the",
+   "questionHi": "एक शिक्षक सदा लड़कियों से कक्षा सजाने और लड़कों से वाद-विवाद टीम का नेतृत्व करने को कहता है। यह लैंगिक रूढ़ियों को किसके माध्यम से मज़बूत करता है?",
+   "options": [
+    "formal curriculum",
+    "hidden curriculum",
+    "co-curriculum",
+    "null curriculum"
+   ],
+   "optionsHi": [
+    "औपचारिक पाठ्यचर्या",
+    "hidden curriculum (छिपी पाठ्यचर्या)",
+    "सह-पाठ्यचर्या",
+    "null curriculum"
+   ],
+   "correctIndex": 1,
+   "explanation": "Unstated messages conveyed through everyday practice form the hidden curriculum, here teaching that roles are gendered.",
+   "explanationHi": "दैनिक व्यवहार से मिलने वाले अघोषित संदेश hidden curriculum हैं; यहाँ वे सिखा रहे हैं कि भूमिकाएँ लिंग पर आधारित हैं।"
+  }
+ ]
+}

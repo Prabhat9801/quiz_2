@@ -1,0 +1,349 @@
+{
+ "questions": [
+  {
+   "id": "t12-psych-01",
+   "part": "B",
+   "section": "psych",
+   "topic": "Kohlberg - stages",
+   "question": "A student refrains from cheating because \"my teacher and family would think badly of me\". At which Kohlberg stage is this reasoning?",
+   "questionHi": "एक विद्यार्थी नकल से इसलिए बचता है कि \"मेरे शिक्षक और परिवार मेरे बारे में बुरा सोचेंगे\"। यह तर्क कोहलबर्ग के किस चरण का है?",
+   "options": [
+    "Stage 1: obedience and punishment",
+    "Stage 3: interpersonal conformity (good boy/good girl)",
+    "Stage 2: instrumental exchange",
+    "Stage 5: social contract"
+   ],
+   "optionsHi": [
+    "चरण 1: आज्ञापालन और दंड",
+    "चरण 3: पारस्परिक अनुरूपता (अच्छा लड़का/अच्छी लड़की)",
+    "चरण 2: साधनात्मक आदान-प्रदान",
+    "चरण 5: सामाजिक अनुबंध"
+   ],
+   "correctIndex": 1,
+   "explanation": "Seeking the approval of others and being seen as a good person is Stage 3, in the conventional level. Stage 1 fears punishment, Stage 2 seeks personal gain and Stage 5 reasons from social contract and rights.",
+   "explanationHi": "दूसरों की स्वीकृति पाना और अच्छा व्यक्ति दिखना चरण 3 है, जो परंपरागत स्तर में आता है। चरण 1 में दंड का भय, चरण 2 में व्यक्तिगत लाभ तथा चरण 5 में सामाजिक अनुबंध और अधिकारों का तर्क होता है।"
+  },
+  {
+   "id": "t12-psych-02",
+   "part": "B",
+   "section": "psych",
+   "topic": "Erikson",
+   "question": "According to Erikson, the psychosocial crisis of 'industry versus inferiority' is typically faced during",
+   "questionHi": "एरिक्सन के अनुसार 'उद्यमशीलता बनाम हीनता' (industry versus inferiority) का मनो-सामाजिक संकट सामान्यतः किस अवस्था में आता है?",
+   "options": [
+    "Infancy (0–1 year)",
+    "Early childhood (2–3 years)",
+    "School age (about 6–12 years)",
+    "Adolescence (12–18 years)"
+   ],
+   "optionsHi": [
+    "शैशव (0–1 वर्ष)",
+    "प्रारंभिक बाल्यावस्था (2–3 वर्ष)",
+    "विद्यालय आयु (लगभग 6–12 वर्ष)",
+    "किशोरावस्था (12–18 वर्ष)"
+   ],
+   "correctIndex": 2,
+   "explanation": "Children of about 6–12 years learn skills at school; success gives a sense of industry, failure gives inferiority. Trust vs mistrust belongs to infancy, autonomy vs shame to early childhood and identity vs role confusion to adolescence.",
+   "explanationHi": "लगभग 6–12 वर्ष के बच्चे विद्यालय में कौशल सीखते हैं; सफलता से उद्यमशीलता और असफलता से हीनता की भावना बनती है। विश्वास बनाम अविश्वास शैशव का, स्वायत्तता बनाम लज्जा प्रारंभिक बाल्यावस्था का तथा पहचान बनाम भूमिका-भ्रम किशोरावस्था का संकट है।"
+  },
+  {
+   "id": "t12-psych-03",
+   "part": "B",
+   "section": "psych",
+   "topic": "Piaget sub-stages",
+   "question": "In Piaget's sensorimotor stage, 'tertiary circular reactions', in which the infant deliberately varies actions to see new results, appear at about",
+   "questionHi": "पियाजे की संवेदी-गामक अवस्था में 'तृतीयक वृत्तीय प्रतिक्रियाएँ' (tertiary circular reactions), जिनमें शिशु नए परिणाम देखने के लिए जान-बूझकर क्रियाएँ बदलता है, लगभग कब दिखती हैं?",
+   "options": [
+    "0–1 month",
+    "1–4 months",
+    "4–8 months",
+    "12–18 months"
+   ],
+   "optionsHi": [
+    "0–1 माह",
+    "1–4 माह",
+    "4–8 माह",
+    "12–18 माह"
+   ],
+   "correctIndex": 3,
+   "explanation": "Tertiary circular reactions (the 'little scientist' experimenting) belong to the fifth sub-stage, about 12–18 months. Reflexes are 0–1 month, primary circular reactions 1–4 months and secondary circular reactions 4–8 months.",
+   "explanationHi": "तृतीयक वृत्तीय प्रतिक्रियाएँ ('छोटा वैज्ञानिक' बनकर प्रयोग करना) पाँचवीं उप-अवस्था में, लगभग 12–18 माह पर आती हैं। सहज क्रियाएँ 0–1 माह, प्राथमिक वृत्तीय 1–4 माह तथा द्वितीयक वृत्तीय 4–8 माह में होती हैं।"
+  },
+  {
+   "id": "t12-psych-04",
+   "part": "B",
+   "section": "psych",
+   "topic": "Gardner - multiple intelligences",
+   "question": "A child who learns best by classifying plants, animals and rocks and enjoys nature walks shows strength in which of Gardner's intelligences?",
+   "questionHi": "एक बच्चा पौधों, पशुओं और चट्टानों का वर्गीकरण करके सबसे अच्छा सीखता है और प्रकृति-भ्रमण पसंद करता है। यह गार्डनर की किस बुद्धि में सबल है?",
+   "options": [
+    "Naturalistic",
+    "Interpersonal",
+    "Logical-mathematical",
+    "Bodily-kinaesthetic"
+   ],
+   "optionsHi": [
+    "प्राकृतिक (Naturalistic)",
+    "अंतर्वैयक्तिक (Interpersonal)",
+    "तार्किक-गणितीय",
+    "शारीरिक-गतिक (Bodily-kinaesthetic)"
+   ],
+   "correctIndex": 0,
+   "explanation": "Naturalistic intelligence is the ability to recognise and classify elements of the natural world. Interpersonal concerns understanding people, logical-mathematical concerns reasoning with numbers and bodily-kinaesthetic concerns movement skills.",
+   "explanationHi": "प्राकृतिक बुद्धि प्रकृति के तत्वों को पहचानने और वर्गीकृत करने की योग्यता है। अंतर्वैयक्तिक बुद्धि लोगों को समझने से, तार्किक-गणितीय संख्याओं से तर्क करने से और शारीरिक-गतिक गतिशील कौशलों से संबंधित है।"
+  },
+  {
+   "id": "t12-psych-05",
+   "part": "B",
+   "section": "psych",
+   "topic": "Cattell - fluid and crystallised intelligence",
+   "question": "A person's vocabulary and general knowledge, which usually keep growing even in old age, mainly reflect",
+   "questionHi": "किसी व्यक्ति की शब्दावली और सामान्य जानकारी, जो प्रायः वृद्धावस्था तक बढ़ती रहती है, मुख्यतः किसे दर्शाती है?",
+   "options": [
+    "fluid intelligence",
+    "crystallised intelligence",
+    "Spearman's specific factor 's' only",
+    "Guilford's divergent production"
+   ],
+   "optionsHi": [
+    "तरल बुद्धि (fluid intelligence)",
+    "स्फटिकीकृत बुद्धि (crystallised intelligence)",
+    "केवल स्पीयरमैन का विशिष्ट कारक 's'",
+    "गिलफोर्ड का अपसारी उत्पादन"
+   ],
+   "correctIndex": 1,
+   "explanation": "Cattell's crystallised intelligence is accumulated knowledge and skills from experience and education and keeps growing with age, whereas fluid intelligence (novel reasoning, speed) tends to decline after early adulthood.",
+   "explanationHi": "कैटेल की स्फटिकीकृत बुद्धि अनुभव और शिक्षा से संचित ज्ञान व कौशल है, जो आयु के साथ बढ़ती रहती है; जबकि तरल बुद्धि (नई समस्याओं का तर्क, गति) प्रारंभिक वयस्कता के बाद घटने लगती है।"
+  },
+  {
+   "id": "t12-psych-06",
+   "part": "B",
+   "section": "psych",
+   "topic": "Creativity - divergent thinking",
+   "question": "Which of the following tasks best measures divergent thinking?",
+   "questionHi": "निम्नलिखित में से कौन-सा कार्य अपसारी चिंतन (divergent thinking) को सबसे अच्छी तरह मापता है?",
+   "options": [
+    "Solving a multiple-choice analogy",
+    "Finding the single correct answer to an arithmetic problem",
+    "Listing as many unusual uses of a brick as possible",
+    "Recalling the date of a historical event"
+   ],
+   "optionsHi": [
+    "बहुविकल्पीय सादृश्य (analogy) हल करना",
+    "अंकगणित के प्रश्न का एक सही उत्तर निकालना",
+    "ईंट के अधिक से अधिक असामान्य उपयोग सूचीबद्ध करना",
+    "किसी ऐतिहासिक घटना की तिथि याद करना"
+   ],
+   "correctIndex": 2,
+   "explanation": "Divergent thinking (Guilford, Torrance) generates many varied, original responses to an open problem, scored on fluency, flexibility and originality. The other tasks need one correct answer, i.e. convergent thinking or recall.",
+   "explanationHi": "अपसारी चिंतन (गिलफोर्ड, टॉरेंस) में खुली समस्या के अनेक, विविध और मौलिक उत्तर दिए जाते हैं, जिन्हें प्रवाह, लचीलेपन और मौलिकता पर आँका जाता है। अन्य कार्यों में एक ही सही उत्तर चाहिए, अर्थात ये अभिसारी चिंतन या स्मरण हैं।"
+  },
+  {
+   "id": "t12-assess-01",
+   "part": "B",
+   "section": "assess",
+   "topic": "Reliability",
+   "question": "The split-half method, corrected with the Spearman-Brown formula, estimates which type of reliability?",
+   "questionHi": "स्पीयरमैन-ब्राउन सूत्र से संशोधित अर्ध-विभाजन (split-half) विधि किस प्रकार की विश्वसनीयता का आकलन करती है?",
+   "options": [
+    "Stability over time (test-retest)",
+    "Agreement between scorers (inter-rater)",
+    "Equivalence of two parallel forms",
+    "Internal consistency"
+   ],
+   "optionsHi": [
+    "समय के साथ स्थिरता (test-retest)",
+    "अंकनकर्ताओं के बीच सहमति (inter-rater)",
+    "दो समानांतर रूपों की समतुल्यता",
+    "आंतरिक संगति (internal consistency)"
+   ],
+   "correctIndex": 3,
+   "explanation": "Both halves of a single test are correlated and the coefficient is stepped up to full length with Spearman-Brown, giving internal consistency. Test-retest needs two administrations; parallel forms need two equivalent tests.",
+   "explanationHi": "एक ही परीक्षण के दोनों भागों का सहसंबंध निकालकर स्पीयरमैन-ब्राउन से पूरी लंबाई के लिए संशोधित किया जाता है, जिससे आंतरिक संगति मिलती है। test-retest में दो बार परीक्षण और समानांतर रूप में दो समतुल्य परीक्षण चाहिए।"
+  },
+  {
+   "id": "t12-assess-02",
+   "part": "B",
+   "section": "assess",
+   "topic": "Item analysis",
+   "question": "An item has a discrimination index of −0.20. This indicates that",
+   "questionHi": "किसी प्रश्न का विभेदन सूचकांक (discrimination index) −0.20 है। इससे संकेत मिलता है कि",
+   "options": [
+    "weaker students answered it correctly more often than stronger students, so it should be revised or dropped",
+    "the item is very easy",
+    "the item is perfectly reliable",
+    "the item discriminates well between high and low achievers"
+   ],
+   "optionsHi": [
+    "कमज़ोर विद्यार्थियों ने मज़बूत विद्यार्थियों से अधिक बार सही उत्तर दिया, इसलिए प्रश्न को सुधारना या हटाना चाहिए",
+    "प्रश्न बहुत आसान है",
+    "प्रश्न पूर्णतः विश्वसनीय है",
+    "प्रश्न उच्च और निम्न उपलब्धि वाले विद्यार्थियों में अच्छा भेद करता है"
+   ],
+   "correctIndex": 0,
+   "explanation": "A negative discrimination index means the lower group outperformed the upper group on the item, which signals a flawed item (ambiguous key or misleading wording). Ease is shown by the difficulty index, not by this value.",
+   "explanationHi": "ऋणात्मक विभेदन सूचकांक का अर्थ है कि निम्न समूह ने उच्च समूह से बेहतर किया, जो प्रश्न में दोष (अस्पष्ट उत्तर-कुंजी या भ्रामक शब्दावली) दर्शाता है। आसानी कठिनाई सूचकांक से पता चलती है, इस मान से नहीं।"
+  },
+  {
+   "id": "t12-assess-03",
+   "part": "B",
+   "section": "assess",
+   "topic": "Validity",
+   "question": "A teacher checks that her English achievement test samples every unit of the syllabus in proportion to its weightage. She is establishing",
+   "questionHi": "एक शिक्षिका जाँचती है कि उसके अंग्रेज़ी उपलब्धि परीक्षण में पाठ्यक्रम की हर इकाई उसके भारांश के अनुपात में शामिल है। वह किसे स्थापित कर रही है?",
+   "options": [
+    "Predictive validity",
+    "Content validity",
+    "Construct validity",
+    "Inter-rater reliability"
+   ],
+   "optionsHi": [
+    "भविष्यसूचक वैधता (predictive validity)",
+    "विषय-वस्तु वैधता (content validity)",
+    "संप्रत्यय वैधता (construct validity)",
+    "अंकनकर्ता विश्वसनीयता (inter-rater reliability)"
+   ],
+   "correctIndex": 1,
+   "explanation": "Content validity is the extent to which a test adequately and representatively samples the syllabus content, which a blueprint ensures. Predictive validity compares scores with later performance; construct validity concerns the underlying trait.",
+   "explanationHi": "विषय-वस्तु वैधता वह है जिसमें परीक्षण पाठ्यक्रम की सामग्री का पर्याप्त और प्रतिनिधिक प्रतिदर्श लेता है, जिसे ब्लूप्रिंट सुनिश्चित करता है। भविष्यसूचक वैधता अंकों की बाद के निष्पादन से तुलना करती है; संप्रत्यय वैधता अंतर्निहित गुण से संबंधित है।"
+  },
+  {
+   "id": "t12-assess-04",
+   "part": "B",
+   "section": "assess",
+   "topic": "Holistic Progress Card",
+   "question": "Which of the following is a defining feature of the Holistic Progress Card proposed under NEP 2020?",
+   "questionHi": "NEP 2020 में प्रस्तावित समग्र प्रगति पत्रक (Holistic Progress Card) की निर्णायक विशेषता निम्नलिखित में से कौन-सी है?",
+   "options": [
+    "Only the final-examination marks of the pupil",
+    "Only a class rank based on rote recall",
+    "A 360-degree record combining self-assessment, peer assessment and teacher assessment",
+    "Only the teacher's remarks on discipline"
+   ],
+   "optionsHi": [
+    "विद्यार्थी के केवल अंतिम परीक्षा के अंक",
+    "रटने पर आधारित केवल कक्षा-क्रम (rank)",
+    "स्व-आकलन, सहपाठी-आकलन और शिक्षक-आकलन को मिलाकर 360-डिग्री अभिलेख",
+    "अनुशासन पर शिक्षक की केवल टिप्पणियाँ"
+   ],
+   "correctIndex": 2,
+   "explanation": "The Holistic Progress Card is a 360-degree, multidimensional report covering cognitive, affective and psychomotor domains with inputs from the student, peers, teachers and parents. It is not a marks-only or rank-only document.",
+   "explanationHi": "समग्र प्रगति पत्रक एक 360-डिग्री, बहुआयामी रिपोर्ट है जो संज्ञानात्मक, भावात्मक और मनो-गामक क्षेत्रों को विद्यार्थी, सहपाठियों, शिक्षकों और अभिभावकों के योगदान सहित दर्शाती है। यह केवल अंकों या रैंक का दस्तावेज़ नहीं है।"
+  },
+  {
+   "id": "t12-pedag-01",
+   "part": "B",
+   "section": "pedag",
+   "topic": "5E constructivist model",
+   "question": "In the 5E instructional model, the stage in which learners apply the new concept to a fresh situation is called",
+   "questionHi": "5E शिक्षण मॉडल में वह चरण, जिसमें विद्यार्थी नई अवधारणा को किसी नई परिस्थिति में लागू करते हैं, कहलाता है",
+   "options": [
+    "Engage",
+    "Explore",
+    "Explain",
+    "Elaborate"
+   ],
+   "optionsHi": [
+    "Engage (जोड़ना)",
+    "Explore (खोजना)",
+    "Explain (समझाना)",
+    "Elaborate (विस्तार देना)"
+   ],
+   "correctIndex": 3,
+   "explanation": "The five Es are Engage, Explore, Explain, Elaborate and Evaluate. In Elaborate, learners extend and apply the concept to new contexts; Engage arouses curiosity, Explore gives hands-on experience and Explain formalises the idea.",
+   "explanationHi": "पाँच E हैं: Engage, Explore, Explain, Elaborate और Evaluate। Elaborate में विद्यार्थी अवधारणा को नए संदर्भों में लागू करते हैं; Engage जिज्ञासा जगाता है, Explore प्रत्यक्ष अनुभव देता है और Explain विचार को औपचारिक रूप देता है।"
+  },
+  {
+   "id": "t12-pedag-02",
+   "part": "B",
+   "section": "pedag",
+   "topic": "NCF-SE 2023",
+   "question": "In the NCF for School Education 2023, the 'Preparatory Stage' corresponds to which age group?",
+   "questionHi": "स्कूली शिक्षा के लिए NCF 2023 में 'प्रारंभिक (Preparatory) चरण' किस आयु-वर्ग से संबंधित है?",
+   "options": [
+    "3–8 years",
+    "8–11 years",
+    "11–14 years",
+    "14–18 years"
+   ],
+   "optionsHi": [
+    "3–8 वर्ष",
+    "8–11 वर्ष",
+    "11–14 वर्ष",
+    "14–18 वर्ष"
+   ],
+   "correctIndex": 1,
+   "explanation": "NCF-SE 2023 follows the 5+3+3+4 design: Foundational (ages 3–8), Preparatory (8–11), Middle (11–14) and Secondary (14–18).",
+   "explanationHi": "NCF-SE 2023 में 5+3+3+4 ढाँचा है: आधारभूत (3–8 वर्ष), प्रारंभिक (8–11), मध्य (11–14) और माध्यमिक (14–18)।"
+  },
+  {
+   "id": "t12-pedag-03",
+   "part": "B",
+   "section": "pedag",
+   "topic": "NCF 2005 guiding principles",
+   "question": "Which of the following is NOT one of the guiding principles of the National Curriculum Framework 2005?",
+   "questionHi": "निम्नलिखित में से कौन-सा राष्ट्रीय पाठ्यचर्या की रूपरेखा 2005 का मार्गदर्शक सिद्धांत नहीं है?",
+   "options": [
+    "Making the textbook the primary and sole source of knowledge",
+    "Connecting knowledge to life outside the school",
+    "Shifting learning away from rote methods",
+    "Making examinations more flexible and integrated with classroom life"
+   ],
+   "optionsHi": [
+    "पाठ्यपुस्तक को ज्ञान का प्राथमिक और एकमात्र स्रोत बनाना",
+    "ज्ञान को विद्यालय के बाहर के जीवन से जोड़ना",
+    "अधिगम को रटने की पद्धति से दूर ले जाना",
+    "परीक्षाओं को अधिक लचीला और कक्षा-जीवन से जुड़ा बनाना"
+   ],
+   "correctIndex": 0,
+   "explanation": "NCF 2005 wants curriculum enriched beyond the textbook, so treating the textbook as the sole source contradicts it. The other three are among its five stated guiding principles.",
+   "explanationHi": "NCF 2005 पाठ्यचर्या को पाठ्यपुस्तक से आगे समृद्ध बनाना चाहता है, इसलिए पाठ्यपुस्तक को एकमात्र स्रोत मानना इसके विरुद्ध है। अन्य तीन इसके पाँच मार्गदर्शक सिद्धांतों में शामिल हैं।"
+  },
+  {
+   "id": "t12-attitude-01",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Constructivism",
+   "question": "In a constructivist classroom, a learner's error is best treated as",
+   "questionHi": "रचनावादी कक्षा में विद्यार्थी की त्रुटि को सबसे उचित रूप में किस प्रकार देखा जाना चाहिए?",
+   "options": [
+    "a sign of laziness to be punished",
+    "evidence of low intelligence",
+    "a window into the learner's current thinking that guides further teaching",
+    "a reason to repeat the lesson in the same manner"
+   ],
+   "optionsHi": [
+    "आलस्य का संकेत, जिसे दंडित किया जाए",
+    "कम बुद्धि का प्रमाण",
+    "विद्यार्थी की वर्तमान सोच की झलक, जो आगे के शिक्षण को दिशा देती है",
+    "पाठ को उसी तरीके से दोहराने का कारण"
+   ],
+   "correctIndex": 2,
+   "explanation": "Constructivism holds that learners build knowledge from prior ideas, so errors reveal their partial or alternative conceptions and give the teacher a basis for guiding them. Punishing or merely repeating ignores this.",
+   "explanationHi": "रचनावाद के अनुसार विद्यार्थी पूर्व विचारों से ज्ञान गढ़ते हैं, इसलिए त्रुटियाँ उनकी अधूरी या वैकल्पिक धारणाएँ बताती हैं और शिक्षक को मार्गदर्शन का आधार देती हैं। दंड देना या उसी तरह दोहराना इसे नज़रअंदाज़ करता है।"
+  },
+  {
+   "id": "t12-attitude-02",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Gender perspective in education",
+   "question": "A textbook consistently shows men as doctors and pilots and women only as nurses and homemakers. This is best described as",
+   "questionHi": "एक पाठ्यपुस्तक में लगातार पुरुषों को डॉक्टर और पायलट तथा महिलाओं को केवल नर्स और गृहिणी दिखाया गया है। इसे सबसे सही रूप में क्या कहा जाएगा?",
+   "options": [
+    "gender-neutral language",
+    "gender stereotyping transmitted through the hidden curriculum",
+    "an example of inclusive pedagogy",
+    "a feature of formative assessment"
+   ],
+   "optionsHi": [
+    "लिंग-निरपेक्ष भाषा",
+    "छिपे पाठ्यक्रम (hidden curriculum) के माध्यम से फैलाई गई लैंगिक रूढ़िबद्ध धारणा",
+    "समावेशी शिक्षण का उदाहरण",
+    "रचनात्मक आकलन की विशेषता"
+   ],
+   "correctIndex": 1,
+   "explanation": "Such repeated role portrayals silently teach children what each gender 'should' do, which is gender stereotyping conveyed by the hidden curriculum. Gender-sensitive education demands balanced, non-stereotypical representation.",
+   "explanationHi": "ऐसी बार-बार दिखाई गई भूमिकाएँ बच्चों को चुपचाप सिखाती हैं कि हर लिंग को क्या करना 'चाहिए', जो छिपे पाठ्यक्रम से फैली लैंगिक रूढ़िबद्धता है। लिंग-संवेदनशील शिक्षा में संतुलित, रूढ़ि-मुक्त प्रस्तुति आवश्यक है।"
+  }
+ ]
+}

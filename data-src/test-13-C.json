@@ -1,0 +1,499 @@
+{
+ "questions": [
+  {
+   "id": "t13-hindi-01",
+   "part": "C",
+   "section": "hindi",
+   "topic": "संधि",
+   "question": "'परोपकार' का सही संधि-विच्छेद है -",
+   "options": [
+    "परा + उपकार",
+    "पर + उपकार",
+    "परो + पकार",
+    "पर + ओपकार"
+   ],
+   "correctIndex": 1,
+   "explanation": "पर + उपकार में 'अ' और 'उ' मिलकर 'ओ' बनते हैं, यह गुण संधि है। अन्य विच्छेद शब्द के अर्थ और ध्वनि-नियम से मेल नहीं खाते।"
+  },
+  {
+   "id": "t13-hindi-02",
+   "part": "C",
+   "section": "hindi",
+   "topic": "समास",
+   "question": "'यथाशक्ति' में कौन-सा समास है?",
+   "options": [
+    "तत्पुरुष",
+    "द्वंद्व",
+    "बहुव्रीहि",
+    "अव्ययीभाव"
+   ],
+   "correctIndex": 3,
+   "explanation": "'यथा' (अव्यय) पहले पद के रूप में आया है और 'शक्ति के अनुसार' अर्थ देता है। इसलिए यह अव्ययीभाव समास है; अन्य समासों के लक्षण यहाँ नहीं हैं।"
+  },
+  {
+   "id": "t13-hindi-03",
+   "part": "C",
+   "section": "hindi",
+   "topic": "मुहावरे",
+   "question": "'अंधे के हाथ बटेर लगना' मुहावरे का अर्थ है -",
+   "options": [
+    "अनायास बड़ी वस्तु मिल जाना",
+    "आँखों से कम दिखाई देना",
+    "बहुत कठिन काम करना",
+    "किसी को धोखा देना"
+   ],
+   "correctIndex": 0,
+   "explanation": "इस मुहावरे का अर्थ है बिना योग्यता या प्रयास के अचानक कोई बहुमूल्य चीज़ मिल जाना। शेष अर्थ मुहावरे से संबंधित नहीं हैं।"
+  },
+  {
+   "id": "t13-hindi-04",
+   "part": "C",
+   "section": "hindi",
+   "topic": "श्रुतिसम भिन्नार्थक शब्द",
+   "question": "'अनल' और 'अनिल' शब्दों के अर्थ क्रमशः हैं -",
+   "options": [
+    "जल, वायु",
+    "वायु, अग्नि",
+    "अग्नि, वायु",
+    "पृथ्वी, आकाश"
+   ],
+   "correctIndex": 2,
+   "explanation": "'अनल' का अर्थ अग्नि और 'अनिल' का अर्थ वायु है। ये श्रुतिसम (लगभग समान सुनाई देने वाले) भिन्नार्थक शब्द हैं।"
+  },
+  {
+   "id": "t13-hindi-05",
+   "part": "C",
+   "section": "hindi",
+   "topic": "कारक",
+   "question": "'माँ ने बच्चे के लिए खिलौना खरीदा।' इस वाक्य में 'बच्चे के लिए' में कौन-सा कारक है?",
+   "options": [
+    "कर्म कारक",
+    "करण कारक",
+    "अपादान कारक",
+    "सम्प्रदान कारक"
+   ],
+   "correctIndex": 3,
+   "explanation": "जिसके लिए कोई कार्य किया जाए या वस्तु दी जाए, उसमें सम्प्रदान कारक होता है; 'के लिए' इसका चिह्न है। कर्म का चिह्न 'को', करण का 'से/द्वारा' और अपादान का 'से' (अलग होना) है।"
+  },
+  {
+   "id": "t13-english-01",
+   "part": "C",
+   "section": "english",
+   "topic": "One-word substitution",
+   "question": "One word for 'the killing of one's own brother or sister' is ___.",
+   "options": [
+    "fratricide",
+    "patricide",
+    "regicide",
+    "matricide"
+   ],
+   "correctIndex": 0,
+   "explanation": "Fratricide is killing a sibling. Patricide is killing a father, regicide a king, and matricide a mother."
+  },
+  {
+   "id": "t13-english-02",
+   "part": "C",
+   "section": "english",
+   "topic": "Prepositions",
+   "question": "The thief was convicted ___ robbery.",
+   "options": [
+    "for",
+    "with",
+    "of",
+    "on"
+   ],
+   "correctIndex": 2,
+   "explanation": "The verb 'convict' takes 'of': convicted of a crime. The other prepositions are not used with it."
+  },
+  {
+   "id": "t13-english-03",
+   "part": "C",
+   "section": "english",
+   "topic": "Spot the error",
+   "question": "Find the part with an error: 'The manager, along with his assistants, have decided to postpone the meeting.'",
+   "options": [
+    "The manager, along with his assistants,",
+    "have decided",
+    "to postpone",
+    "No error"
+   ],
+   "correctIndex": 1,
+   "explanation": "'Along with his assistants' does not change the subject, which is the singular 'The manager'; so the verb should be 'has decided'."
+  },
+  {
+   "id": "t13-english-04",
+   "part": "C",
+   "section": "english",
+   "topic": "Idioms",
+   "question": "'To rest on one's laurels' means ___.",
+   "options": [
+    "to work harder after success",
+    "to retire from public life",
+    "to receive an award",
+    "to be satisfied with past achievements and make no further effort"
+   ],
+   "correctIndex": 3,
+   "explanation": "Laurels symbolise victory; resting on them means relying on earlier success instead of continuing to strive."
+  },
+  {
+   "id": "t13-english-05",
+   "part": "C",
+   "section": "english",
+   "topic": "One-word substitution",
+   "question": "One word for 'a person who can use both hands with equal skill':",
+   "options": [
+    "ambidextrous",
+    "amphibious",
+    "ambivalent",
+    "ambiguous"
+   ],
+   "correctIndex": 0,
+   "explanation": "'Ambidextrous' means able to use both hands equally well. 'Amphibious' refers to living on land and in water, 'ambivalent' to mixed feelings, and 'ambiguous' to double meaning."
+  },
+  {
+   "id": "t13-mental-01",
+   "part": "C",
+   "section": "mental",
+   "topic": "Number series",
+   "question": "Find the next number: 2, 3, 5, 9, 17, ?",
+   "questionHi": "अगली संख्या ज्ञात कीजिए: 2, 3, 5, 9, 17, ?",
+   "options": [
+    "25",
+    "31",
+    "33",
+    "35"
+   ],
+   "optionsHi": [
+    "25",
+    "31",
+    "33",
+    "35"
+   ],
+   "correctIndex": 2,
+   "explanation": "The differences are 1, 2, 4, 8, so the next difference is 16: 17 + 16 = 33.",
+   "explanationHi": "अंतर 1, 2, 4, 8 हैं, अतः अगला अंतर 16 होगा: 17 + 16 = 33।"
+  },
+  {
+   "id": "t13-mental-02",
+   "part": "C",
+   "section": "mental",
+   "topic": "Coding-decoding",
+   "question": "If MOTHER is coded as LNSGDQ, how will FATHER be coded?",
+   "questionHi": "यदि MOTHER को LNSGDQ लिखा जाता है, तो FATHER को कैसे लिखा जाएगा?",
+   "options": [
+    "EZSGDP",
+    "EZSGDQ",
+    "GBUIFS",
+    "EZRGDQ"
+   ],
+   "optionsHi": [
+    "EZSGDP",
+    "EZSGDQ",
+    "GBUIFS",
+    "EZRGDQ"
+   ],
+   "correctIndex": 1,
+   "explanation": "Each letter is moved one place back: F->E, A->Z, T->S, H->G, E->D, R->Q, giving EZSGDQ. GBUIFS moves each letter forward.",
+   "explanationHi": "प्रत्येक अक्षर एक स्थान पीछे है: F->E, A->Z, T->S, H->G, E->D, R->Q, इसलिए EZSGDQ। GBUIFS में अक्षर आगे बढ़ाए गए हैं।"
+  },
+  {
+   "id": "t13-mental-03",
+   "part": "C",
+   "section": "mental",
+   "topic": "Ranking",
+   "question": "In a row of 40 students, Ravi is 12th from the left end and Sunil is 15th from the right end. How many students are between them?",
+   "questionHi": "40 विद्यार्थियों की एक पंक्ति में रवि बाएँ सिरे से 12वाँ और सुनील दाएँ सिरे से 15वाँ है। उन दोनों के बीच कितने विद्यार्थी हैं?",
+   "options": [
+    "11",
+    "12",
+    "14",
+    "13"
+   ],
+   "optionsHi": [
+    "11",
+    "12",
+    "14",
+    "13"
+   ],
+   "correctIndex": 3,
+   "explanation": "Sunil is 40 - 15 + 1 = 26th from the left. Students between = 26 - 12 - 1 = 13.",
+   "explanationHi": "सुनील बाएँ से 40 - 15 + 1 = 26वाँ है। उनके बीच विद्यार्थी = 26 - 12 - 1 = 13।"
+  },
+  {
+   "id": "t13-mental-04",
+   "part": "C",
+   "section": "mental",
+   "topic": "Syllogism",
+   "question": "Statements: All pens are books. Some books are cups. No cup is a table. Conclusions: I. Some books are not tables. II. No pen is a table. Which follows?",
+   "questionHi": "कथन: सभी पेन किताबें हैं। कुछ किताबें कप हैं। कोई कप मेज़ नहीं है। निष्कर्ष: I. कुछ किताबें मेज़ नहीं हैं। II. कोई पेन मेज़ नहीं है। कौन-सा निष्कर्ष अनुसरण करता है?",
+   "options": [
+    "Only I follows",
+    "Only II follows",
+    "Both I and II follow",
+    "Neither I nor II follows"
+   ],
+   "optionsHi": [
+    "केवल I",
+    "केवल II",
+    "I और II दोनों",
+    "न I और न II"
+   ],
+   "correctIndex": 0,
+   "explanation": "'Some books are cups' and 'No cup is a table' give 'Some books are not tables' (I follows). Nothing links pens to cups or tables, so II is not certain.",
+   "explanationHi": "'कुछ किताबें कप हैं' और 'कोई कप मेज़ नहीं' से 'कुछ किताबें मेज़ नहीं हैं' निकलता है (I सही)। पेन का संबंध कप या मेज़ से नहीं जुड़ता, इसलिए II निश्चित नहीं।"
+  },
+  {
+   "id": "t13-mental-05",
+   "part": "C",
+   "section": "mental",
+   "topic": "Direction sense",
+   "question": "A man walks 12 m north, turns right and walks 9 m. How far is he from the starting point?",
+   "questionHi": "एक व्यक्ति 12 मीटर उत्तर चलता है, फिर दाएँ मुड़कर 9 मीटर चलता है। वह प्रारंभिक बिंदु से कितनी दूरी पर है?",
+   "options": [
+    "13 m",
+    "15 m",
+    "17 m",
+    "21 m"
+   ],
+   "optionsHi": [
+    "13 मी.",
+    "15 मी.",
+    "17 मी.",
+    "21 मी."
+   ],
+   "correctIndex": 1,
+   "explanation": "The path forms a right angle, so distance = sqrt(12^2 + 9^2) = sqrt(225) = 15 m.",
+   "explanationHi": "मार्ग समकोण बनाता है, अतः दूरी = sqrt(12^2 + 9^2) = sqrt(225) = 15 मी."
+  },
+  {
+   "id": "t13-computer-01",
+   "part": "C",
+   "section": "computer",
+   "topic": "MS Excel",
+   "question": "In MS Excel, a cell reference such as $A$1 is called a(n) ___ reference.",
+   "questionHi": "MS Excel में $A$1 जैसा सेल संदर्भ ___ संदर्भ कहलाता है।",
+   "options": [
+    "relative",
+    "mixed",
+    "3-D",
+    "absolute"
+   ],
+   "optionsHi": [
+    "सापेक्ष (relative)",
+    "मिश्रित (mixed)",
+    "3-D",
+    "निरपेक्ष (absolute)"
+   ],
+   "correctIndex": 3,
+   "explanation": "The dollar signs fix both column and row, so the reference does not change when copied. Relative changes on copying; mixed fixes only one of row/column.",
+   "explanationHi": "डॉलर चिह्न स्तंभ और पंक्ति दोनों को स्थिर कर देते हैं, इसलिए कॉपी करने पर संदर्भ नहीं बदलता। सापेक्ष संदर्भ बदलता है और मिश्रित में केवल एक स्थिर होता है।"
+  },
+  {
+   "id": "t13-computer-02",
+   "part": "C",
+   "section": "computer",
+   "topic": "Excel functions",
+   "question": "If cell A1 contains the text 'EDUCATION', what will =MID(A1,3,4) return?",
+   "questionHi": "यदि सेल A1 में पाठ 'EDUCATION' है, तो =MID(A1,3,4) क्या लौटाएगा?",
+   "options": [
+    "UCAT",
+    "EDUC",
+    "DUCA",
+    "CATI"
+   ],
+   "optionsHi": [
+    "UCAT",
+    "EDUC",
+    "DUCA",
+    "CATI"
+   ],
+   "correctIndex": 0,
+   "explanation": "MID(text, start, count) starts at character 3 (U) and takes 4 characters: U-C-A-T, giving 'UCAT'. 'EDUC' would be LEFT(A1,4), and the others start at the wrong position.",
+   "explanationHi": "MID(text, start, count) तीसरे अक्षर (U) से शुरू होकर 4 अक्षर लेता है: U-C-A-T, यानी 'UCAT'। 'EDUC' LEFT(A1,4) से मिलता, बाकी गलत स्थान से शुरू होते हैं।"
+  },
+  {
+   "id": "t13-computer-03",
+   "part": "C",
+   "section": "computer",
+   "topic": "Networking",
+   "question": "Which protocol automatically assigns IP addresses to devices on a network?",
+   "questionHi": "कौन-सा प्रोटोकॉल नेटवर्क के उपकरणों को IP पते अपने-आप देता है?",
+   "options": [
+    "DNS",
+    "FTP",
+    "SMTP",
+    "DHCP"
+   ],
+   "optionsHi": [
+    "DNS",
+    "FTP",
+    "SMTP",
+    "DHCP"
+   ],
+   "correctIndex": 3,
+   "explanation": "DHCP (Dynamic Host Configuration Protocol) leases IP addresses to devices automatically. DNS resolves names to addresses, FTP transfers files and SMTP sends email.",
+   "explanationHi": "DHCP (Dynamic Host Configuration Protocol) उपकरणों को स्वचालित रूप से IP पते देता है। DNS नामों को पतों में बदलता है, FTP फ़ाइलें भेजता है और SMTP ईमेल भेजता है।"
+  },
+  {
+   "id": "t13-computer-04",
+   "part": "C",
+   "section": "computer",
+   "topic": "Malware",
+   "question": "A self-replicating malicious program that spreads across networks without attaching to a host file is called a ___.",
+   "questionHi": "जो दुर्भावनापूर्ण प्रोग्राम किसी होस्ट फ़ाइल से जुड़े बिना खुद की प्रतियाँ बनाकर नेटवर्क में फैलता है, उसे ___ कहते हैं।",
+   "options": [
+    "Trojan horse",
+    "worm",
+    "spyware",
+    "adware"
+   ],
+   "optionsHi": [
+    "ट्रोजन हॉर्स",
+    "वर्म (worm)",
+    "स्पाईवेयर",
+    "एडवेयर"
+   ],
+   "correctIndex": 1,
+   "explanation": "A worm replicates itself and spreads on its own through networks. A Trojan disguises itself as useful software, spyware secretly gathers information, and adware displays ads.",
+   "explanationHi": "वर्म स्वयं की प्रतियाँ बनाकर नेटवर्क से अपने-आप फैलता है। ट्रोजन उपयोगी सॉफ़्टवेयर का वेश धारण करता है, स्पाईवेयर चुपचाप जानकारी जुटाता है और एडवेयर विज्ञापन दिखाता है।"
+  },
+  {
+   "id": "t13-computer-05",
+   "part": "C",
+   "section": "computer",
+   "topic": "Cloud computing",
+   "question": "Using Google Docs through a web browser is an example of which cloud service model?",
+   "questionHi": "वेब ब्राउज़र में Google Docs का उपयोग किस क्लाउड सेवा मॉडल का उदाहरण है?",
+   "options": [
+    "IaaS",
+    "PaaS",
+    "SaaS",
+    "Private cloud"
+   ],
+   "optionsHi": [
+    "IaaS",
+    "PaaS",
+    "SaaS",
+    "निजी क्लाउड"
+   ],
+   "correctIndex": 2,
+   "explanation": "Software as a Service delivers ready-to-use applications over the internet. IaaS gives infrastructure and PaaS a development platform; 'private cloud' is a deployment type, not a service model.",
+   "explanationHi": "SaaS में तैयार एप्लिकेशन इंटरनेट पर मिलते हैं। IaaS अवसंरचना और PaaS विकास-मंच देता है; 'निजी क्लाउड' तैनाती का प्रकार है, सेवा मॉडल नहीं।"
+  },
+  {
+   "id": "t13-gk-01",
+   "part": "C",
+   "section": "gk",
+   "topic": "Constitution",
+   "question": "The Eleventh Schedule of the Indian Constitution, added by the 73rd Amendment, lists subjects for ___.",
+   "questionHi": "भारतीय संविधान की ग्यारहवीं अनुसूची, जो 73वें संशोधन से जोड़ी गई, ___ के विषयों की सूची देती है।",
+   "options": [
+    "Panchayats",
+    "Municipalities",
+    "Union Territories",
+    "Language recognition"
+   ],
+   "optionsHi": [
+    "पंचायतें",
+    "नगरपालिकाएँ",
+    "केंद्र शासित प्रदेश",
+    "भाषाओं की मान्यता"
+   ],
+   "correctIndex": 0,
+   "explanation": "The 73rd Amendment (1992) added Part IX and the Eleventh Schedule with 29 subjects for Panchayats. Municipalities are covered by the Twelfth Schedule (74th Amendment), and languages by the Eighth Schedule.",
+   "explanationHi": "73वें संशोधन (1992) ने भाग IX और ग्यारहवीं अनुसूची जोड़ी, जिसमें पंचायतों के 29 विषय हैं। नगरपालिकाएँ बारहवीं अनुसूची (74वाँ संशोधन) और भाषाएँ आठवीं अनुसूची में हैं।"
+  },
+  {
+   "id": "t13-gk-02",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian history",
+   "question": "The Poona Pact of 1932 was signed between ___.",
+   "questionHi": "1932 का पूना समझौता किनके बीच हुआ था?",
+   "options": [
+    "Gandhi and Jinnah",
+    "Gandhi and Ambedkar",
+    "Nehru and Patel",
+    "Tilak and Gokhale"
+   ],
+   "optionsHi": [
+    "गांधी और जिन्ना",
+    "गांधी और अंबेडकर",
+    "नेहरू और पटेल",
+    "तिलक और गोखले"
+   ],
+   "correctIndex": 1,
+   "explanation": "The Poona Pact settled the issue of separate electorates for the Depressed Classes, replacing them with reserved seats, between Gandhi and B. R. Ambedkar. The other pairs were not parties to it.",
+   "explanationHi": "पूना समझौता गांधी और बी. आर. अंबेडकर के बीच हुआ, जिसमें दलित वर्गों के पृथक निर्वाचन की जगह आरक्षित सीटें तय हुईं। अन्य जोड़े इसके पक्षकार नहीं थे।"
+  },
+  {
+   "id": "t13-gk-03",
+   "part": "C",
+   "section": "gk",
+   "topic": "Chhattisgarh",
+   "question": "The Bhoramdeo temple, known as the 'Khajuraho of Chhattisgarh', was built by the ___ dynasty.",
+   "questionHi": "'छत्तीसगढ़ का खजुराहो' कहलाने वाला भोरमदेव मंदिर ___ वंश ने बनवाया था।",
+   "options": [
+    "Kalchuri",
+    "Kakatiya",
+    "Nagvanshi",
+    "Haihaya"
+   ],
+   "optionsHi": [
+    "कलचुरि",
+    "काकतीय",
+    "नागवंशी",
+    "हैहय"
+   ],
+   "correctIndex": 2,
+   "explanation": "Bhoramdeo temple (Kabirdham district) was built around the 11th century by Nagvanshi king Gopaldeva. Kalchuris, Kakatiyas and Haihayas ruled other phases or regions.",
+   "explanationHi": "भोरमदेव मंदिर (कबीरधाम जिला) लगभग 11वीं सदी में नागवंशी राजा गोपालदेव ने बनवाया। कलचुरि, काकतीय और हैहय अन्य काल या क्षेत्रों के शासक थे।"
+  },
+  {
+   "id": "t13-gk-04",
+   "part": "C",
+   "section": "gk",
+   "topic": "Science",
+   "question": "The working principle of an optical fibre is ___.",
+   "questionHi": "ऑप्टिकल फ़ाइबर का कार्य-सिद्धांत ___ है।",
+   "options": [
+    "refraction only",
+    "diffraction",
+    "interference",
+    "total internal reflection"
+   ],
+   "optionsHi": [
+    "केवल अपवर्तन",
+    "विवर्तन",
+    "व्यतिकरण",
+    "पूर्ण आंतरिक परावर्तन"
+   ],
+   "correctIndex": 3,
+   "explanation": "Light entering the core hits the core-cladding boundary beyond the critical angle and is totally internally reflected again and again along the fibre. The other phenomena do not guide light this way.",
+   "explanationHi": "कोर में गया प्रकाश कोर-क्लैडिंग सतह पर क्रांतिक कोण से अधिक कोण पर टकराकर बार-बार पूर्ण आंतरिक परावर्तित होता है। अन्य घटनाएँ प्रकाश को इस प्रकार नहीं ले जातीं।"
+  },
+  {
+   "id": "t13-gk-05",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian economy",
+   "question": "The rate at which the RBI borrows money from commercial banks for the short term is called the ___.",
+   "questionHi": "जिस दर पर RBI वाणिज्यिक बैंकों से अल्पकाल के लिए धन उधार लेता है, उसे ___ कहते हैं।",
+   "options": [
+    "reverse repo rate",
+    "repo rate",
+    "bank rate",
+    "cash reserve ratio"
+   ],
+   "optionsHi": [
+    "रिवर्स रेपो दर",
+    "रेपो दर",
+    "बैंक दर",
+    "नकद आरक्षित अनुपात"
+   ],
+   "correctIndex": 0,
+   "explanation": "Reverse repo is the rate at which banks park surplus funds with the RBI, i.e. the RBI borrows. Repo is the rate at which the RBI lends; bank rate is its long-term lending rate; CRR is a reserve requirement, not a rate of borrowing.",
+   "explanationHi": "रिवर्स रेपो वह दर है जिस पर बैंक अधिशेष धन RBI के पास रखते हैं, यानी RBI उधार लेता है। रेपो पर RBI उधार देता है; बैंक दर दीर्घकालिक ऋण दर है; CRR आरक्षित अनुपात है।"
+  }
+ ]
+}

@@ -124,6 +124,7 @@ function buildOne(nn) {
       id: `test-${nn}`,
       number: Number(nn),
       title: `Test Series ${Number(nn)}`,
+      level: Number(nn) > 10 ? 'advanced' : 'standard',
       totalQuestions: 100,
       totalMarks: 100,
       durationMinutes: 120,
@@ -135,7 +136,7 @@ function buildOne(nn) {
 }
 
 const arg = process.argv[2]
-const numbers = arg ? [arg.padStart(2, '0')] : Array.from({ length: 10 }, (_, i) => String(i + 1).padStart(2, '0'))
+const numbers = arg ? [arg.padStart(2, '0')] : Array.from({ length: 20 }, (_, i) => String(i + 1).padStart(2, '0'))
 fs.mkdirSync(outDir, { recursive: true })
 let failed = 0
 const built = []
@@ -156,7 +157,7 @@ for (const nn of numbers) {
 const files = fs.readdirSync(outDir).filter((f) => /^test-\d\d\.json$/.test(f)).sort()
 const index = files.map((f) => {
   const t = JSON.parse(fs.readFileSync(path.join(outDir, f), 'utf8'))
-  return { id: t.id, number: t.number, title: t.title, totalQuestions: t.totalQuestions, totalMarks: t.totalMarks, durationMinutes: t.durationMinutes }
+  return { id: t.id, number: t.number, title: t.title, level: t.level ?? 'standard', totalQuestions: t.totalQuestions, totalMarks: t.totalMarks, durationMinutes: t.durationMinutes }
 })
 fs.writeFileSync(path.join(outDir, 'index.json'), JSON.stringify({ tests: index }, null, 2))
 

@@ -1,0 +1,499 @@
+{
+ "questions": [
+  {
+   "id": "t15-hindi-01",
+   "part": "C",
+   "section": "hindi",
+   "topic": "संधि-विच्छेद",
+   "question": "'दिग्गज' का सही संधि-विच्छेद क्या है?",
+   "options": [
+    "दिग् + गज",
+    "दिक + गज",
+    "दिक् + गज",
+    "दीग + गज"
+   ],
+   "correctIndex": 2,
+   "explanation": "'दिक् + गज' में व्यंजन संधि है: क् के बाद घोष व्यंजन 'ग' आने पर क् का ग् हो जाता है, इसलिए दिग्गज बनता है। अन्य विकल्पों के रूप शुद्ध नहीं हैं।"
+  },
+  {
+   "id": "t15-hindi-02",
+   "part": "C",
+   "section": "hindi",
+   "topic": "समास",
+   "question": "'शिव' के अर्थ में 'नीलकंठ' शब्द में कौन-सा समास है?",
+   "options": [
+    "बहुव्रीहि",
+    "कर्मधारय",
+    "तत्पुरुष",
+    "द्वंद्व"
+   ],
+   "correctIndex": 0,
+   "explanation": "'नीला है कंठ जिसका' अर्थात् शिव, यहाँ दोनों पद किसी तीसरे (शिव) की ओर संकेत करते हैं, इसलिए बहुव्रीहि समास है। केवल 'नीला कंठ' अर्थ में कर्मधारय होता।"
+  },
+  {
+   "id": "t15-hindi-03",
+   "part": "C",
+   "section": "hindi",
+   "topic": "लोकोक्ति",
+   "question": "'ऊँट के मुँह में जीरा' लोकोक्ति का अर्थ है:",
+   "options": [
+    "बहुत अधिक लालच करना",
+    "असंभव कार्य करना",
+    "अपनी हानि स्वयं करना",
+    "आवश्यकता से बहुत कम मात्रा"
+   ],
+   "correctIndex": 3,
+   "explanation": "'ऊँट के मुँह में जीरा' का अर्थ है आवश्यकता की तुलना में बहुत कम वस्तु मिलना। अन्य विकल्प इस लोकोक्ति के अर्थ नहीं हैं।"
+  },
+  {
+   "id": "t15-hindi-04",
+   "part": "C",
+   "section": "hindi",
+   "topic": "वाक्य-शुद्धि",
+   "question": "निम्नलिखित में से कौन-सा वाक्य शुद्ध है?",
+   "options": [
+    "यह कार्य मेरे से नहीं हो पाएगा।",
+    "यह कार्य मुझसे नहीं हो पाएगा।",
+    "यह कार्य मैंने नहीं हो पाएगा।",
+    "यह कार्य मुझको से नहीं हो पाएगा।"
+   ],
+   "correctIndex": 1,
+   "explanation": "'मुझसे' (करण कारक) सही रूप है; 'मेरे से' बोलचाल का अशुद्ध प्रयोग है। 'मैंने' कर्ता का चिह्न है और यहाँ अनुपयुक्त है, तथा 'मुझको से' में दो कारक-चिह्न एक साथ लग गए हैं।"
+  },
+  {
+   "id": "t15-hindi-05",
+   "part": "C",
+   "section": "hindi",
+   "topic": "श्रुतिसम भिन्नार्थक शब्द",
+   "question": "'अनल' शब्द का अर्थ क्या है?",
+   "options": [
+    "वायु",
+    "जल",
+    "आग",
+    "आकाश"
+   ],
+   "correctIndex": 2,
+   "explanation": "'अनल' का अर्थ अग्नि/आग है, जबकि श्रुतिसम शब्द 'अनिल' का अर्थ वायु होता है। जल और आकाश अन्य शब्दों के अर्थ हैं।"
+  },
+  {
+   "id": "t15-english-01",
+   "part": "C",
+   "section": "english",
+   "topic": "One-word substitution",
+   "question": "Government by the wealthy is called ___.",
+   "options": [
+    "plutocracy",
+    "oligarchy",
+    "aristocracy",
+    "theocracy"
+   ],
+   "correctIndex": 0,
+   "explanation": "'Plutocracy' (Greek ploutos = wealth) is rule by the rich. 'Oligarchy' is rule by a few, 'aristocracy' by the nobility, 'theocracy' by religious leaders."
+  },
+  {
+   "id": "t15-english-02",
+   "part": "C",
+   "section": "english",
+   "topic": "Prepositions",
+   "question": "The manager prefers punctuality ___ talent.",
+   "options": [
+    "than",
+    "over than",
+    "from",
+    "to"
+   ],
+   "correctIndex": 3,
+   "explanation": "'Prefer' is followed by 'to' (not 'than') when comparing two nouns or gerunds: 'prefers punctuality to talent'."
+  },
+  {
+   "id": "t15-english-03",
+   "part": "C",
+   "section": "english",
+   "topic": "Spot the error",
+   "question": "Find the part with an error: 'No sooner had he sat down (A) / when the bell rang (B) / for the final period (C) / No error (D)'.",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "correctIndex": 1,
+   "explanation": "'No sooner' is followed by 'than', not 'when'. So part B is wrong: 'than the bell rang'."
+  },
+  {
+   "id": "t15-english-04",
+   "part": "C",
+   "section": "english",
+   "topic": "Idioms",
+   "question": "'A white elephant' means ___.",
+   "options": [
+    "a very rare and beautiful animal",
+    "a sign of good luck",
+    "a costly possession that is of little use",
+    "a person with great strength"
+   ],
+   "correctIndex": 2,
+   "explanation": "'White elephant' is something expensive to maintain but of little value. The other options are literal or unrelated."
+  },
+  {
+   "id": "t15-english-05",
+   "part": "C",
+   "section": "english",
+   "topic": "Active and passive",
+   "question": "Change into passive voice: 'Who wrote this letter?'",
+   "options": [
+    "By whom this letter was written?",
+    "By whom was this letter written?",
+    "Whom was this letter written by?",
+    "By who was this letter written?"
+   ],
+   "correctIndex": 1,
+   "explanation": "The passive of 'Who wrote this letter?' is 'By whom was this letter written?': the agent becomes 'by whom' and the question order is kept. The others have wrong word order or use 'who/whom' incorrectly."
+  },
+  {
+   "id": "t15-mental-01",
+   "part": "C",
+   "section": "mental",
+   "topic": "Mixed series",
+   "question": "Find the next term: 3, 6, 4, 8, 6, 12, ?",
+   "questionHi": "अगला पद ज्ञात कीजिए: 3, 6, 4, 8, 6, 12, ?",
+   "options": [
+    "24",
+    "10",
+    "14",
+    "8"
+   ],
+   "optionsHi": [
+    "24",
+    "10",
+    "14",
+    "8"
+   ],
+   "correctIndex": 1,
+   "explanation": "Two patterns alternate: ×2 and -2. 3×2=6, 6-2=4, 4×2=8, 8-2=6, 6×2=12, so the next is 12-2=10.",
+   "explanationHi": "दो पैटर्न बारी-बारी से चलते हैं: ×2 और -2। 3×2=6, 6-2=4, 4×2=8, 8-2=6, 6×2=12, अतः अगला पद 12-2=10 होगा।"
+  },
+  {
+   "id": "t15-mental-02",
+   "part": "C",
+   "section": "mental",
+   "topic": "Blood relations",
+   "question": "Pointing to a man, Meena says, 'He is the son of the only son of my paternal grandfather.' How is the man related to Meena?",
+   "questionHi": "एक पुरुष की ओर इशारा करके मीना कहती है, 'वह मेरे दादाजी के इकलौते पुत्र का पुत्र है।' वह पुरुष मीना का क्या लगता है?",
+   "options": [
+    "Cousin",
+    "Uncle",
+    "Father",
+    "Brother"
+   ],
+   "optionsHi": [
+    "चचेरा भाई",
+    "चाचा",
+    "पिता",
+    "भाई"
+   ],
+   "correctIndex": 3,
+   "explanation": "The only son of Meena's paternal grandfather is her father. The man is her father's son, i.e. her brother.",
+   "explanationHi": "मीना के दादाजी का इकलौता पुत्र उसके पिता हैं। वह पुरुष उसके पिता का पुत्र है, अर्थात् मीना का भाई।"
+  },
+  {
+   "id": "t15-mental-03",
+   "part": "C",
+   "section": "mental",
+   "topic": "Direction and distance",
+   "question": "A man walks 14 km north, then 9 km west, then 2 km south. How far is he from the starting point?",
+   "questionHi": "एक व्यक्ति 14 किमी उत्तर, फिर 9 किमी पश्चिम, फिर 2 किमी दक्षिण चलता है। वह प्रारंभिक बिंदु से कितनी दूर है?",
+   "options": [
+    "15 km",
+    "16 km",
+    "12 km",
+    "13 km"
+   ],
+   "optionsHi": [
+    "15 किमी",
+    "16 किमी",
+    "12 किमी",
+    "13 किमी"
+   ],
+   "correctIndex": 0,
+   "explanation": "Net northward distance = 14 - 2 = 12 km; westward = 9 km. Distance = sqrt(12² + 9²) = sqrt(225) = 15 km.",
+   "explanationHi": "उत्तर दिशा में शुद्ध दूरी = 14 - 2 = 12 किमी; पश्चिम में 9 किमी। दूरी = √(12² + 9²) = √225 = 15 किमी।"
+  },
+  {
+   "id": "t15-mental-04",
+   "part": "C",
+   "section": "mental",
+   "topic": "Syllogism",
+   "question": "Statements: Some pens are books. All books are tables. Conclusions: I. Some pens are tables. II. Some tables are pens. III. All pens are tables. Which follows?",
+   "questionHi": "कथन: कुछ पेन किताबें हैं। सभी किताबें मेज़ें हैं। निष्कर्ष: I. कुछ पेन मेज़ें हैं। II. कुछ मेज़ें पेन हैं। III. सभी पेन मेज़ें हैं। कौन-सा निष्कर्ष अनुसरण करता है?",
+   "options": [
+    "Only I follows",
+    "Only II and III follow",
+    "Only I and II follow",
+    "All follow"
+   ],
+   "optionsHi": [
+    "केवल I",
+    "केवल II और III",
+    "केवल I और II",
+    "सभी"
+   ],
+   "correctIndex": 2,
+   "explanation": "The pens that are books are also tables, so some pens are tables (I) and its converse some tables are pens (II) follow. III does not follow because only some pens are books.",
+   "explanationHi": "जो पेन किताबें हैं वे मेज़ें भी हैं, इसलिए कुछ पेन मेज़ें हैं (I) और उसका उलटा कुछ मेज़ें पेन हैं (II) सही हैं। III सही नहीं है क्योंकि केवल कुछ पेन ही किताबें हैं।"
+  },
+  {
+   "id": "t15-mental-05",
+   "part": "C",
+   "section": "mental",
+   "topic": "Clock angle",
+   "question": "What is the angle between the hour hand and the minute hand of a clock at 3:40?",
+   "questionHi": "घड़ी में 3:40 बजे घंटे की सुई और मिनट की सुई के बीच कितना कोण होता है?",
+   "options": [
+    "150°",
+    "130°",
+    "120°",
+    "140°"
+   ],
+   "optionsHi": [
+    "150°",
+    "130°",
+    "120°",
+    "140°"
+   ],
+   "correctIndex": 1,
+   "explanation": "Hour hand = 3×30 + 40×0.5 = 110°; minute hand = 40×6 = 240°. Difference = 130°.",
+   "explanationHi": "घंटे की सुई = 3×30 + 40×0.5 = 110°; मिनट की सुई = 40×6 = 240°। अंतर = 130°।"
+  },
+  {
+   "id": "t15-computer-01",
+   "part": "C",
+   "section": "computer",
+   "topic": "Excel functions",
+   "question": "What does the formula =COUNTIF(A1:A10,\">50\") return?",
+   "questionHi": "सूत्र =COUNTIF(A1:A10,\">50\") क्या परिणाम देता है?",
+   "options": [
+    "The sum of the values greater than 50",
+    "The largest value in A1:A10",
+    "The number of cells in A1:A10 whose value is greater than 50",
+    "The number of cells that contain text"
+   ],
+   "optionsHi": [
+    "50 से अधिक मानों का योग",
+    "A1:A10 का सबसे बड़ा मान",
+    "A1:A10 में उन सेलों की संख्या जिनका मान 50 से अधिक है",
+    "उन सेलों की संख्या जिनमें text है"
+   ],
+   "correctIndex": 2,
+   "explanation": "COUNTIF counts the cells that satisfy the given condition. Summing is done by SUMIF, the largest value by MAX.",
+   "explanationHi": "COUNTIF दी गई शर्त पूरी करने वाले सेलों की गिनती करता है। योग के लिए SUMIF और सबसे बड़े मान के लिए MAX प्रयुक्त होता है।"
+  },
+  {
+   "id": "t15-computer-02",
+   "part": "C",
+   "section": "computer",
+   "topic": "Number systems",
+   "question": "What is the result of the binary addition 1101 + 0111?",
+   "questionHi": "द्विआधारी (binary) जोड़ 1101 + 0111 का परिणाम क्या है?",
+   "options": [
+    "10100",
+    "10010",
+    "10110",
+    "11100"
+   ],
+   "optionsHi": [
+    "10100",
+    "10010",
+    "10110",
+    "11100"
+   ],
+   "correctIndex": 0,
+   "explanation": "1101 (13) + 0111 (7) = 20, and 20 in binary is 10100.",
+   "explanationHi": "1101 (13) + 0111 (7) = 20, और 20 का binary रूप 10100 है।"
+  },
+  {
+   "id": "t15-computer-03",
+   "part": "C",
+   "section": "computer",
+   "topic": "Email protocols",
+   "question": "Which protocol is mainly used to SEND outgoing e-mail from a client to a mail server and between mail servers?",
+   "questionHi": "कौन-सा प्रोटोकॉल मुख्यतः client से mail server तक और mail servers के बीच जाने वाले e-mail को भेजने (SEND) के लिए प्रयुक्त होता है?",
+   "options": [
+    "POP3",
+    "IMAP",
+    "FTP",
+    "SMTP"
+   ],
+   "optionsHi": [
+    "POP3",
+    "IMAP",
+    "FTP",
+    "SMTP"
+   ],
+   "correctIndex": 3,
+   "explanation": "SMTP (Simple Mail Transfer Protocol) sends mail. POP3 and IMAP are used to retrieve mail from the server, and FTP transfers files.",
+   "explanationHi": "SMTP (Simple Mail Transfer Protocol) मेल भेजता है। POP3 और IMAP सर्वर से मेल प्राप्त करने के लिए प्रयुक्त होते हैं और FTP फ़ाइलें स्थानांतरित करता है।"
+  },
+  {
+   "id": "t15-computer-04",
+   "part": "C",
+   "section": "computer",
+   "topic": "Malware",
+   "question": "A malicious program that disguises itself as useful or legitimate software is called a ___.",
+   "questionHi": "जो हानिकारक प्रोग्राम स्वयं को उपयोगी या वैध सॉफ्टवेयर के रूप में छिपाता है, उसे ___ कहते हैं।",
+   "options": [
+    "Worm",
+    "Trojan horse",
+    "Spyware",
+    "Adware"
+   ],
+   "optionsHi": [
+    "Worm",
+    "Trojan horse",
+    "Spyware",
+    "Adware"
+   ],
+   "correctIndex": 1,
+   "explanation": "A Trojan horse tricks users into installing it by appearing legitimate. A worm self-replicates over networks, spyware secretly collects information, and adware displays unwanted ads.",
+   "explanationHi": "Trojan horse वैध दिखकर उपयोगकर्ता से स्वयं को install करवाता है। Worm नेटवर्क पर स्वयं की प्रतियाँ बनाता है, spyware गुप्त रूप से जानकारी एकत्र करता है और adware अवांछित विज्ञापन दिखाता है।"
+  },
+  {
+   "id": "t15-computer-05",
+   "part": "C",
+   "section": "computer",
+   "topic": "Cloud models",
+   "question": "A provider rents virtual servers, storage and networking, and the customer installs and manages its own operating system. This is the ___ cloud model.",
+   "questionHi": "एक प्रदाता virtual server, storage और networking किराये पर देता है और ग्राहक अपना operating system स्वयं install व प्रबंधित करता है। यह ___ क्लाउड मॉडल है।",
+   "options": [
+    "SaaS",
+    "PaaS",
+    "IaaS",
+    "DaaS"
+   ],
+   "optionsHi": [
+    "SaaS",
+    "PaaS",
+    "IaaS",
+    "DaaS"
+   ],
+   "correctIndex": 2,
+   "explanation": "Infrastructure as a Service gives raw computing resources. SaaS delivers ready-made software (e.g. webmail), and PaaS provides a platform for developing applications.",
+   "explanationHi": "Infrastructure as a Service मूल कंप्यूटिंग संसाधन देता है। SaaS तैयार सॉफ्टवेयर (जैसे वेबमेल) देता है और PaaS एप्लिकेशन विकसित करने का प्लेटफ़ॉर्म देता है।"
+  },
+  {
+   "id": "t15-gk-01",
+   "part": "C",
+   "section": "gk",
+   "topic": "Constitution",
+   "question": "Which Constitutional Amendment inserted Article 21A, making education a Fundamental Right for children aged 6-14 years?",
+   "questionHi": "किस संविधान संशोधन द्वारा अनुच्छेद 21A जोड़ा गया, जिससे 6-14 वर्ष के बच्चों की शिक्षा मौलिक अधिकार बनी?",
+   "options": [
+    "42nd Amendment",
+    "44th Amendment",
+    "73rd Amendment",
+    "86th Amendment"
+   ],
+   "optionsHi": [
+    "42वाँ संशोधन",
+    "44वाँ संशोधन",
+    "73वाँ संशोधन",
+    "86वाँ संशोधन"
+   ],
+   "correctIndex": 3,
+   "explanation": "The 86th Amendment Act, 2002 inserted Article 21A (free and compulsory education), which led to the RTE Act 2009. The 42nd added Fundamental Duties, the 44th dealt with the right to property, and the 73rd concerned Panchayati Raj.",
+   "explanationHi": "86वें संशोधन अधिनियम 2002 ने अनुच्छेद 21A (निःशुल्क एवं अनिवार्य शिक्षा) जोड़ा, जिसके बाद RTE अधिनियम 2009 बना। 42वें ने मौलिक कर्तव्य जोड़े, 44वें ने संपत्ति के अधिकार से संबंध रखा और 73वाँ पंचायती राज से संबंधित है।"
+  },
+  {
+   "id": "t15-gk-02",
+   "part": "C",
+   "section": "gk",
+   "topic": "Modern history",
+   "question": "Which event of 1922 led Mahatma Gandhi to withdraw the Non-Cooperation Movement?",
+   "questionHi": "1922 की किस घटना के कारण महात्मा गांधी ने असहयोग आंदोलन वापस ले लिया?",
+   "options": [
+    "Jallianwala Bagh massacre",
+    "Chauri Chaura incident",
+    "Kakori conspiracy",
+    "Simon Commission boycott"
+   ],
+   "optionsHi": [
+    "जलियाँवाला बाग हत्याकांड",
+    "चौरी-चौरा कांड",
+    "काकोरी षड्यंत्र",
+    "साइमन कमीशन का बहिष्कार"
+   ],
+   "correctIndex": 1,
+   "explanation": "A mob set fire to a police station at Chauri Chaura (Feb 1922) killing policemen, and Gandhi suspended the movement. Jallianwala Bagh was in 1919, Kakori in 1925, and the Simon Commission came in 1927-28.",
+   "explanationHi": "फरवरी 1922 में चौरी-चौरा में भीड़ ने थाने में आग लगा दी जिससे पुलिसकर्मी मारे गए और गांधीजी ने आंदोलन स्थगित कर दिया। जलियाँवाला बाग 1919, काकोरी 1925 और साइमन कमीशन 1927-28 की घटनाएँ हैं।"
+  },
+  {
+   "id": "t15-gk-03",
+   "part": "C",
+   "section": "gk",
+   "topic": "General science",
+   "question": "Deficiency of which vitamin causes the disease pellagra?",
+   "questionHi": "किस विटामिन की कमी से पेलाग्रा रोग होता है?",
+   "options": [
+    "Niacin (Vitamin B3)",
+    "Thiamine (Vitamin B1)",
+    "Vitamin C",
+    "Vitamin D"
+   ],
+   "optionsHi": [
+    "नियासिन (विटामिन B3)",
+    "थायमिन (विटामिन B1)",
+    "विटामिन C",
+    "विटामिन D"
+   ],
+   "correctIndex": 0,
+   "explanation": "Pellagra results from niacin (B3) deficiency. Deficiency of B1 causes beriberi, of vitamin C scurvy, and of vitamin D rickets.",
+   "explanationHi": "पेलाग्रा नियासिन (B3) की कमी से होता है। B1 की कमी से बेरी-बेरी, विटामिन C की कमी से स्कर्वी और विटामिन D की कमी से रिकेट्स होता है।"
+  },
+  {
+   "id": "t15-gk-04",
+   "part": "C",
+   "section": "gk",
+   "topic": "Chhattisgarh GK",
+   "question": "Minimata Bango Dam in Korba district is built on which river?",
+   "questionHi": "कोरबा जिले का मिनीमाता बाँगो बाँध किस नदी पर बना है?",
+   "options": [
+    "Mahanadi",
+    "Kharun",
+    "Hasdeo",
+    "Arpa"
+   ],
+   "optionsHi": [
+    "महानदी",
+    "खारून",
+    "हसदेव",
+    "अरपा"
+   ],
+   "correctIndex": 2,
+   "explanation": "The Minimata (Hasdeo) Bango project is on the Hasdeo river, a tributary of the Mahanadi. The Mahanadi has the Ravishankar Sagar (Gangrel) dam; the Kharun flows by Raipur and the Arpa by Bilaspur.",
+   "explanationHi": "मिनीमाता (हसदेव) बाँगो परियोजना महानदी की सहायक हसदेव नदी पर है। महानदी पर रविशंकर सागर (गंगरेल) बाँध है; खारून रायपुर और अरपा बिलासपुर से होकर बहती है।"
+  },
+  {
+   "id": "t15-gk-05",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian economy",
+   "question": "In monetary policy, the repo rate is the rate at which ___.",
+   "questionHi": "मौद्रिक नीति में रेपो रेट वह दर है जिस पर ___।",
+   "options": [
+    "the RBI lends short-term funds to commercial banks against securities",
+    "commercial banks lend to the public",
+    "the RBI borrows from commercial banks",
+    "the government borrows from the public"
+   ],
+   "optionsHi": [
+    "RBI वाणिज्यिक बैंकों को प्रतिभूतियों के बदले अल्पकालिक धन उधार देता है",
+    "वाणिज्यिक बैंक जनता को ऋण देते हैं",
+    "RBI वाणिज्यिक बैंकों से उधार लेता है",
+    "सरकार जनता से उधार लेती है"
+   ],
+   "correctIndex": 0,
+   "explanation": "Repo rate is the rate charged by the RBI on short-term loans to banks against government securities. The rate at which RBI borrows from banks is the reverse repo rate.",
+   "explanationHi": "रेपो रेट वह दर है जिस पर RBI सरकारी प्रतिभूतियों के बदले बैंकों को अल्पकालिक ऋण देता है। जिस दर पर RBI बैंकों से उधार लेता है वह रिवर्स रेपो रेट है।"
+  }
+ ]
+}

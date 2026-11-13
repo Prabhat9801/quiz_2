@@ -1,0 +1,349 @@
+{
+ "questions": [
+  {
+   "id": "t15-psych-01",
+   "part": "B",
+   "section": "psych",
+   "topic": "Sternberg's triarchic theory",
+   "question": "A student scores low in written tests but handles real-life problems and adapts to new situations very well. Which component of Sternberg's triarchic theory is strong in this student?",
+   "questionHi": "एक विद्यार्थी लिखित परीक्षाओं में कम अंक लाता है, परंतु वास्तविक जीवन की समस्याओं को सुलझाने और नई परिस्थितियों में ढलने में बहुत कुशल है। स्टर्नबर्ग के त्रिआयामी सिद्धांत का कौन-सा घटक इस विद्यार्थी में प्रबल है?",
+   "options": [
+    "Analytical intelligence",
+    "Practical intelligence",
+    "Creative intelligence",
+    "Spatial intelligence"
+   ],
+   "optionsHi": [
+    "विश्लेषणात्मक (analytical) बुद्धि",
+    "व्यावहारिक (practical) बुद्धि",
+    "सृजनात्मक (creative) बुद्धि",
+    "स्थानिक (spatial) बुद्धि"
+   ],
+   "correctIndex": 1,
+   "explanation": "Sternberg's practical (contextual) intelligence is 'street smarts': adapting to and shaping everyday environments. Analytical intelligence is what academic tests mostly measure; creative intelligence deals with novelty; spatial intelligence is Gardner's concept.",
+   "explanationHi": "स्टर्नबर्ग की व्यावहारिक (contextual) बुद्धि 'street smarts' है: रोज़मर्रा के परिवेश में ढलना और उसे अपने अनुकूल बनाना। विश्लेषणात्मक बुद्धि को मुख्यतः शैक्षिक परीक्षाएँ मापती हैं; सृजनात्मक बुद्धि नवीनता से जुड़ी है; स्थानिक बुद्धि गार्डनर की अवधारणा है।"
+  },
+  {
+   "id": "t15-psych-02",
+   "part": "B",
+   "section": "psych",
+   "topic": "Erikson's stages",
+   "question": "A 15-year-old keeps changing her friends, style and career plans, unsure of who she really is. According to Erikson, she is facing the crisis of ___.",
+   "questionHi": "एक 15 वर्षीय लड़की बार-बार अपने मित्र, पहनावा और करियर योजनाएँ बदलती है और उसे अपने बारे में स्पष्टता नहीं है। एरिक्सन के अनुसार वह ___ के संकट से गुजर रही है।",
+   "options": [
+    "industry vs inferiority",
+    "initiative vs guilt",
+    "intimacy vs isolation",
+    "identity vs role confusion"
+   ],
+   "optionsHi": [
+    "उद्यम बनाम हीनता (industry vs inferiority)",
+    "पहल बनाम अपराध-बोध (initiative vs guilt)",
+    "आत्मीयता बनाम अलगाव (intimacy vs isolation)",
+    "पहचान बनाम भूमिका-भ्रम (identity vs role confusion)"
+   ],
+   "correctIndex": 3,
+   "explanation": "Adolescence (about 12-18 years) is Erikson's stage of identity vs role confusion. Industry vs inferiority is 6-12 years; initiative vs guilt 3-6; intimacy vs isolation is young adulthood.",
+   "explanationHi": "किशोरावस्था (लगभग 12-18 वर्ष) एरिक्सन की पहचान बनाम भूमिका-भ्रम की अवस्था है। उद्यम बनाम हीनता 6-12 वर्ष, पहल बनाम अपराध-बोध 3-6 वर्ष और आत्मीयता बनाम अलगाव युवावस्था की अवस्था है।"
+  },
+  {
+   "id": "t15-psych-03",
+   "part": "B",
+   "section": "psych",
+   "topic": "Piaget preoperational stage",
+   "question": "A 5-year-old insists that a tall thin glass holds more water than a short wide glass, even after seeing the same water poured between them. This shows that the child ___.",
+   "questionHi": "एक 5 वर्ष का बच्चा, समान पानी को एक गिलास से दूसरे में डालते देखने के बाद भी, कहता है कि लंबे पतले गिलास में अधिक पानी है। इससे पता चलता है कि बच्चा ___।",
+   "options": [
+    "has not yet acquired conservation, a mark of the preoperational stage",
+    "is in the formal operational stage",
+    "has developed reversible thinking",
+    "is at the sensorimotor stage"
+   ],
+   "optionsHi": [
+    "अभी संरक्षण (conservation) नहीं सीख पाया है, जो पूर्व-संक्रियात्मक अवस्था की पहचान है",
+    "औपचारिक संक्रियात्मक अवस्था में है",
+    "उत्क्रमणीय चिंतन विकसित कर चुका है",
+    "संवेदी-गामक अवस्था में है"
+   ],
+   "correctIndex": 0,
+   "explanation": "Failure to conserve quantity, centring on one dimension (height) is typical of the preoperational stage (about 2-7 years). Concrete operational children conserve; sensorimotor is birth to 2 years.",
+   "explanationHi": "मात्रा के संरक्षण में विफलता और केवल एक आयाम (ऊँचाई) पर ध्यान देना पूर्व-संक्रियात्मक अवस्था (लगभग 2-7 वर्ष) की विशेषता है। मूर्त संक्रियात्मक अवस्था के बच्चे संरक्षण समझते हैं; संवेदी-गामक अवस्था जन्म से 2 वर्ष तक है।"
+  },
+  {
+   "id": "t15-psych-04",
+   "part": "B",
+   "section": "psych",
+   "topic": "Vygotsky vs Piaget",
+   "question": "Which statement correctly distinguishes Vygotsky from Piaget?",
+   "questionHi": "कौन-सा कथन वाइगोत्स्की और पियाजे के बीच सही अंतर बताता है?",
+   "options": [
+    "Vygotsky proposed fixed universal stages, while Piaget rejected stages",
+    "Vygotsky believed language is unimportant, while Piaget made it central",
+    "Vygotsky stressed social interaction and culture, while Piaget stressed the child's individual construction of knowledge",
+    "Both believed learning is purely the result of rewards"
+   ],
+   "optionsHi": [
+    "वाइगोत्स्की ने निश्चित सार्वभौमिक अवस्थाएँ दीं, जबकि पियाजे ने अवस्थाओं को नकारा",
+    "वाइगोत्स्की भाषा को महत्वहीन मानते थे, जबकि पियाजे ने उसे केंद्रीय माना",
+    "वाइगोत्स्की ने सामाजिक अंतःक्रिया और संस्कृति पर बल दिया, जबकि पियाजे ने बच्चे द्वारा स्वयं ज्ञान-निर्माण पर",
+    "दोनों मानते थे कि अधिगम केवल पुरस्कार का परिणाम है"
+   ],
+   "correctIndex": 2,
+   "explanation": "For Vygotsky, cognition develops through social interaction, culture and language (ZPD, scaffolding); Piaget described individual stage-wise construction through assimilation and accommodation. The other options reverse or distort their views.",
+   "explanationHi": "वाइगोत्स्की के अनुसार संज्ञान का विकास सामाजिक अंतःक्रिया, संस्कृति और भाषा (ZPD, scaffolding) से होता है; पियाजे ने आत्मसात्करण और समायोजन द्वारा व्यक्तिगत, अवस्था-वार निर्माण बताया। अन्य विकल्प उनके विचारों को उलट या बिगाड़ देते हैं।"
+  },
+  {
+   "id": "t15-psych-05",
+   "part": "B",
+   "section": "psych",
+   "topic": "Primary Mental Abilities",
+   "question": "Who criticised Spearman's single factor 'g' and proposed about seven Primary Mental Abilities such as verbal comprehension, number, space and reasoning?",
+   "questionHi": "किसने स्पीयरमैन के एकल कारक 'g' की आलोचना की और शाब्दिक बोध, संख्या, स्थान और तर्क जैसी लगभग सात प्राथमिक मानसिक योग्यताएँ (Primary Mental Abilities) प्रस्तावित कीं?",
+   "options": [
+    "Binet",
+    "Cattell",
+    "Terman",
+    "Thurstone"
+   ],
+   "optionsHi": [
+    "बिने",
+    "कैटेल",
+    "टरमन",
+    "थर्स्टन"
+   ],
+   "correctIndex": 3,
+   "explanation": "L. L. Thurstone argued that intelligence is made of several relatively independent primary abilities. Binet built the first intelligence test, Cattell proposed fluid and crystallised intelligence, and Terman revised the test into the Stanford-Binet scale.",
+   "explanationHi": "एल. एल. थर्स्टन के अनुसार बुद्धि कई अपेक्षाकृत स्वतंत्र प्राथमिक योग्यताओं से बनी है। बिने ने पहला बुद्धि-परीक्षण बनाया, कैटेल ने fluid और crystallised बुद्धि दी और टरमन ने उसे स्टैनफोर्ड-बिने स्केल के रूप में संशोधित किया।"
+  },
+  {
+   "id": "t15-psych-06",
+   "part": "B",
+   "section": "psych",
+   "topic": "Divergent thinking",
+   "question": "Which task best measures divergent thinking, a component of creativity (Guilford)?",
+   "questionHi": "रचनात्मकता के घटक अपसारी चिंतन (divergent thinking) को मापने के लिए (गिलफोर्ड) कौन-सा कार्य सबसे उपयुक्त है?",
+   "options": [
+    "finding the one correct answer to a maths problem",
+    "listing as many unusual uses of a common object as possible",
+    "memorising a poem word for word",
+    "matching words to definitions"
+   ],
+   "optionsHi": [
+    "गणित के प्रश्न का एकमात्र सही उत्तर खोजना",
+    "किसी सामान्य वस्तु के अधिक से अधिक असामान्य उपयोग सूचीबद्ध करना",
+    "कविता को शब्दशः याद करना",
+    "शब्दों को परिभाषाओं से मिलाना"
+   ],
+   "correctIndex": 1,
+   "explanation": "Divergent thinking generates many varied ideas (fluency, flexibility, originality). The other tasks require a single correct answer (convergent thinking) or recall.",
+   "explanationHi": "अपसारी चिंतन में बहुत से और विविध विचार उत्पन्न होते हैं (प्रवाह, लचीलापन, मौलिकता)। अन्य कार्यों में एक ही सही उत्तर (अभिसारी चिंतन) या स्मरण चाहिए।"
+  },
+  {
+   "id": "t15-assess-01",
+   "part": "B",
+   "section": "assess",
+   "topic": "Norm vs criterion referencing",
+   "question": "A driving test in which a candidate passes by performing a fixed set of skills to a stated standard, irrespective of how others perform, is ___.",
+   "questionHi": "ड्राइविंग टेस्ट, जिसमें उम्मीदवार निर्धारित कौशलों को तय मानक तक करके उत्तीर्ण होता है, चाहे दूसरे कैसा भी प्रदर्शन करें, ___ है।",
+   "options": [
+    "norm-referenced assessment",
+    "a diagnostic test",
+    "criterion-referenced assessment",
+    "a projective test"
+   ],
+   "optionsHi": [
+    "मानक-संदर्भित (norm-referenced) मूल्यांकन",
+    "निदानात्मक परीक्षण",
+    "मानदंड-संदर्भित (criterion-referenced) मूल्यांकन",
+    "प्रक्षेपी परीक्षण"
+   ],
+   "correctIndex": 2,
+   "explanation": "Criterion-referenced assessment compares performance with a fixed standard; norm-referenced assessment compares a learner with the performance of a peer group. The other options serve different purposes.",
+   "explanationHi": "Criterion-referenced मूल्यांकन में प्रदर्शन की तुलना निश्चित मानक से होती है; norm-referenced मूल्यांकन में विद्यार्थी की तुलना समकक्ष समूह से होती है। अन्य विकल्प भिन्न उद्देश्यों के हैं।"
+  },
+  {
+   "id": "t15-assess-02",
+   "part": "B",
+   "section": "assess",
+   "topic": "Reliability",
+   "question": "The split-half reliability coefficient of a test is usually corrected using the ___.",
+   "questionHi": "किसी परीक्षण के split-half विश्वसनीयता गुणांक को सामान्यतः ___ द्वारा सुधारा जाता है।",
+   "options": [
+    "Spearman-Brown prophecy formula",
+    "Cronbach's alpha",
+    "chi-square test",
+    "z-score formula"
+   ],
+   "optionsHi": [
+    "स्पीयरमैन-ब्राउन भविष्यवाणी सूत्र",
+    "क्रोनबाख का अल्फा",
+    "काई-वर्ग परीक्षण",
+    "z-स्कोर सूत्र"
+   ],
+   "correctIndex": 0,
+   "explanation": "Correlating two halves gives the reliability of a half-length test; the Spearman-Brown formula estimates the reliability of the full test. Cronbach's alpha is a separate internal-consistency index; chi-square and z-scores are not used for this correction.",
+   "explanationHi": "दो आधे भागों का सहसंबंध आधी लंबाई वाले परीक्षण की विश्वसनीयता देता है; स्पीयरमैन-ब्राउन सूत्र पूरे परीक्षण की विश्वसनीयता का अनुमान लगाता है। क्रोनबाख का अल्फा अलग आंतरिक-संगति सूचकांक है; काई-वर्ग और z-स्कोर इस सुधार में प्रयुक्त नहीं होते।"
+  },
+  {
+   "id": "t15-assess-03",
+   "part": "B",
+   "section": "assess",
+   "topic": "Validity",
+   "question": "A grammar test that contains questions only on tenses and ignores articles, prepositions and clauses lacks ___ validity.",
+   "questionHi": "एक व्याकरण परीक्षण में केवल tenses के प्रश्न हैं और articles, prepositions तथा clauses की उपेक्षा की गई है। इसमें ___ वैधता का अभाव है।",
+   "options": [
+    "predictive",
+    "concurrent",
+    "construct",
+    "content"
+   ],
+   "optionsHi": [
+    "भविष्यवाणी (predictive)",
+    "समवर्ती (concurrent)",
+    "संरचना (construct)",
+    "विषय-वस्तु (content)"
+   ],
+   "correctIndex": 3,
+   "explanation": "Content validity is the extent to which a test samples the whole content domain it claims to measure; covering only tenses leaves large parts untested. Predictive and concurrent validity relate to criteria; construct validity relates to theoretical traits.",
+   "explanationHi": "Content validity यह बताती है कि परीक्षण अपने पूरे विषय-क्षेत्र का कितना प्रतिनिधित्व करता है; केवल tenses के प्रश्न होने से बड़ा हिस्सा अछूता रहता है। Predictive और concurrent वैधता किसी मानदंड से और construct वैधता सैद्धांतिक गुण से जुड़ी है।"
+  },
+  {
+   "id": "t15-assess-04",
+   "part": "B",
+   "section": "assess",
+   "topic": "Rubrics",
+   "question": "An analytic rubric for assessing an essay differs from a holistic rubric because it ___.",
+   "questionHi": "निबंध के मूल्यांकन के लिए analytic rubric, holistic rubric से इस प्रकार भिन्न है कि वह ___।",
+   "options": [
+    "gives a single overall score for the whole essay",
+    "scores separate criteria such as content, organisation and grammar individually",
+    "does not require any criteria",
+    "is used only for oral tests"
+   ],
+   "optionsHi": [
+    "पूरे निबंध पर एक समग्र अंक देता है",
+    "विषय-वस्तु, संगठन और व्याकरण जैसे अलग-अलग मानदंडों पर अलग-अलग अंक देता है",
+    "किसी मानदंड की आवश्यकता नहीं रखता",
+    "केवल मौखिक परीक्षाओं में प्रयुक्त होता है"
+   ],
+   "correctIndex": 1,
+   "explanation": "An analytic rubric breaks performance into criteria, each with its own levels, giving detailed feedback. A holistic rubric gives one overall judgement.",
+   "explanationHi": "Analytic rubric प्रदर्शन को मानदंडों में बाँटता है और प्रत्येक के अलग स्तर होते हैं, जिससे विस्तृत फीडबैक मिलता है। Holistic rubric एक समग्र निर्णय देता है।"
+  },
+  {
+   "id": "t15-pedag-01",
+   "part": "B",
+   "section": "pedag",
+   "topic": "5E model",
+   "question": "In the 5E constructivist instructional model, the phase in which learners apply the learned concept to a new situation is ___.",
+   "questionHi": "5E रचनावादी शिक्षण-मॉडल में वह चरण जिसमें विद्यार्थी सीखी हुई अवधारणा को नई परिस्थिति में लागू करते हैं, ___ है।",
+   "options": [
+    "Engage",
+    "Explore",
+    "Explain",
+    "Elaborate"
+   ],
+   "optionsHi": [
+    "Engage (जोड़ना)",
+    "Explore (अन्वेषण)",
+    "Explain (व्याख्या)",
+    "Elaborate (विस्तार)"
+   ],
+   "correctIndex": 3,
+   "explanation": "The 5Es are Engage, Explore, Explain, Elaborate and Evaluate. In Elaborate, learners extend and apply concepts in new contexts. Engage arouses interest, Explore involves hands-on investigation, Explain formalises concepts.",
+   "explanationHi": "5E हैं: Engage, Explore, Explain, Elaborate और Evaluate। Elaborate में विद्यार्थी अवधारणा को नए संदर्भों में विस्तार देते और लागू करते हैं। Engage रुचि जगाता है, Explore में प्रत्यक्ष अन्वेषण होता है, Explain में अवधारणा को औपचारिक रूप दिया जाता है।"
+  },
+  {
+   "id": "t15-pedag-02",
+   "part": "B",
+   "section": "pedag",
+   "topic": "Holistic Progress Card",
+   "question": "The 'Holistic Progress Card' envisaged under NEP 2020 is meant to ___.",
+   "questionHi": "NEP 2020 में परिकल्पित 'समग्र प्रगति कार्ड' (Holistic Progress Card) का उद्देश्य ___ है।",
+   "options": [
+    "rank students by their marks in annual examinations only",
+    "give a 360-degree, multidimensional report including self, peer and teacher assessment",
+    "record only attendance and discipline",
+    "replace all classroom assessment with a single board exam"
+   ],
+   "optionsHi": [
+    "केवल वार्षिक परीक्षा के अंकों के आधार पर विद्यार्थियों की रैंकिंग करना",
+    "स्व-मूल्यांकन, सहपाठी-मूल्यांकन और शिक्षक-मूल्यांकन सहित 360-डिग्री, बहुआयामी रिपोर्ट देना",
+    "केवल उपस्थिति और अनुशासन दर्ज करना",
+    "सभी कक्षा-मूल्यांकन को एक बोर्ड परीक्षा से बदल देना"
+   ],
+   "correctIndex": 1,
+   "explanation": "NEP 2020 proposes a 360-degree holistic progress card reflecting cognitive, affective and psychomotor development, with self-assessment, peer assessment and teacher assessment. It is not rank-based or exam-only.",
+   "explanationHi": "NEP 2020 एक 360-डिग्री समग्र प्रगति कार्ड का प्रस्ताव करती है, जो संज्ञानात्मक, भावात्मक और मनोगत्यात्मक विकास दर्शाता है तथा जिसमें स्व-, सहपाठी- और शिक्षक-मूल्यांकन शामिल हैं। यह रैंक-आधारित या केवल परीक्षा-आधारित नहीं है।"
+  },
+  {
+   "id": "t15-pedag-03",
+   "part": "B",
+   "section": "pedag",
+   "topic": "NCF 2005 principles",
+   "question": "Which of the following was NOT one of the guiding principles of NCF 2005?",
+   "questionHi": "निम्नलिखित में से कौन NCF 2005 के मार्गदर्शक सिद्धांतों में शामिल नहीं था?",
+   "options": [
+    "Rank schools through high-stakes board examinations",
+    "Connect knowledge to life outside the school",
+    "Shift learning away from rote methods",
+    "Make examinations more flexible and integrated into classroom life"
+   ],
+   "optionsHi": [
+    "उच्च-दाँव वाली बोर्ड परीक्षाओं द्वारा विद्यालयों की रैंकिंग करना",
+    "ज्ञान को विद्यालय के बाहर के जीवन से जोड़ना",
+    "अधिगम को रटने की पद्धति से दूर ले जाना",
+    "परीक्षाओं को अधिक लचीला बनाना और कक्षा-जीवन से जोड़ना"
+   ],
+   "correctIndex": 0,
+   "explanation": "NCF 2005 stressed connecting knowledge to life, reducing rote learning, enriching the curriculum beyond textbooks, flexible examinations and democratic values. Ranking schools by high-stakes exams goes against its spirit.",
+   "explanationHi": "NCF 2005 ने ज्ञान को जीवन से जोड़ने, रटने को कम करने, पाठ्यपुस्तक से आगे पाठ्यचर्या को समृद्ध करने, लचीली परीक्षाओं और लोकतांत्रिक मूल्यों पर बल दिया। उच्च-दाँव परीक्षाओं से विद्यालयों की रैंकिंग इसकी भावना के विरुद्ध है।"
+  },
+  {
+   "id": "t15-attitude-01",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Constructivism",
+   "question": "Before reading a text on floods, a teacher asks learners to share what they already know and then lets them question and discuss. This reflects the constructivist view that ___.",
+   "questionHi": "बाढ़ पर पाठ पढ़ाने से पहले शिक्षक विद्यार्थियों से उनकी पूर्व जानकारी साझा करवाता है और फिर प्रश्न व चर्चा करने देता है। यह रचनावादी दृष्टिकोण को दर्शाता है कि ___।",
+   "options": [
+    "knowledge is simply transmitted from teacher to student",
+    "prior knowledge interferes with learning",
+    "learners build new knowledge on their prior knowledge through active engagement",
+    "learning happens only through repetition"
+   ],
+   "optionsHi": [
+    "ज्ञान केवल शिक्षक से विद्यार्थी को हस्तांतरित होता है",
+    "पूर्व जानकारी अधिगम में बाधा डालती है",
+    "विद्यार्थी सक्रिय सहभागिता से अपनी पूर्व जानकारी के आधार पर नया ज्ञान गढ़ते हैं",
+    "अधिगम केवल दोहराव से होता है"
+   ],
+   "correctIndex": 2,
+   "explanation": "Constructivism holds that learners actively construct meaning, building on what they already know, with the teacher as facilitator. Transmission and rote repetition are traditional views.",
+   "explanationHi": "रचनावाद के अनुसार विद्यार्थी अपनी पूर्व जानकारी पर आधारित होकर सक्रिय रूप से अर्थ का निर्माण करते हैं और शिक्षक सुगमकर्ता होता है। हस्तांतरण और रटना परंपरागत दृष्टिकोण हैं।"
+  },
+  {
+   "id": "t15-attitude-02",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Gender perspective",
+   "question": "A teacher always makes boys class monitors and asks girls to decorate the classroom. This is an example of ___.",
+   "questionHi": "एक शिक्षक हमेशा लड़कों को मॉनिटर बनाता है और लड़कियों से कक्षा सजाने को कहता है। यह ___ का उदाहरण है।",
+   "options": [
+    "inclusive education",
+    "hidden curriculum reinforcing gender stereotypes",
+    "differentiated instruction",
+    "formative assessment"
+   ],
+   "optionsHi": [
+    "समावेशी शिक्षा",
+    "लैंगिक रूढ़ियों को मज़बूत करने वाला छिपा हुआ पाठ्यक्रम (hidden curriculum)",
+    "विभेदित शिक्षण",
+    "रचनात्मक मूल्यांकन"
+   ],
+   "correctIndex": 1,
+   "explanation": "Unstated messages learners absorb from everyday school practice form the hidden curriculum; assigning roles by gender reinforces stereotypes. The others are positive or unrelated practices.",
+   "explanationHi": "रोज़मर्रा की विद्यालयी प्रथाओं से बच्चों को मिलने वाले अनकहे संदेश hidden curriculum कहलाते हैं; लिंग के आधार पर भूमिकाएँ बाँटना रूढ़ियों को मज़बूत करता है। अन्य विकल्प सकारात्मक या असंबंधित प्रथाएँ हैं।"
+  }
+ ]
+}

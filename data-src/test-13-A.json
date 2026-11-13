@@ -1,0 +1,1059 @@
+{
+ "passages": [
+  {
+   "id": "t13-p1",
+   "genre": "Newspaper editorial",
+   "title": "The Map Is Not the Territory",
+   "text": "Every map is an argument disguised as a picture. The cartographer, forced to flatten a curved world onto paper, must choose what to distort: the Mercator projection preserves angles, which made it precious to sailors, but it swells Greenland to the size of Africa, though Africa is about fourteen times larger. Such choices are rarely innocent, yet they are seldom questioned, because the map's calm geometry lends it an air of neutrality. Colonial surveyors understood this well. By drawing straight boundaries across territories they scarcely understood, they did not merely record the land; they rehearsed the future in which it would be governed. Today digital maps promise a kind of liberation, since anyone with a phone can annotate a street or a village. But the promise is partial. The algorithms that decide which landmarks to display, and which to omit, are owned by a few corporations, and their silences are as consequential as the old empires' ink. The wise reader therefore asks of any map what a good historian asks of any document: who made it, for whom, and what did they prefer not to show?"
+  },
+  {
+   "id": "t13-p2",
+   "genre": "Poetry extract",
+   "title": "The Ferryman at Dusk",
+   "text": "The river does not hurry; neither do I.\nIt has carried kings and cattle, grief and grain,\nAnd keeps no ledger of the passengers' names.\nI, too, keep none. I know them by their silence:\n\nThe bride whose bangles chime against the rail,\nThe clerk who counts his coins and counts them twice,\nThe old man holding fast his bundled years,\nAs if the water might demand its toll.\n\nAt dusk the far bank dims to a rumour,\nAnd the lamp I light is less a guide than a vow:\nThat someone, somewhere, will be waiting still.\nThe oar dips, lifts, and dips; the dark leans in.\n\nThey say a ferry joins two shores. I say\nIt only proves that shores are never joined:\nEach crossing is a small forgiveness of distance,\nRepeated daily, never quite complete."
+  },
+  {
+   "id": "t13-p3",
+   "genre": "Drama extract",
+   "title": "The Keeper of the Light",
+   "text": "INSPECTOR: (flipping the logbook) Forty years, and not one entry says 'ship sighted'.\nKEEPER: Why would it? A light that works is a light nobody sees.\nINSPECTOR: The Board wants evidence of usefulness, Mr Rao. Evidence is not the same as faith.\nKEEPER: Then the Board has never stood on a rock at three in the morning. (He polishes the lens without looking up.) Last winter a fishing boat passed so close I could hear its engine cough. By morning it was gone. No ship was sighted; no ship was lost. Write that in your report.\nINSPECTOR: I cannot record what did not happen.\nKEEPER: Madam, that is the whole of my profession. I am paid to prevent events.\nINSPECTOR: (closing the book, with a faint smile) The automation proposal says a sensor can do your work for a fraction of your wage.\nKEEPER: A sensor can turn on a light. Can it be sorry when the weather turns?\n(A pause. The wind rattles the shutters. The INSPECTOR does not answer.)"
+  }
+ ],
+ "questions": [
+  {
+   "id": "t13-gram-01",
+   "part": "A",
+   "section": "gram",
+   "topic": "Inversion",
+   "question": "Seldom ___ such courage in so young a player.",
+   "options": [
+    "we witnessed",
+    "we have witnessed",
+    "have we witnessed",
+    "did we witnessed"
+   ],
+   "correctIndex": 2,
+   "explanation": "A negative adverb (seldom) at the start of a sentence requires subject-auxiliary inversion: 'have we witnessed'. 'did we witnessed' wrongly keeps the past form after 'did'; the others do not invert."
+  },
+  {
+   "id": "t13-gram-02",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subjunctive",
+   "question": "I would rather you ___ smoke in this room.",
+   "options": [
+    "don't",
+    "didn't",
+    "won't",
+    "haven't"
+   ],
+   "correctIndex": 1,
+   "explanation": "After 'would rather' + a different subject, the past form expresses a present/future preference: 'would rather you didn't'. The present forms 'don't', 'won't' and 'haven't' are not used in this pattern."
+  },
+  {
+   "id": "t13-gram-03",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subjunctive",
+   "question": "The committee insisted that the treasurer ___ the accounts before Friday.",
+   "options": [
+    "submit",
+    "submits",
+    "has submitted",
+    "submitted"
+   ],
+   "correctIndex": 0,
+   "explanation": "After verbs of demand/insistence (insist, demand, suggest) a that-clause takes the mandative subjunctive, i.e. the bare base form 'submit' for all persons. The other forms are indicative."
+  },
+  {
+   "id": "t13-gram-04",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subject-verb agreement",
+   "question": "He is the only one of my friends who ___ lived abroad.",
+   "options": [
+    "are",
+    "have",
+    "were",
+    "has"
+   ],
+   "correctIndex": 3,
+   "explanation": "With 'the only one of ...' the relative pronoun 'who' refers to 'one' (singular), so the verb is 'has'. (With 'one of those who ...' the verb would be plural.)"
+  },
+  {
+   "id": "t13-gram-05",
+   "part": "A",
+   "section": "gram",
+   "topic": "Modals",
+   "question": "You ___ so much food; we already have plenty left over.",
+   "options": [
+    "needn't have bought",
+    "mustn't have bought",
+    "needn't bought",
+    "can't have bought"
+   ],
+   "correctIndex": 0,
+   "explanation": "'Needn't have + past participle' expresses an action that was done but was unnecessary. 'Mustn't have' and 'can't have' express deduction, and 'needn't bought' is ungrammatical."
+  },
+  {
+   "id": "t13-gram-06",
+   "part": "A",
+   "section": "gram",
+   "topic": "Relative clauses",
+   "question": "The house in ___ he was born has been demolished.",
+   "options": [
+    "that",
+    "whom",
+    "where",
+    "which"
+   ],
+   "correctIndex": 3,
+   "explanation": "After a preposition a relative pronoun for things must be 'which' ('in which'); 'that' cannot follow a preposition, 'whom' is for persons, and 'where' would duplicate the preposition."
+  },
+  {
+   "id": "t13-gram-07",
+   "part": "A",
+   "section": "gram",
+   "topic": "Non-finite clauses",
+   "question": "Choose the sentence that has NO dangling modifier.",
+   "options": [
+    "Seeing the storm approach, the boat was pulled ashore.",
+    "Seeing the storm approach, the fishermen pulled the boat ashore.",
+    "Pulling the boat ashore, the storm approached.",
+    "Approaching the shore, the storm struck the fishermen."
+   ],
+   "correctIndex": 1,
+   "explanation": "In option B the participial phrase 'Seeing the storm approach' correctly modifies the subject 'the fishermen'. In the others the subject (boat/storm) cannot perform the action of the participle."
+  },
+  {
+   "id": "t13-gram-08",
+   "part": "A",
+   "section": "gram",
+   "topic": "Direct-Indirect speech",
+   "question": "Choose the correct indirect form: He said to me, 'Don't be late for the meeting.'",
+   "options": [
+    "He told me that I should not be late for the meeting.",
+    "He said me not to be late for the meeting.",
+    "He told me not to be late for the meeting.",
+    "He told to me do not be late for the meeting."
+   ],
+   "correctIndex": 2,
+   "explanation": "A negative imperative is reported with 'told + object + not to + base verb'. 'Said me' and 'told to me' are ungrammatical, and option A changes the command into a statement of advice."
+  },
+  {
+   "id": "t13-gram-09",
+   "part": "A",
+   "section": "gram",
+   "topic": "Cleft sentences",
+   "question": "Which of the following is a cleft sentence that puts emphasis on the OBJECT of 'The manager dismissed Ravi'?",
+   "options": [
+    "It was Ravi whom the manager dismissed.",
+    "It was the manager who dismissed Ravi.",
+    "What the manager did was to dismiss Ravi.",
+    "Ravi was dismissed by the manager."
+   ],
+   "correctIndex": 0,
+   "explanation": "An it-cleft focusing the object puts 'Ravi' after 'It was'. Option B focuses the subject, C is a wh-cleft focusing the action, and D is a simple passive."
+  },
+  {
+   "id": "t13-gram-10",
+   "part": "A",
+   "section": "gram",
+   "topic": "Tenses",
+   "question": "By next June, she ___ as a lecturer for twenty years.",
+   "options": [
+    "will be working",
+    "has worked",
+    "would work",
+    "will have been working"
+   ],
+   "correctIndex": 3,
+   "explanation": "A duration up to a future point ('by next June ... for twenty years') takes the future perfect continuous. The other forms do not link the duration to the future deadline."
+  },
+  {
+   "id": "t13-gram-11",
+   "part": "A",
+   "section": "gram",
+   "topic": "Elliptical patterns",
+   "question": "Ravi has not submitted the form, and ___ Meena.",
+   "options": [
+    "so has",
+    "neither has",
+    "so hasn't",
+    "neither hasn't"
+   ],
+   "correctIndex": 1,
+   "explanation": "After a negative clause, the elliptical addition uses 'neither/nor + auxiliary + subject'. 'So has' is for affirmative statements, and 'hasn't' after neither gives a double negative."
+  },
+  {
+   "id": "t13-gram-12",
+   "part": "A",
+   "section": "gram",
+   "topic": "Transformation of sentences",
+   "question": "Which is the simple-sentence form of 'He is so weak that he cannot walk'?",
+   "options": [
+    "He is very weak to walk.",
+    "He is weak enough not to walk.",
+    "He is too weak to walk.",
+    "He is so weak to walk."
+   ],
+   "correctIndex": 2,
+   "explanation": "'So ... that ... cannot' is transformed with 'too ... to'. 'Weak enough not to walk' changes the sense and the other options are ungrammatical."
+  },
+  {
+   "id": "t13-gram-13",
+   "part": "A",
+   "section": "gram",
+   "topic": "Determiners",
+   "question": "There was ___ evidence to convict him, so the case collapsed.",
+   "options": [
+    "little",
+    "a little",
+    "few",
+    "a few"
+   ],
+   "correctIndex": 0,
+   "explanation": "'Evidence' is uncountable, so 'few/a few' are out. 'Little' means 'almost none' (negative), which matches 'the case collapsed'; 'a little' would suggest a positive amount."
+  },
+  {
+   "id": "t13-gram-14",
+   "part": "A",
+   "section": "gram",
+   "topic": "Finite and non-finite verbs",
+   "question": "We regret ___ you that your application has been rejected.",
+   "options": [
+    "informing",
+    "to inform",
+    "to be informing",
+    "having informed"
+   ],
+   "correctIndex": 1,
+   "explanation": "'Regret + to-infinitive' is used when announcing bad news; 'regret + -ing' refers to regretting something already done. So 'to inform' is correct."
+  },
+  {
+   "id": "t13-gram-15",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subject-verb agreement",
+   "question": "He is one of those teachers who ___ always punctual.",
+   "options": [
+    "is",
+    "has been",
+    "are",
+    "was"
+   ],
+   "correctIndex": 2,
+   "explanation": "In 'one of those ... who', the relative pronoun 'who' refers to the plural 'teachers', so the verb is plural: 'are'. 'Is' wrongly agrees with 'one'; 'was' and 'has been' clash with the present-tense context."
+  },
+  {
+   "id": "t13-vocab-01",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word formation",
+   "question": "The Greek root 'anthropo-' in 'anthropomorphism' refers to ___.",
+   "options": [
+    "human beings",
+    "animals",
+    "machines",
+    "gods"
+   ],
+   "correctIndex": 0,
+   "explanation": "'Anthropos' means human; anthropomorphism is attributing human form or traits to non-human things. The other meanings belong to other roots (zoo-, mechano-, theo-)."
+  },
+  {
+   "id": "t13-vocab-02",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word formation",
+   "question": "The prefix 'circum-' in 'circumnavigate' means ___.",
+   "options": [
+    "across",
+    "around",
+    "beneath",
+    "against"
+   ],
+   "correctIndex": 1,
+   "explanation": "Latin 'circum' means 'around', so circumnavigate means to sail around. 'Trans-' is across, 'sub-' beneath, 'contra-/anti-' against."
+  },
+  {
+   "id": "t13-vocab-03",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Polysemy",
+   "question": "In 'The salesman's pitch convinced the investors', the word 'pitch' means ___.",
+   "options": [
+    "a tar-like black substance",
+    "the level of a sound",
+    "a persuasive sales talk",
+    "the ground for a game"
+   ],
+   "correctIndex": 2,
+   "explanation": "Here 'pitch' is a persuasive presentation meant to sell an idea. The other meanings of pitch (tar, musical level, playing field) do not fit the context."
+  },
+  {
+   "id": "t13-vocab-04",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Polysemy",
+   "question": "In 'The doctor gave sound advice', the word 'sound' means ___.",
+   "options": [
+    "a noise",
+    "healthy in body",
+    "a narrow channel of water",
+    "reliable and sensible"
+   ],
+   "correctIndex": 3,
+   "explanation": "'Sound advice' is advice that is wise and reliable. 'Healthy' fits 'sound sleep/body', not advice; noise and channel are unrelated senses."
+  },
+  {
+   "id": "t13-vocab-05",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Homophones",
+   "question": "The surgeon's ___ handling of the sensitive case earned the family's trust.",
+   "options": [
+    "discrete",
+    "discrepant",
+    "discretion",
+    "discreet"
+   ],
+   "correctIndex": 3,
+   "explanation": "'Discreet' means careful and tactful about secrets; 'discrete' means separate and distinct (a near-homophone). 'Discretion' is a noun and 'discrepant' means inconsistent."
+  },
+  {
+   "id": "t13-vocab-06",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Homophones",
+   "question": "The Board decided to ___ the officer for misusing funds.",
+   "options": [
+    "censure",
+    "censor",
+    "sensor",
+    "sensure"
+   ],
+   "correctIndex": 0,
+   "explanation": "'Censure' means to criticise formally. 'Censor' means to suppress material, 'sensor' is a detecting device, and 'sensure' is not a word."
+  },
+  {
+   "id": "t13-vocab-07",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Collocations",
+   "question": "After reviewing the data, the researchers ___ the conclusion that the drug was ineffective.",
+   "options": [
+    "pulled",
+    "drew",
+    "made",
+    "took"
+   ],
+   "correctIndex": 1,
+   "explanation": "The fixed collocation is 'draw a conclusion'. 'Pull', 'make' and 'take' do not collocate with 'conclusion'."
+  },
+  {
+   "id": "t13-vocab-08",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Collocations",
+   "question": "Which of the following is an odd collocation in standard English?",
+   "options": [
+    "heavy traffic",
+    "heavy smoker",
+    "heavy tea",
+    "heavy sleeper"
+   ],
+   "correctIndex": 2,
+   "explanation": "We say 'strong tea', not 'heavy tea'. Heavy traffic, heavy smoker and heavy sleeper are all natural collocations."
+  },
+  {
+   "id": "t13-vocab-09",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word class conversion",
+   "question": "The noun form of the verb 'deride' is ___.",
+   "options": [
+    "derision",
+    "deridement",
+    "deriding",
+    "deridity"
+   ],
+   "correctIndex": 0,
+   "explanation": "Deride -> derision (cf. decide -> decision). The other forms are not standard nouns."
+  },
+  {
+   "id": "t13-vocab-10",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word class conversion",
+   "question": "In 'They are trialling the new software', the word 'trialling' is formed by ___.",
+   "options": [
+    "conversion of a verb into a noun",
+    "conversion of a noun into a verb",
+    "back-formation",
+    "blending"
+   ],
+   "correctIndex": 1,
+   "explanation": "'Trial' is a noun that is used as a verb without any change of form (zero derivation/conversion). Back-formation removes an affix and blending merges parts of two words, neither of which happens here."
+  },
+  {
+   "id": "t13-vocab-11",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Lexical bundles",
+   "question": "Complete the lexical bundle: 'On the ___ of it, the proposal seems sound.'",
+   "options": [
+    "top",
+    "side",
+    "face",
+    "edge"
+   ],
+   "correctIndex": 2,
+   "explanation": "'On the face of it' is a fixed bundle meaning 'judging by appearances'. The other nouns do not form this expression."
+  },
+  {
+   "id": "t13-vocab-12",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idioms",
+   "question": "'To cut the Gordian knot' means ___.",
+   "options": [
+    "to tie a complicated knot",
+    "to waste time on trifles",
+    "to destroy a friendship",
+    "to solve a hard problem by a bold, direct action"
+   ],
+   "correctIndex": 3,
+   "explanation": "From the legend of Alexander slicing through an intricate knot with his sword, the idiom means resolving a difficulty by decisive, unconventional action."
+  },
+  {
+   "id": "t13-vocab-13",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idioms",
+   "question": "'To carry coals to Newcastle' means ___.",
+   "options": [
+    "to do something unnecessary or superfluous",
+    "to work very hard",
+    "to travel to a distant place",
+    "to bring bad luck"
+   ],
+   "correctIndex": 0,
+   "explanation": "Newcastle was famous for coal, so taking coal there is pointless. The idiom means doing something that is already abundantly supplied."
+  },
+  {
+   "id": "t13-vocab-14",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "'She lost her keys and her temper.' Identify the figure of speech.",
+   "options": [
+    "Euphemism",
+    "Zeugma",
+    "Tautology",
+    "Antithesis"
+   ],
+   "correctIndex": 1,
+   "explanation": "One verb ('lost') governs two objects in different senses (literal and figurative) - zeugma. There is no mild substitute (euphemism), needless repetition (tautology) or balanced contrast (antithesis)."
+  },
+  {
+   "id": "t13-vocab-15",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "'The angry sea hurled itself against the cliffs.' Attributing human emotion to nature here is called ___.",
+   "options": [
+    "metonymy",
+    "litotes",
+    "pathetic fallacy",
+    "synecdoche"
+   ],
+   "correctIndex": 2,
+   "explanation": "Pathetic fallacy gives human feelings to inanimate nature (an angry sea). Metonymy substitutes an associated name, litotes understates through a negative, and synecdoche uses a part for the whole."
+  },
+  {
+   "id": "t13-rc-01",
+   "part": "A",
+   "section": "rc",
+   "topic": "Central idea",
+   "passageId": "t13-p1",
+   "question": "The central argument of the passage is that maps ___.",
+   "options": [
+    "are scientifically accurate but artistically poor",
+    "appear neutral although they embody choices and perspectives",
+    "should be replaced by digital technology",
+    "were useful only to sailors"
+   ],
+   "correctIndex": 1,
+   "explanation": "The opening sentence calls every map 'an argument disguised as a picture' and the passage shows that selection and omission shape them. The other options are not the main claim."
+  },
+  {
+   "id": "t13-rc-02",
+   "part": "A",
+   "section": "rc",
+   "topic": "Vocabulary in context",
+   "passageId": "t13-p1",
+   "question": "'They rehearsed the future in which it would be governed' most nearly means that the surveyors ___.",
+   "options": [
+    "practised drawing boundaries on small maps first",
+    "predicted exactly how the land would develop",
+    "prepared in advance the pattern of control that would follow",
+    "imagined peaceful relations with local people"
+   ],
+   "correctIndex": 2,
+   "explanation": "By fixing boundaries, surveyors shaped how the land would later be administered. Nothing in the passage speaks of practice drawings, exact prediction or peaceful hopes."
+  },
+  {
+   "id": "t13-rc-03",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t13-p1",
+   "question": "The statement that colonial surveyors 'rehearsed the future in which it would be governed' implies that their boundaries ___.",
+   "options": [
+    "were drawn purely out of scientific curiosity",
+    "were later corrected by digital map providers",
+    "were accurate because they understood the land well",
+    "anticipated and shaped how the territory would later be ruled"
+   ],
+   "correctIndex": 3,
+   "explanation": "The passage says they drew lines across territories they scarcely understood and thereby rehearsed future governance, so the boundaries prefigured and shaped later rule. The passage denies they understood the land and never says digital maps corrected them."
+  },
+  {
+   "id": "t13-rc-04",
+   "part": "A",
+   "section": "rc",
+   "topic": "Author's purpose",
+   "passageId": "t13-p1",
+   "question": "The Greenland-Africa example is used mainly to ___.",
+   "options": [
+    "show that flattening a sphere forces the mapmaker to distort something",
+    "prove that Mercator maps are useless",
+    "compare the populations of two regions",
+    "criticise sailors for trusting maps"
+   ],
+   "correctIndex": 0,
+   "explanation": "The example illustrates the trade-off in projection: preserving angles inflates areas near the poles. The author does not call Mercator useless, discuss population or blame sailors."
+  },
+  {
+   "id": "t13-rc-05",
+   "part": "A",
+   "section": "rc",
+   "topic": "Tone",
+   "passageId": "t13-p1",
+   "question": "The author's attitude to digital maps is best described as ___.",
+   "options": [
+    "uncritical admiration",
+    "guarded appreciation combined with caution",
+    "complete hostility",
+    "detached indifference"
+   ],
+   "correctIndex": 1,
+   "explanation": "He grants that they promise liberation but warns that the promise is partial because of corporate control. This is qualified, not uncritical, hostile or indifferent."
+  },
+  {
+   "id": "t13-rc-06",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t13-p2",
+   "question": "The line 'keeps no ledger of the passengers' names' suggests that the river is ___.",
+   "options": [
+    "forgetful because of its age",
+    "resentful of its passengers",
+    "impartial towards everyone it carries",
+    "careless about the safety of travellers"
+   ],
+   "correctIndex": 2,
+   "explanation": "A river that records no names treats kings and cattle alike; it is impartial. The poem shows no resentment, forgetfulness or carelessness."
+  },
+  {
+   "id": "t13-rc-07",
+   "part": "A",
+   "section": "rc",
+   "topic": "Rhetorical devices",
+   "passageId": "t13-p2",
+   "question": "The lamp is 'less a guide than a vow' because it ___.",
+   "options": [
+    "stands for a promise of continued care rather than mere direction",
+    "is too dim to guide anyone",
+    "was lit only for the bride",
+    "is meant to frighten away the dark"
+   ],
+   "correctIndex": 0,
+   "explanation": "The next line says it vows that 'someone will be waiting still'; the lamp symbolises commitment more than navigation."
+  },
+  {
+   "id": "t13-rc-08",
+   "part": "A",
+   "section": "rc",
+   "topic": "Rhetorical devices",
+   "passageId": "t13-p2",
+   "question": "'The dark leans in' is an example of ___.",
+   "options": [
+    "simile",
+    "hyperbole",
+    "oxymoron",
+    "personification"
+   ],
+   "correctIndex": 3,
+   "explanation": "Darkness is given the human action of leaning, so it is personification. There is no 'like/as' (simile), exaggeration or contradictory pair."
+  },
+  {
+   "id": "t13-rc-09",
+   "part": "A",
+   "section": "rc",
+   "topic": "Theme",
+   "passageId": "t13-p2",
+   "question": "In the last stanza, the ferryman's view is that ___.",
+   "options": [
+    "ferries are unnecessary today",
+    "each crossing only partly bridges a separation that can never be fully removed",
+    "regular ferries can permanently join two shores",
+    "distance is a punishment for travellers"
+   ],
+   "correctIndex": 1,
+   "explanation": "'Shores are never joined' and 'never quite complete' show that crossings are small, repeated acts that do not erase distance."
+  },
+  {
+   "id": "t13-rc-10",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t13-p2",
+   "question": "'As if the water might demand its toll' hints that the old man ___.",
+   "options": [
+    "cannot pay the fare",
+    "dislikes the ferryman",
+    "is secretly anxious about the end of life",
+    "wants to jump into the river"
+   ],
+   "correctIndex": 2,
+   "explanation": "He clutches his 'bundled years' and fears the water's toll, hinting at an unspoken fear of death. The text gives no support for the other readings."
+  },
+  {
+   "id": "t13-rc-11",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t13-p3",
+   "question": "'A light that works is a light nobody sees' implies that the keeper's success ___.",
+   "options": [
+    "is shown by the absence of disasters and so goes unnoticed",
+    "depends on being seen by many ships",
+    "can be proved by the logbook",
+    "is judged by the Board every night"
+   ],
+   "correctIndex": 0,
+   "explanation": "A working light prevents accidents, and prevention leaves no visible event. That is why the logbook is empty of sightings."
+  },
+  {
+   "id": "t13-rc-12",
+   "part": "A",
+   "section": "rc",
+   "topic": "Tone",
+   "passageId": "t13-p3",
+   "question": "The Inspector's remark 'Evidence is not the same as faith' shows that she ___.",
+   "options": [
+    "has no faith in God",
+    "distrusts the keeper personally",
+    "believes lighthouses are obsolete",
+    "values documented proof over belief in usefulness"
+   ],
+   "correctIndex": 3,
+   "explanation": "She asks for recorded evidence of usefulness rather than the keeper's conviction. Her remark is about proof, not religion, personal distrust or obsolescence."
+  },
+  {
+   "id": "t13-rc-13",
+   "part": "A",
+   "section": "rc",
+   "topic": "Rhetorical devices",
+   "passageId": "t13-p3",
+   "question": "'I am paid to prevent events' is best described as ___.",
+   "options": [
+    "a pun",
+    "a paradox",
+    "a simile",
+    "a euphemism"
+   ],
+   "correctIndex": 1,
+   "explanation": "It seems self-contradictory (a job whose product is nothing happening) yet expresses a truth about prevention, which is a paradox. It has no double meaning, comparison or softening."
+  },
+  {
+   "id": "t13-rc-14",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t13-p3",
+   "question": "The Inspector's silence at the end suggests that she ___.",
+   "options": [
+    "has not understood the keeper",
+    "is angry with him",
+    "has no ready reply and may sympathise with his point",
+    "has decided to dismiss him immediately"
+   ],
+   "correctIndex": 2,
+   "explanation": "After her faint smile and his closing question, her lack of answer shows she cannot rebut him. Nothing indicates anger, confusion or dismissal."
+  },
+  {
+   "id": "t13-rc-15",
+   "part": "A",
+   "section": "rc",
+   "topic": "Author's purpose",
+   "passageId": "t13-p3",
+   "question": "The keeper opposes automation mainly because he thinks a sensor ___.",
+   "options": [
+    "costs more than his wage",
+    "cannot work in winter",
+    "would be rejected by the Board",
+    "cannot feel concern for people's safety as a human does"
+   ],
+   "correctIndex": 3,
+   "explanation": "His question 'Can it be sorry when the weather turns?' shows that his objection is about human care. Cost and weather are not claimed; the Board is the one proposing automation."
+  },
+  {
+   "id": "t13-ped-01",
+   "part": "A",
+   "section": "ped",
+   "topic": "Krashen",
+   "question": "Krashen's formula 'i + 1' belongs to which hypothesis?",
+   "questionHi": "क्रैशन का सूत्र 'i + 1' किस परिकल्पना से संबंधित है?",
+   "options": [
+    "Monitor Hypothesis",
+    "Natural Order Hypothesis",
+    "Input Hypothesis",
+    "Affective Filter Hypothesis"
+   ],
+   "optionsHi": [
+    "मॉनिटर परिकल्पना",
+    "स्वाभाविक क्रम परिकल्पना",
+    "इनपुट परिकल्पना",
+    "भावात्मक फ़िल्टर परिकल्पना"
+   ],
+   "correctIndex": 2,
+   "explanation": "The Input Hypothesis says we acquire language when we understand input slightly beyond our current level (i + 1). The others deal with conscious editing, order of morphemes and emotional barriers.",
+   "explanationHi": "इनपुट परिकल्पना के अनुसार हम तब भाषा अर्जित करते हैं जब समझा जाने वाला इनपुट हमारे वर्तमान स्तर से थोड़ा ऊपर (i + 1) हो। अन्य परिकल्पनाएँ सचेत संपादन, क्रम और भावनात्मक बाधाओं से जुड़ी हैं।"
+  },
+  {
+   "id": "t13-ped-02",
+   "part": "A",
+   "section": "ped",
+   "topic": "Swain",
+   "question": "Swain's Output Hypothesis claims that learners benefit from producing language because ___.",
+   "questionHi": "स्वेन की आउटपुट परिकल्पना के अनुसार भाषा बोलने-लिखने से सीखने वाले को लाभ होता है क्योंकि ___।",
+   "options": [
+    "it makes them notice gaps in their own knowledge and process language more deeply",
+    "it replaces the need for any input",
+    "it lowers the affective filter automatically",
+    "it helps them memorise grammar rules by rote"
+   ],
+   "optionsHi": [
+    "इससे वे अपने ज्ञान की कमियों को पहचानते हैं और भाषा को अधिक गहराई से संसाधित करते हैं",
+    "इससे किसी भी इनपुट की ज़रूरत समाप्त हो जाती है",
+    "इससे भावात्मक फ़िल्टर अपने-आप कम हो जाता है",
+    "इससे वे व्याकरण के नियम रटकर याद करते हैं"
+   ],
+   "correctIndex": 0,
+   "explanation": "Swain argued that 'pushed output' makes learners notice what they cannot yet say and move from meaning-based to syntax-based processing. She did not say that input is unnecessary.",
+   "explanationHi": "स्वेन के अनुसार 'प्रेरित आउटपुट' से सीखने वाला देखता है कि वह क्या नहीं कह पा रहा है और अर्थ-आधारित से व्याकरण-आधारित प्रक्रिया की ओर बढ़ता है। उन्होंने इनपुट को अनावश्यक नहीं कहा।"
+  },
+  {
+   "id": "t13-ped-03",
+   "part": "A",
+   "section": "ped",
+   "topic": "Long",
+   "question": "Which scholar proposed that negotiation of meaning in conversation promotes second-language acquisition?",
+   "questionHi": "किस विद्वान ने प्रस्तावित किया कि बातचीत में अर्थ की वार्ता (negotiation of meaning) द्वितीय भाषा अर्जन को बढ़ावा देती है?",
+   "options": [
+    "Noam Chomsky",
+    "Dell Hymes",
+    "Lev Vygotsky",
+    "Michael Long"
+   ],
+   "optionsHi": [
+    "नोम चॉम्स्की",
+    "डेल हाइम्स",
+    "लेव वाइगोत्स्की",
+    "माइकल लॉन्ग"
+   ],
+   "correctIndex": 3,
+   "explanation": "Michael Long's Interaction Hypothesis holds that interactional adjustments such as clarification requests make input comprehensible. Chomsky, Hymes and Vygotsky are linked to other ideas.",
+   "explanationHi": "माइकल लॉन्ग की इंटरैक्शन परिकल्पना के अनुसार स्पष्टीकरण माँगने जैसे समायोजन इनपुट को समझने योग्य बनाते हैं। चॉम्स्की, हाइम्स और वाइगोत्स्की अन्य विचारों से जुड़े हैं।"
+  },
+  {
+   "id": "t13-ped-04",
+   "part": "A",
+   "section": "ped",
+   "topic": "Schumann",
+   "question": "Schumann's Acculturation Model suggests that a learner's progress in the second language depends mainly on ___.",
+   "questionHi": "शूमैन के संस्कृतिग्रहण (Acculturation) मॉडल के अनुसार द्वितीय भाषा में प्रगति मुख्यतः किस पर निर्भर करती है?",
+   "options": [
+    "the learner's age at puberty",
+    "the social and psychological distance from the target-language group",
+    "the number of grammar rules memorised",
+    "the teacher's accent"
+   ],
+   "optionsHi": [
+    "यौवनारंभ के समय सीखने वाले की आयु",
+    "लक्ष्य-भाषा समूह से सामाजिक और मनोवैज्ञानिक दूरी",
+    "याद किए गए व्याकरण नियमों की संख्या",
+    "शिक्षक का उच्चारण"
+   ],
+   "correctIndex": 1,
+   "explanation": "Schumann argued that the smaller the social and psychological distance between the learner and the target-language community, the better the acquisition. The other factors are not central to his model.",
+   "explanationHi": "शूमैन के अनुसार सीखने वाले और लक्ष्य-भाषा समुदाय के बीच सामाजिक व मनोवैज्ञानिक दूरी जितनी कम होगी, अर्जन उतना बेहतर होगा। अन्य कारक उनके मॉडल के केंद्र में नहीं हैं।"
+  },
+  {
+   "id": "t13-ped-05",
+   "part": "A",
+   "section": "ped",
+   "topic": "Cummins",
+   "question": "According to Cummins, a migrant child may gain BICS in about two years, whereas CALP generally takes about ___.",
+   "questionHi": "कमिंस के अनुसार एक प्रवासी बच्चा BICS लगभग दो वर्ष में पा सकता है, जबकि CALP सामान्यतः लगभग ___ में विकसित होती है।",
+   "options": [
+    "six months",
+    "two to three weeks",
+    "five to seven years",
+    "fifteen to twenty years"
+   ],
+   "optionsHi": [
+    "छह माह",
+    "दो से तीन सप्ताह",
+    "पाँच से सात वर्ष",
+    "पंद्रह से बीस वर्ष"
+   ],
+   "correctIndex": 2,
+   "explanation": "Basic Interpersonal Communicative Skills develop quickly, while Cognitive Academic Language Proficiency usually needs about five to seven years. The other durations are unrealistic.",
+   "explanationHi": "BICS (बोलचाल की भाषा) जल्दी विकसित होती है, जबकि CALP (शैक्षणिक भाषा-दक्षता) के लिए सामान्यतः पाँच से सात वर्ष लगते हैं। अन्य अवधियाँ अवास्तविक हैं।"
+  },
+  {
+   "id": "t13-ped-06",
+   "part": "A",
+   "section": "ped",
+   "topic": "Halliday",
+   "question": "A child who keeps asking 'Why?' and 'How?' to explore the world is using which of Halliday's functions of language?",
+   "questionHi": "जो बच्चा दुनिया को जानने के लिए बार-बार 'क्यों?' और 'कैसे?' पूछता है, वह हैलिडे के भाषा-प्रकार्यों में से किसका उपयोग कर रहा है?",
+   "options": [
+    "Heuristic",
+    "Instrumental",
+    "Regulatory",
+    "Imaginative"
+   ],
+   "optionsHi": [
+    "अन्वेषणात्मक (Heuristic)",
+    "साधनात्मक (Instrumental)",
+    "नियामक (Regulatory)",
+    "काल्पनिक (Imaginative)"
+   ],
+   "correctIndex": 0,
+   "explanation": "The heuristic function is the use of language to learn and investigate. Instrumental is for getting needs met, regulatory for controlling others, and imaginative for creating make-believe worlds.",
+   "explanationHi": "अन्वेषणात्मक प्रकार्य में भाषा का उपयोग सीखने और खोजने के लिए होता है। साधनात्मक प्रकार्य आवश्यकताएँ पूरी करने, नियामक दूसरों को नियंत्रित करने और काल्पनिक कल्पना की दुनिया बनाने के लिए होता है।"
+  },
+  {
+   "id": "t13-ped-07",
+   "part": "A",
+   "section": "ped",
+   "topic": "Hymes",
+   "question": "Who introduced the term 'communicative competence' in reaction to Chomsky's idea of linguistic competence?",
+   "questionHi": "चॉम्स्की की भाषिक सक्षमता की अवधारणा के विरोध में 'संप्रेषणात्मक सक्षमता' शब्द किसने दिया?",
+   "options": [
+    "Halliday",
+    "Dell Hymes",
+    "Krashen",
+    "Widdowson"
+   ],
+   "optionsHi": [
+    "हैलिडे",
+    "डेल हाइम्स",
+    "क्रैशन",
+    "विडोसन"
+   ],
+   "correctIndex": 1,
+   "explanation": "Dell Hymes (1966-72) argued that knowing a language includes knowing what is appropriate in social contexts, not just grammatical rules. The others are linked to different theories.",
+   "explanationHi": "डेल हाइम्स ने कहा कि भाषा जानने में केवल व्याकरण ही नहीं, सामाजिक संदर्भ में क्या उचित है यह जानना भी शामिल है। अन्य विद्वान अलग सिद्धांतों से जुड़े हैं।"
+  },
+  {
+   "id": "t13-ped-08",
+   "part": "A",
+   "section": "ped",
+   "topic": "Canale and Swain",
+   "question": "In Canale and Swain's framework, using gestures or paraphrase when a word is forgotten is an example of ___ competence.",
+   "questionHi": "कैनेल और स्वेन के ढाँचे में कोई शब्द भूल जाने पर संकेत या पर्याय (paraphrase) का प्रयोग करना ___ सक्षमता का उदाहरण है।",
+   "options": [
+    "grammatical",
+    "sociolinguistic",
+    "discourse",
+    "strategic"
+   ],
+   "optionsHi": [
+    "व्याकरणिक",
+    "सामाजिक-भाषिक",
+    "विमर्श (discourse)",
+    "रणनीतिक (strategic)"
+   ],
+   "correctIndex": 3,
+   "explanation": "Strategic competence is the ability to repair communication breakdowns through compensation strategies. Grammatical is about rules, sociolinguistic about appropriateness, and discourse about coherence.",
+   "explanationHi": "रणनीतिक सक्षमता संप्रेषण की बाधा को क्षतिपूर्ति रणनीतियों से दूर करने की क्षमता है। व्याकरणिक सक्षमता नियमों से, सामाजिक-भाषिक उपयुक्तता से और विमर्श संगति से जुड़ी है।"
+  },
+  {
+   "id": "t13-ped-09",
+   "part": "A",
+   "section": "ped",
+   "topic": "Error analysis",
+   "question": "A study that classifies learners' actual errors and traces them to interlingual and intralingual sources is called ___.",
+   "questionHi": "जो अध्ययन सीखने वालों की वास्तविक त्रुटियों का वर्गीकरण करके उनके अंतर-भाषिक और अंतःभाषिक स्रोत खोजता है, उसे ___ कहते हैं।",
+   "options": [
+    "Contrastive Analysis",
+    "Discourse Analysis",
+    "Error Analysis",
+    "Needs Analysis"
+   ],
+   "optionsHi": [
+    "व्यतिरेकी विश्लेषण (Contrastive Analysis)",
+    "विमर्श विश्लेषण",
+    "त्रुटि विश्लेषण (Error Analysis)",
+    "आवश्यकता विश्लेषण"
+   ],
+   "correctIndex": 2,
+   "explanation": "Error Analysis (Corder) studies real learner errors. Contrastive Analysis only predicts errors by comparing L1 and L2 systems, so it cannot describe actual output.",
+   "explanationHi": "त्रुटि विश्लेषण (कॉर्डर) वास्तविक त्रुटियों का अध्ययन करता है। व्यतिरेकी विश्लेषण केवल L1 और L2 की तुलना करके त्रुटियों का अनुमान लगाता है।"
+  },
+  {
+   "id": "t13-ped-10",
+   "part": "A",
+   "section": "ped",
+   "topic": "Fossilisation",
+   "question": "A learner who, after years of immersion, still says 'He go to office' and does not improve is showing ___.",
+   "questionHi": "जो सीखने वाला वर्षों तक भाषा-परिवेश में रहने के बाद भी 'He go to office' कहता है और सुधार नहीं करता, वह ___ दर्शा रहा है।",
+   "options": [
+    "fossilisation",
+    "code-switching",
+    "overgeneralisation",
+    "transfer of training"
+   ],
+   "optionsHi": [
+    "जीवाश्मीकरण (fossilisation)",
+    "कोड-स्विचिंग",
+    "अतिसामान्यीकरण",
+    "प्रशिक्षण-अंतरण"
+   ],
+   "correctIndex": 0,
+   "explanation": "Selinker's fossilisation is the permanent stabilisation of incorrect forms in interlanguage despite exposure and instruction. Code-switching is alternating languages; overgeneralisation is applying a rule too widely.",
+   "explanationHi": "सेलिंकर के अनुसार जीवाश्मीकरण में अंतर्भाषा के गलत रूप परिवेश और शिक्षण के बावजूद स्थायी हो जाते हैं। कोड-स्विचिंग भाषाएँ बदलना है और अतिसामान्यीकरण नियम को अधिक लागू करना।"
+  },
+  {
+   "id": "t13-ped-11",
+   "part": "A",
+   "section": "ped",
+   "topic": "Bloom's revised taxonomy",
+   "question": "In the revised Bloom's taxonomy, composing an original short story belongs to the level ___.",
+   "questionHi": "संशोधित ब्लूम वर्गीकरण में एक मौलिक लघु कहानी लिखना किस स्तर में आता है?",
+   "options": [
+    "Evaluate",
+    "Create",
+    "Apply",
+    "Analyse"
+   ],
+   "optionsHi": [
+    "मूल्यांकन (Evaluate)",
+    "सृजन (Create)",
+    "अनुप्रयोग (Apply)",
+    "विश्लेषण (Analyse)"
+   ],
+   "correctIndex": 1,
+   "explanation": "Producing something new and original is the top level, Create, in Anderson and Krathwohl's revision. Evaluate means judging, Apply means using, and Analyse means breaking into parts.",
+   "explanationHi": "कुछ नया और मौलिक रचना एंडरसन-क्रैथवोल के संशोधन में सर्वोच्च स्तर 'सृजन' है। मूल्यांकन परखना, अनुप्रयोग उपयोग करना और विश्लेषण भागों में बाँटना है।"
+  },
+  {
+   "id": "t13-ped-12",
+   "part": "A",
+   "section": "ped",
+   "topic": "Scaffolding and ZPD",
+   "question": "A teacher gives a sentence frame at first and then gradually withdraws it as the learner becomes confident. This illustrates ___.",
+   "questionHi": "शिक्षक पहले वाक्य-ढाँचा देता है और सीखने वाले के आत्मविश्वास बढ़ने पर उसे धीरे-धीरे हटा लेता है। यह ___ का उदाहरण है।",
+   "options": [
+    "negative reinforcement",
+    "rote drilling",
+    "extinction",
+    "scaffolding within the ZPD"
+   ],
+   "optionsHi": [
+    "नकारात्मक पुनर्बलन",
+    "रटंत अभ्यास",
+    "विलोपन",
+    "ZPD के भीतर स्कैफ़ोल्डिंग (सहारा देना)"
+   ],
+   "correctIndex": 3,
+   "explanation": "Temporary, adjustable support that is withdrawn as competence grows is scaffolding, working in Vygotsky's Zone of Proximal Development. The other terms do not describe fading support.",
+   "explanationHi": "क्षमता बढ़ने के साथ हटाया जाने वाला अस्थायी समायोज्य सहारा स्कैफ़ोल्डिंग है, जो वाइगोत्स्की के निकटतम विकास क्षेत्र (ZPD) में काम करता है। अन्य शब्द इसे नहीं बताते।"
+  },
+  {
+   "id": "t13-ped-13",
+   "part": "A",
+   "section": "ped",
+   "topic": "Critical period hypothesis",
+   "question": "Lenneberg's critical period hypothesis, applied to language learning, claims that ___.",
+   "questionHi": "भाषा सीखने पर लागू होने पर लेनेबर्ग की क्रांतिक अवधि परिकल्पना (critical period hypothesis) का दावा है कि ___।",
+   "options": [
+    "there is a biologically limited period, ending around puberty, for natural acquisition of a language",
+    "a language can be acquired equally well at any age",
+    "only children raised in bilingual homes can learn a second language",
+    "grammar must be taught before vocabulary"
+   ],
+   "optionsHi": [
+    "भाषा के स्वाभाविक अर्जन के लिए एक जैविक रूप से सीमित अवधि होती है, जो लगभग यौवन तक समाप्त हो जाती है",
+    "भाषा किसी भी उम्र में समान रूप से अच्छी सीखी जा सकती है",
+    "केवल द्विभाषी घरों के बच्चे ही दूसरी भाषा सीख सकते हैं",
+    "व्याकरण को शब्दावली से पहले पढ़ाना चाहिए"
+   ],
+   "correctIndex": 0,
+   "explanation": "Lenneberg proposed that language acquisition is easiest during a biologically determined window that closes around puberty. The other statements contradict or misstate the hypothesis.",
+   "explanationHi": "लेनेबर्ग ने प्रस्ताव दिया कि भाषा अर्जन एक जैविक रूप से निर्धारित अवधि में सबसे आसान होता है, जो लगभग यौवन के आसपास बंद हो जाती है। अन्य कथन परिकल्पना के विपरीत या गलत हैं।"
+  },
+  {
+   "id": "t13-ped-14",
+   "part": "A",
+   "section": "ped",
+   "topic": "Multilingual classroom",
+   "question": "Allowing learners to use their whole linguistic repertoire (for example Hindi, Chhattisgarhi and English) to make meaning in class is called ___.",
+   "questionHi": "कक्षा में सीखने वालों को अपने पूरे भाषाई भंडार (जैसे हिंदी, छत्तीसगढ़ी और अंग्रेज़ी) का उपयोग करके अर्थ निर्माण करने देना ___ कहलाता है।",
+   "options": [
+    "diglossia",
+    "translanguaging",
+    "pidginisation",
+    "fossilisation"
+   ],
+   "optionsHi": [
+    "द्विभाषिकता-भेद (diglossia)",
+    "ट्रांसलैंग्वेजिंग (translanguaging)",
+    "पिजिनीकरण",
+    "जीवाश्मीकरण"
+   ],
+   "correctIndex": 1,
+   "explanation": "Translanguaging treats the languages of a multilingual learner as one integrated resource. Diglossia is the functional split of two varieties in a society, and fossilisation is permanent error.",
+   "explanationHi": "ट्रांसलैंग्वेजिंग में बहुभाषी विद्यार्थी की सभी भाषाओं को एक एकीकृत संसाधन माना जाता है। डाइग्लॉसिया समाज में दो भाषा-रूपों का कार्यात्मक विभाजन है और जीवाश्मीकरण स्थायी त्रुटि।"
+  },
+  {
+   "id": "t13-ped-15",
+   "part": "A",
+   "section": "ped",
+   "topic": "Remedial teaching",
+   "question": "Which sequence best represents sound remedial teaching in language?",
+   "questionHi": "भाषा में उपचारात्मक शिक्षण का सबसे उचित क्रम कौन-सा है?",
+   "options": [
+    "Punish errors -> repeat the lesson -> test again",
+    "Teach new unit -> ignore weak learners -> final exam",
+    "Diagnose the difficulty -> find its cause -> give targeted practice -> reassess",
+    "Assign extra homework -> compare learners -> rank them"
+   ],
+   "optionsHi": [
+    "त्रुटि पर दंड -> पाठ दोहराना -> फिर परीक्षा",
+    "नई इकाई पढ़ाना -> कमज़ोर विद्यार्थियों को नज़रअंदाज़ करना -> अंतिम परीक्षा",
+    "कठिनाई की पहचान -> कारण खोजना -> लक्षित अभ्यास देना -> पुनर्मूल्यांकन",
+    "अतिरिक्त गृहकार्य -> विद्यार्थियों की तुलना -> रैंक देना"
+   ],
+   "correctIndex": 2,
+   "explanation": "Remedial teaching follows a cycle of diagnosis, cause analysis, targeted intervention and reassessment. Punishment, neglect or ranking do not address the learning difficulty.",
+   "explanationHi": "उपचारात्मक शिक्षण में निदान, कारण-विश्लेषण, लक्षित हस्तक्षेप और पुनर्मूल्यांकन का चक्र होता है। दंड, उपेक्षा या रैंकिंग से सीखने की कठिनाई दूर नहीं होती।"
+  }
+ ]
+}

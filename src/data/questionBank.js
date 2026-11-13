@@ -1,4 +1,5 @@
-export const TOTAL_TESTS = 10
+export const TOTAL_TESTS = 20
+export const STANDARD_TESTS = 10 // tests 1-10 standard level, 11-20 advanced (moderate-to-hard)
 
 let indexPromise = null
 const testCache = new Map()

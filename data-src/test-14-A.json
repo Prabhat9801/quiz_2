@@ -1,0 +1,1059 @@
+{
+ "passages": [
+  {
+   "id": "t14-p1",
+   "genre": "Newspaper editorial",
+   "title": "The Vanishing Reading Room",
+   "text": "Every few months a district headquarters inaugurates a gleaming digital library, complete with tablets, charging docks and a ribbon-cutting ceremony. Meanwhile, three kilometres away, the old panchayat reading room, its shelves sagging and its single ceiling fan idle, is quietly shut for want of a caretaker whose honorarium was never sanctioned. The contrast is instructive. Officials are fond of counting devices because devices can be counted; they are far less comfortable with the harder arithmetic of habit. A reading culture is not purchased in a single budget cycle. It grows around a patient librarian who knows which child is ready for which book, around a corner where a farmer may borrow an almanac without being questioned, around the unglamorous guarantee that the door will be open on Tuesday as it was on Monday. Technology can certainly widen that circle, but it cannot replace the human anchor at its centre. Before we celebrate another launch, we might ask a plainer question: how many of last year's new libraries still have a living, funded, reasonably cheerful person behind the desk?"
+  },
+  {
+   "id": "t14-p2",
+   "genre": "Poetry extract (original)",
+   "title": "The Weaver at Dusk",
+   "text": "He does not hurry the shuttle now;\nthe light has thinned to a single thread,\nand the loom, that old accountant of days,\ntallies each passing in warp and weft.\nHis father's knots are in this cloth,\nhis daughter's colour in its border,\nand somewhere in the middle, unplanned,\na grey he cannot trace to any cause.\nBuyers will call the flaw a charm\nand pay a little less for charm.\nHe smiles, for a man who has worn\nhis whole life as an apprenticeship\nknows that the pattern is never finished,\nonly put down, like a tired hand,\nuntil the morning asks for it again."
+  },
+  {
+   "id": "t14-p3",
+   "genre": "Scientific passage",
+   "title": "Sleep and the Making of Memory",
+   "text": "For decades, sleep was regarded as a passive interval in which the brain, like a machine switched off at the mains, merely rested. Recording studies have overturned this view. During slow-wave sleep, patterns of neural firing that occurred while an animal learned a maze are replayed, often at greater speed, as though the brain were rehearsing the day's lessons. This replay is thought to help transfer fragile, newly formed traces from the hippocampus, which stores them temporarily, to the neocortex, where they are integrated with existing knowledge. Crucially, the process appears selective: memories tagged as emotionally salient or relevant to future goals are strengthened, while trivial details fade. Researchers are cautious, however. Disrupting sleep impairs learning, but this correlation does not prove that replay itself is the causal mechanism, since sleep deprivation also alters mood, attention and hormone levels. Some experiments that played faint cues linked to a learned task during sleep have yielded improved recall, yet the effects are modest. Thus, while the picture is compelling, it remains incomplete, and claims that one can master a language by listening to recordings overnight go far beyond the evidence."
+  }
+ ],
+ "questions": [
+  {
+   "id": "t14-gram-01",
+   "part": "A",
+   "section": "gram",
+   "topic": "Inversion",
+   "question": "Hardly had the chairman begun his speech ____ the lights went out.",
+   "options": [
+    "than",
+    "when",
+    "then",
+    "while"
+   ],
+   "correctIndex": 1,
+   "explanation": "\"Hardly/Scarcely ... when\" is the fixed correlative pair; \"than\" goes with \"No sooner\". \"Then\" and \"while\" do not form this pattern."
+  },
+  {
+   "id": "t14-gram-02",
+   "part": "A",
+   "section": "gram",
+   "topic": "Tenses",
+   "question": "At this time tomorrow, the Minister ____ over the Bastar region.",
+   "options": [
+    "will be flying",
+    "will fly",
+    "will have flown",
+    "would be flying"
+   ],
+   "correctIndex": 0,
+   "explanation": "A fixed point in the future (\"at this time tomorrow\") needs the future continuous. \"Will have flown\" shows completion before that time; \"would be flying\" is a past-in-future form."
+  },
+  {
+   "id": "t14-gram-03",
+   "part": "A",
+   "section": "gram",
+   "topic": "Conditionals",
+   "question": "If I had taken the morning train, I ____ in the examination hall now.",
+   "options": [
+    "would have been sitting",
+    "had been sitting",
+    "will be sitting",
+    "would be sitting"
+   ],
+   "correctIndex": 3,
+   "explanation": "A past unreal condition with a present result is a mixed conditional: if + past perfect, would + base verb. \"Would have been sitting\" refers to a past result, not \"now\"."
+  },
+  {
+   "id": "t14-gram-04",
+   "part": "A",
+   "section": "gram",
+   "topic": "Conditionals",
+   "question": "Had it not been for your timely help, I ____ the examination.",
+   "options": [
+    "will fail",
+    "would fail",
+    "would have failed",
+    "had failed"
+   ],
+   "correctIndex": 2,
+   "explanation": "\"Had it not been for\" is an inverted third conditional (if it had not been for), so the main clause takes \"would have + past participle\"."
+  },
+  {
+   "id": "t14-gram-05",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subject-verb agreement",
+   "question": "Ranjan is the only one of the students who ____ passed the Olympiad.",
+   "options": [
+    "have",
+    "has",
+    "are",
+    "were"
+   ],
+   "correctIndex": 1,
+   "explanation": "In \"the only one ... who\", the relative pronoun refers to the singular \"one\", so the verb is singular: \"has\". (With \"one of the students who\", it would be plural.)"
+  },
+  {
+   "id": "t14-gram-06",
+   "part": "A",
+   "section": "gram",
+   "topic": "Question tag",
+   "question": "Nobody called while I was out, ____?",
+   "options": [
+    "did they",
+    "did he",
+    "didn't they",
+    "was it"
+   ],
+   "correctIndex": 0,
+   "explanation": "Nobody has a negative meaning, so the tag is positive; the pronoun \"they\" is used for indefinite pronouns like nobody/somebody. The tag follows the main verb \"called\" (did)."
+  },
+  {
+   "id": "t14-gram-07",
+   "part": "A",
+   "section": "gram",
+   "topic": "Direct-Indirect speech",
+   "question": "He said, \"I will have finished the report by the time you arrive tomorrow.\" Choose the correct indirect speech.",
+   "options": [
+    "He said that he will have finished the report by the time you arrive tomorrow.",
+    "He said that he would finish the report by the time I arrive the next day.",
+    "He said that he had finished the report by the time I would arrive the next day.",
+    "He said that he would have finished the report by the time I arrived the next day."
+   ],
+   "correctIndex": 3,
+   "explanation": "The reporting verb is past, so \"will have finished\" becomes \"would have finished\", \"arrive\" becomes \"arrived\", \"you\" becomes \"I\", and \"tomorrow\" becomes \"the next day\"."
+  },
+  {
+   "id": "t14-gram-08",
+   "part": "A",
+   "section": "gram",
+   "topic": "Relative clauses",
+   "question": "The speaker has only one brother. Which sentence is correctly punctuated?",
+   "options": [
+    "My brother who lives in Durg is an engineer.",
+    "My brother, who lives in Durg is an engineer.",
+    "My brother, who lives in Durg, is an engineer.",
+    "My brother who, lives in Durg, is an engineer."
+   ],
+   "correctIndex": 2,
+   "explanation": "Since there is only one brother, the clause adds extra (non-defining) information and must be set off by a pair of commas. A defining clause (no commas) would imply several brothers."
+  },
+  {
+   "id": "t14-gram-09",
+   "part": "A",
+   "section": "gram",
+   "topic": "Non-finite clauses",
+   "question": "Which sentence has NO dangling modifier?",
+   "options": [
+    "Walking through the forest, the tall sal trees impressed us.",
+    "Walking through the forest, we were impressed by the tall sal trees.",
+    "Having finished the exam, the bell rang.",
+    "Driving down the road, the mountains came into view."
+   ],
+   "correctIndex": 1,
+   "explanation": "The participle phrase must modify the subject of the main clause. Only in the correct option is the doer of \"walking\" (\"we\") the subject; in the others trees, bell and mountains cannot walk, finish or drive."
+  },
+  {
+   "id": "t14-gram-10",
+   "part": "A",
+   "section": "gram",
+   "topic": "Elliptical patterns",
+   "question": "She wanted me to attend the seminar, but I didn't want ____.",
+   "options": [
+    "to",
+    "it",
+    "so",
+    "that"
+   ],
+   "correctIndex": 0,
+   "explanation": "Ellipsis of the repeated infinitive phrase leaves \"to\" (the \"reduced infinitive\"): \"I didn't want to (attend)\". \"So\" is used after think/say/hope, not after want."
+  },
+  {
+   "id": "t14-gram-11",
+   "part": "A",
+   "section": "gram",
+   "topic": "Modals",
+   "question": "The ground is wet, but I slept early and cannot be sure. It ____ last night.",
+   "options": [
+    "must have rained",
+    "should have rained",
+    "can have rained",
+    "may have rained"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"May have + V3\" expresses possibility in the past; \"must have\" shows strong certainty, which the speaker lacks. \"Should have\" shows criticism/expectation, and \"can have\" is not used in affirmative speculation."
+  },
+  {
+   "id": "t14-gram-12",
+   "part": "A",
+   "section": "gram",
+   "topic": "Determiners",
+   "question": "The scholar offered ____ information about the manuscript, so we could barely trace its origin.",
+   "options": [
+    "few",
+    "many",
+    "little",
+    "several"
+   ],
+   "correctIndex": 2,
+   "explanation": "\"Information\" is uncountable, and \"barely\" signals a negative sense, so \"little\" is correct. \"Few\", \"many\" and \"several\" go only with plural countable nouns."
+  },
+  {
+   "id": "t14-gram-13",
+   "part": "A",
+   "section": "gram",
+   "topic": "Phrasal verbs",
+   "question": "He tried to talk his sister ____ the idea of quitting her job.",
+   "options": [
+    "into",
+    "out of",
+    "over",
+    "off"
+   ],
+   "correctIndex": 1,
+   "explanation": "\"Talk someone out of\" means to dissuade. \"Talk into\" means to persuade to do something, \"talk over\" means to discuss, and \"talk off\" is not a standard phrasal verb."
+  },
+  {
+   "id": "t14-gram-14",
+   "part": "A",
+   "section": "gram",
+   "topic": "Transformation of sentences",
+   "question": "Which is the simple-sentence form of \"Because he was ill, he could not attend the meeting\"?",
+   "options": [
+    "Owing to his illness, he could not attend the meeting.",
+    "He was ill, so he could not attend the meeting.",
+    "He could not attend the meeting as he was ill.",
+    "Though he was ill, he attended the meeting."
+   ],
+   "correctIndex": 0,
+   "explanation": "A simple sentence has one finite verb; the adverb clause becomes a phrase (\"Owing to his illness\"). Option 2 is compound, option 3 is complex, option 4 changes the meaning."
+  },
+  {
+   "id": "t14-gram-15",
+   "part": "A",
+   "section": "gram",
+   "topic": "Cleft sentences",
+   "question": "It was only after the results were declared ____ she realised her error.",
+   "options": [
+    "when",
+    "which",
+    "then",
+    "that"
+   ],
+   "correctIndex": 3,
+   "explanation": "An it-cleft has the pattern \"It was + focused element + that ...\". \"When\", \"which\" and \"then\" cannot introduce the clefted clause here."
+  },
+  {
+   "id": "t14-vocab-01",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word formation (Greek roots)",
+   "question": "A \"misanthrope\" is a person who",
+   "options": [
+    "distrusts or dislikes mankind",
+    "hates only women",
+    "loves humanity",
+    "opposes all governments"
+   ],
+   "correctIndex": 0,
+   "explanation": "Greek miseo (hate) + anthropos (human being). \"Hating women\" is \"misogynist\", while \"loving humanity\" is \"philanthropist\"."
+  },
+  {
+   "id": "t14-vocab-02",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Polysemy",
+   "question": "In the phrase \"a sound argument\", the word \"sound\" means",
+   "options": [
+    "a noise heard",
+    "a narrow stretch of sea",
+    "to measure depth",
+    "valid and well-founded"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"Sound\" as an adjective means reliable/logically valid. The others are different senses (noun: noise; noun: strait; verb: fathom)."
+  },
+  {
+   "id": "t14-vocab-03",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Homophones",
+   "question": "The mild sauce was a perfect ____ to the spicy curry.",
+   "options": [
+    "compliment",
+    "complaint",
+    "complement",
+    "supplement"
+   ],
+   "correctIndex": 2,
+   "explanation": "\"Complement\" means something that completes or balances. \"Compliment\" is praise (a homophone), and the others do not fit."
+  },
+  {
+   "id": "t14-vocab-04",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Collocations",
+   "question": "The cyclone ____ havoc along the coast.",
+   "options": [
+    "wrecked",
+    "wreaked",
+    "reaped",
+    "raked"
+   ],
+   "correctIndex": 1,
+   "explanation": "\"Wreak havoc\" is the fixed collocation; \"wrecked\" and the others are look-alike distractors."
+  },
+  {
+   "id": "t14-vocab-05",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word class conversion",
+   "question": "In which sentence is an adjective used as a noun?",
+   "options": [
+    "The wounded were taken to the camp hospital.",
+    "The wounded soldier was taken to the camp hospital.",
+    "The sniper wounded the soldier.",
+    "He was wounded badly."
+   ],
+   "correctIndex": 0,
+   "explanation": "In \"The wounded were taken\", \"the wounded\" means \"wounded people\" and is the subject of the sentence. In the other options \"wounded\" is an adjective or a verb form."
+  },
+  {
+   "id": "t14-vocab-06",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Lexical bundles",
+   "question": "A \"lexical bundle\" is best described as",
+   "options": [
+    "an idiom whose meaning cannot be guessed from its words",
+    "a group of words with the same root",
+    "a set of words that sound alike",
+    "a recurrent sequence of three or more words that frequently co-occur, whether or not it is idiomatic"
+   ],
+   "correctIndex": 3,
+   "explanation": "Lexical bundles (e.g. \"on the other hand\", \"as a result of\") are identified by frequency, not by opacity or morphology, which distinguishes them from idioms."
+  },
+  {
+   "id": "t14-vocab-07",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Allusions",
+   "question": "A \"Sisyphean\" task is one that is",
+   "options": [
+    "extremely easy",
+    "highly rewarding",
+    "endless and futile, however hard one works",
+    "dangerous but short"
+   ],
+   "correctIndex": 2,
+   "explanation": "Sisyphus, in Greek myth, was condemned to roll a boulder uphill forever; it rolled back each time. Hence an endless, unrewarding labour."
+  },
+  {
+   "id": "t14-vocab-08",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "In \"The Crown rejected the petition\", the word \"Crown\" stands for the monarch or government. This figure of speech is",
+   "options": [
+    "synecdoche",
+    "metonymy",
+    "simile",
+    "apostrophe"
+   ],
+   "correctIndex": 1,
+   "explanation": "The name of an associated object (the Crown) replaces the thing meant (the monarchy): metonymy. Synecdoche uses a part for the whole; there is no comparison (simile) or address to an absent person (apostrophe)."
+  },
+  {
+   "id": "t14-vocab-09",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "In \"He caught the train and a cold\", the figure of speech is",
+   "options": [
+    "zeugma",
+    "pleonasm",
+    "tmesis",
+    "hendiadys"
+   ],
+   "correctIndex": 0,
+   "explanation": "One verb (\"caught\") governs two objects in different senses (physical vs. illness): zeugma. Pleonasm is redundancy; hendiadys expresses one idea through two nouns."
+  },
+  {
+   "id": "t14-vocab-10",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "\"All hands on deck!\" shouted the captain. The figure of speech used is",
+   "options": [
+    "metonymy",
+    "hyperbole",
+    "litotes",
+    "synecdoche"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"Hands\" (a part) stands for the whole sailors: synecdoche. Metonymy substitutes an associated name, not a part of the thing."
+  },
+  {
+   "id": "t14-vocab-11",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "Which of the following is an example of litotes?",
+   "options": [
+    "The silence was deafening.",
+    "He is made of iron.",
+    "It was no small feat to cross the Hasdeo forest on foot.",
+    "Time is a thief."
+   ],
+   "correctIndex": 2,
+   "explanation": "Litotes affirms something by negating its opposite (\"no small feat\" = a great feat). \"Deafening silence\" is an oxymoron; the others are metaphors."
+  },
+  {
+   "id": "t14-vocab-12",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "In \"of the people, by the people, for the people\", the repetition of the same words at the END of successive phrases is called",
+   "options": [
+    "anaphora",
+    "epistrophe",
+    "anadiplosis",
+    "chiasmus"
+   ],
+   "correctIndex": 1,
+   "explanation": "Epistrophe repeats words at the end of clauses; anaphora repeats at the beginning; anadiplosis repeats the last word of one clause at the start of the next."
+  },
+  {
+   "id": "t14-vocab-13",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word formation",
+   "question": "Which of the following words was formed by back-formation?",
+   "options": [
+    "edit (from editor)",
+    "teacher",
+    "unhappy",
+    "careless"
+   ],
+   "correctIndex": 0,
+   "explanation": "Back-formation creates a shorter word by removing a (supposed) affix: \"editor\" gave \"edit\". The others are formed by adding affixes."
+  },
+  {
+   "id": "t14-vocab-14",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Polysemy",
+   "question": "The verb \"cleave\" is a contronym because it",
+   "options": [
+    "is both a noun and a verb",
+    "sounds like another word",
+    "has two spellings",
+    "has two opposite meanings: to split and to cling"
+   ],
+   "correctIndex": 3,
+   "explanation": "A contronym (auto-antonym) carries opposite senses: \"cleave\" means to split apart and also to adhere closely."
+  },
+  {
+   "id": "t14-vocab-15",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idiomaticity",
+   "question": "To \"rest on one's laurels\" means to",
+   "options": [
+    "win a competition",
+    "refuse an honour",
+    "be content with past achievements and make no further effort",
+    "work harder after success"
+   ],
+   "correctIndex": 2,
+   "explanation": "The laurel wreath symbolised victory; resting on it means complacency after earlier success."
+  },
+  {
+   "id": "t14-rc-01",
+   "part": "A",
+   "section": "rc",
+   "passageId": "t14-p1",
+   "topic": "Author purpose",
+   "question": "The description of the old reading room with sagging shelves and an idle fan mainly serves to",
+   "options": [
+    "advertise the reading room to visitors",
+    "praise the district headquarters",
+    "suggest that fans should be repaired",
+    "show how a modest, useful institution is neglected while showpieces are celebrated"
+   ],
+   "correctIndex": 3,
+   "explanation": "The image sets the neglected, caretaker-less room against the gleaming launch, illustrating the contrast the author calls instructive."
+  },
+  {
+   "id": "t14-rc-02",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t14-p1",
+   "question": "The phrase \"the harder arithmetic of habit\" suggests that",
+   "options": [
+    "reading requires mathematical skill",
+    "habits can be calculated exactly",
+    "building lasting reading habits is difficult and cannot be measured by simply counting devices",
+    "officials are poor at arithmetic"
+   ],
+   "correctIndex": 2,
+   "explanation": "The contrast is between easily countable devices and the slow, hard-to-quantify work of forming habits. The phrase is figurative, not literal."
+  },
+  {
+   "id": "t14-rc-03",
+   "part": "A",
+   "section": "rc",
+   "topic": "Tone",
+   "passageId": "t14-p1",
+   "question": "The author's tone in the passage is best described as",
+   "options": [
+    "bitterly hostile",
+    "wryly critical",
+    "neutral and detached",
+    "nostalgic and sentimental"
+   ],
+   "correctIndex": 1,
+   "explanation": "Remarks like \"fond of counting devices because devices can be counted\" and the \"reasonably cheerful person\" are gently ironic criticism, not outright hostility or neutral reporting."
+  },
+  {
+   "id": "t14-rc-04",
+   "part": "A",
+   "section": "rc",
+   "passageId": "t14-p1",
+   "topic": "Vocabulary in context",
+   "question": "In the passage, the expression \"human anchor\" most nearly refers to",
+   "options": [
+    "a patient, funded librarian who keeps the library steady",
+    "a visitor who donates books",
+    "a heavy piece of library furniture",
+    "an official who cuts the ribbon"
+   ],
+   "correctIndex": 0,
+   "explanation": "The \"human anchor at its centre\" is the patient librarian who knows each reader and keeps the service dependable."
+  },
+  {
+   "id": "t14-rc-05",
+   "part": "A",
+   "section": "rc",
+   "topic": "Rhetorical device",
+   "passageId": "t14-p1",
+   "question": "The closing question of the passage mainly serves to",
+   "options": [
+    "ask readers for statistics on new libraries",
+    "express doubt about the existence of libraries",
+    "suggest that librarians are unhappy",
+    "shift the test of success from launching libraries to keeping them staffed and functioning"
+   ],
+   "correctIndex": 3,
+   "explanation": "It is a rhetorical question: it redefines the measure of success as continued staffed service, thus summing up the editorial's argument."
+  },
+  {
+   "id": "t14-rc-06",
+   "part": "A",
+   "section": "rc",
+   "topic": "Figures of speech",
+   "passageId": "t14-p2",
+   "question": "The expression \"that old accountant of days\" is an example of",
+   "options": [
+    "simile",
+    "apostrophe",
+    "metaphor",
+    "oxymoron"
+   ],
+   "correctIndex": 2,
+   "explanation": "The loom is directly identified with an accountant (it \"tallies\" passing time) without \"like\" or \"as\": a metaphor."
+  },
+  {
+   "id": "t14-rc-07",
+   "part": "A",
+   "section": "rc",
+   "topic": "Irony",
+   "passageId": "t14-p2",
+   "question": "The lines \"Buyers will call the flaw a charm / and pay a little less for charm\" bring out",
+   "options": [
+    "the weaver's anger at dishonest buyers",
+    "the irony that imperfection is praised but still undervalued",
+    "the superior quality of machine-made cloth",
+    "the weaver's plan to raise prices"
+   ],
+   "correctIndex": 1,
+   "explanation": "Buyers verbally admire the flaw yet pay less, which is ironic. The poem does not state anger or machine competition."
+  },
+  {
+   "id": "t14-rc-08",
+   "part": "A",
+   "section": "rc",
+   "topic": "Mood",
+   "passageId": "t14-p2",
+   "question": "The overall mood of the poem is one of",
+   "options": [
+    "quiet, dignified acceptance",
+    "bitter resentment",
+    "excited anticipation",
+    "helpless despair"
+   ],
+   "correctIndex": 0,
+   "explanation": "He does not hurry, \"smiles\", and views the work as continuing. The mood is contemplative and accepting, not bitter or despairing."
+  },
+  {
+   "id": "t14-rc-09",
+   "part": "A",
+   "section": "rc",
+   "topic": "Interpretation",
+   "passageId": "t14-p2",
+   "question": "\"The pattern is never finished, only put down, like a tired hand\" suggests that",
+   "options": [
+    "the weaver is too tired to work again",
+    "the cloth was left incomplete because of an accident",
+    "the pattern is faulty",
+    "a lifetime of craft is a continuing process, interrupted but not completed"
+   ],
+   "correctIndex": 3,
+   "explanation": "The simile pictures work as paused rather than ended, resuming \"until the morning asks for it again\"."
+  },
+  {
+   "id": "t14-rc-10",
+   "part": "A",
+   "section": "rc",
+   "topic": "Cannot be inferred",
+   "passageId": "t14-p2",
+   "question": "Which of the following is NOT supported by the poem?",
+   "options": [
+    "The craft has been passed through generations.",
+    "The weaver works slowly as evening comes.",
+    "The weaver bitterly blames the buyers for the flaw.",
+    "The cloth contains an unplanned flaw."
+   ],
+   "correctIndex": 2,
+   "explanation": "The weaver smiles; no blame is stated. \"Father's knots ... daughter's colour\" supports generations, and \"does not hurry\" and \"light has thinned\" support the other options."
+  },
+  {
+   "id": "t14-rc-11",
+   "part": "A",
+   "section": "rc",
+   "topic": "Purpose",
+   "passageId": "t14-p3",
+   "question": "The main purpose of the passage is to",
+   "options": [
+    "prove that sleep replay causes all learning",
+    "outline the evolving evidence on sleep and memory while cautioning about its limits",
+    "argue that sleep is unnecessary for adults",
+    "advertise sleep-learning recordings"
+   ],
+   "correctIndex": 1,
+   "explanation": "The passage reviews findings (replay, transfer, selectivity) and then qualifies them (\"cautious\", \"incomplete\")."
+  },
+  {
+   "id": "t14-rc-12",
+   "part": "A",
+   "section": "rc",
+   "topic": "Rhetorical device",
+   "passageId": "t14-p3",
+   "question": "The comparison \"like a machine switched off at the mains\" is used to",
+   "options": [
+    "illustrate the earlier belief that sleep is a passive state",
+    "describe how neurons fire in slow-wave sleep",
+    "show that the brain needs electricity",
+    "criticise modern machines"
+   ],
+   "correctIndex": 0,
+   "explanation": "It is a simile used for the old view; the passage immediately says the view has been \"overturned\"."
+  },
+  {
+   "id": "t14-rc-13",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t14-p3",
+   "question": "The author would most probably regard the claim that one can master a language by overnight listening as",
+   "options": [
+    "well established",
+    "proved by cue experiments",
+    "harmful to the hippocampus",
+    "unsupported by present evidence"
+   ],
+   "correctIndex": 3,
+   "explanation": "The last sentence says such claims \"go far beyond the evidence\"; the cue experiments only showed modest effects."
+  },
+  {
+   "id": "t14-rc-14",
+   "part": "A",
+   "section": "rc",
+   "topic": "Cannot be inferred",
+   "passageId": "t14-p3",
+   "question": "Which statement CANNOT be inferred from the passage?",
+   "options": [
+    "Memory traces may move from the hippocampus to the neocortex during sleep.",
+    "Some memories are strengthened more than others during sleep.",
+    "Sleep deprivation affects only memory and nothing else.",
+    "The link between replay and learning is not fully proven."
+   ],
+   "correctIndex": 2,
+   "explanation": "The passage states sleep deprivation also alters mood, attention and hormones, contradicting option 1; the others are supported."
+  },
+  {
+   "id": "t14-rc-15",
+   "part": "A",
+   "section": "rc",
+   "topic": "Vocabulary in context",
+   "passageId": "t14-p3",
+   "question": "The word \"compelling\" in \"the picture is compelling\" most nearly means",
+   "options": [
+    "compulsory",
+    "convincing",
+    "dramatic",
+    "contradictory"
+   ],
+   "correctIndex": 1,
+   "explanation": "Used of a picture or argument, \"compelling\" means persuasive/convincing, consistent with the author's balanced approval before saying it is incomplete."
+  },
+  {
+   "id": "t14-ped-01",
+   "part": "A",
+   "section": "ped",
+   "topic": "Krashen: Affective Filter",
+   "question": "According to Krashen's Affective Filter Hypothesis, the filter is raised (acquisition is blocked) mainly by",
+   "questionHi": "क्रैशेन की Affective Filter परिकल्पना के अनुसार filter (भाषा अर्जन में बाधा) मुख्यतः किससे बढ़ता है?",
+   "options": [
+    "high motivation",
+    "strong self-confidence",
+    "anxiety and low self-confidence",
+    "a relaxed classroom"
+   ],
+   "optionsHi": [
+    "उच्च प्रेरणा",
+    "मज़बूत आत्मविश्वास",
+    "चिंता और कम आत्मविश्वास",
+    "तनाव-मुक्त कक्षा"
+   ],
+   "correctIndex": 2,
+   "explanation": "Anxiety, low self-esteem and low motivation raise the affective filter so that input is not taken in; motivation, confidence and low anxiety lower it.",
+   "explanationHi": "चिंता, कम आत्म-सम्मान और कम प्रेरणा filter को बढ़ाते हैं जिससे input ग्रहण नहीं हो पाता; प्रेरणा, आत्मविश्वास और कम चिंता filter को घटाते हैं।"
+  },
+  {
+   "id": "t14-ped-02",
+   "part": "A",
+   "section": "ped",
+   "topic": "Halliday: Functions of language",
+   "question": "A child keeps asking \"Why is the sky blue?\" Which Halliday function is mainly being used?",
+   "questionHi": "एक बच्चा बार-बार पूछता है \"आसमान नीला क्यों है?\" हैलिडे का कौन-सा भाषा-प्रकार्य मुख्यतः प्रयुक्त हो रहा है?",
+   "options": [
+    "Regulatory",
+    "Heuristic",
+    "Imaginative",
+    "Instrumental"
+   ],
+   "optionsHi": [
+    "Regulatory",
+    "Heuristic",
+    "Imaginative",
+    "Instrumental"
+   ],
+   "correctIndex": 1,
+   "explanation": "Halliday's heuristic function is language used to explore and learn about the environment, as in questions seeking explanations.",
+   "explanationHi": "हैलिडे का heuristic प्रकार्य भाषा द्वारा परिवेश को जानने-समझने के लिए है, जैसे स्पष्टीकरण माँगने वाले प्रश्न।"
+  },
+  {
+   "id": "t14-ped-03",
+   "part": "A",
+   "section": "ped",
+   "topic": "Long: Interaction Hypothesis",
+   "question": "Long's Interaction Hypothesis stresses that language acquisition is best promoted by",
+   "questionHi": "लॉन्ग की Interaction Hypothesis के अनुसार भाषा अर्जन को सबसे अधिक बढ़ावा किससे मिलता है?",
+   "options": [
+    "negotiation of meaning during conversation",
+    "silent reading of textbooks",
+    "memorising grammar rules",
+    "translation of sentences"
+   ],
+   "optionsHi": [
+    "बातचीत के दौरान अर्थ की बातचीत (negotiation of meaning)",
+    "पाठ्यपुस्तक का मौन वाचन",
+    "व्याकरण के नियम याद करना",
+    "वाक्यों का अनुवाद"
+   ],
+   "correctIndex": 0,
+   "explanation": "When learners and interlocutors clarify, confirm and repair misunderstandings, input becomes comprehensible and acquisition is aided.",
+   "explanationHi": "जब बातचीत में सीखने वाले और वक्ता स्पष्टीकरण, पुष्टि और सुधार करते हैं तो input समझने योग्य बनता है और अर्जन में मदद मिलती है।"
+  },
+  {
+   "id": "t14-ped-04",
+   "part": "A",
+   "section": "ped",
+   "topic": "Selinker: Fossilisation",
+   "question": "In second-language acquisition, \"fossilisation\" (Selinker) refers to",
+   "questionHi": "द्वितीय भाषा अर्जन में \"fossilisation\" (सेलिंकर) का अर्थ है",
+   "options": [
+    "learning a dead language",
+    "memorising fossil-related vocabulary",
+    "rapid improvement after a long gap",
+    "permanent persistence of non-target forms in the learner's interlanguage despite exposure and instruction"
+   ],
+   "optionsHi": [
+    "किसी मृत भाषा को सीखना",
+    "जीवाश्म संबंधी शब्दावली रटना",
+    "लंबे अंतराल के बाद तेज़ सुधार",
+    "अवसर और शिक्षण के बावजूद सीखने वाले की interlanguage में लक्ष्य-भाषा से भिन्न रूपों का स्थायी बने रहना"
+   ],
+   "correctIndex": 3,
+   "explanation": "Selinker used fossilisation for errors that become stable in interlanguage and resist correction despite continued input and instruction.",
+   "explanationHi": "सेलिंकर ने fossilisation उन त्रुटियों के लिए कहा जो interlanguage में स्थिर हो जाती हैं और लगातार input व शिक्षण के बावजूद नहीं सुधरतीं।"
+  },
+  {
+   "id": "t14-ped-05",
+   "part": "A",
+   "section": "ped",
+   "topic": "Revised Bloom taxonomy",
+   "question": "In the revised Bloom taxonomy (Anderson and Krathwohl), the highest cognitive level is",
+   "questionHi": "संशोधित ब्लूम टैक्सोनॉमी (एंडरसन व क्रेथवोल) में सर्वोच्च ज्ञानात्मक स्तर कौन-सा है?",
+   "options": [
+    "Evaluating",
+    "Analysing",
+    "Creating",
+    "Applying"
+   ],
+   "optionsHi": [
+    "Evaluating (मूल्यांकन)",
+    "Analysing (विश्लेषण)",
+    "Creating (सृजन)",
+    "Applying (अनुप्रयोग)"
+   ],
+   "correctIndex": 2,
+   "explanation": "The revision reordered the top levels: Remembering, Understanding, Applying, Analysing, Evaluating, Creating. Creating (e.g. writing an original story) is highest.",
+   "explanationHi": "संशोधन में क्रम है: Remembering, Understanding, Applying, Analysing, Evaluating, Creating। Creating (जैसे मौलिक कहानी लिखना) सर्वोच्च है।"
+  },
+  {
+   "id": "t14-ped-06",
+   "part": "A",
+   "section": "ped",
+   "topic": "Halliday: Functions of language",
+   "question": "A child who keeps asking \"Why does the moon change shape?\" is using which of Halliday's early functions of language?",
+   "questionHi": "एक बच्चा बार-बार पूछता है \"चाँद का आकार क्यों बदलता है?\" वह हैलिडे के भाषा के किस प्रकार्य (function) का प्रयोग कर रहा है?",
+   "options": [
+    "regulatory",
+    "heuristic",
+    "instrumental",
+    "imaginative"
+   ],
+   "optionsHi": [
+    "Regulatory (नियामक)",
+    "Heuristic (खोजपरक)",
+    "Instrumental (साधनात्मक)",
+    "Imaginative (कल्पनात्मक)"
+   ],
+   "correctIndex": 1,
+   "explanation": "The heuristic function is language used to explore and learn about the environment (asking questions). Regulatory controls others, instrumental satisfies needs, imaginative creates imaginary worlds.",
+   "explanationHi": "Heuristic प्रकार्य में भाषा का प्रयोग वातावरण के बारे में जानने के लिए प्रश्न पूछने में होता है। Regulatory दूसरों को नियंत्रित करता है, instrumental आवश्यकता पूरी करता है और imaginative कल्पना की दुनिया रचता है।"
+  },
+  {
+   "id": "t14-ped-07",
+   "part": "A",
+   "section": "ped",
+   "topic": "Canale and Swain",
+   "question": "A learner forgets the word \"umbrella\" and says \"the thing we open in rain to protect from water\". In Canale and Swain's model, this shows",
+   "questionHi": "एक विद्यार्थी \"umbrella\" शब्द भूल जाता है और कहता है \"वह चीज़ जिसे हम बारिश में खोलते हैं\"। Canale और Swain के मॉडल में यह क्या दर्शाता है?",
+   "options": [
+    "strategic competence",
+    "grammatical competence",
+    "discourse competence",
+    "sociolinguistic competence"
+   ],
+   "optionsHi": [
+    "Strategic competence (युक्ति-दक्षता)",
+    "Grammatical competence (व्याकरणिक दक्षता)",
+    "Discourse competence (प्रवचन दक्षता)",
+    "Sociolinguistic competence (सामाजिक-भाषिक दक्षता)"
+   ],
+   "correctIndex": 0,
+   "explanation": "Using circumlocution to overcome a communication gap is a communication strategy, i.e. strategic competence.",
+   "explanationHi": "संवाद की कमी को घुमा-फिराकर कहकर पूरा करना communication strategy है, यानी strategic competence।"
+  },
+  {
+   "id": "t14-ped-08",
+   "part": "A",
+   "section": "ped",
+   "topic": "Canale and Swain: Strategic competence",
+   "question": "In Canale and Swain's framework, \"strategic competence\" refers to",
+   "questionHi": "कैनेल और स्वेन के ढाँचे में \"strategic competence\" का अर्थ है",
+   "options": [
+    "knowledge of spelling rules",
+    "ability to memorise dialogues",
+    "knowledge of cultural festivals",
+    "using verbal and non-verbal strategies, such as paraphrase, to compensate for communication breakdowns"
+   ],
+   "optionsHi": [
+    "वर्तनी के नियमों का ज्ञान",
+    "संवाद रटने की क्षमता",
+    "सांस्कृतिक त्योहारों का ज्ञान",
+    "संप्रेषण में आई बाधा की भरपाई के लिए paraphrase जैसी मौखिक व अमौखिक युक्तियों का प्रयोग"
+   ],
+   "correctIndex": 3,
+   "explanation": "Strategic competence is the ability to compensate for gaps in knowledge or breakdowns in communication, e.g. by circumlocution, gestures or asking for repetition.",
+   "explanationHi": "Strategic competence ज्ञान की कमी या संप्रेषण-बाधा की भरपाई करने की क्षमता है, जैसे घुमाकर कहना, इशारे या दोहराने का अनुरोध।"
+  },
+  {
+   "id": "t14-ped-09",
+   "part": "A",
+   "section": "ped",
+   "topic": "Fossilisation",
+   "question": "In second-language acquisition, \"fossilisation\" refers to",
+   "questionHi": "द्वितीय भाषा अर्जन में \"fossilisation\" का अर्थ है",
+   "options": [
+    "a learner's complete mastery of the target language",
+    "the loss of the mother tongue",
+    "persistent non-target forms that remain in a learner's speech despite exposure and instruction",
+    "a method of teaching old texts"
+   ],
+   "optionsHi": [
+    "लक्ष्य भाषा में पूर्ण दक्षता",
+    "मातृभाषा का लोप",
+    "सीखने वाले की भाषा में लगातार बने रहने वाले गलत रूप, जो अभ्यास और शिक्षण के बाद भी नहीं जाते",
+    "पुराने पाठों को पढ़ाने की विधि"
+   ],
+   "correctIndex": 2,
+   "explanation": "Selinker used the term for errors that become permanently stabilised in interlanguage, resisting correction.",
+   "explanationHi": "सेलिंकर ने यह शब्द उन त्रुटियों के लिए प्रयोग किया जो interlanguage में स्थायी हो जाती हैं और सुधार का विरोध करती हैं।"
+  },
+  {
+   "id": "t14-ped-10",
+   "part": "A",
+   "section": "ped",
+   "topic": "Revised Bloom Taxonomy",
+   "question": "In the revised Bloom's taxonomy (Anderson and Krathwohl), a task asking learners to design an advertisement in English for a school fair belongs to which level?",
+   "questionHi": "संशोधित ब्लूम टैक्सोनॉमी (एंडरसन और क्रैथवोल) में विद्यार्थियों से स्कूल मेले के लिए अंग्रेज़ी में विज्ञापन डिज़ाइन करने को कहना किस स्तर में आता है?",
+   "options": [
+    "Understanding",
+    "Creating",
+    "Remembering",
+    "Applying"
+   ],
+   "optionsHi": [
+    "Understanding (समझना)",
+    "Creating (सृजन)",
+    "Remembering (याद करना)",
+    "Applying (प्रयोग)"
+   ],
+   "correctIndex": 1,
+   "explanation": "Designing and producing something new is the top level, Creating. Remembering is recall, Understanding is explaining, Applying is using known procedures in a given situation.",
+   "explanationHi": "कुछ नया डिज़ाइन और निर्मित करना सर्वोच्च स्तर Creating है। Remembering याद करना है, Understanding समझाना है और Applying ज्ञात विधियों का प्रयोग है।"
+  },
+  {
+   "id": "t14-ped-11",
+   "part": "A",
+   "section": "ped",
+   "topic": "Scaffolding and ZPD",
+   "question": "A teacher gives a sentence frame for a paragraph, then provides less and less help as learners improve. The gradual withdrawal of support is called",
+   "questionHi": "शिक्षक अनुच्छेद लिखने के लिए वाक्य-ढाँचा देता है और विद्यार्थियों के सुधरने पर सहायता कम करता जाता है। सहायता को धीरे-धीरे हटाना क्या कहलाता है?",
+   "options": [
+    "fading",
+    "modelling",
+    "drilling",
+    "transfer of error"
+   ],
+   "optionsHi": [
+    "Fading (सहायता का क्रमिक हटना)",
+    "Modelling (आदर्श प्रस्तुति)",
+    "Drilling (दोहरान अभ्यास)",
+    "Transfer of error (त्रुटि का हस्तांतरण)"
+   ],
+   "correctIndex": 0,
+   "explanation": "In Vygotskian scaffolding, support is temporary within the ZPD and is faded as the learner becomes independent.",
+   "explanationHi": "वाइगोत्स्की के scaffolding में सहायता ZPD के भीतर अस्थायी होती है और विद्यार्थी के स्वतंत्र होते ही हटा ली जाती है (fading)।"
+  },
+  {
+   "id": "t14-ped-12",
+   "part": "A",
+   "section": "ped",
+   "topic": "CLIL",
+   "question": "Which set represents Coyle's 4Cs framework for CLIL (Content and Language Integrated Learning)?",
+   "questionHi": "CLIL (Content and Language Integrated Learning) के लिए कॉयल के 4Cs ढाँचे का सही समूह कौन-सा है?",
+   "options": [
+    "Content, Context, Competence, Correction",
+    "Communication, Creativity, Cooperation, Curriculum",
+    "Cognition, Concept, Code, Control",
+    "Content, Cognition, Communication, Culture"
+   ],
+   "optionsHi": [
+    "Content, Context, Competence, Correction",
+    "Communication, Creativity, Cooperation, Curriculum",
+    "Cognition, Concept, Code, Control",
+    "Content, Cognition, Communication, Culture"
+   ],
+   "correctIndex": 3,
+   "explanation": "Coyle's 4Cs are Content (subject matter), Cognition (thinking), Communication (language) and Culture (intercultural awareness).",
+   "explanationHi": "कॉयल के 4Cs हैं: Content (विषयवस्तु), Cognition (चिंतन), Communication (भाषा) और Culture (अंतर-सांस्कृतिक समझ)।"
+  },
+  {
+   "id": "t14-ped-13",
+   "part": "A",
+   "section": "ped",
+   "topic": "Multilingual classroom",
+   "question": "A teacher lets learners discuss an English story in Hindi or Chhattisgarhi and then write about it in English. This strategy is best called",
+   "questionHi": "एक शिक्षक विद्यार्थियों को अंग्रेज़ी कहानी पर हिंदी या छत्तीसगढ़ी में चर्चा करने देता है और फिर अंग्रेज़ी में लिखवाता है। इस युक्ति को सबसे उपयुक्त रूप से क्या कहेंगे?",
+   "options": [
+    "rote learning",
+    "immersion with no L1",
+    "translanguaging",
+    "audio-lingual drilling"
+   ],
+   "optionsHi": [
+    "रटंत अधिगम",
+    "L1 के बिना पूर्ण immersion",
+    "Translanguaging",
+    "Audio-lingual drilling"
+   ],
+   "correctIndex": 2,
+   "explanation": "Translanguaging uses learners' full linguistic repertoire as a resource for learning; it contrasts with strict English-only immersion.",
+   "explanationHi": "Translanguaging में विद्यार्थियों की सभी भाषाओं को सीखने के संसाधन के रूप में प्रयोग किया जाता है; यह केवल-अंग्रेज़ी immersion से भिन्न है।"
+  },
+  {
+   "id": "t14-ped-14",
+   "part": "A",
+   "section": "ped",
+   "topic": "Diagnostic and remedial teaching",
+   "question": "A learner reads aloud accurately but cannot answer inferential questions. The most appropriate diagnosis is a weakness in",
+   "questionHi": "एक विद्यार्थी शुद्ध पढ़ लेता है, पर अनुमानात्मक प्रश्नों के उत्तर नहीं दे पाता। सबसे उपयुक्त निदान किस क्षेत्र की कमज़ोरी है?",
+   "options": [
+    "decoding of letters",
+    "comprehension and inferencing, not decoding",
+    "pronunciation of vowels",
+    "handwriting"
+   ],
+   "optionsHi": [
+    "अक्षर डिकोडिंग",
+    "बोध और अनुमान लगाने की क्षमता, डिकोडिंग की नहीं",
+    "स्वरों का उच्चारण",
+    "हस्तलेखन"
+   ],
+   "correctIndex": 1,
+   "explanation": "Accurate reading shows decoding and pronunciation are adequate; the difficulty lies at the level of meaning-making, so remediation should target inference skills.",
+   "explanationHi": "शुद्ध वाचन दर्शाता है कि डिकोडिंग और उच्चारण ठीक हैं; कठिनाई अर्थ-निर्माण में है, इसलिए उपचार अनुमान-कौशल पर होना चाहिए।"
+  },
+  {
+   "id": "t14-ped-15",
+   "part": "A",
+   "section": "ped",
+   "topic": "Errors vs Mistakes (Corder)",
+   "question": "An advanced learner once says \"He go to school\" but uses \"goes\" correctly elsewhere and self-corrects when asked. According to Corder, this is",
+   "questionHi": "एक उन्नत विद्यार्थी एक बार \"He go to school\" कहता है, पर अन्यत्र \"goes\" सही प्रयोग करता है और पूछने पर स्वयं सुधार लेता है। कॉर्डर के अनुसार यह है",
+   "options": [
+    "a mistake (performance slip)",
+    "an error of competence",
+    "fossilisation",
+    "a sign of language disorder"
+   ],
+   "optionsHi": [
+    "एक mistake (निष्पादन की चूक)",
+    "क्षमता (competence) की त्रुटि",
+    "Fossilisation",
+    "भाषा-विकार का संकेत"
+   ],
+   "correctIndex": 0,
+   "explanation": "Corder distinguishes mistakes (random performance slips, self-correctable) from errors (systematic gaps in competence, not self-correctable).",
+   "explanationHi": "कॉर्डर के अनुसार mistake आकस्मिक निष्पादन-चूक है जिसे स्वयं सुधारा जा सकता है, जबकि error क्षमता की व्यवस्थित कमी है जिसे स्वयं नहीं सुधारा जा सकता।"
+  }
+ ]
+}

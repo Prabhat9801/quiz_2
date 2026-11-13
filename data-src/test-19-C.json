@@ -1,0 +1,499 @@
+{
+ "questions": [
+  {
+   "id": "t19-hindi-01",
+   "part": "C",
+   "section": "hindi",
+   "topic": "संधि-विच्छेद",
+   "question": "'मनोहर' का सही संधि-विच्छेद है -",
+   "options": [
+    "मन + ओहर",
+    "मनो + हर",
+    "मनः + हर",
+    "मन् + ओहर"
+   ],
+   "correctIndex": 2,
+   "explanation": "मनः + हर में विसर्ग के बाद 'ह' (घोष व्यंजन) आने पर विसर्ग का 'ओ' हो जाता है, इसलिए 'मनोहर' बनता है। यह विसर्ग संधि है; अन्य खंड सही रूप नहीं बनाते।"
+  },
+  {
+   "id": "t19-hindi-02",
+   "part": "C",
+   "section": "hindi",
+   "topic": "समास-विग्रह",
+   "question": "'पीतांबर' शब्द का बहुव्रीहि समास के अनुसार विग्रह है -",
+   "options": [
+    "पीत है जो अंबर",
+    "पीत है अंबर जिसका",
+    "पीत और अंबर",
+    "पीत का अंबर"
+   ],
+   "correctIndex": 1,
+   "explanation": "'पीत है अंबर जिसका' (श्रीकृष्ण/विष्णु) में समस्त पद किसी अन्य की ओर संकेत करता है, इसलिए बहुव्रीहि है। 'पीत है जो अंबर' कर्मधारय का विग्रह है।"
+  },
+  {
+   "id": "t19-hindi-03",
+   "part": "C",
+   "section": "hindi",
+   "topic": "शब्द-शुद्धि",
+   "question": "निम्नलिखित में शुद्ध वर्तनी वाला शब्द है -",
+   "options": [
+    "शृंगार",
+    "श्रृंगार",
+    "श्रंगार",
+    "शृगांर"
+   ],
+   "correctIndex": 0,
+   "explanation": "शुद्ध रूप 'शृंगार' है (श + ऋ + ं)। 'श्रृंगार' में 'र' का अनावश्यक प्रयोग है, शेष रूप भी अशुद्ध हैं।"
+  },
+  {
+   "id": "t19-hindi-04",
+   "part": "C",
+   "section": "hindi",
+   "topic": "मुहावरे",
+   "question": "'नौ दो ग्यारह होना' मुहावरे का अर्थ है -",
+   "options": [
+    "बहुत धनवान होना",
+    "अत्यंत प्रसन्न होना",
+    "जोड़-घटाना करना",
+    "भाग जाना"
+   ],
+   "correctIndex": 3,
+   "explanation": "'नौ दो ग्यारह होना' का अर्थ है चुपके से या जल्दी से भाग जाना। अन्य अर्थ इस मुहावरे से मेल नहीं खाते।"
+  },
+  {
+   "id": "t19-hindi-05",
+   "part": "C",
+   "section": "hindi",
+   "topic": "तत्सम-तद्भव",
+   "question": "'स्तंभ' शब्द का तद्भव रूप है -",
+   "options": [
+    "थंब",
+    "स्तंभी",
+    "खंभा",
+    "खंबी"
+   ],
+   "correctIndex": 2,
+   "explanation": "'स्तंभ' तत्सम शब्द है और इसका तद्भव रूप 'खंभा' है। अन्य रूप प्रचलित तद्भव रूप नहीं हैं।"
+  },
+  {
+   "id": "t19-english-01",
+   "part": "C",
+   "section": "english",
+   "topic": "One-word substitution",
+   "question": "One word for \"a person whose faults cannot be corrected\":",
+   "options": [
+    "incorruptible",
+    "inedible",
+    "incorrigible",
+    "indelible"
+   ],
+   "correctIndex": 2,
+   "explanation": "'Incorrigible' describes someone too set in bad habits to be reformed. 'Incorruptible' = cannot be bribed, 'inedible' = not fit to eat, 'indelible' = cannot be erased."
+  },
+  {
+   "id": "t19-english-02",
+   "part": "C",
+   "section": "english",
+   "topic": "Prepositions",
+   "question": "She is senior ___ me by two years.",
+   "options": [
+    "than",
+    "from",
+    "by",
+    "to"
+   ],
+   "correctIndex": 3,
+   "explanation": "Adjectives such as senior, junior, superior and inferior take 'to', not 'than'."
+  },
+  {
+   "id": "t19-english-03",
+   "part": "C",
+   "section": "english",
+   "topic": "Spot the error",
+   "question": "Spot the erroneous part: (A) Having been informed about the strike, (B) the principal cancelled the examination (C) and informed to the students (D) about the new date.",
+   "options": [
+    "Having been informed about the strike",
+    "the principal cancelled the examination",
+    "and informed to the students",
+    "about the new date"
+   ],
+   "correctIndex": 2,
+   "explanation": "'Inform' takes a direct object (inform the students), so 'to' is wrong; 'informed the students about the new date' is correct."
+  },
+  {
+   "id": "t19-english-04",
+   "part": "C",
+   "section": "english",
+   "topic": "Idioms",
+   "question": "'To cut the Gordian knot' means",
+   "options": [
+    "to fail after a long effort",
+    "to solve a difficult problem in a bold, direct way",
+    "to break a promise",
+    "to start a quarrel"
+   ],
+   "correctIndex": 1,
+   "explanation": "The idiom refers to Alexander slicing through an intricate knot with his sword; it means solving a complex problem by decisive action."
+  },
+  {
+   "id": "t19-english-05",
+   "part": "C",
+   "section": "english",
+   "topic": "Active-passive",
+   "question": "Change into active voice: \"By whom was the manuscript being edited when you arrived?\"",
+   "options": [
+    "Who edited the manuscript when you arrived?",
+    "Whom was editing the manuscript when you arrived?",
+    "Who has been editing the manuscript when you arrived?",
+    "Who was editing the manuscript when you arrived?"
+   ],
+   "correctIndex": 3,
+   "explanation": "The passive past continuous 'was being edited' becomes the active past continuous 'was editing', and 'By whom' becomes 'Who'. Other options change the tense or use 'whom' wrongly."
+  },
+  {
+   "id": "t19-mental-01",
+   "part": "C",
+   "section": "mental",
+   "topic": "Coding-Decoding",
+   "question": "If PLANE is coded as QKBMF, how will CHAIR be coded in the same code?",
+   "options": [
+    "DIBHS",
+    "DGBJS",
+    "DGBHS",
+    "EGBHS"
+   ],
+   "correctIndex": 2,
+   "explanation": "The letters alternate +1, −1, +1, −1, +1 (P→Q, L→K, A→B, N→M, E→F). Applying it to CHAIR: C→D, H→G, A→B, I→H, R→S, giving DGBHS.",
+   "questionHi": "यदि PLANE को QKBMF लिखा जाता है, तो उसी कोड में CHAIR को कैसे लिखा जाएगा?",
+   "optionsHi": [
+    "DIBHS",
+    "DGBJS",
+    "DGBHS",
+    "EGBHS"
+   ],
+   "explanationHi": "अक्षर क्रमशः +1, −1, +1, −1, +1 बदलते हैं (P→Q, L→K, A→B, N→M, E→F)। यही नियम CHAIR पर: C→D, H→G, A→B, I→H, R→S, यानी DGBHS।"
+  },
+  {
+   "id": "t19-mental-02",
+   "part": "C",
+   "section": "mental",
+   "topic": "Number reasoning",
+   "question": "The average of five consecutive odd numbers is 27. What is the largest of these numbers?",
+   "questionHi": "पाँच क्रमागत विषम संख्याओं का औसत 27 है। इनमें सबसे बड़ी संख्या कौन-सी है?",
+   "options": [
+    "31",
+    "29",
+    "33",
+    "35"
+   ],
+   "optionsHi": [
+    "31",
+    "29",
+    "33",
+    "35"
+   ],
+   "correctIndex": 0,
+   "explanation": "For five consecutive odd numbers the middle one equals the average, 27. The numbers are 23, 25, 27, 29, 31, so the largest is 31.",
+   "explanationHi": "पाँच क्रमागत विषम संख्याओं में बीच की संख्या औसत के बराबर होती है, यानी 27। संख्याएँ 23, 25, 27, 29, 31 हैं, इसलिए सबसे बड़ी 31 है।"
+  },
+  {
+   "id": "t19-mental-03",
+   "part": "C",
+   "section": "mental",
+   "topic": "Direction and distance",
+   "question": "A man walks 7 km south and then 24 km west. How far is he from the starting point?",
+   "questionHi": "एक व्यक्ति 7 किमी दक्षिण और फिर 24 किमी पश्चिम चलता है। वह प्रारंभिक बिंदु से कितनी दूर है?",
+   "options": [
+    "17 km",
+    "31 km",
+    "24 km",
+    "25 km"
+   ],
+   "optionsHi": [
+    "17 किमी",
+    "31 किमी",
+    "24 किमी",
+    "25 किमी"
+   ],
+   "correctIndex": 3,
+   "explanation": "The two legs are perpendicular, so distance = sqrt(7^2 + 24^2) = sqrt(625) = 25 km.",
+   "explanationHi": "दोनों दूरियाँ लंबवत हैं, इसलिए दूरी = sqrt(7^2 + 24^2) = sqrt(625) = 25 किमी।"
+  },
+  {
+   "id": "t19-mental-04",
+   "part": "C",
+   "section": "mental",
+   "topic": "Calendar",
+   "question": "If 5 March 2019 was a Tuesday, what day of the week was 5 March 2020?",
+   "questionHi": "यदि 5 मार्च 2019 को मंगलवार था, तो 5 मार्च 2020 को कौन-सा दिन था?",
+   "options": [
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+   ],
+   "optionsHi": [
+    "बुधवार",
+    "गुरुवार",
+    "शुक्रवार",
+    "शनिवार"
+   ],
+   "correctIndex": 1,
+   "explanation": "The period includes 29 February 2020, so there are 366 days = 52 weeks + 2 odd days. Tuesday + 2 = Thursday.",
+   "explanationHi": "इस अवधि में 29 फ़रवरी 2020 शामिल है, इसलिए 366 दिन = 52 सप्ताह + 2 अतिरिक्त दिन। मंगलवार + 2 = गुरुवार।"
+  },
+  {
+   "id": "t19-mental-05",
+   "part": "C",
+   "section": "mental",
+   "topic": "Syllogism",
+   "question": "Statements: All doctors are teachers. No teacher is a lawyer. Conclusions: I. No doctor is a lawyer. II. Some lawyers are doctors.",
+   "questionHi": "कथन: सभी डॉक्टर शिक्षक हैं। कोई शिक्षक वकील नहीं है। निष्कर्ष: I. कोई डॉक्टर वकील नहीं है। II. कुछ वकील डॉक्टर हैं।",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Both I and II follow",
+    "Neither I nor II follows"
+   ],
+   "optionsHi": [
+    "केवल निष्कर्ष I अनुसरण करता है",
+    "केवल निष्कर्ष II अनुसरण करता है",
+    "I और II दोनों अनुसरण करते हैं",
+    "न I और न II अनुसरण करता है"
+   ],
+   "correctIndex": 0,
+   "explanation": "Doctors lie inside teachers, and teachers have no overlap with lawyers, so no doctor is a lawyer (I follows). II contradicts this, so it does not follow.",
+   "explanationHi": "डॉक्टर शिक्षकों के भीतर हैं और शिक्षकों का वकीलों से कोई संबंध नहीं, इसलिए कोई डॉक्टर वकील नहीं (I सही)। II इसके विपरीत है, इसलिए सही नहीं।"
+  },
+  {
+   "id": "t19-computer-01",
+   "part": "C",
+   "section": "computer",
+   "topic": "Excel VLOOKUP",
+   "question": "In =VLOOKUP(A2, D2:F20, 3, FALSE), the argument FALSE means that",
+   "questionHi": "=VLOOKUP(A2, D2:F20, 3, FALSE) में FALSE तर्क का अर्थ है कि",
+   "options": [
+    "the lookup table is unsorted but a close match is accepted",
+    "only an exact match is returned",
+    "the result is shown as a logical value",
+    "the third column is ignored"
+   ],
+   "optionsHi": [
+    "तालिका अव्यवस्थित है परंतु निकटतम मिलान स्वीकार है",
+    "केवल पूर्ण (exact) मिलान लौटाया जाएगा",
+    "परिणाम तार्किक मान के रूप में दिखेगा",
+    "तीसरा स्तंभ छोड़ दिया जाएगा"
+   ],
+   "correctIndex": 1,
+   "explanation": "The last argument (range_lookup) FALSE or 0 forces an exact match; TRUE or omitted allows an approximate match on sorted data.",
+   "explanationHi": "अंतिम तर्क (range_lookup) FALSE या 0 पूर्ण मिलान अनिवार्य करता है; TRUE या छोड़ने पर क्रमबद्ध डेटा में अनुमानित मिलान होता है।"
+  },
+  {
+   "id": "t19-computer-02",
+   "part": "C",
+   "section": "computer",
+   "topic": "Excel cell references",
+   "question": "Cell C2 contains =$A$1+B1. If it is copied to D3, the formula becomes",
+   "questionHi": "सेल C2 में =$A$1+B1 है। इसे D3 में कॉपी करने पर सूत्र बन जाएगा",
+   "options": [
+    "=$B$2+C2",
+    "=A2+C2",
+    "=$A$1+C2",
+    "=$A$1+B1"
+   ],
+   "optionsHi": [
+    "=$B$2+C2",
+    "=A2+C2",
+    "=$A$1+C2",
+    "=$A$1+B1"
+   ],
+   "correctIndex": 2,
+   "explanation": "$A$1 is absolute so it stays. B1 is relative; moving one column right and one row down turns it into C2.",
+   "explanationHi": "$A$1 निरपेक्ष है, इसलिए वही रहता है। B1 सापेक्ष है; एक स्तंभ दाएँ और एक पंक्ति नीचे जाने पर यह C2 हो जाता है।"
+  },
+  {
+   "id": "t19-computer-03",
+   "part": "C",
+   "section": "computer",
+   "topic": "Number systems",
+   "question": "The decimal equivalent of the hexadecimal number 2F is",
+   "questionHi": "हेक्साडेसिमल संख्या 2F का दशमलव मान है",
+   "options": [
+    "47",
+    "37",
+    "31",
+    "215"
+   ],
+   "optionsHi": [
+    "47",
+    "37",
+    "31",
+    "215"
+   ],
+   "correctIndex": 0,
+   "explanation": "2F = 2x16 + 15 = 47.",
+   "explanationHi": "2F = 2x16 + 15 = 47।"
+  },
+  {
+   "id": "t19-computer-04",
+   "part": "C",
+   "section": "computer",
+   "topic": "Malware types",
+   "question": "Which type of malware disguises itself as a legitimate program to trick users into installing it?",
+   "questionHi": "किस प्रकार का मैलवेयर स्वयं को वैध प्रोग्राम दिखाकर उपयोगकर्ता को इंस्टॉल करने के लिए बहकाता है?",
+   "options": [
+    "Worm",
+    "Spyware",
+    "Ransomware",
+    "Trojan horse"
+   ],
+   "optionsHi": [
+    "वर्म",
+    "स्पाइवेयर",
+    "रैनसमवेयर",
+    "ट्रोजन हॉर्स"
+   ],
+   "correctIndex": 3,
+   "explanation": "A Trojan horse masquerades as useful software. A worm spreads by itself over networks, spyware secretly gathers information, and ransomware encrypts files for payment.",
+   "explanationHi": "ट्रोजन हॉर्स उपयोगी सॉफ़्टवेयर का रूप धरकर आता है। वर्म नेटवर्क पर स्वयं फैलता है, स्पाइवेयर चुपके से जानकारी जुटाता है और रैनसमवेयर फ़ाइलें एन्क्रिप्ट कर फिरौती माँगता है।"
+  },
+  {
+   "id": "t19-computer-05",
+   "part": "C",
+   "section": "computer",
+   "topic": "Cloud service models",
+   "question": "A company rents virtual machines, storage and networks from a provider and controls the operating systems. This is",
+   "questionHi": "एक कंपनी प्रदाता से वर्चुअल मशीन, स्टोरेज और नेटवर्क किराए पर लेती है और ऑपरेटिंग सिस्टम स्वयं नियंत्रित करती है। यह है",
+   "options": [
+    "Software as a Service",
+    "Platform as a Service",
+    "Infrastructure as a Service",
+    "Network as a Service"
+   ],
+   "optionsHi": [
+    "सॉफ़्टवेयर एज़ अ सर्विस",
+    "प्लेटफ़ॉर्म एज़ अ सर्विस",
+    "इन्फ्रास्ट्रक्चर एज़ अ सर्विस",
+    "नेटवर्क एज़ अ सर्विस"
+   ],
+   "correctIndex": 2,
+   "explanation": "IaaS provides raw computing infrastructure while the customer manages OS and applications. SaaS delivers ready-made applications and PaaS provides a development platform.",
+   "explanationHi": "IaaS में कच्चा कंप्यूटिंग ढाँचा मिलता है और ग्राहक OS व एप्लिकेशन संभालता है। SaaS तैयार एप्लिकेशन और PaaS विकास-मंच देता है।"
+  },
+  {
+   "id": "t19-gk-01",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian Constitution",
+   "question": "On whose recommendation were the Fundamental Duties added to the Constitution?",
+   "questionHi": "मूल कर्तव्य संविधान में किस समिति की सिफ़ारिश पर जोड़े गए?",
+   "options": [
+    "Sarkaria Commission",
+    "Balwant Rai Mehta Committee",
+    "Ashok Mehta Committee",
+    "Swaran Singh Committee"
+   ],
+   "optionsHi": [
+    "सरकारिया आयोग",
+    "बलवंत राय मेहता समिति",
+    "अशोक मेहता समिति",
+    "स्वर्ण सिंह समिति"
+   ],
+   "correctIndex": 3,
+   "explanation": "The Swaran Singh Committee (1976) recommended Fundamental Duties, which were added by the 42nd Amendment as Part IV-A (Article 51A). Sarkaria dealt with Centre-State relations, Mehta committees with Panchayati Raj.",
+   "explanationHi": "स्वर्ण सिंह समिति (1976) की सिफ़ारिश पर 42वें संशोधन द्वारा भाग IV-क (अनुच्छेद 51A) में मूल कर्तव्य जोड़े गए। सरकारिया आयोग केंद्र-राज्य संबंधों से और मेहता समितियाँ पंचायती राज से जुड़ी थीं।"
+  },
+  {
+   "id": "t19-gk-02",
+   "part": "C",
+   "section": "gk",
+   "topic": "Modern Indian history",
+   "question": "The Poona Pact of 1932 was concluded between Gandhi and Ambedkar to settle the issue of",
+   "questionHi": "1932 का पूना समझौता गांधी और अंबेडकर के बीच किस मुद्दे के समाधान के लिए हुआ?",
+   "options": [
+    "separate electorates for the Depressed Classes",
+    "the partition of Bengal",
+    "the salt tax",
+    "Dominion status for India"
+   ],
+   "optionsHi": [
+    "दलित वर्गों के लिए पृथक निर्वाचन क्षेत्र",
+    "बंगाल का विभाजन",
+    "नमक कर",
+    "भारत को डोमिनियन दर्जा"
+   ],
+   "correctIndex": 0,
+   "explanation": "After the Communal Award gave separate electorates to the Depressed Classes, Gandhi fasted in Yerwada jail; the Poona Pact replaced separate electorates with reserved seats in joint electorates.",
+   "explanationHi": "कम्युनल अवार्ड में दलित वर्गों को पृथक निर्वाचन मिलने पर गांधीजी ने यरवदा जेल में उपवास किया; पूना समझौते में पृथक निर्वाचन की जगह संयुक्त निर्वाचन में आरक्षित सीटें तय हुईं।"
+  },
+  {
+   "id": "t19-gk-03",
+   "part": "C",
+   "section": "gk",
+   "topic": "Geography of India",
+   "question": "Nathu La pass, connecting India with Tibet (China), lies in which state?",
+   "questionHi": "भारत को तिब्बत (चीन) से जोड़ने वाला नाथू ला दर्रा किस राज्य में है?",
+   "options": [
+    "Arunachal Pradesh",
+    "Sikkim",
+    "Himachal Pradesh",
+    "Uttarakhand"
+   ],
+   "optionsHi": [
+    "अरुणाचल प्रदेश",
+    "सिक्किम",
+    "हिमाचल प्रदेश",
+    "उत्तराखंड"
+   ],
+   "correctIndex": 1,
+   "explanation": "Nathu La is a Himalayan pass in Sikkim on the old Silk Route. Shipki La is in Himachal Pradesh and Lipulekh/Mana lie in Uttarakhand.",
+   "explanationHi": "नाथू ला सिक्किम में पुराने रेशम मार्ग पर स्थित हिमालयी दर्रा है। शिपकी ला हिमाचल प्रदेश में तथा लिपुलेख/माणा उत्तराखंड में हैं।"
+  },
+  {
+   "id": "t19-gk-04",
+   "part": "C",
+   "section": "gk",
+   "topic": "Basic science",
+   "question": "Deficiency of which vitamin causes the disease beriberi?",
+   "questionHi": "किस विटामिन की कमी से बेरी-बेरी रोग होता है?",
+   "options": [
+    "Riboflavin (B2)",
+    "Niacin (B3)",
+    "Thiamine (B1)",
+    "Cobalamin (B12)"
+   ],
+   "optionsHi": [
+    "राइबोफ्लेविन (B2)",
+    "नियासिन (B3)",
+    "थायमिन (B1)",
+    "कोबालामिन (B12)"
+   ],
+   "correctIndex": 2,
+   "explanation": "Beriberi results from thiamine (B1) deficiency. Riboflavin deficiency causes cheilosis, niacin deficiency pellagra, B12 deficiency pernicious anaemia.",
+   "explanationHi": "बेरी-बेरी थायमिन (B1) की कमी से होता है। राइबोफ्लेविन की कमी से चीलोसिस, नियासिन की कमी से पेलाग्रा और B12 की कमी से घातक रक्ताल्पता होती है।"
+  },
+  {
+   "id": "t19-gk-05",
+   "part": "C",
+   "section": "gk",
+   "topic": "Chhattisgarh GK",
+   "question": "The brick-built Lakshmana temple, a notable early monument of Chhattisgarh, is located at",
+   "questionHi": "छत्तीसगढ़ का ईंटों से बना लक्ष्मण मंदिर, एक प्रमुख प्राचीन स्मारक, कहाँ स्थित है?",
+   "options": [
+    "Sirpur",
+    "Dantewada",
+    "Barsur",
+    "Rajim"
+   ],
+   "optionsHi": [
+    "सिरपुर",
+    "दंतेवाड़ा",
+    "बारसूर",
+    "राजिम"
+   ],
+   "correctIndex": 0,
+   "explanation": "The Lakshmana temple (brick, 7th century) stands at Sirpur in Mahasamund district. Dantewada has the Danteshwari temple, Barsur the Mama-Bhanja temple, and Rajim the Rajiv Lochan temple.",
+   "explanationHi": "लक्ष्मण मंदिर (ईंटों से निर्मित, 7वीं सदी) महासमुंद ज़िले के सिरपुर में है। दंतेवाड़ा में दंतेश्वरी मंदिर, बारसूर में मामा-भांजा मंदिर और राजिम में राजीव लोचन मंदिर है।"
+  }
+ ]
+}

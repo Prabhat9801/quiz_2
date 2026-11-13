@@ -1,0 +1,499 @@
+{
+  "questions": [
+    {
+      "id": "t18-hindi-01",
+      "part": "C",
+      "section": "hindi",
+      "topic": "संधि-विच्छेद",
+      "question": "'महोत्सव' का सही संधि-विच्छेद है:",
+      "options": [
+        "मह + उत्सव",
+        "महो + त्सव",
+        "महा + उत्सव",
+        "महः + उत्सव"
+      ],
+      "correctIndex": 2,
+      "explanation": "महा + उत्सव में 'आ' और 'उ' मिलकर 'ओ' बनते हैं (गुण संधि), इसलिए महोत्सव। अन्य विच्छेद गलत हैं।"
+    },
+    {
+      "id": "t18-hindi-02",
+      "part": "C",
+      "section": "hindi",
+      "topic": "समास",
+      "question": "'चक्रपाणि' में कौन-सा समास है?",
+      "options": [
+        "बहुव्रीहि",
+        "तत्पुरुष",
+        "कर्मधारय",
+        "द्विगु"
+      ],
+      "correctIndex": 0,
+      "explanation": "चक्र है पाणि (हाथ) में जिसके अर्थात् विष्णु: कोई तीसरा अर्थ प्रधान है, इसलिए बहुव्रीहि समास। अन्य समासों में पूर्व या उत्तर पद प्रधान होता है।"
+    },
+    {
+      "id": "t18-hindi-03",
+      "part": "C",
+      "section": "hindi",
+      "topic": "लोकोक्ति",
+      "question": "लोकोक्ति 'कोयले की दलाली में हाथ काले' का अर्थ है:",
+      "options": [
+        "कोयले का व्यापार लाभदायक होता है",
+        "हाथ गंदे होने पर काम बिगड़ना",
+        "दलालों को अधिक धन मिलना",
+        "बुरे काम या संगति से बदनामी मिलती ही है"
+      ],
+      "correctIndex": 3,
+      "explanation": "इसका आशय है कि बुरे काम या बुरे लोगों के साथ रहने पर कलंक अवश्य लगता है। अन्य विकल्प शाब्दिक अर्थ पर आधारित हैं।"
+    },
+    {
+      "id": "t18-hindi-04",
+      "part": "C",
+      "section": "hindi",
+      "topic": "श्रुतिसम भिन्नार्थक शब्द",
+      "question": "'प्रणय' और 'परिणय' शब्दों के सही अर्थ क्रमशः हैं:",
+      "options": [
+        "विवाह – प्रेम",
+        "प्रेम – विवाह",
+        "प्रार्थना – विवाह",
+        "प्रेम – मित्रता"
+      ],
+      "correctIndex": 1,
+      "explanation": "प्रणय का अर्थ है प्रेम और परिणय का अर्थ है विवाह। अन्य विकल्पों में क्रम या अर्थ गलत है।"
+    },
+    {
+      "id": "t18-hindi-05",
+      "part": "C",
+      "section": "hindi",
+      "topic": "संधि-विच्छेद",
+      "question": "नीरोग का सही संधि-विच्छेद है:",
+      "options": [
+        "नी + रोग",
+        "निः + रोग",
+        "निर् + ओग",
+        "निस् + रोग"
+      ],
+      "correctIndex": 1,
+      "explanation": "निः + रोग में विसर्ग (र् से बना) के बाद र आने पर पहला र् लुप्त हो जाता है और पूर्व स्वर इ दीर्घ ई हो जाता है, इसलिए नीरोग। अन्य विच्छेद गलत हैं।"
+    },
+    {
+      "id": "t18-english-01",
+      "part": "C",
+      "section": "english",
+      "topic": "One-word substitution",
+      "question": "One word for \"a person who remains unaffected by pleasure and pain\":",
+      "options": [
+        "Epicure",
+        "Stoic",
+        "Cynic",
+        "Hedonist"
+      ],
+      "correctIndex": 1,
+      "explanation": "A stoic bears pleasure and pain with calm. An epicure loves fine food, a hedonist pursues pleasure, and a cynic distrusts human motives."
+    },
+    {
+      "id": "t18-english-02",
+      "part": "C",
+      "section": "english",
+      "topic": "Prepositions",
+      "question": "Fill in the blank: \"She is senior ___ me by two years.\"",
+      "options": [
+        "than",
+        "from",
+        "of",
+        "to"
+      ],
+      "correctIndex": 3,
+      "explanation": "Adjectives such as senior, junior, superior and inferior take \"to\", not \"than\". So \"senior to me\"."
+    },
+    {
+      "id": "t18-english-03",
+      "part": "C",
+      "section": "english",
+      "topic": "Idioms",
+      "question": "\"To beard the lion in his den\" means:",
+      "options": [
+        "to confront a powerful person on his own ground",
+        "to flatter a king",
+        "to hunt dangerous animals",
+        "to run away from danger"
+      ],
+      "correctIndex": 0,
+      "explanation": "The idiom means boldly confronting a powerful or fearsome person in his own territory. The other meanings are unrelated."
+    },
+    {
+      "id": "t18-english-04",
+      "part": "C",
+      "section": "english",
+      "topic": "Synonyms & antonyms",
+      "question": "Choose the word opposite in meaning to \"obdurate\":",
+      "options": [
+        "adamant",
+        "stubborn",
+        "compliant",
+        "callous"
+      ],
+      "correctIndex": 2,
+      "explanation": "\"Obdurate\" means hard-hearted and stubborn. Its opposite is \"compliant\" (yielding). Adamant and stubborn are synonyms, and callous is close in sense."
+    },
+    {
+      "id": "t18-english-05",
+      "part": "C",
+      "section": "english",
+      "topic": "Articles",
+      "question": "Fill in the articles: \"She is ___ European and wishes to become ___ MLA.\"",
+      "options": [
+        "a; an",
+        "an; a",
+        "a; a",
+        "an; an"
+      ],
+      "correctIndex": 0,
+      "explanation": "\"European\" begins with the sound /j/, so \"a\"; \"MLA\" begins with the vowel sound \"em\", so \"an\"."
+    },
+    {
+      "id": "t18-mental-01",
+      "part": "C",
+      "section": "mental",
+      "topic": "Mixed series",
+      "question": "Find the next term: 3, 8, 5, 16, 7, 32, 9, ?",
+      "questionHi": "अगला पद ज्ञात कीजिए: 3, 8, 5, 16, 7, 32, 9, ?",
+      "options": [
+        "48",
+        "56",
+        "36",
+        "64"
+      ],
+      "optionsHi": [
+        "48",
+        "56",
+        "36",
+        "64"
+      ],
+      "correctIndex": 3,
+      "explanation": "Two interleaved series: odd places 3, 5, 7, 9 (add 2) and even places 8, 16, 32, ? (double). The next term is 32 x 2 = 64.",
+      "explanationHi": "दो श्रेणियाँ मिली हैं: विषम स्थान 3, 5, 7, 9 (2 जोड़ें) और सम स्थान 8, 16, 32, ? (दुगुना)। अगला पद 32 x 2 = 64 है।"
+    },
+    {
+      "id": "t18-mental-02",
+      "part": "C",
+      "section": "mental",
+      "topic": "Blood relations",
+      "question": "A is B's brother. C is B's mother. D is C's father. E is D's mother. How is E related to A?",
+      "questionHi": "A, B का भाई है। C, B की माँ है। D, C के पिता हैं। E, D की माँ है। E का A से क्या संबंध है?",
+      "options": [
+        "Grandmother",
+        "Great-grandmother (maternal)",
+        "Mother-in-law",
+        "Aunt"
+      ],
+      "optionsHi": [
+        "दादी/नानी",
+        "परनानी (माँ की ओर से)",
+        "सास",
+        "बुआ/मौसी"
+      ],
+      "correctIndex": 1,
+      "explanation": "A and B share mother C. D is C's father, so A's maternal grandfather. E is D's mother, so A's maternal great-grandmother.",
+      "explanationHi": "A और B की माँ C है। D, C के पिता हैं यानी A के नाना। E, D की माँ हैं यानी A की परनानी।"
+    },
+    {
+      "id": "t18-mental-03",
+      "part": "C",
+      "section": "mental",
+      "topic": "Direction and distance",
+      "question": "Ravi walks 9 m west, turns right and walks 12 m, then turns right and walks 4 m. How far is he from the starting point?",
+      "questionHi": "रवि 9 मी. पश्चिम चलता है, दाएँ मुड़कर 12 मी. चलता है, फिर दाएँ मुड़कर 4 मी. चलता है। वह प्रारंभिक बिंदु से कितनी दूर है?",
+      "options": [
+        "15 m",
+        "12 m",
+        "13 m",
+        "17 m"
+      ],
+      "optionsHi": [
+        "15 मी.",
+        "12 मी.",
+        "13 मी.",
+        "17 मी."
+      ],
+      "correctIndex": 2,
+      "explanation": "West 9, then north 12, then east 4: net 5 m west and 12 m north. Distance = square root of (25 + 144) = 13 m.",
+      "explanationHi": "पश्चिम 9, फिर उत्तर 12, फिर पूर्व 4: शुद्ध 5 मी. पश्चिम और 12 मी. उत्तर। दूरी = वर्गमूल (25 + 144) = 13 मी.।"
+    },
+    {
+      "id": "t18-mental-04",
+      "part": "C",
+      "section": "mental",
+      "topic": "Clock angle",
+      "question": "What is the angle between the hands of a clock at 3:40?",
+      "questionHi": "घड़ी में 3:40 बजे घंटे और मिनट की सुइयों के बीच कितना कोण होगा?",
+      "options": [
+        "130 degrees",
+        "120 degrees",
+        "140 degrees",
+        "150 degrees"
+      ],
+      "optionsHi": [
+        "130 डिग्री",
+        "120 डिग्री",
+        "140 डिग्री",
+        "150 डिग्री"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hour hand: 3 x 30 + 40 x 0.5 = 110 degrees. Minute hand: 40 x 6 = 240 degrees. Difference = 130 degrees.",
+      "explanationHi": "घंटे की सुई: 3 x 30 + 40 x 0.5 = 110 डिग्री। मिनट की सुई: 40 x 6 = 240 डिग्री। अंतर = 130 डिग्री।"
+    },
+    {
+      "id": "t18-mental-05",
+      "part": "C",
+      "section": "mental",
+      "topic": "Syllogism",
+      "question": "Statements: Some pens are books. No book is a table. Conclusions: I. Some pens are not tables. II. No pen is a table.",
+      "questionHi": "कथन: कुछ पेन किताबें हैं। कोई किताब मेज़ नहीं है। निष्कर्ष: I. कुछ पेन मेज़ नहीं हैं। II. कोई पेन मेज़ नहीं है।",
+      "options": [
+        "Only conclusion II follows",
+        "Only conclusion I follows",
+        "Both I and II follow",
+        "Neither I nor II follows"
+      ],
+      "optionsHi": [
+        "केवल निष्कर्ष II अनुसरण करता है",
+        "केवल निष्कर्ष I अनुसरण करता है",
+        "I और II दोनों अनुसरण करते हैं",
+        "न I और न II अनुसरण करता है"
+      ],
+      "correctIndex": 1,
+      "explanation": "The pens that are books cannot be tables, so some pens are not tables (I follows). Other pens may or may not be tables, so \"no pen is a table\" (II) does not follow.",
+      "explanationHi": "जो पेन किताबें हैं वे मेज़ नहीं हो सकते, इसलिए कुछ पेन मेज़ नहीं हैं (I अनुसरण करता है)। अन्य पेन मेज़ हो भी सकते हैं, इसलिए \"कोई पेन मेज़ नहीं\" (II) अनुसरण नहीं करता।"
+    },
+    {
+      "id": "t18-computer-01",
+      "part": "C",
+      "section": "computer",
+      "topic": "Excel functions",
+      "question": "In MS Excel, =COUNTIF(A1:A10,\">50\") returns:",
+      "questionHi": "MS Excel में =COUNTIF(A1:A10,\">50\") क्या लौटाता है?",
+      "options": [
+        "the number of cells in A1:A10 whose value is greater than 50",
+        "the sum of values greater than 50",
+        "the average of the cells",
+        "the largest value in A1:A10"
+      ],
+      "optionsHi": [
+        "A1:A10 में उन कोशिकाओं की संख्या जिनका मान 50 से अधिक है",
+        "50 से अधिक मानों का योग",
+        "कोशिकाओं का औसत",
+        "A1:A10 का सबसे बड़ा मान"
+      ],
+      "correctIndex": 0,
+      "explanation": "COUNTIF counts the cells meeting a criterion. Summing is SUMIF, averaging is AVERAGE/AVERAGEIF and the largest value is MAX.",
+      "explanationHi": "COUNTIF शर्त पूरी करने वाली कोशिकाएँ गिनता है। योग SUMIF, औसत AVERAGE/AVERAGEIF और सबसे बड़ा मान MAX देता है।"
+    },
+    {
+      "id": "t18-computer-02",
+      "part": "C",
+      "section": "computer",
+      "topic": "Number systems",
+      "question": "The decimal equivalent of the binary number 1101101 is:",
+      "questionHi": "द्विआधारी संख्या 1101101 का दशमलव मान है:",
+      "options": [
+        "107",
+        "111",
+        "109",
+        "113"
+      ],
+      "optionsHi": [
+        "107",
+        "111",
+        "109",
+        "113"
+      ],
+      "correctIndex": 2,
+      "explanation": "64 + 32 + 0 + 8 + 4 + 0 + 1 = 109.",
+      "explanationHi": "64 + 32 + 0 + 8 + 4 + 0 + 1 = 109।"
+    },
+    {
+      "id": "t18-computer-03",
+      "part": "C",
+      "section": "computer",
+      "topic": "Memory hierarchy",
+      "question": "Which of the following is the fastest storage in a computer's memory hierarchy?",
+      "questionHi": "कंप्यूटर की मेमोरी-पदानुक्रम में सबसे तेज़ संग्रहण कौन-सा है?",
+      "options": [
+        "Cache memory",
+        "Registers",
+        "RAM",
+        "SSD"
+      ],
+      "optionsHi": [
+        "कैश मेमोरी",
+        "रजिस्टर",
+        "RAM",
+        "SSD"
+      ],
+      "correctIndex": 1,
+      "explanation": "Registers sit inside the CPU and are the fastest (and smallest) storage, followed by cache, RAM and then secondary storage like SSD.",
+      "explanationHi": "रजिस्टर CPU के भीतर होते हैं और सबसे तेज़ (व सबसे छोटे) संग्रहण हैं; उसके बाद कैश, RAM और फिर SSD जैसा द्वितीयक संग्रहण आता है।"
+    },
+    {
+      "id": "t18-computer-04",
+      "part": "C",
+      "section": "computer",
+      "topic": "Keyboard shortcuts",
+      "question": "Which shortcut inserts the current date into a cell in MS Excel?",
+      "questionHi": "MS Excel में सेल में वर्तमान तिथि डालने का शॉर्टकट कौन-सा है?",
+      "options": [
+        "Ctrl + D",
+        "Ctrl + Shift + ;",
+        "Ctrl + T",
+        "Ctrl + ;"
+      ],
+      "optionsHi": [
+        "Ctrl + D",
+        "Ctrl + Shift + ;",
+        "Ctrl + T",
+        "Ctrl + ;"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ctrl + ; enters today's date. Ctrl + Shift + ; enters the current time, Ctrl + D fills down and Ctrl + T creates a table.",
+      "explanationHi": "Ctrl + ; आज की तिथि डालता है। Ctrl + Shift + ; वर्तमान समय डालता है, Ctrl + D नीचे की ओर भरता है और Ctrl + T तालिका बनाता है।"
+    },
+    {
+      "id": "t18-computer-05",
+      "part": "C",
+      "section": "computer",
+      "topic": "Malware",
+      "question": "A harmful program that appears useful, gets installed by the user and then secretly performs malicious actions without replicating itself is a:",
+      "questionHi": "ऐसा हानिकारक प्रोग्राम जो उपयोगी दिखता है, उपयोगकर्ता द्वारा इंस्टॉल हो जाता है और फिर चुपके से हानिकारक कार्य करता है, पर स्वयं की प्रतिलिपि नहीं बनाता, कहलाता है:",
+      "options": [
+        "Worm",
+        "Boot-sector virus",
+        "Macro virus",
+        "Trojan horse"
+      ],
+      "optionsHi": [
+        "वर्म (Worm)",
+        "बूट-सेक्टर वायरस",
+        "मैक्रो वायरस",
+        "ट्रोजन हॉर्स"
+      ],
+      "correctIndex": 3,
+      "explanation": "A Trojan horse disguises itself as legitimate software and does not self-replicate. Worms replicate across networks; boot-sector and macro viruses attach themselves to boot code or documents.",
+      "explanationHi": "ट्रोजन हॉर्स वैध सॉफ़्टवेयर का रूप धारण करता है और स्वयं की प्रतिलिपि नहीं बनाता। वर्म नेटवर्क में फैलते हैं; बूट-सेक्टर व मैक्रो वायरस बूट कोड या दस्तावेज़ों से जुड़ते हैं।"
+    },
+    {
+      "id": "t18-gk-01",
+      "part": "C",
+      "section": "gk",
+      "topic": "Constitution — amendments",
+      "question": "The anti-defection law (Tenth Schedule) was added to the Constitution by which Amendment?",
+      "questionHi": "दल-बदल विरोधी कानून (दसवीं अनुसूची) संविधान में किस संशोधन द्वारा जोड़ा गया?",
+      "options": [
+        "42nd Amendment",
+        "52nd Amendment",
+        "44th Amendment",
+        "61st Amendment"
+      ],
+      "optionsHi": [
+        "42वाँ संशोधन",
+        "52वाँ संशोधन",
+        "44वाँ संशोधन",
+        "61वाँ संशोधन"
+      ],
+      "correctIndex": 1,
+      "explanation": "The 52nd Amendment (1985) inserted the Tenth Schedule on disqualification on grounds of defection. The 42nd was the \"mini-Constitution\", the 44th restored many freedoms and the 61st lowered the voting age to 18.",
+      "explanationHi": "52वें संशोधन (1985) ने दल-बदल के आधार पर निरर्हता संबंधी दसवीं अनुसूची जोड़ी। 42वाँ \"लघु संविधान\" था, 44वें ने अनेक स्वतंत्रताएँ बहाल कीं और 61वें ने मतदान आयु 18 वर्ष की।"
+    },
+    {
+      "id": "t18-gk-02",
+      "part": "C",
+      "section": "gk",
+      "topic": "Geography — peaks",
+      "question": "Which is the highest peak of Peninsular India (south of the Vindhyas)?",
+      "questionHi": "प्रायद्वीपीय भारत (विंध्य के दक्षिण) की सबसे ऊँची चोटी कौन-सी है?",
+      "options": [
+        "Anamudi",
+        "Doddabetta",
+        "Mahendragiri",
+        "Dhupgarh"
+      ],
+      "optionsHi": [
+        "अनाईमुडी",
+        "दोदाबेट्टा",
+        "महेंद्रगिरि",
+        "धूपगढ़"
+      ],
+      "correctIndex": 0,
+      "explanation": "Anamudi (about 2,695 m) in the Anamalai hills of Kerala is the highest peak of Peninsular India. Doddabetta is the highest in the Nilgiris, Mahendragiri is in the Eastern Ghats and Dhupgarh is in the Satpura range.",
+      "explanationHi": "केरल की अनाईमलाई पहाड़ियों में स्थित अनाईमुडी (लगभग 2,695 मी.) प्रायद्वीपीय भारत की सबसे ऊँची चोटी है। दोदाबेट्टा नीलगिरि की सबसे ऊँची, महेंद्रगिरि पूर्वी घाट में और धूपगढ़ सतपुड़ा श्रृंखला में है।"
+    },
+    {
+      "id": "t18-gk-03",
+      "part": "C",
+      "section": "gk",
+      "topic": "Chhattisgarh — rivers",
+      "question": "The Mahanadi, the chief river of Chhattisgarh, rises near Sihawa in which district?",
+      "questionHi": "छत्तीसगढ़ की प्रमुख नदी महानदी का उद्गम सिहावा के निकट किस जिले में है?",
+      "options": [
+        "Bastar",
+        "Kanker",
+        "Dhamtari",
+        "Raigarh"
+      ],
+      "optionsHi": [
+        "बस्तर",
+        "कांकेर",
+        "धमतरी",
+        "रायगढ़"
+      ],
+      "correctIndex": 2,
+      "explanation": "The Mahanadi rises from the Sihawa hills in Dhamtari district. Bastar's chief river is the Indravati; Kanker and Raigarh are not its source district.",
+      "explanationHi": "महानदी का उद्गम धमतरी जिले की सिहावा पहाड़ियों से होता है। बस्तर की प्रमुख नदी इंद्रावती है; कांकेर और रायगढ़ इसके उद्गम जिले नहीं हैं।"
+    },
+    {
+      "id": "t18-gk-04",
+      "part": "C",
+      "section": "gk",
+      "topic": "Indian economy — budget",
+      "question": "Which of the following is a non-tax revenue receipt of the Union Government?",
+      "questionHi": "निम्नलिखित में कौन-सी केंद्र सरकार की गैर-कर राजस्व प्राप्ति है?",
+      "options": [
+        "Corporation tax",
+        "Customs duty",
+        "Goods and Services Tax",
+        "Interest and dividends received"
+      ],
+      "optionsHi": [
+        "निगम कर",
+        "सीमा शुल्क",
+        "वस्तु एवं सेवा कर",
+        "प्राप्त ब्याज और लाभांश"
+      ],
+      "correctIndex": 3,
+      "explanation": "Interest and dividends from loans and public enterprises are non-tax revenue. Corporation tax, customs duty and GST are tax revenue.",
+      "explanationHi": "ऋणों और सार्वजनिक उपक्रमों से प्राप्त ब्याज व लाभांश गैर-कर राजस्व है। निगम कर, सीमा शुल्क और GST कर-राजस्व हैं।"
+    },
+    {
+      "id": "t18-gk-05",
+      "part": "C",
+      "section": "gk",
+      "topic": "Science — units",
+      "question": "The SI unit of magnetic flux density is:",
+      "questionHi": "चुंबकीय अभिवाह घनत्व (magnetic flux density) का SI मात्रक है:",
+      "options": [
+        "Weber",
+        "Henry",
+        "Tesla",
+        "Gauss"
+      ],
+      "optionsHi": [
+        "वेबर",
+        "हेनरी",
+        "टेस्ला",
+        "गॉस"
+      ],
+      "correctIndex": 2,
+      "explanation": "Magnetic flux density is measured in tesla (weber per square metre). Weber is the unit of flux, henry of inductance, and gauss is a CGS unit.",
+      "explanationHi": "चुंबकीय अभिवाह घनत्व टेस्ला (वेबर प्रति वर्ग मीटर) में मापा जाता है। वेबर अभिवाह, हेनरी प्रेरकत्व का मात्रक है और गॉस CGS मात्रक है।"
+    }
+  ]
+}

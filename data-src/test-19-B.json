@@ -1,0 +1,349 @@
+{
+ "questions": [
+  {
+   "id": "t19-psych-01",
+   "part": "B",
+   "section": "psych",
+   "topic": "Vygotsky on private speech",
+   "question": "Vygotsky regarded children's private speech (talking aloud to themselves while working) as",
+   "questionHi": "वाइगोत्स्की बच्चों की निजी वाणी (काम करते समय स्वयं से ज़ोर से बोलना) को क्या मानते थे?",
+   "options": [
+    "a sign of cognitive immaturity that disappears with schooling",
+    "mere imitation of adults' speech",
+    "a tool for self-regulation that gradually becomes inner speech",
+    "a symptom of language delay"
+   ],
+   "optionsHi": [
+    "संज्ञानात्मक अपरिपक्वता का संकेत जो स्कूली शिक्षा से समाप्त हो जाता है",
+    "वयस्कों की वाणी की केवल नकल",
+    "स्व-नियमन का साधन जो धीरे-धीरे आंतरिक वाणी बन जाता है",
+    "भाषा-विलंब का लक्षण"
+   ],
+   "correctIndex": 2,
+   "explanation": "For Vygotsky private speech guides and regulates thinking and later turns into silent inner speech. Piaget, in contrast, called it egocentric speech reflecting immaturity.",
+   "explanationHi": "वाइगोत्स्की के लिए निजी वाणी चिंतन को दिशा व नियमन देती है और बाद में मौन आंतरिक वाणी बन जाती है। इसके विपरीत पियाजे इसे अहंकेंद्रित वाणी, यानी अपरिपक्वता का संकेत, मानते थे।"
+  },
+  {
+   "id": "t19-psych-02",
+   "part": "B",
+   "section": "psych",
+   "topic": "Erikson's stages",
+   "question": "A nine-year-old who is praised for completing tasks and learning skills develops a sense of competence. Which Erikson stage is this?",
+   "questionHi": "नौ वर्ष का बच्चा कार्य पूरे करने और कौशल सीखने पर प्रशंसा पाकर सक्षमता की भावना विकसित करता है। यह एरिक्सन की कौन-सी अवस्था है?",
+   "options": [
+    "Initiative vs Guilt",
+    "Industry vs Inferiority",
+    "Identity vs Role confusion",
+    "Autonomy vs Shame and doubt"
+   ],
+   "optionsHi": [
+    "पहल बनाम अपराध-बोध",
+    "उद्यमिता बनाम हीनता",
+    "पहचान बनाम भूमिका-भ्रम",
+    "स्वायत्तता बनाम शर्म व संदेह"
+   ],
+   "correctIndex": 1,
+   "explanation": "Ages 6-12 correspond to 'Industry vs Inferiority', where success in tasks builds competence. Initiative vs Guilt is 3-6 years, Identity vs Role confusion is adolescence, Autonomy vs Shame is 1-3 years.",
+   "explanationHi": "6-12 वर्ष की आयु 'उद्यमिता बनाम हीनता' की अवस्था है जहाँ कार्य में सफलता से सक्षमता बनती है। पहल बनाम अपराध-बोध 3-6 वर्ष, पहचान बनाम भूमिका-भ्रम किशोरावस्था और स्वायत्तता बनाम शर्म 1-3 वर्ष में होती है।"
+  },
+  {
+   "id": "t19-psych-03",
+   "part": "B",
+   "section": "psych",
+   "topic": "Piaget's sensorimotor substages",
+   "question": "A 14-month-old repeatedly drops a toy from different heights to see what happens each time. This is which Piagetian substage?",
+   "questionHi": "14 माह का शिशु खिलौने को अलग-अलग ऊँचाइयों से बार-बार गिराकर देखता है कि हर बार क्या होता है। यह पियाजे की कौन-सी उप-अवस्था है?",
+   "options": [
+    "Tertiary circular reactions",
+    "Primary circular reactions",
+    "Secondary circular reactions",
+    "Reflexes"
+   ],
+   "optionsHi": [
+    "तृतीयक वृत्तीय प्रतिक्रियाएँ",
+    "प्राथमिक वृत्तीय प्रतिक्रियाएँ",
+    "द्वितीयक वृत्तीय प्रतिक्रियाएँ",
+    "सहज क्रियाएँ"
+   ],
+   "correctIndex": 0,
+   "explanation": "Tertiary circular reactions (12-18 months) involve deliberate experimentation with variations. Primary ones centre on the infant's own body, secondary ones on repeating interesting effects on objects without variation.",
+   "explanationHi": "तृतीयक वृत्तीय प्रतिक्रियाओं (12-18 माह) में शिशु जानबूझकर विविधता के साथ प्रयोग करता है। प्राथमिक अपने शरीर पर और द्वितीयक वस्तुओं पर बिना विविधता के दोहराव पर केंद्रित होती हैं।"
+  },
+  {
+   "id": "t19-psych-04",
+   "part": "B",
+   "section": "psych",
+   "topic": "Thurstone's primary mental abilities",
+   "question": "Rejecting Spearman's single general factor, Thurstone proposed",
+   "questionHi": "स्पीयरमैन के एकल सामान्य कारक को अस्वीकार करते हुए थर्स्टन ने प्रस्तावित किया",
+   "options": [
+    "the triarchic theory",
+    "a three-stratum hierarchy",
+    "eight multiple intelligences",
+    "seven primary mental abilities"
+   ],
+   "optionsHi": [
+    "त्रितंत्र सिद्धांत",
+    "त्रि-स्तरीय पदानुक्रम",
+    "आठ बहु-बुद्धियाँ",
+    "सात प्राथमिक मानसिक योग्यताएँ"
+   ],
+   "correctIndex": 3,
+   "explanation": "Thurstone proposed seven primary mental abilities (e.g., verbal comprehension, word fluency, number, space, memory, perception, reasoning). The triarchic theory is Sternberg's, and eight intelligences is Gardner's.",
+   "explanationHi": "थर्स्टन ने सात प्राथमिक मानसिक योग्यताएँ (शाब्दिक बोध, शब्द-प्रवाह, संख्या, स्थान, स्मृति, प्रत्यक्षण, तर्क) बताईं। त्रितंत्र सिद्धांत स्टर्नबर्ग का और आठ बुद्धियाँ गार्डनर की हैं।"
+  },
+  {
+   "id": "t19-psych-05",
+   "part": "B",
+   "section": "psych",
+   "topic": "Cattell's fluid and crystallised intelligence",
+   "question": "Vocabulary and general knowledge are typical indicators of ___ intelligence.",
+   "questionHi": "शब्दावली और सामान्य ज्ञान किस प्रकार की बुद्धि के विशिष्ट सूचक हैं?",
+   "options": [
+    "fluid",
+    "emotional",
+    "crystallised",
+    "practical"
+   ],
+   "optionsHi": [
+    "तरल (fluid)",
+    "भावनात्मक",
+    "स्फटिकीकृत (crystallised)",
+    "व्यावहारिक"
+   ],
+   "correctIndex": 2,
+   "explanation": "Cattell's crystallised intelligence is accumulated knowledge and skills from experience and education (e.g., vocabulary), and it can keep growing with age. Fluid intelligence is novel problem-solving that peaks earlier.",
+   "explanationHi": "कैटल की स्फटिकीकृत बुद्धि अनुभव और शिक्षा से संचित ज्ञान व कौशल (जैसे शब्दावली) है, जो आयु के साथ बढ़ती रह सकती है। तरल बुद्धि नई समस्याएँ हल करने की क्षमता है जो पहले चरम पर होती है।"
+  },
+  {
+   "id": "t19-psych-06",
+   "part": "B",
+   "section": "psych",
+   "topic": "Guilford's structure of intellect",
+   "question": "Guilford's Structure of Intellect model classifies intellectual abilities along three dimensions: operations, contents and ___.",
+   "questionHi": "गिल्फोर्ड का बुद्धि-संरचना मॉडल बौद्धिक क्षमताओं को तीन आयामों में बाँटता है: संक्रियाएँ, विषय-वस्तु और ___।",
+   "options": [
+    "traits",
+    "products",
+    "stages",
+    "factors"
+   ],
+   "optionsHi": [
+    "गुण",
+    "उत्पाद",
+    "अवस्थाएँ",
+    "कारक"
+   ],
+   "correctIndex": 1,
+   "explanation": "The three dimensions are operations (including divergent production), contents and products. 'Traits', 'stages' and 'factors' are not Guilford's dimensions.",
+   "explanationHi": "तीन आयाम हैं: संक्रियाएँ (विचारों का अपसारी उत्पादन सहित), विषय-वस्तु और उत्पाद। गुण, अवस्थाएँ और कारक गिल्फोर्ड के आयाम नहीं हैं।"
+  },
+  {
+   "id": "t19-assess-01",
+   "part": "B",
+   "section": "assess",
+   "topic": "Reliability",
+   "question": "The Spearman-Brown prophecy formula is used to estimate the reliability of a test by which method?",
+   "questionHi": "स्पीयरमैन-ब्राउन सूत्र का प्रयोग किस विधि से परीक्षण की विश्वसनीयता ज्ञात करने में होता है?",
+   "options": [
+    "Split-half method",
+    "Test-retest method",
+    "Parallel-forms method",
+    "Kuder-Richardson method"
+   ],
+   "optionsHi": [
+    "अर्ध-विभाजन विधि",
+    "परीक्षण-पुनर्परीक्षण विधि",
+    "समानांतर-रूप विधि",
+    "कुडर-रिचर्डसन विधि"
+   ],
+   "correctIndex": 0,
+   "explanation": "In the split-half method the correlation between two halves gives the reliability of the half-test; Spearman-Brown corrects it for the full-length test. Test-retest and parallel-forms use correlations between administrations or forms.",
+   "explanationHi": "अर्ध-विभाजन विधि में दोनों आधे भागों का सहसंबंध आधे परीक्षण की विश्वसनीयता देता है; स्पीयरमैन-ब्राउन सूत्र उसे पूरे परीक्षण के लिए सुधारता है। अन्य विधियाँ अलग सहसंबंधों पर आधारित हैं।"
+  },
+  {
+   "id": "t19-assess-02",
+   "part": "B",
+   "section": "assess",
+   "topic": "Item analysis",
+   "question": "In an item, 16 of the 20 students in the upper group and 4 of the 20 in the lower group answered correctly. Its discrimination index is",
+   "questionHi": "किसी प्रश्न का उत्तर ऊपरी समूह के 20 में से 16 और निचले समूह के 20 में से 4 विद्यार्थियों ने सही दिया। उसका विभेदन सूचकांक है",
+   "options": [
+    "0.20",
+    "0.60",
+    "0.80",
+    "0.40"
+   ],
+   "optionsHi": [
+    "0.20",
+    "0.60",
+    "0.80",
+    "0.40"
+   ],
+   "correctIndex": 1,
+   "explanation": "D = (U - L) / n = (16 - 4) / 20 = 0.60. The other values result from wrong subtraction or dividing by a different number.",
+   "explanationHi": "D = (U - L) / n = (16 - 4) / 20 = 0.60। अन्य मान गलत घटाव या गलत भाजक से आते हैं।"
+  },
+  {
+   "id": "t19-assess-03",
+   "part": "B",
+   "section": "assess",
+   "topic": "Validity",
+   "question": "A reading-comprehension test given in Class X is later correlated with students' performance in Class XII language examinations. This establishes",
+   "questionHi": "कक्षा X में दिए गए पठन-बोध परीक्षण का सहसंबंध बाद में कक्षा XII की भाषा परीक्षा के प्रदर्शन से निकाला गया। इससे कौन-सी वैधता स्थापित होती है?",
+   "options": [
+    "content validity",
+    "face validity",
+    "predictive validity",
+    "construct validity"
+   ],
+   "optionsHi": [
+    "विषय-वस्तु वैधता",
+    "आभासी वैधता",
+    "पूर्वकथन वैधता",
+    "संरचना वैधता"
+   ],
+   "correctIndex": 2,
+   "explanation": "Predictive validity is the degree to which a test forecasts future performance, shown by correlating scores with a later criterion. Content validity concerns coverage of syllabus, face validity concerns appearance, construct validity concerns the trait measured.",
+   "explanationHi": "पूर्वकथन वैधता वह है जिसमें परीक्षण भविष्य के प्रदर्शन का अनुमान लगाता है, जिसे बाद के मापदंड से सहसंबंध द्वारा दिखाया जाता है। विषय-वस्तु वैधता पाठ्यक्रम-आच्छादन से, आभासी वैधता रूप से और संरचना वैधता मापे गए गुण से जुड़ी है।"
+  },
+  {
+   "id": "t19-assess-04",
+   "part": "B",
+   "section": "assess",
+   "topic": "Holistic Progress Card (NEP 2020)",
+   "question": "The 360-degree Holistic Progress Card envisaged in NEP 2020 includes assessment by",
+   "questionHi": "NEP 2020 में परिकल्पित 360-डिग्री समग्र प्रगति कार्ड में किसके द्वारा आकलन शामिल है?",
+   "options": [
+    "teachers only",
+    "external board examiners only",
+    "parents only",
+    "the student (self), peers and teachers"
+   ],
+   "optionsHi": [
+    "केवल शिक्षक",
+    "केवल बाहरी बोर्ड परीक्षक",
+    "केवल अभिभावक",
+    "विद्यार्थी (स्व), सहपाठी और शिक्षक"
+   ],
+   "correctIndex": 3,
+   "explanation": "The HPC is a multi-dimensional report that includes self-assessment, peer assessment and teacher assessment, covering cognitive, affective and psychomotor domains. It is not limited to one source.",
+   "explanationHi": "HPC बहुआयामी रिपोर्ट है जिसमें स्व-आकलन, सहपाठी-आकलन और शिक्षक-आकलन शामिल हैं तथा यह संज्ञानात्मक, भावात्मक और मनोगामक क्षेत्रों को समेटता है। यह किसी एक स्रोत तक सीमित नहीं।"
+  },
+  {
+   "id": "t19-pedag-01",
+   "part": "B",
+   "section": "pedag",
+   "topic": "Problem-solving method",
+   "question": "In the problem-solving method of teaching, the first step is",
+   "questionHi": "शिक्षण की समस्या-समाधान विधि में पहला चरण है",
+   "options": [
+    "collecting data",
+    "identifying and defining the problem",
+    "formulating hypotheses",
+    "drawing conclusions"
+   ],
+   "optionsHi": [
+    "आँकड़े एकत्र करना",
+    "समस्या को पहचानना और परिभाषित करना",
+    "परिकल्पनाएँ बनाना",
+    "निष्कर्ष निकालना"
+   ],
+   "correctIndex": 1,
+   "explanation": "Learners must first sense and define the problem; only then do they collect data, form hypotheses, test them and draw conclusions.",
+   "explanationHi": "सबसे पहले समस्या को महसूस करके परिभाषित करना होता है; उसके बाद आँकड़े जुटाना, परिकल्पना बनाना, जाँच और निष्कर्ष आते हैं।"
+  },
+  {
+   "id": "t19-pedag-02",
+   "part": "B",
+   "section": "pedag",
+   "topic": "NCF 2005",
+   "question": "Which of the following is NOT among the guiding principles of NCF 2005?",
+   "questionHi": "निम्न में से कौन NCF 2005 के मार्गदर्शक सिद्धांतों में शामिल नहीं है?",
+   "options": [
+    "Connecting knowledge to life outside the school",
+    "Ensuring that learning shifts away from rote methods",
+    "Enriching the curriculum to go beyond the textbook",
+    "Emphasising memorisation of textbook content for examination success"
+   ],
+   "optionsHi": [
+    "ज्ञान को स्कूल के बाहर के जीवन से जोड़ना",
+    "सीखने को रटने की पद्धति से दूर ले जाना",
+    "पाठ्यचर्या को पाठ्यपुस्तक से आगे समृद्ध करना",
+    "परीक्षा में सफलता के लिए पाठ्यपुस्तक की सामग्री रटने पर बल देना"
+   ],
+   "correctIndex": 3,
+   "explanation": "NCF 2005 explicitly discourages rote learning and textbook-centred teaching. The other three are its stated principles, along with flexible, classroom-integrated examinations.",
+   "explanationHi": "NCF 2005 रटने और पाठ्यपुस्तक-केंद्रित शिक्षण को हतोत्साहित करता है। अन्य तीन उसके घोषित सिद्धांत हैं, साथ में लचीली और कक्षा-एकीकृत परीक्षाएँ भी।"
+  },
+  {
+   "id": "t19-pedag-03",
+   "part": "B",
+   "section": "pedag",
+   "topic": "RTE Act 2009",
+   "question": "Under the RTE Act 2009, private unaided schools must reserve what share of entry-level seats for children from weaker and disadvantaged sections?",
+   "questionHi": "RTE अधिनियम 2009 के अंतर्गत निजी गैर-अनुदानित विद्यालयों को प्रवेश-स्तर की कितनी सीटें कमजोर व वंचित वर्गों के बच्चों के लिए आरक्षित करनी होती हैं?",
+   "options": [
+    "25 per cent",
+    "10 per cent",
+    "33 per cent",
+    "50 per cent"
+   ],
+   "optionsHi": [
+    "25 प्रतिशत",
+    "10 प्रतिशत",
+    "33 प्रतिशत",
+    "50 प्रतिशत"
+   ],
+   "correctIndex": 0,
+   "explanation": "Section 12(1)(c) of the RTE Act requires private unaided schools to admit children from economically weaker and disadvantaged groups to at least 25 per cent of entry-level seats.",
+   "explanationHi": "RTE अधिनियम की धारा 12(1)(c) के अनुसार निजी गैर-अनुदानित विद्यालयों को प्रवेश-स्तर की कम से कम 25 प्रतिशत सीटों पर आर्थिक रूप से कमजोर व वंचित वर्गों के बच्चों को प्रवेश देना होता है।"
+  },
+  {
+   "id": "t19-attitude-01",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Constructivism",
+   "question": "Which teacher stance best reflects constructivism?",
+   "questionHi": "कौन-सा शिक्षक-दृष्टिकोण रचनावाद को सर्वोत्तम रूप से दर्शाता है?",
+   "options": [
+    "Knowledge is transmitted intact from teacher to learner",
+    "Learners are blank slates who must be filled",
+    "Learners actively build knowledge using prior experience, with the teacher as facilitator",
+    "Learning is complete when the syllabus is covered"
+   ],
+   "optionsHi": [
+    "ज्ञान शिक्षक से शिक्षार्थी तक ज्यों का त्यों स्थानांतरित होता है",
+    "शिक्षार्थी कोरी स्लेट है जिसे भरना होता है",
+    "शिक्षार्थी पूर्व अनुभव के आधार पर ज्ञान का सक्रिय निर्माण करते हैं और शिक्षक सुगमकर्ता होता है",
+    "पाठ्यक्रम पूरा होते ही सीखना पूर्ण हो जाता है"
+   ],
+   "correctIndex": 2,
+   "explanation": "Constructivism sees learners as active builders of meaning; the teacher facilitates through questions and tasks. The other views are transmission-based.",
+   "explanationHi": "रचनावाद में शिक्षार्थी अर्थ के सक्रिय निर्माता हैं; शिक्षक प्रश्नों और कार्यों से सुगमता देता है। अन्य दृष्टिकोण संचरण-आधारित हैं।"
+  },
+  {
+   "id": "t19-attitude-02",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Gender perspective",
+   "question": "A teacher always asks boys to lead laboratory work and girls to tidy up. The most appropriate corrective step is to",
+   "questionHi": "एक शिक्षक हमेशा लड़कों से प्रयोगशाला कार्य का नेतृत्व और लड़कियों से सफ़ाई करवाता है। सबसे उचित सुधारात्मक कदम क्या है?",
+   "options": [
+    "continue, since students are used to it",
+    "rotate roles so that all students lead and share chores",
+    "assign leadership to girls only for a year",
+    "stop all group work"
+   ],
+   "optionsHi": [
+    "जारी रखना, क्योंकि विद्यार्थी अभ्यस्त हैं",
+    "भूमिकाएँ बारी-बारी से बदलना ताकि सभी नेतृत्व करें और काम बाँटें",
+    "एक वर्ष के लिए नेतृत्व केवल लड़कियों को देना",
+    "सभी समूह-कार्य बंद कर देना"
+   ],
+   "correctIndex": 1,
+   "explanation": "Rotating roles removes gender stereotyping and gives equal opportunity. Continuing the practice reinforces bias, while reverse bias or abandoning group work does not address equality.",
+   "explanationHi": "भूमिकाएँ बदलने से लैंगिक रूढ़ियाँ टूटती हैं और सबको समान अवसर मिलता है। वही क्रम जारी रखना पूर्वाग्रह मज़बूत करता है; उलटा पूर्वाग्रह या समूह-कार्य बंद करना समानता नहीं लाता।"
+  }
+ ]
+}

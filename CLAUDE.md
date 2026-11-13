@@ -6,7 +6,7 @@ Auto-loaded by Claude Code. Read `docs/PROJECT_HISTORY.md` too for the decision 
 A fully client-side mock-test app (no backend, no login) for the **Chhattisgarh Lecturer Recruitment – English** exam (SCERT Raipur syllabus, see `docs/syllabus.md`). It was forked from the ITI "quiz-ITI" app (same architecture) and converted into a **Test Series** product. Deploys as a Docker (nginx) static site on Render.
 
 ## Product spec (finalized with the user)
-- **10 Test Series.** Each = **100 questions, 100 marks, 2 hours**.
+- **20 Test Series** (1–10 standard level, 11–20 **advanced**: moderate-to-hard, no basics — see the last section of `docs/GENERATION_SPEC.md`). Each = **100 questions, 100 marks, 2 hours**.
 - **Marking:** +1 correct, −0.25 wrong, 0 unattempted (`src/lib/scoring.js`).
 - **Timer:** user chooses minutes (default 120) or no timer. At zero → **warning only, never auto-submit**.
 - **Exam mode only:** no feedback until Submit; Previous/Next/jump freely; tapping a chosen option again clears it. Submit asks for confirmation via an in-page modal (never window.confirm — blocked in iPhone in-app browsers).

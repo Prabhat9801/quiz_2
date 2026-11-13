@@ -1,6 +1,6 @@
 # Lecturer English Test Series — CG
 
-10 full-length mock tests (100 questions / 100 marks / 2 hours, −¼ negative marking) for the Chhattisgarh Lecturer Recruitment – English exam. Client-side React app with history (IndexedDB) and PDF export.
+20 full-length mock tests (1–10 standard, 11–20 advanced) (100 questions / 100 marks / 2 hours, −¼ negative marking) for the Chhattisgarh Lecturer Recruitment – English exam. Client-side React app with history (IndexedDB) and PDF export.
 
 ```
 npm install

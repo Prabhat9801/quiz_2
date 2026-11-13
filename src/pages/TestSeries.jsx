@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { loadTest, loadTestsIndex, TOTAL_TESTS } from '../data/questionBank'
+import { loadTest, loadTestsIndex, TOTAL_TESTS, STANDARD_TESTS } from '../data/questionBank'
 import { downloadTestWorksheetPdf, downloadTestAnswersPdf } from '../pdf/testPdf'
 
 export default function TestSeries() {
@@ -42,10 +42,14 @@ export default function TestSeries() {
 
   return (
     <div>
-      <h1 className="text-xl font-bold mb-1">Test Series (1–10)</h1>
+      <h1 className="text-xl font-bold mb-1">Test Series (1–{TOTAL_TESTS})</h1>
       <p className="text-sm text-slate-600 mb-4">
         Har test: 100 questions · 100 marks · sahi +1, galat −0.25, chhoda 0. Result sirf Submit ke baad dikhega.
         Timer khatam hone par sirf warning aayegi, test apne aap submit nahi hoga.
+      </p>
+
+      <p className="text-xs text-slate-500 mb-3">
+        Test 1–{STANDARD_TESTS}: standard level · Test {STANDARD_TESTS + 1}–{TOTAL_TESTS}: advanced (moderate se hard, basic nahi).
       </p>
 
       <div className="grid grid-cols-2 sm:grid-cols-5 gap-2 sm:gap-3">
@@ -64,7 +68,9 @@ export default function TestSeries() {
               }`}
             >
               <div>Test {n}</div>
-              <div className="text-xs font-normal text-slate-500">{ready ? '100 Q · 2 hrs' : 'jald aa raha hai'}</div>
+              <div className="text-xs font-normal text-slate-500">
+                {ready ? (n > STANDARD_TESTS ? 'Advanced · 100 Q' : 'Standard · 100 Q') : 'jald aa raha hai'}
+              </div>
             </button>
           )
         })}

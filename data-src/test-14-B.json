@@ -1,0 +1,349 @@
+{
+ "questions": [
+  {
+   "id": "t14-psych-01",
+   "part": "B",
+   "section": "psych",
+   "topic": "Kohlberg",
+   "question": "A man refuses to copy in an exam, saying, \"Rules must be obeyed, otherwise society would collapse.\" According to Kohlberg, he is at",
+   "questionHi": "एक व्यक्ति परीक्षा में नकल करने से मना करता है और कहता है, \"नियमों का पालन होना चाहिए, नहीं तो समाज बिखर जाएगा।\" कोहलबर्ग के अनुसार वह किस स्तर पर है?",
+   "options": [
+    "Stage 4: law-and-order orientation",
+    "Stage 2: instrumental exchange",
+    "Stage 3: good-boy/good-girl orientation",
+    "Stage 5: social contract"
+   ],
+   "optionsHi": [
+    "चरण 4: कानून और व्यवस्था उन्मुखता",
+    "चरण 2: साधनात्मक आदान-प्रदान",
+    "चरण 3: अच्छा लड़का/लड़की उन्मुखता",
+    "चरण 5: सामाजिक अनुबंध"
+   ],
+   "correctIndex": 0,
+   "explanation": "Respecting rules to maintain social order is Stage 4 (conventional level). Stage 3 is about approval from others, and Stage 5 weighs laws against rights/utility.",
+   "explanationHi": "सामाजिक व्यवस्था बनाए रखने के लिए नियमों का आदर चरण 4 (परंपरागत स्तर) है। चरण 3 दूसरों की स्वीकृति से जुड़ा है और चरण 5 कानून को अधिकारों/उपयोगिता से तौलता है।"
+  },
+  {
+   "id": "t14-psych-02",
+   "part": "B",
+   "section": "psych",
+   "topic": "Gilligan",
+   "question": "Carol Gilligan criticised Kohlberg's theory mainly because it",
+   "questionHi": "कैरल गिलिगन ने कोहलबर्ग के सिद्धांत की आलोचना मुख्यतः इसलिए की कि वह",
+   "options": [
+    "ignored all moral reasoning",
+    "was based only on infants",
+    "denied the role of reasoning completely",
+    "was based on male samples and stressed justice over an ethic of care"
+   ],
+   "optionsHi": [
+    "नैतिक चिंतन को पूरी तरह अनदेखा करता था",
+    "केवल शिशुओं पर आधारित था",
+    "चिंतन की भूमिका को पूरी तरह नकारता था",
+    "पुरुष नमूनों पर आधारित था और देखभाल की नैतिकता की तुलना में न्याय पर अधिक ज़ोर देता था"
+   ],
+   "correctIndex": 3,
+   "explanation": "Gilligan argued that women tend to reason from an ethic of care and responsibility, which Kohlberg's justice-oriented, male-sample scale undervalued.",
+   "explanationHi": "गिलिगन का तर्क था कि महिलाएँ प्रायः देखभाल और ज़िम्मेदारी की नैतिकता से सोचती हैं, जिसे कोहलबर्ग का न्याय-उन्मुख, पुरुष-नमूना आधारित पैमाना कम आँकता है।"
+  },
+  {
+   "id": "t14-psych-03",
+   "part": "B",
+   "section": "psych",
+   "topic": "Erikson",
+   "question": "Which pairing of Erikson's crisis and approximate age is correct?",
+   "questionHi": "एरिक्सन के संकट (crisis) और लगभग आयु का कौन-सा युग्म सही है?",
+   "options": [
+    "Industry vs Inferiority: 12–18 years",
+    "Trust vs Mistrust: 3–6 years",
+    "Initiative vs Guilt: 3–6 years",
+    "Autonomy vs Shame: 6–12 years"
+   ],
+   "optionsHi": [
+    "उद्यमिता बनाम हीनता: 12–18 वर्ष",
+    "विश्वास बनाम अविश्वास: 3–6 वर्ष",
+    "पहल बनाम अपराध-बोध: 3–6 वर्ष",
+    "स्वायत्तता बनाम शर्म: 6–12 वर्ष"
+   ],
+   "correctIndex": 2,
+   "explanation": "Trust vs mistrust is infancy; autonomy vs shame is 1–3; initiative vs guilt is 3–6; industry vs inferiority is 6–12; identity vs role confusion is adolescence (12–18).",
+   "explanationHi": "विश्वास बनाम अविश्वास शैशव है; स्वायत्तता बनाम शर्म 1–3; पहल बनाम अपराध-बोध 3–6; उद्यमिता बनाम हीनता 6–12; पहचान बनाम भूमिका-भ्रम किशोरावस्था (12–18) में होता है।"
+  },
+  {
+   "id": "t14-psych-04",
+   "part": "B",
+   "section": "psych",
+   "topic": "Piaget: sensorimotor substages",
+   "question": "In which sensorimotor substage does an infant first begin to search for an object that has been hidden from view?",
+   "questionHi": "संवेदी-गामक अवस्था के किस उप-चरण में शिशु पहली बार छिपाई गई वस्तु को खोजना शुरू करता है?",
+   "options": [
+    "Reflexes (0–1 month)",
+    "Coordination of secondary circular reactions (about 8–12 months)",
+    "Primary circular reactions (1–4 months)",
+    "Tertiary circular reactions (12–18 months)"
+   ],
+   "optionsHi": [
+    "प्रतिवर्त (0–1 माह)",
+    "द्वितीयक वृत्तीय प्रतिक्रियाओं का समन्वय (लगभग 8–12 माह)",
+    "प्राथमिक वृत्तीय प्रतिक्रियाएँ (1–4 माह)",
+    "तृतीयक वृत्तीय प्रतिक्रियाएँ (12–18 माह)"
+   ],
+   "correctIndex": 1,
+   "explanation": "Goal-directed search for hidden objects (early object permanence) emerges in substage 4, at about 8–12 months, when infants coordinate schemes to reach goals.",
+   "explanationHi": "छिपी वस्तु की लक्ष्य-निर्देशित खोज (प्रारंभिक वस्तु-स्थायित्व) उप-चरण 4 में, लगभग 8–12 माह पर, दिखती है जब शिशु योजनाओं का समन्वय करता है।"
+  },
+  {
+   "id": "t14-psych-05",
+   "part": "B",
+   "section": "psych",
+   "topic": "Bandura: Reciprocal determinism",
+   "question": "Bandura's \"reciprocal determinism\" states that behaviour is shaped by the mutual interaction of",
+   "questionHi": "बंडुरा के \"पारस्परिक नियतिवाद\" (reciprocal determinism) के अनुसार व्यवहार किनकी परस्पर क्रिया से बनता है?",
+   "options": [
+    "personal (cognitive) factors, behaviour and the environment",
+    "heredity and instinct only",
+    "reward and punishment only",
+    "unconscious drives and dreams"
+   ],
+   "optionsHi": [
+    "व्यक्तिगत (संज्ञानात्मक) कारक, व्यवहार और वातावरण",
+    "केवल आनुवंशिकता और सहज प्रवृत्ति",
+    "केवल पुरस्कार और दंड",
+    "अचेतन प्रेरणाएँ और स्वप्न"
+   ],
+   "correctIndex": 0,
+   "explanation": "In social-cognitive theory, person, behaviour and environment influence one another in a triadic, two-way way. Option 2 is nativist and option 4 is psychoanalytic.",
+   "explanationHi": "सामाजिक-संज्ञानात्मक सिद्धांत में व्यक्ति, व्यवहार और वातावरण त्रिकोणीय रूप से एक-दूसरे को प्रभावित करते हैं। दूसरा विकल्प जन्मजातवादी तथा चौथा मनोविश्लेषणात्मक है।"
+  },
+  {
+   "id": "t14-psych-06",
+   "part": "B",
+   "section": "psych",
+   "topic": "Cattell: Fluid vs Crystallised intelligence",
+   "question": "Which of the following is the best example of crystallised intelligence (Cattell)?",
+   "questionHi": "कैटेल के अनुसार स्फटिकीकृत बुद्धि (crystallised intelligence) का सर्वोत्तम उदाहरण कौन-सा है?",
+   "options": [
+    "solving a new abstract pattern puzzle",
+    "quickly spotting the odd figure in a novel series",
+    "learning an unfamiliar game's rules on the spot",
+    "defining rare words using a vocabulary built over years"
+   ],
+   "optionsHi": [
+    "नई अमूर्त पैटर्न पहेली सुलझाना",
+    "नई शृंखला में अलग आकृति तुरंत पहचानना",
+    "किसी अपरिचित खेल के नियम मौके पर सीख लेना",
+    "वर्षों में बनी शब्दावली से दुर्लभ शब्दों की परिभाषा देना"
+   ],
+   "correctIndex": 3,
+   "explanation": "Crystallised intelligence is accumulated knowledge and skills (vocabulary, general information). Fluid intelligence is reasoning with novel problems, independent of learned knowledge.",
+   "explanationHi": "स्फटिकीकृत बुद्धि संचित ज्ञान और कौशल (शब्दावली, सामान्य जानकारी) है। तरल बुद्धि नई समस्याओं पर तर्क करने की क्षमता है, जो सीखे हुए ज्ञान पर निर्भर नहीं है।"
+  },
+  {
+   "id": "t14-assess-01",
+   "part": "B",
+   "section": "assess",
+   "topic": "Item analysis",
+   "question": "30 of 50 students answered an item correctly. The difficulty index of the item is",
+   "questionHi": "50 में से 30 विद्यार्थियों ने किसी प्रश्न का सही उत्तर दिया। इस प्रश्न का कठिनाई-सूचकांक (difficulty index) है",
+   "options": [
+    "0.30",
+    "0.40",
+    "0.83",
+    "0.60"
+   ],
+   "optionsHi": [
+    "0.30",
+    "0.40",
+    "0.83",
+    "0.60"
+   ],
+   "correctIndex": 3,
+   "explanation": "Difficulty index P = number correct / total = 30/50 = 0.60; a higher P means an easier item.",
+   "explanationHi": "कठिनाई-सूचकांक P = सही उत्तर / कुल = 30/50 = 0.60; P जितना अधिक, प्रश्न उतना सरल।"
+  },
+  {
+   "id": "t14-assess-02",
+   "part": "B",
+   "section": "assess",
+   "topic": "Item analysis",
+   "question": "In an item analysis, 20 of the 25 students in the upper group and 8 of the 25 in the lower group answered an item correctly. The discrimination index is",
+   "questionHi": "किसी प्रश्न विश्लेषण में उच्च समूह के 25 में से 20 तथा निम्न समूह के 25 में से 8 विद्यार्थियों ने प्रश्न सही किया। विभेदन-सूचकांक (discrimination index) है",
+   "options": [
+    "0.80",
+    "0.32",
+    "0.48",
+    "0.12"
+   ],
+   "optionsHi": [
+    "0.80",
+    "0.32",
+    "0.48",
+    "0.12"
+   ],
+   "correctIndex": 2,
+   "explanation": "D = (U − L) / group size = (20 − 8) / 25 = 12/25 = 0.48. Values above about 0.40 indicate good discrimination.",
+   "explanationHi": "D = (U − L) / समूह का आकार = (20 − 8) / 25 = 0.48। लगभग 0.40 से अधिक मान अच्छे विभेदन को दर्शाता है।"
+  },
+  {
+   "id": "t14-assess-03",
+   "part": "B",
+   "section": "assess",
+   "topic": "Reliability",
+   "question": "The Spearman–Brown prophecy formula is used to",
+   "questionHi": "Spearman–Brown prophecy सूत्र का प्रयोग किया जाता है",
+   "options": [
+    "measure the validity of a test",
+    "estimate the reliability of a whole test from the split-half correlation",
+    "calculate the difficulty index",
+    "find the standard deviation of scores"
+   ],
+   "optionsHi": [
+    "परीक्षण की वैधता मापने में",
+    "split-half सहसंबंध से पूरे परीक्षण की विश्वसनीयता का अनुमान लगाने में",
+    "कठिनाई-सूचकांक निकालने में",
+    "अंकों का मानक विचलन निकालने में"
+   ],
+   "correctIndex": 1,
+   "explanation": "The split-half correlation reflects only half the test, so the Spearman–Brown correction (r = 2r_half / (1 + r_half)) estimates the reliability of the full-length test.",
+   "explanationHi": "split-half सहसंबंध केवल आधे परीक्षण को दर्शाता है, इसलिए Spearman–Brown सुधार (r = 2r/(1 + r)) पूरे परीक्षण की विश्वसनीयता का अनुमान देता है।"
+  },
+  {
+   "id": "t14-assess-04",
+   "part": "B",
+   "section": "assess",
+   "topic": "Validity",
+   "question": "A new English proficiency test is given at the same time as an established standard test, and the two sets of scores are correlated. This checks",
+   "questionHi": "एक नया अंग्रेज़ी दक्षता परीक्षण एक स्थापित मानक परीक्षण के साथ उसी समय लिया जाता है और दोनों के अंकों का सहसंबंध निकाला जाता है। इससे किसकी जाँच होती है?",
+   "options": [
+    "concurrent validity",
+    "predictive validity",
+    "content validity",
+    "face validity"
+   ],
+   "optionsHi": [
+    "समवर्ती वैधता (concurrent validity)",
+    "भविष्यवाणी वैधता (predictive validity)",
+    "विषयवस्तु वैधता (content validity)",
+    "आभासी वैधता (face validity)"
+   ],
+   "correctIndex": 0,
+   "explanation": "Correlating with an existing criterion measured at the same time is concurrent validity; predictive validity uses a criterion measured later.",
+   "explanationHi": "उसी समय किसी मौजूदा मानदंड से सहसंबंध निकालना concurrent validity है; predictive validity में मानदंड बाद में मापा जाता है।"
+  },
+  {
+   "id": "t14-pedag-01",
+   "part": "B",
+   "section": "pedag",
+   "topic": "NCF-SE 2023",
+   "question": "In the 5+3+3+4 structure of NCF-SE 2023, the Preparatory Stage covers which age group?",
+   "questionHi": "NCF-SE 2023 की 5+3+3+4 संरचना में प्रारंभिक (Preparatory) चरण किस आयु वर्ग को शामिल करता है?",
+   "options": [
+    "8–11 years (Grades 3–5)",
+    "3–8 years",
+    "11–14 years",
+    "14–18 years"
+   ],
+   "optionsHi": [
+    "8–11 वर्ष (कक्षा 3–5)",
+    "3–8 वर्ष",
+    "11–14 वर्ष",
+    "14–18 वर्ष"
+   ],
+   "correctIndex": 0,
+   "explanation": "Foundational: 3–8 (5 years); Preparatory: 8–11 (3 years, Grades 3–5); Middle: 11–14 (Grades 6–8); Secondary: 14–18 (Grades 9–12).",
+   "explanationHi": "आधारभूत: 3–8 (5 वर्ष); प्रारंभिक: 8–11 (3 वर्ष, कक्षा 3–5); मध्य: 11–14 (कक्षा 6–8); माध्यमिक: 14–18 (कक्षा 9–12)।"
+  },
+  {
+   "id": "t14-pedag-02",
+   "part": "B",
+   "section": "pedag",
+   "topic": "5E model",
+   "question": "In a 5E lesson on paragraph writing, learners now write their own paragraphs on a new topic using the structure the teacher explained. This is the",
+   "questionHi": "5E मॉडल पर आधारित अनुच्छेद-लेखन के पाठ में विद्यार्थी शिक्षक द्वारा समझाई गई संरचना का प्रयोग करके नए विषय पर अपना अनुच्छेद लिखते हैं। यह कौन-सा चरण है?",
+   "options": [
+    "Engage phase",
+    "Explain phase",
+    "Evaluate phase",
+    "Elaborate phase"
+   ],
+   "optionsHi": [
+    "Engage (जुड़ाव) चरण",
+    "Explain (व्याख्या) चरण",
+    "Evaluate (मूल्यांकन) चरण",
+    "Elaborate (विस्तार) चरण"
+   ],
+   "correctIndex": 3,
+   "explanation": "In 5E (Engage, Explore, Explain, Elaborate, Evaluate), applying the learned concept to a new situation is the Elaborate phase.",
+   "explanationHi": "5E (Engage, Explore, Explain, Elaborate, Evaluate) में सीखी गई अवधारणा को नई स्थिति में लगाना Elaborate चरण है।"
+  },
+  {
+   "id": "t14-pedag-03",
+   "part": "B",
+   "section": "pedag",
+   "topic": "NCF 2005",
+   "question": "Which of the following is NOT one of the guiding principles of NCF 2005?",
+   "questionHi": "निम्नलिखित में से कौन-सा NCF 2005 का मार्गदर्शक सिद्धांत नहीं है?",
+   "options": [
+    "Connecting knowledge to life outside the school",
+    "Ensuring that learning shifts away from rote methods",
+    "Making examinations more competitive and memory-based",
+    "Enriching the curriculum beyond textbooks"
+   ],
+   "optionsHi": [
+    "ज्ञान को विद्यालय के बाहर के जीवन से जोड़ना",
+    "सीखने को रटने की पद्धति से दूर ले जाना",
+    "परीक्षाओं को अधिक प्रतिस्पर्धी और स्मृति-आधारित बनाना",
+    "पाठ्यचर्या को पाठ्यपुस्तकों से आगे समृद्ध करना"
+   ],
+   "correctIndex": 2,
+   "explanation": "NCF 2005 calls for making examinations more flexible and integrated with classroom life, not more competitive and memory-based.",
+   "explanationHi": "NCF 2005 परीक्षाओं को अधिक लचीला और कक्षा-जीवन से जुड़ा बनाने की बात करता है, अधिक प्रतिस्पर्धी और स्मृति-आधारित बनाने की नहीं।"
+  },
+  {
+   "id": "t14-attitude-01",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Constructivism",
+   "question": "Which statement best reflects a constructivist view of knowledge and learning?",
+   "questionHi": "ज्ञान और अधिगम के बारे में रचनावादी दृष्टिकोण को कौन-सा कथन सबसे अच्छी तरह दर्शाता है?",
+   "options": [
+    "Knowledge is a fixed body of facts that teachers pour into learners",
+    "Learners actively build knowledge by connecting new experiences with what they already know",
+    "Learning is best achieved by repeated drill and reward",
+    "Learners are passive recipients of information"
+   ],
+   "optionsHi": [
+    "ज्ञान तथ्यों का स्थिर भंडार है जिसे शिक्षक विद्यार्थियों में भर देता है",
+    "विद्यार्थी नए अनुभवों को पहले से ज्ञात बातों से जोड़कर ज्ञान का स्वयं निर्माण करते हैं",
+    "दोहराव और पुरस्कार से सीखना सबसे अच्छा होता है",
+    "विद्यार्थी सूचना के निष्क्रिय ग्राही हैं"
+   ],
+   "correctIndex": 1,
+   "explanation": "Constructivism sees the learner as an active meaning-maker; the other options describe transmission or behaviourist views.",
+   "explanationHi": "रचनावाद में विद्यार्थी अर्थ का सक्रिय निर्माता है; अन्य विकल्प हस्तांतरण या व्यवहारवादी दृष्टिकोण हैं।"
+  },
+  {
+   "id": "t14-attitude-02",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Gender perspective",
+   "question": "A teacher always gives leadership roles to boys and note-taking to girls in group tasks. This practice is an example of",
+   "questionHi": "एक शिक्षक समूह कार्यों में हमेशा लड़कों को नेतृत्व और लड़कियों को नोट लेने का काम देता है। यह व्यवहार किसका उदाहरण है?",
+   "options": [
+    "a hidden curriculum that reinforces gender stereotypes",
+    "child-centred education",
+    "inclusive education",
+    "formative assessment"
+   ],
+   "optionsHi": [
+    "छिपे पाठ्यक्रम (hidden curriculum) का जो लैंगिक रूढ़ियों को मज़बूत करता है",
+    "बाल-केंद्रित शिक्षा",
+    "समावेशी शिक्षा",
+    "रचनात्मक मूल्यांकन"
+   ],
+   "correctIndex": 0,
+   "explanation": "Unstated, routine practices that assign roles by gender transmit stereotypes through the hidden curriculum; a gender-sensitive teacher rotates roles.",
+   "explanationHi": "लिंग के आधार पर भूमिकाएँ बाँटने वाली अघोषित, नियमित प्रथाएँ छिपे पाठ्यक्रम के माध्यम से रूढ़ियाँ फैलाती हैं; लिंग-संवेदनशील शिक्षक भूमिकाएँ बदलता रहता है।"
+  }
+ ]
+}

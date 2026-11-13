@@ -1,0 +1,1059 @@
+{
+ "passages": [
+  {
+   "id": "t16-p1",
+   "genre": "Literary essay",
+   "title": "The Honest Betrayal",
+   "text": "Every translator begins with a small betrayal. The Italians compress the idea into a pun, traduttore, traditore, but the pun flatters the critic more than it describes the craft. To translate is not to carry a sentence across a river like a parcel; it is to rebuild the house on the other bank, using local brick, and to persuade the original owner that it is still his home. The faithful translator, who renders every word in its dictionary sense, often produces a text that is accurate and dead. The free translator, who lets the music of the new language lead, risks smuggling in meanings the author never intended. Neither is innocent. What distinguishes the good translator is not the avoidance of loss, which is impossible, but the choice of what to lose. A joke may have to surrender its pun to keep its tone; a lament may give up its rhyme to keep its rhythm. Readers who demand a perfect equivalent are asking for something that no two languages have ever possessed. They would do better to regard translation as a long conversation in which the original is never silenced, only answered."
+  },
+  {
+   "id": "t16-p2",
+   "genre": "Poetry extract",
+   "title": "The Keeper",
+   "text": "The lamp has turned for forty years,\na slow and patient eye,\nthat never asks the ships their names\nnor why they hurry by.\nHe trims the wick, he wipes the glass,\nhe logs the wind and weather,\nand tells himself the sea is kind\nto those who keep together.\n\nBut nights come when the fog descends\nand swallows light whole,\nand he must trust that somewhere out\na sailor reads the toll\nof that same beam he cannot see\nreach anyone at all;\na faith as thin as breath on glass,\nyet strong enough to haul\nthe heaviest of hulls from rock\nto harbour, one by one,\nwhile no one learns his name or thanks\nthe man whose work is done.\n\nStill, when the dawn undoes the dark\nand gulls resume their cries,\nhe climbs the stair, he trims the wick,\nand does not ask what size\nthe thanks he never gets would be;\nthe light itself replies."
+  },
+  {
+   "id": "t16-p3",
+   "genre": "Scientific passage",
+   "title": "Slow Witnesses",
+   "text": "Lichens are not single organisms but stable partnerships between a fungus and one or more photosynthetic partners, usually green algae or cyanobacteria. The fungus supplies a protective structure that retains moisture, while the alga manufactures sugars from sunlight. Because lichens lack roots and a waxy cuticle, they absorb water and dissolved substances directly through their surfaces, taking up pollutants along with nutrients. This is why many species are sensitive to sulphur dioxide: in industrial cities of the nineteenth century, the disappearance of leafy lichens from tree trunks marked the arrival of polluted air long before instruments could measure it. Ecologists therefore use lichen communities as bioindicators, comparing the abundance of pollution-tolerant crusts with sensitive shrubby forms. Yet the method has limits. A lichen's absence may result from drought, altered bark chemistry or simple lack of time to colonise, since lichens grow with extraordinary slowness, sometimes less than a millimetre a year. A careful survey must therefore rule out such rival explanations before attributing a decline to pollution. The same slowness that makes lichens vulnerable also makes them useful, for their long lives record environmental change across decades."
+  }
+ ],
+ "questions": [
+  {
+   "id": "t16-gram-01",
+   "part": "A",
+   "section": "gram",
+   "topic": "Inversion",
+   "question": "Only after the results were announced ___ the students realise their mistake.",
+   "options": [
+    "did",
+    "do",
+    "had",
+    "were"
+   ],
+   "correctIndex": 0,
+   "explanation": "A clause beginning with \"Only after/when ...\" takes subject-auxiliary inversion in the main clause; the past event needs \"did + base verb\". The other options do not form a correct inversion."
+  },
+  {
+   "id": "t16-gram-02",
+   "part": "A",
+   "section": "gram",
+   "topic": "Mixed conditionals",
+   "question": "If she had accepted the Delhi offer last year, she ___ in Raipur now.",
+   "options": [
+    "would not have lived",
+    "will not live",
+    "would not had lived",
+    "would not be living"
+   ],
+   "correctIndex": 3,
+   "explanation": "A past unreal condition (third-conditional if-clause) with a present result needs \"would + base verb\" (mixed conditional). \"Would not have lived\" refers to a past result; the others are ungrammatical."
+  },
+  {
+   "id": "t16-gram-03",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subjunctive-like past",
+   "question": "It is high time you ___ seriously about your future.",
+   "options": [
+    "start",
+    "will start",
+    "started",
+    "have started"
+   ],
+   "correctIndex": 2,
+   "explanation": "\"It is high time + subject\" takes the past tense form (unreal present/future need): \"started\". The base form or will-future is not used."
+  },
+  {
+   "id": "t16-gram-04",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subject-verb agreement",
+   "question": "She is one of those teachers who ___ never content with rote methods.",
+   "options": [
+    "is",
+    "are",
+    "has been",
+    "was"
+   ],
+   "correctIndex": 1,
+   "explanation": "In \"one of those ... who\", the relative pronoun \"who\" refers to the plural \"teachers\", so the verb is plural: \"are\"."
+  },
+  {
+   "id": "t16-gram-05",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subject-verb agreement",
+   "question": "Choose the correct pair: \"The number of applicants ___ increasing, while a number of posts ___ still vacant.\"",
+   "options": [
+    "is, are",
+    "are, is",
+    "is, is",
+    "are, are"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"The number of\" is singular (the number itself is increasing), whereas \"a number of\" means \"several\" and takes a plural verb."
+  },
+  {
+   "id": "t16-gram-06",
+   "part": "A",
+   "section": "gram",
+   "topic": "Direct-Indirect speech",
+   "question": "He said, \"I will have finished the work by the time you return.\" Choose the correct indirect speech.",
+   "options": [
+    "He said that he will have finished the work by the time I return.",
+    "He said that he had finished the work by the time I had returned.",
+    "He said that he would finish the work by the time I returns.",
+    "He said that he would have finished the work by the time I returned."
+   ],
+   "correctIndex": 3,
+   "explanation": "After a past reporting verb, \"will have\" becomes \"would have\", and the present-tense time clause \"you return\" backshifts to \"I returned\"."
+  },
+  {
+   "id": "t16-gram-07",
+   "part": "A",
+   "section": "gram",
+   "topic": "Defining vs non-defining clauses",
+   "question": "Which sentence uses \"that\" INCORRECTLY?",
+   "options": [
+    "The book that I bought yesterday is useful.",
+    "Everything that glitters is not gold.",
+    "Mount Everest, that is the highest peak in the world, lies in Nepal.",
+    "This is the house that Jack built."
+   ],
+   "correctIndex": 2,
+   "explanation": "\"That\" can introduce only defining (restrictive) clauses; a non-defining clause set off by commas needs \"which\" or \"who\". The other sentences are defining clauses and correct."
+  },
+  {
+   "id": "t16-gram-08",
+   "part": "A",
+   "section": "gram",
+   "topic": "Modals",
+   "question": "You ___ bought so much rice; we already had plenty at home.",
+   "options": [
+    "didn't need to",
+    "needn't have",
+    "mustn't have",
+    "couldn't have"
+   ],
+   "correctIndex": 1,
+   "explanation": "\"Needn't have + past participle\" means the action was done but was unnecessary. \"Didn't need to\" does not imply it was bought; \"mustn't have\" and \"couldn't have\" express deduction."
+  },
+  {
+   "id": "t16-gram-09",
+   "part": "A",
+   "section": "gram",
+   "topic": "Determiners",
+   "question": "There is ___ evidence against him, so the court is likely to acquit him.",
+   "options": [
+    "little",
+    "a few",
+    "few",
+    "a little"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"Evidence\" is uncountable, so a few/few are wrong. \"Little\" has a negative sense (almost none), which fits acquittal; \"a little\" would suggest some evidence exists."
+  },
+  {
+   "id": "t16-gram-10",
+   "part": "A",
+   "section": "gram",
+   "topic": "Elliptical sentence pattern",
+   "question": "Ravi can play the guitar, and so ___ his sister.",
+   "options": [
+    "does",
+    "is",
+    "will",
+    "can"
+   ],
+   "correctIndex": 3,
+   "explanation": "In \"so + auxiliary + subject\", the auxiliary must echo the one in the first clause: \"can\"."
+  },
+  {
+   "id": "t16-gram-11",
+   "part": "A",
+   "section": "gram",
+   "topic": "Phrasal verbs",
+   "question": "In the sentence \"The peace talks fell through at the last moment\", the phrasal verb means",
+   "options": [
+    "were postponed",
+    "were concluded successfully",
+    "failed to take place",
+    "were interrupted briefly"
+   ],
+   "correctIndex": 2,
+   "explanation": "\"Fall through\" means to fail or collapse before completion. It does not mean postponement, success or a brief interruption."
+  },
+  {
+   "id": "t16-gram-12",
+   "part": "A",
+   "section": "gram",
+   "topic": "Tenses (transformation)",
+   "question": "Choose the correct transformation of \"As soon as the bell rang, the students rushed out.\"",
+   "options": [
+    "Hardly did the bell ring when the students rushed out.",
+    "Hardly had the bell rung when the students rushed out.",
+    "Hardly the bell had rung than the students rushed out.",
+    "Hardly had the bell rung than the students rushed out."
+   ],
+   "correctIndex": 1,
+   "explanation": "\"Hardly\" takes inversion with the past perfect (had + subject + past participle) and is followed by \"when\", not \"than\"."
+  },
+  {
+   "id": "t16-gram-13",
+   "part": "A",
+   "section": "gram",
+   "topic": "Question tags",
+   "question": "He hardly ever visits you, ___?",
+   "options": [
+    "does he",
+    "doesn't he",
+    "is he",
+    "isn't he"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"Hardly ever\" makes the clause negative in meaning, so the tag is positive; the verb is \"visits\", so the auxiliary is \"does\"."
+  },
+  {
+   "id": "t16-gram-14",
+   "part": "A",
+   "section": "gram",
+   "topic": "Inversion",
+   "question": "Choose the correct completion: \"Not until the results were announced ___ how well he had done.\"",
+   "options": [
+    "he realised",
+    "he did realise",
+    "realised did he",
+    "did he realise"
+   ],
+   "correctIndex": 3,
+   "explanation": "A sentence beginning with \"Not until…\" takes subject-auxiliary inversion in the main clause: \"did he realise\". The other options keep normal word order or are ungrammatical."
+  },
+  {
+   "id": "t16-gram-15",
+   "part": "A",
+   "section": "gram",
+   "topic": "Noun clauses",
+   "question": "In \"The fact that he was absent surprised everyone\", the clause \"that he was absent\" is a",
+   "options": [
+    "relative clause",
+    "adverb clause of reason",
+    "noun clause in apposition",
+    "non-finite clause"
+   ],
+   "correctIndex": 2,
+   "explanation": "The clause explains the noun \"fact\", so it is a noun clause in apposition. A relative clause would modify with who/which; \"that\" here is a conjunction, not a pronoun."
+  },
+  {
+   "id": "t16-vocab-01",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Collocations",
+   "question": "The company issued a statement to ___ the rumours about its closure.",
+   "options": [
+    "disperse",
+    "dissipate",
+    "discard",
+    "dispel"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"Dispel\" collocates with rumours, doubts and fears. \"Disperse\" is for crowds, \"dissipate\" for energy or fog, and \"discard\" for objects."
+  },
+  {
+   "id": "t16-vocab-02",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Collocations",
+   "question": "Parents must try to ___ a balance between discipline and affection.",
+   "options": [
+    "hit",
+    "cut",
+    "strike",
+    "draw"
+   ],
+   "correctIndex": 2,
+   "explanation": "\"Strike a balance\" is the fixed collocation. Hit, cut and draw do not collocate with \"balance\" in this sense."
+  },
+  {
+   "id": "t16-vocab-03",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word class conversion",
+   "question": "In \"She gave the door a hard kick\", the word \"kick\" is an example of",
+   "options": [
+    "back-formation",
+    "conversion (verb to noun)",
+    "clipping",
+    "blending"
+   ],
+   "correctIndex": 1,
+   "explanation": "The same form is used as a noun with no affix added; this is conversion (zero derivation). Back-formation removes an affix, clipping shortens a word, and blending merges two words."
+  },
+  {
+   "id": "t16-vocab-04",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Lexical bundles",
+   "question": "Lexical bundles such as \"it is important to note that\" are best described as",
+   "options": [
+    "frequently recurring multi-word sequences, often structurally incomplete and non-idiomatic",
+    "fixed idioms with figurative meanings",
+    "compound words written with a hyphen",
+    "proverbs conveying general truths"
+   ],
+   "correctIndex": 0,
+   "explanation": "Bundles are corpus-identified, recurrent word sequences whose meaning is compositional; they are not idioms or proverbs."
+  },
+  {
+   "id": "t16-vocab-05",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idiomaticity and opacity",
+   "question": "To \"bell the cat\" means to",
+   "options": [
+    "betray a secret to an enemy",
+    "make unnecessary noise",
+    "tame a dangerous animal",
+    "undertake a risky task on behalf of a group"
+   ],
+   "correctIndex": 3,
+   "explanation": "From the fable of the mice who needed someone to tie a bell on the cat, the idiom means to take on a dangerous job for others."
+  },
+  {
+   "id": "t16-vocab-06",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idiomaticity and opacity",
+   "question": "A \"red herring\" in a detective story is",
+   "options": [
+    "the crucial piece of evidence",
+    "the criminal's alibi",
+    "a misleading clue that diverts attention",
+    "a minor character who helps the police"
+   ],
+   "correctIndex": 2,
+   "explanation": "A red herring is a false lead intended to distract; the other options describe unrelated ideas."
+  },
+  {
+   "id": "t16-vocab-07",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "\"The White House denied the allegations.\" Here \"The White House\" is an example of",
+   "options": [
+    "synecdoche",
+    "metonymy",
+    "hyperbole",
+    "irony"
+   ],
+   "correctIndex": 1,
+   "explanation": "A name associated with the President's office is used in place of the officials themselves: metonymy (association, not part-for-whole)."
+  },
+  {
+   "id": "t16-vocab-08",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "\"She is no fool\", meaning \"She is very clever\", is an example of",
+   "options": [
+    "litotes",
+    "oxymoron",
+    "hyperbole",
+    "apostrophe"
+   ],
+   "correctIndex": 0,
+   "explanation": "Litotes affirms something by denying its opposite, with deliberate understatement."
+  },
+  {
+   "id": "t16-vocab-09",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "Which of the following is a paradox rather than an oxymoron?",
+   "options": [
+    "\"deafening silence\"",
+    "\"bittersweet\"",
+    "\"living death\"",
+    "\"The more you learn, the less you feel you know.\""
+   ],
+   "correctIndex": 3,
+   "explanation": "A paradox is a statement that seems self-contradictory but expresses a truth; the others are two-word contradictory phrases, i.e. oxymorons."
+  },
+  {
+   "id": "t16-vocab-10",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "\"She lost her keys and her temper\" illustrates",
+   "options": [
+    "hendiadys",
+    "tautology",
+    "zeugma",
+    "pleonasm"
+   ],
+   "correctIndex": 2,
+   "explanation": "One verb (\"lost\") governs two objects in different senses, literal and figurative: zeugma."
+  },
+  {
+   "id": "t16-vocab-11",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "The repetition of a word or phrase at the END of successive clauses is called",
+   "options": [
+    "anaphora",
+    "epistrophe",
+    "anadiplosis",
+    "polysyndeton"
+   ],
+   "correctIndex": 1,
+   "explanation": "Epistrophe repeats the closing word/phrase; anaphora repeats the opening; anadiplosis repeats the last word of one clause at the start of the next; polysyndeton uses many conjunctions."
+  },
+  {
+   "id": "t16-vocab-12",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Root words and affixes",
+   "question": "The Greek root \"chron\" in \"synchronise\" means",
+   "options": [
+    "time",
+    "sound",
+    "law",
+    "light"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"Chron(os)\" means time, and \"syn-\" means together; synchronise = to happen at the same time."
+  },
+  {
+   "id": "t16-vocab-13",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Root words and affixes",
+   "question": "The word \"benevolent\" is formed from Latin roots meaning",
+   "options": [
+    "well + speaking",
+    "well + doing",
+    "well + knowing",
+    "well + wishing"
+   ],
+   "correctIndex": 3,
+   "explanation": "Bene = well, volens = wishing. \"Well-speaking\" is benediction and \"well-doing\" is beneficent."
+  },
+  {
+   "id": "t16-vocab-14",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Polysemy and homonymy",
+   "question": "Which pair illustrates polysemy rather than homonymy?",
+   "options": [
+    "bank (of a river) / bank (money)",
+    "bat (animal) / bat (cricket)",
+    "the mouth of a river / the mouth of a person",
+    "bark (of a tree) / bark (of a dog)"
+   ],
+   "correctIndex": 2,
+   "explanation": "In polysemy one word has related senses (the opening metaphor). The other pairs are unrelated words sharing a form, i.e. homonyms."
+  },
+  {
+   "id": "t16-vocab-15",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Homophones and near-homophones",
+   "question": "The detective made ___ enquiries so as not to alarm the neighbours.",
+   "options": [
+    "discrete",
+    "discreet",
+    "discernible",
+    "discretionary"
+   ],
+   "correctIndex": 1,
+   "explanation": "\"Discreet\" means careful and tactful; \"discrete\" means separate, a near-homophone trap. The other options do not fit the meaning."
+  },
+  {
+   "id": "t16-rc-01",
+   "part": "A",
+   "section": "rc",
+   "topic": "Central idea",
+   "passageId": "t16-p1",
+   "question": "The passage chiefly argues that",
+   "options": [
+    "faithful translation is always superior to free translation",
+    "translators should avoid rendering jokes and laments",
+    "good translation lies in deliberately choosing what to sacrifice, since some loss is unavoidable",
+    "two languages can eventually achieve perfect equivalence"
+   ],
+   "correctIndex": 2,
+   "explanation": "The author says the good translator is distinguished \"not by avoiding loss, which is impossible, but by the choice of what to lose\". The other options contradict or distort this."
+  },
+  {
+   "id": "t16-rc-02",
+   "part": "A",
+   "section": "rc",
+   "topic": "Author's attitude",
+   "passageId": "t16-p1",
+   "question": "The author's attitude to the pun \"traduttore, traditore\" is that it",
+   "options": [
+    "perfectly summarises the translator's task",
+    "is clever but gives an incomplete account of translation",
+    "is offensive to translators",
+    "is a historical fact about Italian translators"
+   ],
+   "correctIndex": 1,
+   "explanation": "The pun \"flatters the critic more than it describes the craft\": it is witty but inadequate. The author neither fully endorses nor condemns it."
+  },
+  {
+   "id": "t16-rc-03",
+   "part": "A",
+   "section": "rc",
+   "topic": "Metaphor",
+   "passageId": "t16-p1",
+   "question": "The image of rebuilding \"the house on the other bank\" suggests that translation is",
+   "options": [
+    "an act of recreation, not mere transfer",
+    "a mechanical word-for-word process",
+    "an impossible task",
+    "a task best done by the original author"
+   ],
+   "correctIndex": 0,
+   "explanation": "The parcel image is rejected; the house image shows re-creation with new materials. The other options are not supported."
+  },
+  {
+   "id": "t16-rc-04",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t16-p1",
+   "question": "All of the following are supported by the passage EXCEPT:",
+   "options": [
+    "A word-for-word rendering can leave a text lifeless.",
+    "A rhyme may be sacrificed to retain rhythm.",
+    "A translation continues a dialogue with the original.",
+    "A translation can, with enough skill, be made free of every loss."
+   ],
+   "correctIndex": 3,
+   "explanation": "The author insists that loss is impossible to avoid, so the first option is unsupported; the rest are stated or implied."
+  },
+  {
+   "id": "t16-rc-05",
+   "part": "A",
+   "section": "rc",
+   "topic": "Vocabulary in context",
+   "passageId": "t16-p1",
+   "question": "In the passage, \"smuggling in\" meanings most nearly means",
+   "options": [
+    "transporting them illegally across borders",
+    "removing them quietly",
+    "introducing them without being noticed",
+    "explaining them openly"
+   ],
+   "correctIndex": 2,
+   "explanation": "The free translator introduces unintended meanings covertly; the verb is used figuratively, not literally."
+  },
+  {
+   "id": "t16-rc-06",
+   "part": "A",
+   "section": "rc",
+   "topic": "Figure of speech",
+   "passageId": "t16-p2",
+   "question": "\"A slow and patient eye\" is used for the lamp. This is",
+   "options": [
+    "a simile",
+    "a metaphor",
+    "onomatopoeia",
+    "hyperbole"
+   ],
+   "correctIndex": 1,
+   "explanation": "The lamp is directly called an eye without \"like\" or \"as\"; hence a metaphor (with a touch of personification)."
+  },
+  {
+   "id": "t16-rc-07",
+   "part": "A",
+   "section": "rc",
+   "topic": "Simile",
+   "passageId": "t16-p2",
+   "question": "\"A faith as thin as breath on glass\" suggests that the keeper's trust is",
+   "options": [
+    "fragile, yet effective",
+    "firm and unshakeable",
+    "blind and foolish",
+    "temporary and insincere"
+   ],
+   "correctIndex": 0,
+   "explanation": "Breath on glass is faint and fleeting, but the poem adds that the faith is \"strong enough to haul\" ships to harbour."
+  },
+  {
+   "id": "t16-rc-08",
+   "part": "A",
+   "section": "rc",
+   "topic": "Imagery",
+   "passageId": "t16-p2",
+   "question": "In the line \"the fog descends and swallows light whole\", the fog is made to seem",
+   "options": [
+    "a gentle blanket that protects sailors",
+    "a signal sent by the lighthouse",
+    "a barrier built by the keeper",
+    "a hungry creature that devours the light"
+   ],
+   "correctIndex": 3,
+   "explanation": "\"Swallows\" gives the fog an animal-like act of devouring, a personification that stresses how total the darkness is."
+  },
+  {
+   "id": "t16-rc-09",
+   "part": "A",
+   "section": "rc",
+   "topic": "Tone",
+   "passageId": "t16-p2",
+   "question": "The tone of the poem can best be described as",
+   "options": [
+    "bitter and resentful",
+    "playful and satirical",
+    "contemplative, with quiet admiration",
+    "anxious and fearful"
+   ],
+   "correctIndex": 2,
+   "explanation": "The keeper \"does not ask\" for thanks; the speaker admires the steady dedication and does not complain or mock."
+  },
+  {
+   "id": "t16-rc-10",
+   "part": "A",
+   "section": "rc",
+   "topic": "Last line",
+   "passageId": "t16-p2",
+   "question": "\"The light itself replies\" suggests that",
+   "options": [
+    "the lamp has become a living creature",
+    "the keeper's work is its own reward",
+    "ships send signals back to the keeper",
+    "dawn arrives to thank the keeper"
+   ],
+   "correctIndex": 1,
+   "explanation": "The keeper does not need gratitude: the beam that guides ships is the answer to his question. The other options take the line literally."
+  },
+  {
+   "id": "t16-rc-11",
+   "part": "A",
+   "section": "rc",
+   "topic": "Details",
+   "passageId": "t16-p3",
+   "question": "According to the passage, the fungus in a lichen mainly",
+   "options": [
+    "provides a protective structure that retains moisture",
+    "makes sugars from sunlight",
+    "absorbs sulphur dioxide to purify the air",
+    "supplies roots for anchorage"
+   ],
+   "correctIndex": 0,
+   "explanation": "The alga does photosynthesis; the fungus supplies structure and moisture. Lichens lack roots."
+  },
+  {
+   "id": "t16-rc-12",
+   "part": "A",
+   "section": "rc",
+   "topic": "Cause and effect",
+   "passageId": "t16-p3",
+   "question": "Lichens are sensitive to air pollutants chiefly because they",
+   "options": [
+    "grow rapidly on tree trunks",
+    "depend on cyanobacteria alone",
+    "have a waxy protective cuticle",
+    "absorb substances directly through their surface"
+   ],
+   "correctIndex": 3,
+   "explanation": "They lack roots and a cuticle and so take in dissolved pollutants along with nutrients."
+  },
+  {
+   "id": "t16-rc-13",
+   "part": "A",
+   "section": "rc",
+   "topic": "Rhetorical signal",
+   "passageId": "t16-p3",
+   "question": "The sentence \"Yet the method has limits\" signals",
+   "options": [
+    "a conclusion that the method is useless",
+    "a repetition of the previous point",
+    "a shift from the method's strengths to its cautions",
+    "an example of the method in action"
+   ],
+   "correctIndex": 2,
+   "explanation": "\"Yet\" introduces a contrast; the following sentences list reasons for caution, not a rejection of the method."
+  },
+  {
+   "id": "t16-rc-14",
+   "part": "A",
+   "section": "rc",
+   "topic": "Reference",
+   "passageId": "t16-p3",
+   "question": "\"Such rival explanations\" refers to",
+   "options": [
+    "the fungus-alga partnership and sugar production",
+    "drought, altered bark chemistry and slow colonisation",
+    "pollution-tolerant crusts and sensitive shrubs",
+    "instruments and field surveys"
+   ],
+   "correctIndex": 1,
+   "explanation": "The preceding sentence lists these other causes of lichen absence besides pollution."
+  },
+  {
+   "id": "t16-rc-15",
+   "part": "A",
+   "section": "rc",
+   "topic": "Author's purpose",
+   "passageId": "t16-p3",
+   "question": "The final sentence of the passage conveys that",
+   "options": [
+    "a feature that makes lichens vulnerable also makes them valuable as records",
+    "lichens are useless for long-term study",
+    "slow growth is a disadvantage to ecologists",
+    "lichens live only a few years"
+   ],
+   "correctIndex": 0,
+   "explanation": "The \"same slowness\" is both a weakness and a source of usefulness. The other options reverse the point."
+  },
+  {
+   "id": "t16-ped-01",
+   "part": "A",
+   "section": "ped",
+   "topic": "Total Physical Response",
+   "question": "Asher's Total Physical Response (TPR) is especially suitable for",
+   "questionHi": "आशर की टोटल फ़िज़िकल रिस्पॉन्स (TPR) विधि विशेष रूप से किसके लिए उपयुक्त है?",
+   "options": [
+    "advanced learners writing essays",
+    "beginners, because learners respond physically to commands before speaking",
+    "teaching literary criticism",
+    "learners who wish to study translation"
+   ],
+   "optionsHi": [
+    "निबंध लिखने वाले उन्नत शिक्षार्थियों के लिए",
+    "आरंभिक सीखने वालों के लिए, क्योंकि वे बोलने से पहले निर्देशों पर शारीरिक क्रिया से प्रतिक्रिया देते हैं",
+    "साहित्यिक आलोचना पढ़ाने के लिए",
+    "अनुवाद सीखने के इच्छुक शिक्षार्थियों के लिए"
+   ],
+   "correctIndex": 1,
+   "explanation": "TPR links speech with action: learners show comprehension through movement, which lowers anxiety and suits beginners. It is not designed for essays or criticism.",
+   "explanationHi": "TPR में भाषा को क्रिया से जोड़ा जाता है; शिक्षार्थी हरकत से समझ दिखाते हैं, जिससे चिंता कम होती है और यह आरंभिक स्तर के लिए उपयुक्त है।"
+  },
+  {
+   "id": "t16-ped-02",
+   "part": "A",
+   "section": "ped",
+   "topic": "BICS and CALP",
+   "question": "In Cummins' framework, CALP refers to",
+   "questionHi": "कमिंस के ढाँचे में CALP का अर्थ है",
+   "options": [
+    "the language proficiency needed for academic, cognitively demanding tasks",
+    "everyday conversational fluency",
+    "the ability to pronounce words accurately",
+    "knowledge of grammar rules only"
+   ],
+   "optionsHi": [
+    "शैक्षणिक एवं संज्ञानात्मक रूप से कठिन कार्यों के लिए आवश्यक भाषा दक्षता",
+    "रोज़मर्रा की बातचीत की प्रवाहशीलता",
+    "शब्दों का सही उच्चारण करने की क्षमता",
+    "केवल व्याकरण के नियमों का ज्ञान"
+   ],
+   "correctIndex": 0,
+   "explanation": "CALP (Cognitive Academic Language Proficiency) takes about 5-7 years; BICS is everyday conversational language acquired in about two years.",
+   "explanationHi": "CALP शैक्षणिक भाषा दक्षता है, जिसे विकसित होने में लगभग 5-7 वर्ष लगते हैं; BICS रोज़मर्रा की बोलचाल की भाषा है, जो लगभग 2 वर्ष में आ जाती है।"
+  },
+  {
+   "id": "t16-ped-03",
+   "part": "A",
+   "section": "ped",
+   "topic": "Communicative competence",
+   "question": "Hymes introduced the term \"communicative competence\" mainly in reaction to",
+   "questionHi": "हाइम्स ने \"संप्रेषणात्मक सक्षमता\" शब्द मुख्यतः किसकी प्रतिक्रिया में प्रस्तुत किया?",
+   "options": [
+    "Skinner's theory of operant conditioning",
+    "Piaget's stages of cognitive development",
+    "Krashen's monitor model",
+    "Chomsky's notion of linguistic competence that ignored social appropriateness"
+   ],
+   "optionsHi": [
+    "स्किनर का क्रियाप्रसूत अनुबंधन सिद्धांत",
+    "पियाजे के संज्ञानात्मक विकास के चरण",
+    "क्रैशन का मॉनिटर मॉडल",
+    "चॉम्स्की की भाषिक सक्षमता की धारणा, जिसमें सामाजिक उपयुक्तता की उपेक्षा थी"
+   ],
+   "correctIndex": 3,
+   "explanation": "Hymes argued that knowing grammar is not enough; a speaker must also know what is appropriate in a social context. This challenged Chomsky's idealised competence.",
+   "explanationHi": "हाइम्स ने कहा कि केवल व्याकरण जानना पर्याप्त नहीं; सामाजिक संदर्भ में क्या उपयुक्त है, यह जानना भी ज़रूरी है। यह चॉम्स्की की आदर्श सक्षमता को चुनौती थी।"
+  },
+  {
+   "id": "t16-ped-04",
+   "part": "A",
+   "section": "ped",
+   "topic": "Output hypothesis",
+   "question": "Swain's Output Hypothesis claims that",
+   "questionHi": "स्वेन की आउटपुट परिकल्पना का दावा है कि",
+   "options": [
+    "comprehensible input alone is sufficient for acquisition",
+    "errors should never be corrected",
+    "producing language pushes learners to notice gaps and process language syntactically",
+    "learners acquire language only by listening"
+   ],
+   "optionsHi": [
+    "केवल बोधगम्य निवेश (input) ही अधिगम के लिए पर्याप्त है",
+    "त्रुटियों को कभी नहीं सुधारना चाहिए",
+    "भाषा का उत्पादन सीखने वालों को अपनी कमियाँ पहचानने और वाक्य-रचना को गहराई से समझने के लिए प्रेरित करता है",
+    "सीखने वाले केवल सुनकर भाषा सीखते हैं"
+   ],
+   "correctIndex": 2,
+   "explanation": "Swain proposed that speaking/writing makes learners notice what they cannot say, test hypotheses and process grammar deeply; it contrasts with Krashen's input-only view.",
+   "explanationHi": "स्वेन के अनुसार बोलने/लिखने से सीखने वाला अपनी कमियाँ देखता है, परिकल्पनाएँ जाँचता है और व्याकरण पर गहराई से काम करता है; यह क्रैशन के केवल-निवेश दृष्टिकोण से भिन्न है।"
+  },
+  {
+   "id": "t16-ped-05",
+   "part": "A",
+   "section": "ped",
+   "topic": "Interaction hypothesis",
+   "question": "Long's Interaction Hypothesis emphasises that language development is promoted by",
+   "questionHi": "लॉन्ग की अंतःक्रिया परिकल्पना के अनुसार भाषा विकास को किससे बढ़ावा मिलता है?",
+   "options": [
+    "silent reading of graded readers",
+    "negotiation of meaning during conversational interaction",
+    "memorisation of vocabulary lists",
+    "repetition of model sentences"
+   ],
+   "optionsHi": [
+    "श्रेणीबद्ध पाठों का मौन पठन",
+    "बातचीत के दौरान अर्थ की वार्ता (negotiation of meaning)",
+    "शब्द-सूचियों को रटना",
+    "आदर्श वाक्यों की पुनरावृत्ति"
+   ],
+   "correctIndex": 1,
+   "explanation": "When partners clarify, confirm and repair misunderstanding, input becomes comprehensible and acquisition is facilitated.",
+   "explanationHi": "जब वार्ताकार स्पष्टीकरण, पुष्टि और सुधार करते हैं तो निवेश बोधगम्य बनता है और अधिगम आसान होता है।"
+  },
+  {
+   "id": "t16-ped-06",
+   "part": "A",
+   "section": "ped",
+   "topic": "Affective filter",
+   "question": "In Krashen's Affective Filter Hypothesis, a \"high\" filter means that",
+   "questionHi": "क्रैशन की भावात्मक फ़िल्टर परिकल्पना में \"उच्च\" फ़िल्टर का अर्थ है कि",
+   "options": [
+    "anxiety or low motivation blocks input from becoming intake",
+    "the learner is highly motivated and confident",
+    "the learner acquires grammar faster",
+    "the teacher uses more corrective feedback"
+   ],
+   "optionsHi": [
+    "चिंता या कम प्रेरणा निवेश को आत्मसात होने से रोकती है",
+    "सीखने वाला अत्यधिक प्रेरित और आत्मविश्वासी है",
+    "सीखने वाला व्याकरण तेज़ी से सीखता है",
+    "शिक्षक अधिक सुधारात्मक प्रतिपुष्टि देता है"
+   ],
+   "correctIndex": 0,
+   "explanation": "A high filter (anxiety, low self-esteem, low motivation) prevents input from being absorbed; a low filter promotes acquisition.",
+   "explanationHi": "उच्च फ़िल्टर (चिंता, कम आत्म-सम्मान, कम प्रेरणा) निवेश को ग्रहण होने से रोकता है; निम्न फ़िल्टर अधिगम को बढ़ावा देता है।"
+  },
+  {
+   "id": "t16-ped-07",
+   "part": "A",
+   "section": "ped",
+   "topic": "Halliday's functions",
+   "question": "A child using language to find out about the world (\"Tell me why\") serves, in Halliday's scheme, the",
+   "questionHi": "हैलिडे की योजना में दुनिया के बारे में जानने के लिए (\"मुझे बताओ क्यों\") भाषा का प्रयोग करने वाला बच्चा किस प्रकार्य की पूर्ति करता है?",
+   "options": [
+    "regulatory function",
+    "imaginative function",
+    "instrumental function",
+    "heuristic function"
+   ],
+   "optionsHi": [
+    "नियामक (regulatory) प्रकार्य",
+    "कल्पनात्मक (imaginative) प्रकार्य",
+    "साधनात्मक (instrumental) प्रकार्य",
+    "अन्वेषणात्मक (heuristic) प्रकार्य"
+   ],
+   "correctIndex": 3,
+   "explanation": "The heuristic function uses language to learn and investigate; the regulatory controls behaviour, the imaginative creates imaginary worlds and the instrumental gets needs satisfied.",
+   "explanationHi": "अन्वेषणात्मक प्रकार्य में भाषा का उपयोग जानने-सीखने के लिए होता है; नियामक व्यवहार को नियंत्रित करता है, कल्पनात्मक काल्पनिक संसार रचता है और साधनात्मक आवश्यकताएँ पूरी करता है।"
+  },
+  {
+   "id": "t16-ped-08",
+   "part": "A",
+   "section": "ped",
+   "topic": "Fossilisation",
+   "question": "Fossilisation in second language learning refers to",
+   "questionHi": "द्वितीय भाषा अधिगम में फ़ॉसिलाइज़ेशन (fossilisation) का अर्थ है",
+   "options": [
+    "the learner's loss of the first language",
+    "the memorisation of fixed expressions",
+    "permanent stabilisation of incorrect forms in the learner's interlanguage",
+    "the growth of vocabulary through reading"
+   ],
+   "optionsHi": [
+    "सीखने वाले की मातृभाषा का लुप्त हो जाना",
+    "निश्चित अभिव्यक्तियों को रट लेना",
+    "सीखने वाले की अंतर्भाषा में गलत रूपों का स्थायी रूप से जम जाना",
+    "पठन से शब्दावली का बढ़ना"
+   ],
+   "correctIndex": 2,
+   "explanation": "Fossilisation (Selinker) is the persistence of non-target forms despite exposure and instruction.",
+   "explanationHi": "सेलिंकर के अनुसार फ़ॉसिलाइज़ेशन में शिक्षण और अभ्यास के बाद भी गलत रूप बने रहते हैं।"
+  },
+  {
+   "id": "t16-ped-09",
+   "part": "A",
+   "section": "ped",
+   "topic": "Error analysis",
+   "question": "Compared with contrastive analysis, error analysis",
+   "questionHi": "विरोधी विश्लेषण (contrastive analysis) की तुलना में त्रुटि विश्लेषण (error analysis)",
+   "options": [
+    "predicts all errors by comparing L1 and L2 grammars",
+    "studies actual learner errors, many of which are not due to L1 transfer",
+    "ignores learners' written output",
+    "assumes errors are always caused by L1 interference"
+   ],
+   "optionsHi": [
+    "L1 और L2 के व्याकरण की तुलना करके सभी त्रुटियों का पूर्वानुमान लगाता है",
+    "सीखने वालों की वास्तविक त्रुटियों का अध्ययन करता है, जिनमें से कई मातृभाषा के प्रभाव से नहीं होतीं",
+    "सीखने वालों के लिखित उत्पादन की उपेक्षा करता है",
+    "मानता है कि त्रुटियाँ सदैव L1 के हस्तक्षेप से होती हैं"
+   ],
+   "correctIndex": 1,
+   "explanation": "Contrastive analysis predicts difficulty from L1-L2 differences; error analysis examines real errors and finds many are developmental or intralingual.",
+   "explanationHi": "विरोधी विश्लेषण L1-L2 के अंतर से कठिनाइयों का अनुमान लगाता है; त्रुटि विश्लेषण वास्तविक त्रुटियों को देखता है और पाता है कि अनेक विकासात्मक या भाषा-आंतरिक होती हैं।"
+  },
+  {
+   "id": "t16-ped-10",
+   "part": "A",
+   "section": "ped",
+   "topic": "CLIL",
+   "question": "Content and Language Integrated Learning (CLIL) is best described as",
+   "questionHi": "विषय-वस्तु एवं भाषा एकीकृत अधिगम (CLIL) को सबसे अच्छे ढंग से कहा जा सकता है",
+   "options": [
+    "teaching a subject through a second/foreign language so that both content and language are learned",
+    "teaching grammar through translation exercises",
+    "replacing the mother tongue by English completely",
+    "teaching only language skills without any subject content"
+   ],
+   "optionsHi": [
+    "किसी विषय को द्वितीय/विदेशी भाषा के माध्यम से पढ़ाना ताकि विषय-वस्तु और भाषा दोनों सीखी जाएँ",
+    "अनुवाद अभ्यास के माध्यम से व्याकरण सिखाना",
+    "मातृभाषा को पूरी तरह अंग्रेज़ी से बदल देना",
+    "बिना विषय-वस्तु के केवल भाषा कौशल सिखाना"
+   ],
+   "correctIndex": 0,
+   "explanation": "CLIL has a dual focus: the subject matter and the target language are taught together.",
+   "explanationHi": "CLIL का दोहरा उद्देश्य है: विषय-वस्तु और लक्ष्य भाषा दोनों साथ-साथ सिखाई जाती हैं।"
+  },
+  {
+   "id": "t16-ped-11",
+   "part": "A",
+   "section": "ped",
+   "topic": "Revised Bloom's taxonomy",
+   "question": "In the revised (Anderson-Krathwohl) taxonomy, asking students to write an original short story targets which level?",
+   "questionHi": "संशोधित (एंडरसन-क्रैथवोल) वर्गीकरण में विद्यार्थियों से मौलिक लघु कहानी लिखवाना किस स्तर को लक्षित करता है?",
+   "options": [
+    "Remember",
+    "Understand",
+    "Apply",
+    "Create"
+   ],
+   "optionsHi": [
+    "स्मरण (Remember)",
+    "समझ (Understand)",
+    "अनुप्रयोग (Apply)",
+    "सृजन (Create)"
+   ],
+   "correctIndex": 3,
+   "explanation": "In the revised taxonomy, Create is the highest level, involving producing something new; the others are lower-order.",
+   "explanationHi": "संशोधित वर्गीकरण में सृजन उच्चतम स्तर है, जिसमें कुछ नया बनाया जाता है; अन्य निम्न स्तर हैं।"
+  },
+  {
+   "id": "t16-ped-12",
+   "part": "A",
+   "section": "ped",
+   "topic": "Scaffolding and ZPD",
+   "question": "A teacher supplies a sentence frame, then gradually withdraws it as learners become able to write independently. This is an application of",
+   "questionHi": "एक शिक्षक वाक्य-ढाँचा देता है और सीखने वालों के स्वतंत्र लिखने योग्य होने पर उसे धीरे-धीरे हटा लेता है। यह किसका अनुप्रयोग है?",
+   "options": [
+    "operant conditioning by negative reinforcement",
+    "the Direct Method",
+    "scaffolding within the Zone of Proximal Development",
+    "the Grammar-Translation Method"
+   ],
+   "optionsHi": [
+    "नकारात्मक पुनर्बलन द्वारा क्रियाप्रसूत अनुबंधन",
+    "प्रत्यक्ष विधि",
+    "निकटवर्ती विकास क्षेत्र (ZPD) में स्कैफ़ोल्डिंग",
+    "व्याकरण-अनुवाद विधि"
+   ],
+   "correctIndex": 2,
+   "explanation": "Temporary support that fades as competence grows is scaffolding (Bruner, from Vygotsky's ZPD).",
+   "explanationHi": "योग्यता बढ़ने के साथ हटती जाने वाली अस्थायी सहायता स्कैफ़ोल्डिंग है (वाइगोत्स्की के ZPD पर आधारित, ब्रूनर)।"
+  },
+  {
+   "id": "t16-ped-13",
+   "part": "A",
+   "section": "ped",
+   "topic": "Diagnostic and remedial teaching",
+   "question": "Before planning remedial teaching in English, the first step should be",
+   "questionHi": "अंग्रेज़ी में उपचारात्मक शिक्षण की योजना बनाने से पहले पहला चरण होना चाहिए",
+   "options": [
+    "assigning extra homework to the whole class",
+    "diagnosing the specific nature and cause of the learners' difficulties",
+    "repeating the same lesson in the same manner",
+    "punishing frequent errors"
+   ],
+   "optionsHi": [
+    "पूरी कक्षा को अतिरिक्त गृहकार्य देना",
+    "सीखने वालों की कठिनाइयों के विशिष्ट स्वरूप और कारण का निदान करना",
+    "वही पाठ उसी तरीके से दोहराना",
+    "बार-बार होने वाली त्रुटियों पर दंड देना"
+   ],
+   "correctIndex": 1,
+   "explanation": "Remedial work is effective only when based on diagnosis of the specific problem; repetition or punishment does not address the cause.",
+   "explanationHi": "उपचारात्मक शिक्षण तभी प्रभावी है जब वह विशिष्ट समस्या के निदान पर आधारित हो; दोहराव या दंड से कारण का समाधान नहीं होता।"
+  },
+  {
+   "id": "t16-ped-14",
+   "part": "A",
+   "section": "ped",
+   "topic": "Canale and Swain",
+   "question": "Which of the following is NOT a component of communicative competence in the Canale and Swain (1980) model?",
+   "questionHi": "कैनेल और स्वेन (1980) के मॉडल में संप्रेषणात्मक सक्षमता का घटक निम्न में से कौन-सा नहीं है?",
+   "options": [
+    "Behavioural competence",
+    "Grammatical competence",
+    "Sociolinguistic competence",
+    "Strategic competence"
+   ],
+   "optionsHi": [
+    "व्यवहारात्मक सक्षमता",
+    "व्याकरणिक सक्षमता",
+    "समाज-भाषावैज्ञानिक सक्षमता",
+    "युक्तिपरक (strategic) सक्षमता"
+   ],
+   "correctIndex": 0,
+   "explanation": "The 1980 model has grammatical, sociolinguistic and strategic competence (discourse competence was added later by Canale in 1983). \"Behavioural competence\" is not part of it.",
+   "explanationHi": "1980 के मॉडल में व्याकरणिक, समाज-भाषावैज्ञानिक और युक्तिपरक सक्षमता थी (विमर्श सक्षमता बाद में 1983 में जोड़ी गई)। \"व्यवहारात्मक सक्षमता\" इसका भाग नहीं है।"
+  },
+  {
+   "id": "t16-ped-15",
+   "part": "A",
+   "section": "ped",
+   "topic": "Multilingual classroom strategies",
+   "question": "Translanguaging in a multilingual classroom means",
+   "questionHi": "बहुभाषी कक्षा में ट्रांसलैंग्वेजिंग (translanguaging) का अर्थ है",
+   "options": [
+    "banning all languages other than English in class",
+    "translating every sentence word by word",
+    "teaching only the standard dialect",
+    "using learners' full linguistic repertoire, including home languages, as a resource for learning"
+   ],
+   "optionsHi": [
+    "कक्षा में अंग्रेज़ी के अलावा सभी भाषाओं पर प्रतिबंध लगाना",
+    "हर वाक्य का शब्दशः अनुवाद करना",
+    "केवल मानक बोली सिखाना",
+    "सीखने वालों की संपूर्ण भाषाई पूँजी, जिसमें घर की भाषाएँ भी शामिल हैं, को अधिगम के संसाधन के रूप में प्रयोग करना"
+   ],
+   "correctIndex": 3,
+   "explanation": "Translanguaging flexibly draws on all languages the learner knows to build understanding; it is not prohibition or mechanical translation.",
+   "explanationHi": "ट्रांसलैंग्वेजिंग में सीखने वाले की सभी ज्ञात भाषाओं का लचीले ढंग से उपयोग समझ बनाने के लिए होता है; यह निषेध या यांत्रिक अनुवाद नहीं है।"
+  }
+ ]
+}

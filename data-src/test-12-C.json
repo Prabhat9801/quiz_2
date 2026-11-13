@@ -1,0 +1,499 @@
+{
+ "questions": [
+  {
+   "id": "t12-hindi-01",
+   "part": "C",
+   "section": "hindi",
+   "topic": "संधि-विच्छेद",
+   "question": "'सदैव' शब्द का सही संधि-विच्छेद क्या है?",
+   "options": [
+    "सद् + एव",
+    "सदै + व",
+    "सदा + एव",
+    "सदा + ऐव"
+   ],
+   "correctIndex": 2,
+   "explanation": "'सदा' के अंतिम 'आ' और 'एव' के 'ए' के मेल से 'ऐ' बनता है (आ + ए = ऐ), यह वृद्धि संधि है। इसलिए सही विच्छेद 'सदा + एव' है; अन्य विकल्पों में स्वर/व्यंजन गलत टूटे हैं।"
+  },
+  {
+   "id": "t12-hindi-02",
+   "part": "C",
+   "section": "hindi",
+   "topic": "संधि-विच्छेद",
+   "question": "'महर्षि' का सही संधि-विच्छेद क्या है?",
+   "options": [
+    "महः + ऋषि",
+    "महा + ऋषि",
+    "मह + ऋषि",
+    "महा + रिषि"
+   ],
+   "correctIndex": 1,
+   "explanation": "'आ' और 'ऋ' के मेल से 'अर्' बनता है (आ + ऋ = अर्), यह गुण संधि है। अतः महा + ऋषि = महर्षि। अन्य विकल्पों में पद या वर्ण गलत हैं।"
+  },
+  {
+   "id": "t12-hindi-03",
+   "part": "C",
+   "section": "hindi",
+   "topic": "मुहावरे",
+   "question": "'गूलर का फूल होना' मुहावरे का अर्थ क्या है?",
+   "options": [
+    "बहुत सुंदर दिखना",
+    "बहुत प्रसन्न होना",
+    "अत्यंत सुगंधित होना",
+    "कभी-कभार ही दिखना, दुर्लभ होना"
+   ],
+   "correctIndex": 3,
+   "explanation": "गूलर के फूल प्रायः दिखाई नहीं देते, इसलिए जो व्यक्ति या वस्तु बहुत कम या कभी दिखाई न दे उसके लिए 'गूलर का फूल होना' कहा जाता है। इसका सौंदर्य, प्रसन्नता या सुगंध से संबंध नहीं है।"
+  },
+  {
+   "id": "t12-hindi-04",
+   "part": "C",
+   "section": "hindi",
+   "topic": "अनेकार्थी शब्द",
+   "question": "'कनक' शब्द के दो अर्थ कौन-से हैं?",
+   "options": [
+    "सोना और धतूरा",
+    "चाँदी और गेहूँ",
+    "आम और जामुन",
+    "तलवार और ढाल"
+   ],
+   "correctIndex": 0,
+   "explanation": "'कनक' के प्रमुख अर्थ सोना (स्वर्ण) और धतूरा हैं (साथ ही गेहूँ भी कहा जाता है)। इसलिए पहला विकल्प ही दोनों अर्थों को सही रूप में देता है; शेष विकल्प असंगत हैं।"
+  },
+  {
+   "id": "t12-hindi-05",
+   "part": "C",
+   "section": "hindi",
+   "topic": "तत्सम-तद्भव",
+   "question": "निम्नलिखित में तत्सम–तद्भव की सही जोड़ी कौन-सी है?",
+   "options": [
+    "हस्त – हाथी",
+    "सप्त – सत्तर",
+    "स्वप्न – सपना",
+    "कपूर – कर्पूर"
+   ],
+   "correctIndex": 2,
+   "explanation": "'स्वप्न' तत्सम है और उसका तद्भव रूप 'सपना' है। 'हस्त' का तद्भव 'हाथ' है (हाथी नहीं), 'सप्त' का 'सात' है, और 'कर्पूर' तत्सम तथा 'कपूर' तद्भव है, इसलिए अंतिम जोड़ी क्रम में उल्टी है।"
+  },
+  {
+   "id": "t12-english-01",
+   "part": "C",
+   "section": "english",
+   "topic": "One-word substitution",
+   "question": "Choose one word for: 'government by the rich'.",
+   "options": [
+    "Plutocracy",
+    "Oligarchy",
+    "Theocracy",
+    "Aristocracy"
+   ],
+   "correctIndex": 0,
+   "explanation": "Plutocracy (from Greek ploutos, wealth) is rule by the wealthy. Oligarchy is rule by a few, theocracy is rule by religious authority and aristocracy is rule by a noble or best-born class."
+  },
+  {
+   "id": "t12-english-02",
+   "part": "C",
+   "section": "english",
+   "topic": "Prepositions",
+   "question": "Fill in the blank with the correct preposition: 'He is senior ___ me by five years.'",
+   "options": [
+    "than",
+    "to",
+    "from",
+    "over"
+   ],
+   "correctIndex": 1,
+   "explanation": "Adjectives like senior, junior, superior, inferior and prior take 'to', not 'than'. So 'senior to me' is correct."
+  },
+  {
+   "id": "t12-english-03",
+   "part": "C",
+   "section": "english",
+   "topic": "Spot the error",
+   "question": "Find the part with an error: 'The number of applicants (A) / for the post (B) / have increased (C) / this year (D).'",
+   "options": [
+    "The number of applicants",
+    "for the post",
+    "have increased",
+    "this year"
+   ],
+   "correctIndex": 2,
+   "explanation": "'The number of' takes a singular verb (the subject is 'number'), so it should be 'has increased'. ('A number of' would take a plural verb.)"
+  },
+  {
+   "id": "t12-english-04",
+   "part": "C",
+   "section": "english",
+   "topic": "Idioms",
+   "question": "The idiom 'to eat humble pie' means",
+   "options": [
+    "to refuse to apologise",
+    "to cook for the poor",
+    "to feel proud after success",
+    "to admit one's mistake humbly and apologise"
+   ],
+   "correctIndex": 3,
+   "explanation": "To eat humble pie is to submit to humiliation by admitting an error and apologising. It has nothing to do with cooking or pride."
+  },
+  {
+   "id": "t12-english-05",
+   "part": "C",
+   "section": "english",
+   "topic": "Active-passive voice",
+   "question": "Choose the correct passive form of: 'People say that he is honest.'",
+   "options": [
+    "He is said to be honest.",
+    "He is being said honest.",
+    "He was said to be honest.",
+    "It is said him to be honest."
+   ],
+   "correctIndex": 0,
+   "explanation": "For reporting verbs like say, the personal passive is 'He is said to be honest' (present simple, so 'is said'). 'Was said' changes the tense; the other options are ungrammatical."
+  },
+  {
+   "id": "t12-mental-01",
+   "part": "C",
+   "section": "mental",
+   "topic": "Mixed series",
+   "question": "Find the next term: 3, 10, 6, 20, 12, 40, ?",
+   "questionHi": "अगला पद ज्ञात कीजिए: 3, 10, 6, 20, 12, 40, ?",
+   "options": [
+    "20",
+    "24",
+    "48",
+    "80"
+   ],
+   "optionsHi": [
+    "20",
+    "24",
+    "48",
+    "80"
+   ],
+   "correctIndex": 1,
+   "explanation": "Two interleaved series: 3, 6, 12, … (×2) and 10, 20, 40, … (×2). The next term belongs to the first series: 12 × 2 = 24.",
+   "explanationHi": "दो आपस में मिली श्रेणियाँ हैं: 3, 6, 12, … (×2) और 10, 20, 40, … (×2)। अगला पद पहली श्रेणी का है: 12 × 2 = 24।"
+  },
+  {
+   "id": "t12-mental-02",
+   "part": "C",
+   "section": "mental",
+   "topic": "Coding-decoding",
+   "question": "If FRIEND is coded as HUMJTK, how is CANDLE coded in the same way?",
+   "questionHi": "यदि FRIEND को HUMJTK लिखा जाता है, तो इसी प्रकार CANDLE को कैसे लिखा जाएगा?",
+   "options": [
+    "EDRIQL",
+    "FDRIRL",
+    "EDSIRL",
+    "EDRIRL"
+   ],
+   "optionsHi": [
+    "EDRIQL",
+    "FDRIRL",
+    "EDSIRL",
+    "EDRIRL"
+   ],
+   "correctIndex": 3,
+   "explanation": "Letters move forward by +2, +3, +4, +5, +6, +7 (F→H, R→U, I→M, E→J, N→T, D→K). Applying this to CANDLE: C→E, A→D, N→R, D→I, L→R, E→L = EDRIRL.",
+   "explanationHi": "अक्षर क्रमशः +2, +3, +4, +5, +6, +7 आगे बढ़ते हैं (F→H, R→U, I→M, E→J, N→T, D→K)। CANDLE पर लगाने पर C→E, A→D, N→R, D→I, L→R, E→L, यानी EDRIRL।"
+  },
+  {
+   "id": "t12-mental-03",
+   "part": "C",
+   "section": "mental",
+   "topic": "Blood relations",
+   "question": "Pointing to a man, Rekha said, 'His mother's only brother is the father of my husband.' How is the man related to Rekha?",
+   "questionHi": "एक पुरुष की ओर संकेत करते हुए रेखा ने कहा, 'उसकी माँ का इकलौता भाई मेरे पति का पिता है।' वह पुरुष रेखा से किस प्रकार संबंधित है?",
+   "options": [
+    "Her husband's cousin",
+    "Her brother",
+    "Her husband's brother",
+    "Her nephew"
+   ],
+   "optionsHi": [
+    "उसके पति का ममेरा/फुफेरा भाई",
+    "उसका भाई",
+    "उसके पति का भाई",
+    "उसका भतीजा"
+   ],
+   "correctIndex": 0,
+   "explanation": "The man's maternal uncle is Rekha's father-in-law. So the man's mother is the sister of Rekha's father-in-law, i.e. the husband's paternal aunt. The man is that aunt's son, hence the husband's cousin.",
+   "explanationHi": "पुरुष का मामा रेखा का ससुर है। अतः पुरुष की माँ रेखा के ससुर की बहन, यानी पति की बुआ है। पुरुष उस बुआ का पुत्र है, इसलिए पति का फुफेरा भाई (cousin) है।"
+  },
+  {
+   "id": "t12-mental-04",
+   "part": "C",
+   "section": "mental",
+   "topic": "Syllogism",
+   "question": "Statements: Some pens are books. No book is a pencil.\nConclusions: I. Some pens are not pencils. II. No pen is a pencil.",
+   "questionHi": "कथन: कुछ पेन किताबें हैं। कोई किताब पेंसिल नहीं है।\nनिष्कर्ष: I. कुछ पेन पेंसिल नहीं हैं। II. कोई पेन पेंसिल नहीं है।",
+   "options": [
+    "Both I and II follow",
+    "Only II follows",
+    "Only I follows",
+    "Neither I nor II follows"
+   ],
+   "optionsHi": [
+    "I और II दोनों अनुसरण करते हैं",
+    "केवल II अनुसरण करता है",
+    "केवल I अनुसरण करता है",
+    "न I न II अनुसरण करता है"
+   ],
+   "correctIndex": 2,
+   "explanation": "The pens that are books cannot be pencils, so some pens are not pencils (I follows). Nothing is known about the other pens, so 'no pen is a pencil' (II) cannot be concluded.",
+   "explanationHi": "जो पेन किताबें हैं वे पेंसिल नहीं हो सकते, इसलिए कुछ पेन पेंसिल नहीं हैं (I सही)। बाकी पेनों के बारे में कुछ ज्ञात नहीं, अतः 'कोई पेन पेंसिल नहीं' (II) निकाला नहीं जा सकता।"
+  },
+  {
+   "id": "t12-mental-05",
+   "part": "C",
+   "section": "mental",
+   "topic": "Direction and distance",
+   "question": "Ravi walks 9 km north, then 12 km east, then 4 km south. How far is he from his starting point?",
+   "questionHi": "रवि 9 किमी उत्तर, फिर 12 किमी पूर्व, फिर 4 किमी दक्षिण चलता है। वह अपने आरंभिक बिंदु से कितनी दूर है?",
+   "options": [
+    "12 km",
+    "13 km",
+    "15 km",
+    "17 km"
+   ],
+   "optionsHi": [
+    "12 किमी",
+    "13 किमी",
+    "15 किमी",
+    "17 किमी"
+   ],
+   "correctIndex": 1,
+   "explanation": "Net north displacement = 9 − 4 = 5 km; east = 12 km. Distance = √(5² + 12²) = √169 = 13 km.",
+   "explanationHi": "उत्तर दिशा में कुल विस्थापन = 9 − 4 = 5 किमी; पूर्व में 12 किमी। दूरी = √(5² + 12²) = √169 = 13 किमी।"
+  },
+  {
+   "id": "t12-computer-01",
+   "part": "C",
+   "section": "computer",
+   "topic": "Excel functions",
+   "question": "What does the formula =COUNTIF(B2:B11,\">=40\") return?",
+   "questionHi": "सूत्र =COUNTIF(B2:B11,\">=40\") क्या परिणाम देता है?",
+   "options": [
+    "The sum of all values that are at least 40 in B2:B11",
+    "The average of the values in B2:B11",
+    "The number of cells in B2:B11 whose value is 40 or more",
+    "The largest value in B2:B11"
+   ],
+   "optionsHi": [
+    "B2:B11 में 40 या उससे अधिक सभी मानों का योग",
+    "B2:B11 के मानों का औसत",
+    "B2:B11 में उन कोशिकाओं की संख्या जिनका मान 40 या अधिक है",
+    "B2:B11 का सबसे बड़ा मान"
+   ],
+   "correctIndex": 2,
+   "explanation": "COUNTIF counts the cells in a range that meet a condition. Here it counts cells with values >= 40. SUMIF would sum, AVERAGE would average and MAX would give the largest.",
+   "explanationHi": "COUNTIF किसी सीमा में शर्त पूरी करने वाली कोशिकाओं की गिनती करता है; यहाँ यह उन कोशिकाओं को गिनता है जिनका मान >= 40 है। योग के लिए SUMIF, औसत के लिए AVERAGE और अधिकतम के लिए MAX प्रयुक्त होता है।"
+  },
+  {
+   "id": "t12-computer-02",
+   "part": "C",
+   "section": "computer",
+   "topic": "Number systems",
+   "question": "The decimal number 45 is equal to which binary number?",
+   "questionHi": "दशमलव संख्या 45 निम्न में से किस द्विआधारी (binary) संख्या के बराबर है?",
+   "options": [
+    "101101",
+    "101011",
+    "110101",
+    "101110"
+   ],
+   "optionsHi": [
+    "101101",
+    "101011",
+    "110101",
+    "101110"
+   ],
+   "correctIndex": 0,
+   "explanation": "45 = 32 + 8 + 4 + 1 = 2^5 + 2^3 + 2^2 + 2^0, giving 101101. 101011 = 43, 110101 = 53 and 101110 = 46.",
+   "explanationHi": "45 = 32 + 8 + 4 + 1 = 2^5 + 2^3 + 2^2 + 2^0, इसलिए 101101। 101011 = 43, 110101 = 53 और 101110 = 46 होता है।"
+  },
+  {
+   "id": "t12-computer-03",
+   "part": "C",
+   "section": "computer",
+   "topic": "Cloud service models",
+   "question": "Web-based e-mail such as Gmail, used through a browser without installing software, is a typical example of which cloud service model?",
+   "questionHi": "ब्राउज़र के माध्यम से बिना सॉफ़्टवेयर इंस्टॉल किए उपयोग की जाने वाली वेब-आधारित ई-मेल सेवा (जैसे Gmail) किस क्लाउड सेवा मॉडल का उदाहरण है?",
+   "options": [
+    "IaaS",
+    "PaaS",
+    "Hardware leasing",
+    "SaaS"
+   ],
+   "optionsHi": [
+    "IaaS",
+    "PaaS",
+    "हार्डवेयर लीज़िंग",
+    "SaaS"
+   ],
+   "correctIndex": 3,
+   "explanation": "In SaaS (Software as a Service) a complete application is delivered over the internet. IaaS gives virtual servers and storage, while PaaS gives a platform for developers to build and deploy applications.",
+   "explanationHi": "SaaS (Software as a Service) में पूरा एप्लिकेशन इंटरनेट पर उपलब्ध कराया जाता है। IaaS वर्चुअल सर्वर व स्टोरेज देता है, जबकि PaaS डेवलपरों को एप्लिकेशन बनाने और चलाने का प्लेटफ़ॉर्म देता है।"
+  },
+  {
+   "id": "t12-computer-04",
+   "part": "C",
+   "section": "computer",
+   "topic": "Keyboard shortcuts",
+   "question": "In Windows, the keyboard shortcut Ctrl + Shift + Esc is used to",
+   "questionHi": "Windows में कीबोर्ड शॉर्टकट Ctrl + Shift + Esc का उपयोग किसलिए होता है?",
+   "options": [
+    "open the Run dialog box",
+    "open the Task Manager directly",
+    "lock the computer",
+    "take a screenshot"
+   ],
+   "optionsHi": [
+    "Run डायलॉग बॉक्स खोलने के लिए",
+    "Task Manager को सीधे खोलने के लिए",
+    "कंप्यूटर को लॉक करने के लिए",
+    "स्क्रीनशॉट लेने के लिए"
+   ],
+   "correctIndex": 1,
+   "explanation": "Ctrl + Shift + Esc opens Task Manager directly. The Run box is Windows + R, locking is Windows + L, and a screenshot is Print Screen or Windows + Shift + S.",
+   "explanationHi": "Ctrl + Shift + Esc सीधे Task Manager खोलता है। Run बॉक्स के लिए Windows + R, लॉक के लिए Windows + L और स्क्रीनशॉट के लिए Print Screen या Windows + Shift + S प्रयुक्त होते हैं।"
+  },
+  {
+   "id": "t12-computer-05",
+   "part": "C",
+   "section": "computer",
+   "topic": "Memory hierarchy",
+   "question": "In the memory hierarchy, which of the following is the fastest but also the smallest in capacity?",
+   "questionHi": "मेमोरी पदानुक्रम (memory hierarchy) में निम्नलिखित में से कौन सबसे तेज़ पर क्षमता में सबसे छोटी है?",
+   "options": [
+    "RAM",
+    "Cache memory",
+    "CPU registers",
+    "Hard disk"
+   ],
+   "optionsHi": [
+    "RAM",
+    "कैश मेमोरी",
+    "CPU रजिस्टर",
+    "हार्ड डिस्क"
+   ],
+   "correctIndex": 2,
+   "explanation": "CPU registers sit inside the processor and are the fastest and smallest storage, followed by cache, RAM and then secondary storage such as the hard disk, each slower but larger.",
+   "explanationHi": "CPU रजिस्टर प्रोसेसर के भीतर होते हैं और सबसे तेज़ व सबसे छोटे भंडारण हैं; उसके बाद कैश, RAM और फिर हार्ड डिस्क जैसा द्वितीयक भंडारण आता है, जो क्रमशः धीमा पर बड़ा होता है।"
+  },
+  {
+   "id": "t12-gk-01",
+   "part": "C",
+   "section": "gk",
+   "topic": "Constitution - Schedules",
+   "question": "Which Schedule of the Indian Constitution contains the provisions on disqualification on grounds of defection (anti-defection law)?",
+   "questionHi": "भारतीय संविधान की किस अनुसूची में दल-बदल के आधार पर निरर्हता (anti-defection law) के प्रावधान हैं?",
+   "options": [
+    "Seventh Schedule",
+    "Eighth Schedule",
+    "Ninth Schedule",
+    "Tenth Schedule"
+   ],
+   "optionsHi": [
+    "सातवीं अनुसूची",
+    "आठवीं अनुसूची",
+    "नौवीं अनुसूची",
+    "दसवीं अनुसूची"
+   ],
+   "correctIndex": 3,
+   "explanation": "The Tenth Schedule, added by the 52nd Amendment (1985), deals with disqualification for defection. The Seventh lists Union/State/Concurrent subjects, the Eighth lists languages and the Ninth protects certain laws from judicial review.",
+   "explanationHi": "52वें संशोधन (1985) द्वारा जोड़ी गई दसवीं अनुसूची दल-बदल पर निरर्हता से संबंधित है। सातवीं में संघ/राज्य/समवर्ती विषय, आठवीं में भाषाएँ और नौवीं में कुछ कानूनों को न्यायिक समीक्षा से संरक्षण दिया गया है।"
+  },
+  {
+   "id": "t12-gk-02",
+   "part": "C",
+   "section": "gk",
+   "topic": "Geography - peaks",
+   "question": "Which is the highest peak of the Western Ghats and of peninsular India?",
+   "questionHi": "पश्चिमी घाट और प्रायद्वीपीय भारत की सबसे ऊँची चोटी कौन-सी है?",
+   "options": [
+    "Doddabetta",
+    "Anamudi",
+    "Mahendragiri",
+    "Guru Shikhar"
+   ],
+   "optionsHi": [
+    "डोडाबेट्टा",
+    "अनामुडी",
+    "महेंद्रगिरि",
+    "गुरु शिखर"
+   ],
+   "correctIndex": 1,
+   "explanation": "Anamudi (about 2,695 m) in the Anamalai hills of Kerala is the highest peak of the Western Ghats and South India. Doddabetta is the highest in the Nilgiris, Mahendragiri is in the Eastern Ghats and Guru Shikhar is in the Aravallis.",
+   "explanationHi": "केरल की अनामलाई पहाड़ियों में स्थित अनामुडी (लगभग 2,695 मीटर) पश्चिमी घाट और दक्षिण भारत की सबसे ऊँची चोटी है। डोडाबेट्टा नीलगिरि की, महेंद्रगिरि पूर्वी घाट की और गुरु शिखर अरावली की सबसे ऊँची चोटी है।"
+  },
+  {
+   "id": "t12-gk-03",
+   "part": "C",
+   "section": "gk",
+   "topic": "Modern history - Purna Swaraj",
+   "question": "The Indian National Congress declared 'Purna Swaraj' (complete independence) as its goal at which session?",
+   "questionHi": "भारतीय राष्ट्रीय कांग्रेस ने 'पूर्ण स्वराज' (पूर्ण स्वतंत्रता) को अपना लक्ष्य किस अधिवेशन में घोषित किया?",
+   "options": [
+    "Lahore session, 1929",
+    "Karachi session, 1931",
+    "Calcutta session, 1928",
+    "Nagpur session, 1920"
+   ],
+   "optionsHi": [
+    "लाहौर अधिवेशन, 1929",
+    "कराची अधिवेशन, 1931",
+    "कलकत्ता अधिवेशन, 1928",
+    "नागपुर अधिवेशन, 1920"
+   ],
+   "correctIndex": 0,
+   "explanation": "At the Lahore session (December 1929), presided over by Jawaharlal Nehru, Congress adopted the Purna Swaraj resolution. Karachi 1931 dealt with Fundamental Rights; Calcutta 1928 gave the dominion-status ultimatum; Nagpur 1920 adopted non-cooperation.",
+   "explanationHi": "जवाहरलाल नेहरू की अध्यक्षता में लाहौर अधिवेशन (दिसंबर 1929) में कांग्रेस ने पूर्ण स्वराज का प्रस्ताव पारित किया। कराची 1931 मौलिक अधिकारों से, कलकत्ता 1928 डोमिनियन स्टेटस की चेतावनी से और नागपुर 1920 असहयोग से संबंधित है।"
+  },
+  {
+   "id": "t12-gk-04",
+   "part": "C",
+   "section": "gk",
+   "topic": "Science - light",
+   "question": "The twinkling of stars is caused by",
+   "questionHi": "तारों के टिमटिमाने का कारण है",
+   "options": [
+    "reflection of starlight by clouds",
+    "polarisation of light by the atmosphere",
+    "atmospheric refraction of starlight",
+    "diffraction of light by the Moon"
+   ],
+   "optionsHi": [
+    "बादलों द्वारा तारों के प्रकाश का परावर्तन",
+    "वायुमंडल द्वारा प्रकाश का ध्रुवण",
+    "तारों के प्रकाश का वायुमंडलीय अपवर्तन",
+    "चंद्रमा द्वारा प्रकाश का विवर्तन"
+   ],
+   "correctIndex": 2,
+   "explanation": "Starlight passes through layers of air of varying, fluctuating density and is refracted continuously, so the apparent position and brightness of the star keep changing, making it twinkle. Planets, being closer, appear as extended sources and do not twinkle noticeably.",
+   "explanationHi": "तारों का प्रकाश बदलते घनत्व वाली वायु की परतों से गुज़रते हुए लगातार अपवर्तित होता है, जिससे तारे की स्थिति और चमक बदलती रहती है और वह टिमटिमाता है। ग्रह निकट होने से विस्तृत स्रोत जैसे दिखते हैं और स्पष्ट रूप से नहीं टिमटिमाते।"
+  },
+  {
+   "id": "t12-gk-05",
+   "part": "C",
+   "section": "gk",
+   "topic": "Chhattisgarh - rivers and dams",
+   "question": "The Ravishankar Sagar (Gangrel) dam in Chhattisgarh is built on which river?",
+   "questionHi": "छत्तीसगढ़ का रविशंकर सागर (गंगरेल) बाँध किस नदी पर बना है?",
+   "options": [
+    "Hasdeo",
+    "Shivnath",
+    "Indravati",
+    "Mahanadi"
+   ],
+   "optionsHi": [
+    "हसदेव",
+    "शिवनाथ",
+    "इंद्रावती",
+    "महानदी"
+   ],
+   "correctIndex": 3,
+   "explanation": "Ravishankar Sagar near Dhamtari is built on the Mahanadi, the state's main river. Hasdeo has the Minimata Bango dam, Shivnath is a tributary of the Mahanadi and Indravati flows through Bastar.",
+   "explanationHi": "धमतरी के पास रविशंकर सागर बाँध राज्य की प्रमुख नदी महानदी पर बना है। हसदेव पर मिनीमाता बांगो बाँध है, शिवनाथ महानदी की सहायक नदी है और इंद्रावती बस्तर से बहती है।"
+  }
+ ]
+}

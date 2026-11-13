@@ -1,7 +1,7 @@
 # Test Series Generation Spec (STRICT)
 
 Exam: **Lecturer Recruitment – English (Chhattisgarh, SCERT Raipur)**. Source syllabus: `docs/syllabus.md`.
-We build **10 test series**. Each = **100 questions, 100 marks, 2 hours**. Marking: +1 correct, −0.25 wrong, 0 unattempted.
+We build **20 test series** (tests 01–10 = standard level, tests 11–20 = **advanced level**, see the last section). Each = **100 questions, 100 marks, 2 hours**. Marking: +1 correct, −0.25 wrong, 0 unattempted.
 Style: real government/competitive-exam paper (CG Vyapam / CGPSC / TET-lecturer style). Difficulty: **basic–moderate, ~15% hard**. Questions must be self-contained, unambiguous, with exactly ONE defensible answer. No "refer to figure". No duplicate/near-duplicate questions inside a test or across tests.
 
 ## Blueprint of ONE test (fixed order, fixed counts)
@@ -59,7 +59,7 @@ Total = 60 (A) + 15 (B) + 25 (C) = 100.
 - Exactly 4 options. Spread `correctIndex` evenly over 0–3 inside every section (don't favour any index; across a whole test each index should be roughly 25%).
 - Valid JSON only (double quotes, escaped inner quotes, no comments, no trailing commas).
 
-## Files (per test NN = 01..10)
+## Files (per test NN = 01..20)
 Agent writes THREE draft files into `data-src/` :
 - `data-src/test-NN-A.json` → `{ "passages": [ {"id":"tNN-p1","genre":"...","title":"...","text":"..."} ×3 ], "questions": [60 questions: gram 15, vocab 15, rc 15, ped 15, in that order] }`
 - `data-src/test-NN-B.json` → `{ "questions": [15] }` (psych 6, assess 4, pedag 3, attitude 2 in that order)
@@ -71,3 +71,17 @@ Passages: 120–200 words each, original (do not copy copyrighted text; poetry m
 
 ## Variety across the 10 tests
 Each test must feel different: use test number NN to rotate subtopics/themes (e.g. test 1 and test 6 should not ask the same Piaget stage question). Never reuse a question stem used in another test.
+
+## ADVANCED series (tests 11–20) — difficulty override
+Same blueprint, counts, schema, language rules and file layout as above, but the paper is **moderate-to-hard, NOT basic**: roughly 25% moderate, 60% hard, 15% very hard (like the toughest questions of CG Vyapam / CGPSC / UGC-NET English paper-1/lecturer exams). A candidate who only knows textbook basics should score ~40–50%.
+- `gram`: tricky usage — inversion/cleft after negative adverbials, mixed/third conditionals, subjunctive, sequence of tenses in reported speech, relative-clause punctuation (defining vs non-defining), ellipsis/substitution, non-finite clause dangling modifiers, subject-verb agreement edge cases (collective/proximity/each-every, "one of the…who"), modal perfect forms, determiners with uncountables, phrasal-verb meaning in context. Avoid obvious fill-ins.
+- `vocab`: less-common words and affixes (Greek/Latin roots), polysemy in context, near-homophones, collocation restrictions, lexical bundles, opaque idioms, figures of speech distinctions (metonymy vs synecdoche, litotes, oxymoron vs paradox, hypallage, zeugma, transferred epithet, anaphora/epistrophe).
+- `rc`: denser passages (170–230 words) with inference-heavy, tone/author's-purpose, rhetorical-device and "which statement cannot be inferred" items; distractors must be plausible.
+- `ped`: theory-level — Krashen's five hypotheses details, Swain's output hypothesis, Long's interaction hypothesis, Schumann's acculturation, Cummins' BICS/CALP, Halliday's functions, Hymes' communicative competence, Canale & Swain, error analysis vs contrastive analysis, fossilisation, Bloom/Anderson revised taxonomy for language tasks, scaffolding/ZPD applications, CLIL, multilingual classroom strategies, remedial/diagnostic design.
+- `psych`/`assess`/`pedag`/`attitude`: application and case-based items — Kohlberg/Gilligan, Erikson crisis stages mapped to ages, Piaget substages, Vygotsky vs Piaget, Bandura's reciprocal determinism, Gardner/Sternberg/Guilford distinctions, Cattell fluid vs crystallised, creativity divergent thinking, Thurstone, reliability coefficients & types, validity types, item analysis (difficulty/discrimination index), norm vs criterion referencing, rubrics design, NCF 2005 vs NCF-SE 2023 specifics, constructivist 5E, RTE/NEP-linked assessment (holistic progress card).
+- `hindi`: tricky — संधि-विच्छेद, समास-विग्रह (अव्ययीभाव/बहुव्रीहि/कर्मधारय भेद), शब्द-शुद्धि, मुहावरे/लोकोक्तियाँ का अर्थ, अनेकार्थी/श्रुतिसम भिन्नार्थक शब्द, तत्सम-तद्भव जोड़ियाँ, कारक-पहचान, वाक्य-शुद्धि।
+- `english` (Part C): still General English but harder — one-word substitutions of rare words, tricky prepositions/articles, spot-the-error, idiom meanings, active-passive of complex tenses.
+- `mental`: multi-step reasoning — mixed series (alternating/two-pattern), complex coding-decoding, blood relation chains (4–5 persons), ranking with two positions, syllogism with "some/no" conclusions, direction + distance (Pythagoras), calendar/clock angle, arrangement puzzles (linear, 5–6 persons). Must be solvable from text in ~1.5 min.
+- `computer`: beyond basics — keyboard shortcuts, Excel functions (VLOOKUP/COUNTIF/IF nesting, absolute vs relative reference), Word features (mail merge, styles, track changes), PowerPoint master slide/transitions, number systems & conversions, network devices/protocols, types of malware, memory hierarchy (cache/registers), file extensions, cloud models (SaaS/PaaS/IaaS), email fields.
+- `gk`: harder GK — constitutional articles/amendments/schedules, Parliament procedures, commissions, 1857–1947 events and personalities with dates, geography (rivers, passes, soils, national parks), economy (budget terms, RBI instruments, five-year plans), science (concepts, units, discoveries), **Chhattisgarh** specifics (tribes, districts, rivers/dams, minerals, folk art, historic dynasties like Kalchuri/Nagvanshi/Kosala, schemes, fairs), NEP 2020 details (5+3+3+4, PARAKH, multilingual education, teacher preparation). Keep facts STABLE and certain — "hard" means deeper, never obscure-and-uncertain.
+Accuracy still beats difficulty: if you are not sure a hard fact is correct, pick another question. No question may repeat or closely paraphrase any question in tests 01–20 (the validator checks strictly).

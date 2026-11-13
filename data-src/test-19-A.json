@@ -1,0 +1,1059 @@
+{
+ "passages": [
+  {
+   "id": "t19-p1",
+   "genre": "Scientific passage",
+   "title": "A Partnership Under Scrutiny",
+   "text": "Lichens are not single organisms but partnerships between a fungus and one or more photosynthetic partners, usually green algae or cyanobacteria. For over a century, textbooks described the arrangement as mutualism: the fungus offers shelter and mineral nutrients, while the alga supplies sugars. Recent work, however, complicates this tidy picture. In some species the alga grows more slowly inside the lichen than when cultured alone, and it is often the fungus that appears to dictate the architecture of the partnership. A few researchers therefore describe lichens as 'controlled parasitism', in which the fungus farms its partner. Yet the alga is not merely a victim; inside the fungal body it survives desiccation and ultraviolet stress that would destroy it in isolation. Because lichens absorb water and pollutants directly from the air, having no roots or protective cuticle, they respond sharply to changes in air quality, and several species vanish first from polluted cities. Scientists should nonetheless be cautious about treating a missing species as proof of pollution, since altered humidity, loss of host trees and grazing may have identical effects."
+  },
+  {
+   "id": "t19-p2",
+   "genre": "Poetry extract",
+   "title": "The Weaver's Evening",
+   "text": "She does not hurry with the thread;\nThe loom has taught her what it knows,\nThat patterns come to those who wait\nAnd mend the spaces where they grow.\nHer hands, like rivers in the dusk,\nRun cool across the warp and weft,\nAnd all the village hums outside,\nUnheard by one who has not left.\nThey say the cloth is for the fair,\nThat kings will wear what she has spun;\nShe smiles: the king may have the cloth,\nBut she has had the weaving done.\nLet markets measure what they buy;\nThe hours cannot be sold or priced.\nThe days she wove into the cloth\nAre hers, and cannot be repriced."
+  },
+  {
+   "id": "t19-p3",
+   "genre": "Newspaper editorial",
+   "title": "In Praise of Productive Noise",
+   "text": "A visitor to many of our classrooms would be struck first by the silence. Teachers prize it; inspectors record it approvingly; parents read it as evidence of discipline. Yet silence, so understood, is merely the sound of one voice being heard while thirty minds idle. Research on classroom talk repeatedly suggests that pupils learn language, and much else, by using it: by arguing, hesitating, rephrasing and being corrected by peers. A teacher who answers every question herself deprives children of precisely this rehearsal. None of this is an argument for chaos. Productive noise differs from disorder as a conversation differs from a quarrel: it has a purpose, a structure and a listener. Moreover, to ask teachers to tolerate it without training is to set them up for failure; a class of forty on a crowded timetable cannot be turned into a seminar by exhortation alone. The remedy lies in modest, practical reforms: smaller groups for speaking tasks, tasks with clear outcomes, and inspection criteria that reward the quality of pupils' talk rather than the absence of it. Until then, our schools will go on producing graduates who can write answers but cannot defend them."
+  }
+ ],
+ "questions": [
+  {
+   "id": "t19-gram-01",
+   "part": "A",
+   "section": "gram",
+   "topic": "Cleft sentences",
+   "question": "Which of the following is a correct cleft sentence emphasising the place in \"The accident happened near the bridge\"?",
+   "options": [
+    "It was near the bridge where the accident happened.",
+    "It was near the bridge that the accident happened.",
+    "It happened near the bridge that was the accident.",
+    "What near the bridge was the accident happened."
+   ],
+   "correctIndex": 1,
+   "explanation": "A cleft sentence has the form 'It + be + focused element + that-clause'. Option 2 follows it exactly; the other options misuse 'where' or break the structure."
+  },
+  {
+   "id": "t19-gram-02",
+   "part": "A",
+   "section": "gram",
+   "topic": "Wishes and unreal past",
+   "question": "I wish the manager ___ us the exact schedule yesterday.",
+   "options": [
+    "had given",
+    "gave",
+    "would give",
+    "has given"
+   ],
+   "correctIndex": 0,
+   "explanation": "A wish about an unreal past situation takes the past perfect: 'had given'. 'Gave' refers to the present, 'would give' to the future, and 'has given' does not express regret."
+  },
+  {
+   "id": "t19-gram-03",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subjunctive",
+   "question": "The committee insisted that the register ___ before noon.",
+   "options": [
+    "is submitted",
+    "was submitted",
+    "be submitted",
+    "has been submitted"
+   ],
+   "correctIndex": 2,
+   "explanation": "After verbs of demand/insistence (insist, demand, suggest) a 'that'-clause takes the subjunctive: the base form 'be submitted'. Indicative forms are not used."
+  },
+  {
+   "id": "t19-gram-04",
+   "part": "A",
+   "section": "gram",
+   "topic": "Direct-Indirect speech",
+   "question": "The teacher said, \"Light travels faster than sound.\" Choose the correct indirect speech.",
+   "options": [
+    "The teacher said that light travelled faster than sound.",
+    "The teacher said that light had travelled faster than sound.",
+    "The teacher said that light would travel faster than sound.",
+    "The teacher said that light travels faster than sound."
+   ],
+   "correctIndex": 3,
+   "explanation": "A universal truth keeps the present tense in indirect speech even after a past reporting verb. Backshifting to 'travelled', 'had travelled' or 'would travel' wrongly changes the timeless fact."
+  },
+  {
+   "id": "t19-gram-05",
+   "part": "A",
+   "section": "gram",
+   "topic": "Relative clauses",
+   "question": "In which sentence does 'which' refer to the whole preceding clause?",
+   "options": [
+    "The book which I borrowed is missing.",
+    "He passed the test, which surprised everyone.",
+    "The man whom I met is a doctor.",
+    "The house where he lives is old."
+   ],
+   "correctIndex": 1,
+   "explanation": "In 'He passed the test, which surprised everyone', 'which' stands for the entire fact that he passed (a sentential relative clause). In the others the relative word refers to a single noun (book, man, house)."
+  },
+  {
+   "id": "t19-gram-06",
+   "part": "A",
+   "section": "gram",
+   "topic": "Subject-verb agreement",
+   "question": "One of the girls who ___ selected for the national camp is from Dantewada.",
+   "options": [
+    "was",
+    "has been",
+    "is",
+    "were"
+   ],
+   "correctIndex": 3,
+   "explanation": "In 'one of the Xs who...', the relative pronoun 'who' refers to the plural 'girls', so the verb is plural: 'were'. 'Was', 'has been' and 'is' are singular."
+  },
+  {
+   "id": "t19-gram-07",
+   "part": "A",
+   "section": "gram",
+   "topic": "Ellipsis and substitution",
+   "question": "\"Has the shipment arrived?\" \"I'm afraid ___.\"",
+   "options": [
+    "not",
+    "no",
+    "none",
+    "never"
+   ],
+   "correctIndex": 0,
+   "explanation": "'I'm afraid not' is the fixed substitute for 'I'm afraid it has not arrived'. 'No', 'none' and 'never' cannot stand for a whole negative clause after 'afraid'."
+  },
+  {
+   "id": "t19-gram-08",
+   "part": "A",
+   "section": "gram",
+   "topic": "Non-finite verbs",
+   "question": "In which sentence is the -ing word a GERUND functioning as subject complement (not a participle)?",
+   "options": [
+    "He was collecting rare coins when I called.",
+    "Collecting rare coins, he visited the fair.",
+    "His hobby is collecting rare coins.",
+    "The boy collecting rare coins is my cousin."
+   ],
+   "correctIndex": 2,
+   "explanation": "In 'His hobby is collecting rare coins', 'collecting' is a gerund acting as the complement of 'is'. In the others it forms a progressive verb, a participial phrase modifying 'he', and a participial phrase modifying 'boy'."
+  },
+  {
+   "id": "t19-gram-09",
+   "part": "A",
+   "section": "gram",
+   "topic": "Modals (perfect forms)",
+   "question": "She ___ have been at the station, for I saw her at the office at the same time.",
+   "options": [
+    "may not",
+    "needn't",
+    "shouldn't",
+    "can't"
+   ],
+   "correctIndex": 3,
+   "explanation": "'Can't have + past participle' expresses a logical impossibility about the past. 'May not' only suggests doubt; 'needn't' and 'shouldn't' express lack of necessity or disapproval, not deduction."
+  },
+  {
+   "id": "t19-gram-10",
+   "part": "A",
+   "section": "gram",
+   "topic": "Determiners",
+   "question": "We have ___ information to go on, so the inquiry cannot proceed.",
+   "options": [
+    "few",
+    "a little",
+    "little",
+    "a few"
+   ],
+   "correctIndex": 2,
+   "explanation": "'Information' is uncountable, so 'few/a few' are ruled out. 'Little' means almost none (negative idea), which fits 'cannot proceed'; 'a little' would mean some and be positive."
+  },
+  {
+   "id": "t19-gram-11",
+   "part": "A",
+   "section": "gram",
+   "topic": "Phrasal verbs",
+   "question": "The auditors ___ the discrepancy to a clerical error.",
+   "options": [
+    "put up with",
+    "put down to",
+    "put across",
+    "put out of"
+   ],
+   "correctIndex": 1,
+   "explanation": "'Put something down to' means attribute it to. 'Put up with' = tolerate, 'put across' = communicate, 'put out of' does not make sense here."
+  },
+  {
+   "id": "t19-gram-12",
+   "part": "A",
+   "section": "gram",
+   "topic": "Tenses",
+   "question": "By the time the rescuers arrived, the miners ___ for six hours.",
+   "options": [
+    "had been trapped",
+    "were trapping",
+    "have been trapped",
+    "had trapped"
+   ],
+   "correctIndex": 0,
+   "explanation": "An earlier past state before a past event needs the past perfect; the miners did not trap anything, so the passive 'had been trapped' is required. 'Have been trapped' is present perfect and cannot be used with a past reference point."
+  },
+  {
+   "id": "t19-gram-13",
+   "part": "A",
+   "section": "gram",
+   "topic": "Question tags",
+   "question": "Nothing has changed since the merger, ___?",
+   "options": [
+    "hasn't it",
+    "hasn't nothing",
+    "has nothing",
+    "has it"
+   ],
+   "correctIndex": 3,
+   "explanation": "'Nothing' carries a negative meaning, so the tag is positive and uses the pronoun 'it': 'has it?'. A negative tag would give a double negative, and 'nothing' cannot be repeated as a tag subject."
+  },
+  {
+   "id": "t19-gram-14",
+   "part": "A",
+   "section": "gram",
+   "topic": "Transformation of sentences",
+   "question": "Which is the simple-sentence version of \"Although he was ill, he attended the meeting\"?",
+   "options": [
+    "He was ill; however, he attended the meeting.",
+    "He was ill but he attended the meeting.",
+    "Despite his illness, he attended the meeting.",
+    "In spite of he was ill, he attended the meeting."
+   ],
+   "correctIndex": 2,
+   "explanation": "A simple sentence has one finite clause; the concession is turned into a phrase ('Despite his illness'). Options 1 and 2 are compound and 4 is ungrammatical (preposition followed by a clause)."
+  },
+  {
+   "id": "t19-gram-15",
+   "part": "A",
+   "section": "gram",
+   "topic": "Conditionals (inversion)",
+   "question": "Had it not been for the guide, the trekkers ___ lost.",
+   "options": [
+    "would have been",
+    "would be",
+    "will have been",
+    "had been"
+   ],
+   "correctIndex": 0,
+   "explanation": "'Had it not been for' is an inverted third conditional; the main clause takes 'would have + past participle'. Other forms mismatch the unreal past condition."
+  },
+  {
+   "id": "t19-vocab-01",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word formation (Greek roots)",
+   "question": "The word 'misanthrope' is built from Greek elements meaning",
+   "options": [
+    "hatred + human being",
+    "hatred + woman",
+    "love + human being",
+    "small + stone"
+   ],
+   "correctIndex": 0,
+   "explanation": "Greek 'misos' = hatred and 'anthropos' = human being, so a misanthrope hates people. 'Philanthropist' has 'love + human being'; 'misogynist' has 'hatred + woman'."
+  },
+  {
+   "id": "t19-vocab-02",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Affixes (Latin)",
+   "question": "The Latin prefix 'ambi-' in 'ambivalent' means",
+   "options": [
+    "against",
+    "around",
+    "both",
+    "beyond"
+   ],
+   "correctIndex": 2,
+   "explanation": "'Ambi-' means both; 'ambivalent' = having both (conflicting) feelings. 'Contra-' means against, 'circum-' means around, 'trans-/extra-' means beyond."
+  },
+  {
+   "id": "t19-vocab-03",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Word class conversion",
+   "question": "In which sentence has a noun been converted into a verb without any change in form?",
+   "options": [
+    "She quickly beautified the hall.",
+    "They will table the motion at the next meeting.",
+    "He spoke kindly to everyone.",
+    "The enlargement is clearly visible."
+   ],
+   "correctIndex": 1,
+   "explanation": "'Table' (noun) is used as a verb ('to table a motion') with zero change. 'Beautified' and 'enlargement' involve affixation, and 'kindly' is an adjective-derived adverb."
+  },
+  {
+   "id": "t19-vocab-04",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Polysemy",
+   "question": "In which sentence does 'fast' mean 'firmly fixed'?",
+   "options": [
+    "He broke his fast at dawn.",
+    "She is a fast runner.",
+    "The clock is ten minutes fast.",
+    "The boat stuck fast in the mud."
+   ],
+   "correctIndex": 3,
+   "explanation": "'Stuck fast' means held firmly in place. The other sentences use 'fast' as abstinence from food (noun), quick (adjective) and ahead of time (adjective)."
+  },
+  {
+   "id": "t19-vocab-05",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Homophones / near-homophones",
+   "question": "The new curriculum is meant to ___ the textbook, not replace it.",
+   "options": [
+    "compliment",
+    "complement",
+    "complain",
+    "implement"
+   ],
+   "correctIndex": 1,
+   "explanation": "'Complement' means to complete or add to something; 'compliment' (praise) is its homophone and is the trap. 'Complain' and 'implement' do not fit the sense."
+  },
+  {
+   "id": "t19-vocab-06",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Homophones",
+   "question": "Which word is a homophone of 'assent'?",
+   "options": [
+    "ascent",
+    "accent",
+    "ascend",
+    "absent"
+   ],
+   "correctIndex": 0,
+   "explanation": "'Ascent' (a climb) is pronounced /əˈsent/, exactly like 'assent' (agreement). 'Accent', 'ascend' and 'absent' sound different."
+  },
+  {
+   "id": "t19-vocab-07",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Collocations",
+   "question": "The students were asked to ___ thorough research on the topic.",
+   "options": [
+    "make",
+    "take",
+    "do",
+    "hold"
+   ],
+   "correctIndex": 2,
+   "explanation": "The standard collocation is 'do research'. 'Make', 'take' and 'hold' do not collocate with 'research' in this sense."
+  },
+  {
+   "id": "t19-vocab-08",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Lexical bundles",
+   "question": "In the bundle 'in the wake of', the expression means",
+   "options": [
+    "in preparation for",
+    "in spite of",
+    "in opposition to",
+    "as a result of and following"
+   ],
+   "correctIndex": 3,
+   "explanation": "'In the wake of' means following or as a consequence of something (like the trail behind a ship). The other bundles carry different meanings."
+  },
+  {
+   "id": "t19-vocab-09",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idioms",
+   "question": "'To have an axe to grind' means",
+   "options": [
+    "to have a selfish or private motive",
+    "to be skilled at a trade",
+    "to be in great danger",
+    "to work very hard"
+   ],
+   "correctIndex": 0,
+   "explanation": "The idiom means to have a personal interest or hidden motive behind an action; it is not related to skill, danger or effort."
+  },
+  {
+   "id": "t19-vocab-10",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idioms",
+   "question": "A 'red herring' in a discussion is",
+   "options": [
+    "a conclusive proof",
+    "a misleading clue or distraction",
+    "a lengthy summary",
+    "a harsh criticism"
+   ],
+   "correctIndex": 1,
+   "explanation": "'Red herring' = something that diverts attention from the real issue (from the use of strong-smelling fish to mislead hounds). The other meanings do not fit."
+  },
+  {
+   "id": "t19-vocab-11",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Idioms",
+   "question": "'To be at sixes and sevens' means to be",
+   "options": [
+    "in disagreement over money",
+    "extremely lucky",
+    "in a state of confusion or disorder",
+    "exactly on time"
+   ],
+   "correctIndex": 2,
+   "explanation": "The idiom describes a state of disorganisation or confusion, as in 'the office was at sixes and sevens after the move'. The other meanings are unrelated."
+  },
+  {
+   "id": "t19-vocab-12",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "'Abso-bloomin-lutely' is an example of which figure of speech?",
+   "options": [
+    "syllepsis",
+    "aposiopesis",
+    "ellipsis",
+    "tmesis"
+   ],
+   "correctIndex": 3,
+   "explanation": "Tmesis splits a word by inserting another word in the middle. Syllepsis is a word governing two others in different senses, aposiopesis is breaking off in mid-sentence, ellipsis is omission of words."
+  },
+  {
+   "id": "t19-vocab-13",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "The phrase 'a free gift' is an instance of",
+   "options": [
+    "pleonasm",
+    "oxymoron",
+    "meiosis",
+    "anticlimax"
+   ],
+   "correctIndex": 0,
+   "explanation": "A gift is already free, so 'free' is redundant: pleonasm (superfluous words). An oxymoron joins opposites, meiosis is understatement, and anticlimax is a letdown after a build-up."
+  },
+  {
+   "id": "t19-vocab-14",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "\"He lost his keys and his temper.\" illustrates",
+   "options": [
+    "tautology",
+    "antithesis",
+    "zeugma",
+    "euphemism"
+   ],
+   "correctIndex": 2,
+   "explanation": "One verb ('lost') governs two objects in different senses (physical and abstract): zeugma. Tautology is needless repetition, antithesis is contrast, euphemism is a mild substitute word."
+  },
+  {
+   "id": "t19-vocab-15",
+   "part": "A",
+   "section": "vocab",
+   "topic": "Figures of speech",
+   "question": "\"Government of the people, by the people, for the people\" ends each phrase with the same words. This device is",
+   "options": [
+    "anaphora",
+    "epistrophe",
+    "chiasmus",
+    "asyndeton"
+   ],
+   "correctIndex": 1,
+   "explanation": "Repetition of the same words at the END of successive clauses is epistrophe; anaphora repeats words at the beginning. Chiasmus is a reversed structure; asyndeton omits conjunctions."
+  },
+  {
+   "id": "t19-rc-01",
+   "part": "A",
+   "section": "rc",
+   "topic": "Author's attitude",
+   "passageId": "t19-p1",
+   "question": "The author's attitude towards the traditional description of lichens as 'mutualism' is that it",
+   "options": [
+    "is entirely mistaken",
+    "is too tidy to capture the real relationship fully",
+    "has been proved right by recent studies",
+    "applies only to lichens with cyanobacteria"
+   ],
+   "correctIndex": 1,
+   "explanation": "The author calls the picture 'tidy' and says recent work 'complicates' it, but also notes the alga benefits; hence the label is incomplete, not wholly wrong."
+  },
+  {
+   "id": "t19-rc-02",
+   "part": "A",
+   "section": "rc",
+   "topic": "Vocabulary in context",
+   "passageId": "t19-p1",
+   "question": "In the passage, 'dictate' (the architecture of the partnership) is closest in meaning to",
+   "options": [
+    "determine",
+    "announce",
+    "record",
+    "imitate"
+   ],
+   "correctIndex": 0,
+   "explanation": "Here 'dictate' means to decide or control the form. The other meanings (read aloud, write down, mimic) do not fit."
+  },
+  {
+   "id": "t19-rc-03",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t19-p1",
+   "question": "Which of the following statements finds NO support in the passage?",
+   "options": [
+    "The alga may grow more slowly within a lichen than in isolation.",
+    "Lichens lack roots and a protective cuticle.",
+    "The alga can tolerate stresses inside the fungus that would harm it alone.",
+    "The disappearance of a lichen species always proves air pollution."
+   ],
+   "correctIndex": 3,
+   "explanation": "The last sentence cautions that humidity, tree loss or grazing may have the same effect, so 'always proves' contradicts the passage. The other three are stated."
+  },
+  {
+   "id": "t19-rc-04",
+   "part": "A",
+   "section": "rc",
+   "topic": "Author's purpose",
+   "passageId": "t19-p1",
+   "question": "The sentence beginning 'Yet the alga is not merely a victim' serves to",
+   "options": [
+    "dismiss the parasitism view altogether",
+    "qualify the parasitism view by pointing to a benefit for the alga",
+    "introduce a new species of alga",
+    "prove that mutualism is correct"
+   ],
+   "correctIndex": 1,
+   "explanation": "It balances the 'controlled parasitism' view by showing the alga also gains protection; it neither rejects nor fully endorses either view."
+  },
+  {
+   "id": "t19-rc-05",
+   "part": "A",
+   "section": "rc",
+   "topic": "Rhetorical devices",
+   "passageId": "t19-p1",
+   "question": "The expression 'the fungus farms its partner' is best described as",
+   "options": [
+    "a simile",
+    "hyperbole",
+    "a metaphor",
+    "irony"
+   ],
+   "correctIndex": 2,
+   "explanation": "The fungus is described as farming (cultivating) the alga without 'like/as': a metaphor. It is not a comparison with 'like', an exaggeration or an ironic statement."
+  },
+  {
+   "id": "t19-rc-06",
+   "part": "A",
+   "section": "rc",
+   "topic": "Central idea",
+   "passageId": "t19-p2",
+   "question": "The message the poem ultimately conveys is that",
+   "options": [
+    "kings value handmade cloth above all else",
+    "the worth of patient work lies in the doing, not in its market price",
+    "village life is dull and unchanging",
+    "craftsmen should resist selling their products"
+   ],
+   "correctIndex": 1,
+   "explanation": "The weaver says 'the hours cannot be sold or priced'; she is content with the weaving itself. The poem does not condemn selling or praise kings."
+  },
+  {
+   "id": "t19-rc-07",
+   "part": "A",
+   "section": "rc",
+   "topic": "Tone",
+   "passageId": "t19-p2",
+   "question": "The mood evoked by the poem is best described as",
+   "options": [
+    "bitter and resentful",
+    "playful and mocking",
+    "anxious and urgent",
+    "serene and contented"
+   ],
+   "correctIndex": 3,
+   "explanation": "Phrases like 'does not hurry', 'she smiles' and the settled conclusion create a serene, contented mood; there is no bitterness, mockery or anxiety."
+  },
+  {
+   "id": "t19-rc-08",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference (NOT)",
+   "passageId": "t19-p2",
+   "question": "Which statement CANNOT be inferred from the poem?",
+   "options": [
+    "The weaver works without haste.",
+    "The weaver is handsomely paid by kings for her cloth.",
+    "The village outside is lively.",
+    "The weaver has learnt from her loom."
+   ],
+   "correctIndex": 1,
+   "explanation": "The poem says kings 'will wear' her cloth, but it never mentions payment, and she rejects the idea of pricing her hours. The other statements are supported by lines 1, 2 and 7."
+  },
+  {
+   "id": "t19-rc-09",
+   "part": "A",
+   "section": "rc",
+   "topic": "Figures of speech",
+   "passageId": "t19-p2",
+   "question": "'The loom has taught her what it knows' is an example of",
+   "options": [
+    "simile",
+    "apostrophe",
+    "personification",
+    "oxymoron"
+   ],
+   "correctIndex": 2,
+   "explanation": "The inanimate loom is given the human role of a teacher: personification."
+  },
+  {
+   "id": "t19-rc-10",
+   "part": "A",
+   "section": "rc",
+   "topic": "Interpretation",
+   "passageId": "t19-p2",
+   "question": "'The king may have the cloth, / But she has had the weaving done.' suggests that the weaver",
+   "options": [
+    "feels cheated by the king",
+    "values the experience of making more than the finished product",
+    "plans to refuse the king's order",
+    "is proud of her royal clients"
+   ],
+   "correctIndex": 1,
+   "explanation": "She is happy for the king to take the product because she already possesses the experience of weaving; there is no sense of being cheated or refusing."
+  },
+  {
+   "id": "t19-rc-11",
+   "part": "A",
+   "section": "rc",
+   "topic": "Main idea",
+   "passageId": "t19-p3",
+   "question": "Which of the following best expresses the thesis of the editorial?",
+   "options": [
+    "a quiet classroom is not a reliable sign of effective teaching and reforms are needed to support pupils' talk",
+    "noisy classrooms are always superior to quiet ones",
+    "inspectors should stop visiting schools",
+    "teachers are mainly responsible for pupils' weak speaking skills"
+   ],
+   "correctIndex": 0,
+   "explanation": "The writer questions the equation of silence with learning, yet rejects chaos and proposes practical reforms. 'Always superior', abolishing inspection and blaming teachers are not argued."
+  },
+  {
+   "id": "t19-rc-12",
+   "part": "A",
+   "section": "rc",
+   "topic": "Tone",
+   "passageId": "t19-p3",
+   "question": "The tone of the writer is",
+   "options": [
+    "sarcastic and hostile",
+    "critical but constructive",
+    "neutral and indifferent",
+    "nostalgic and sentimental"
+   ],
+   "correctIndex": 1,
+   "explanation": "He criticises prevailing practice but also proposes concrete remedies; the tone is not hostile, indifferent or nostalgic."
+  },
+  {
+   "id": "t19-rc-13",
+   "part": "A",
+   "section": "rc",
+   "topic": "Inference",
+   "passageId": "t19-p3",
+   "question": "Which can be inferred from the passage?",
+   "options": [
+    "Productive noise is the same as disorder.",
+    "Teachers alone can create discussion-rich classrooms by effort.",
+    "The writer sees structured talk as different from mere disorder.",
+    "Inspection should concentrate on written work."
+   ],
+   "correctIndex": 2,
+   "explanation": "The passage distinguishes productive noise from disorder as conversation from a quarrel. The other options contradict the text (e.g., exhortation alone is insufficient, and inspection should reward talk)."
+  },
+  {
+   "id": "t19-rc-14",
+   "part": "A",
+   "section": "rc",
+   "topic": "Vocabulary in context",
+   "passageId": "t19-p3",
+   "question": "'Exhortation' as used in the passage means",
+   "options": [
+    "earnest urging",
+    "strict punishment",
+    "detailed training",
+    "public criticism"
+   ],
+   "correctIndex": 0,
+   "explanation": "'Exhortation' is strong encouragement or urging; the writer says exhortation alone cannot turn a large class into a seminar."
+  },
+  {
+   "id": "t19-rc-15",
+   "part": "A",
+   "section": "rc",
+   "topic": "Author's purpose",
+   "passageId": "t19-p3",
+   "question": "The last sentence mainly serves to",
+   "options": [
+    "summarise the research findings",
+    "ridicule present-day graduates",
+    "warn about the long-term consequence of current practice",
+    "suggest a new inspection method"
+   ],
+   "correctIndex": 2,
+   "explanation": "The sentence predicts what will continue to happen if nothing changes: students who can write answers but cannot defend them. It is a warning, not a summary, ridicule or proposal."
+  },
+  {
+   "id": "t19-ped-01",
+   "part": "A",
+   "section": "ped",
+   "topic": "Swain's Output Hypothesis",
+   "question": "According to Swain's Output Hypothesis, producing language helps a learner chiefly because it ___.",
+   "questionHi": "स्वेन की आउटपुट परिकल्पना के अनुसार भाषा का उत्पादन (बोलना/लिखना) मुख्यतः इसलिए सहायक है क्योंकि वह ___।",
+   "options": [
+    "supplies comprehensible input slightly above the current level",
+    "pushes the learner to notice gaps in his or her own linguistic knowledge",
+    "lowers the affective filter during speaking",
+    "strengthens habits through repetition and reinforcement"
+   ],
+   "optionsHi": [
+    "वर्तमान स्तर से थोड़ा ऊपर का बोधगम्य इनपुट देता है",
+    "अपने भाषा-ज्ञान की कमियों को पहचानने के लिए बाध्य करता है",
+    "बोलते समय भावात्मक फ़िल्टर को कम करता है",
+    "दोहराव और पुनर्बलन से आदतें मज़बूत करता है"
+   ],
+   "correctIndex": 1,
+   "explanation": "Swain argued that 'pushed output' makes learners notice what they cannot yet say (noticing function). Comprehensible input is Krashen's idea, affective filter is Krashen's, and habit formation is Behaviourist.",
+   "explanationHi": "स्वेन के अनुसार 'pushed output' से शिक्षार्थी को पता चलता है कि वह क्या नहीं कह पा रहा (noticing)। बोधगम्य इनपुट और भावात्मक फ़िल्टर क्रैशेन के विचार हैं तथा आदत-निर्माण व्यवहारवाद का।"
+  },
+  {
+   "id": "t19-ped-02",
+   "part": "A",
+   "section": "ped",
+   "topic": "Krashen's Natural Order Hypothesis",
+   "question": "The claim that learners acquire grammatical structures in a predictable sequence, largely independent of the order in which they are taught, belongs to which of Krashen's hypotheses?",
+   "questionHi": "यह दावा कि शिक्षार्थी व्याकरणिक संरचनाएँ एक अनुमानित क्रम में सीखते हैं, चाहे पढ़ाने का क्रम कुछ भी हो, क्रैशेन की किस परिकल्पना से संबंधित है?",
+   "options": [
+    "Monitor Hypothesis",
+    "Input Hypothesis",
+    "Affective Filter Hypothesis",
+    "Natural Order Hypothesis"
+   ],
+   "optionsHi": [
+    "मॉनिटर परिकल्पना",
+    "इनपुट परिकल्पना",
+    "भावात्मक फ़िल्टर परिकल्पना",
+    "प्राकृतिक क्रम परिकल्पना"
+   ],
+   "correctIndex": 3,
+   "explanation": "This is the Natural Order Hypothesis. The Monitor deals with conscious editing, the Input Hypothesis with i+1, and the Affective Filter with emotional barriers.",
+   "explanationHi": "यह प्राकृतिक क्रम परिकल्पना है। मॉनिटर सचेत संपादन से, इनपुट परिकल्पना i+1 से और भावात्मक फ़िल्टर भावनात्मक अवरोधों से जुड़े हैं।"
+  },
+  {
+   "id": "t19-ped-03",
+   "part": "A",
+   "section": "ped",
+   "topic": "Willis's TBLT framework",
+   "question": "In Willis's task-based learning framework, which stage comes last?",
+   "questionHi": "विलिस के कार्य-आधारित अधिगम ढाँचे में कौन-सा चरण सबसे अंत में आता है?",
+   "options": [
+    "Language focus (analysis and practice)",
+    "Pre-task",
+    "Task cycle (task, planning, report)",
+    "Task selection by learners"
+   ],
+   "optionsHi": [
+    "भाषा-केंद्रण (विश्लेषण व अभ्यास)",
+    "पूर्व-कार्य",
+    "कार्य-चक्र (कार्य, योजना, रिपोर्ट)",
+    "शिक्षार्थियों द्वारा कार्य का चयन"
+   ],
+   "correctIndex": 0,
+   "explanation": "Willis's framework runs Pre-task -> Task cycle -> Language focus; form-focused analysis and practice come after learners have used language to complete the task.",
+   "explanationHi": "विलिस का ढाँचा पूर्व-कार्य -> कार्य-चक्र -> भाषा-केंद्रण के क्रम में चलता है; रूप-केंद्रित विश्लेषण व अभ्यास तब आता है जब शिक्षार्थी कार्य पूरा करने में भाषा का प्रयोग कर चुके हों।"
+  },
+  {
+   "id": "t19-ped-04",
+   "part": "A",
+   "section": "ped",
+   "topic": "Halliday's functions of language",
+   "question": "A child asking \"Why does the moon follow us?\" is using which of Halliday's language functions?",
+   "questionHi": "एक बच्चा पूछता है \"चाँद हमारे साथ-साथ क्यों चलता है?\" यह हैलीडे का कौन-सा भाषा-प्रकार्य है?",
+   "options": [
+    "Regulatory",
+    "Personal",
+    "Heuristic",
+    "Imaginative"
+   ],
+   "optionsHi": [
+    "नियामक (Regulatory)",
+    "व्यक्तिगत (Personal)",
+    "अन्वेषणात्मक (Heuristic)",
+    "कल्पनात्मक (Imaginative)"
+   ],
+   "correctIndex": 2,
+   "explanation": "The heuristic function uses language to explore and learn about the environment (questions, enquiry). Regulatory controls others' behaviour, personal expresses identity, imaginative creates imaginary worlds.",
+   "explanationHi": "अन्वेषणात्मक प्रकार्य में भाषा से वातावरण को जानने-समझने के प्रश्न पूछे जाते हैं। नियामक दूसरों के व्यवहार को नियंत्रित करता है, व्यक्तिगत पहचान व्यक्त करता है और कल्पनात्मक काल्पनिक संसार रचता है।"
+  },
+  {
+   "id": "t19-ped-05",
+   "part": "A",
+   "section": "ped",
+   "topic": "Hymes: communicative competence",
+   "question": "Hymes proposed 'communicative competence' mainly because Chomsky's notion of competence",
+   "questionHi": "हाइम्स ने 'संप्रेषणात्मक सक्षमता' मुख्यतः इसलिए प्रस्तावित की क्योंकि चॉम्स्की की सक्षमता की धारणा",
+   "options": [
+    "ignored the role of vocabulary in grammar",
+    "neglected the social appropriateness of language use",
+    "denied that children have an innate faculty",
+    "gave priority to writing over speech"
+   ],
+   "optionsHi": [
+    "व्याकरण में शब्दावली की भूमिका को अनदेखा करती थी",
+    "भाषा-प्रयोग की सामाजिक उपयुक्तता की उपेक्षा करती थी",
+    "बच्चों में जन्मजात क्षमता को नकारती थी",
+    "लेखन को वाणी से अधिक महत्व देती थी"
+   ],
+   "correctIndex": 1,
+   "explanation": "Hymes held that knowing grammar is not enough; a speaker must know what to say, to whom and when, i.e. social appropriateness. Chomsky did accept innateness, and he prioritised speech/idealised grammar.",
+   "explanationHi": "हाइम्स के अनुसार केवल व्याकरण जानना पर्याप्त नहीं; वक्ता को पता होना चाहिए कि क्या, किससे और कब कहना है। चॉम्स्की जन्मजात क्षमता मानते थे और उन्होंने आदर्श व्याकरण पर बल दिया।"
+  },
+  {
+   "id": "t19-ped-06",
+   "part": "A",
+   "section": "ped",
+   "topic": "Canale and Swain",
+   "question": "Using paraphrase, gestures or a synonym when a learner cannot recall the exact word illustrates which component in Canale and Swain's model?",
+   "questionHi": "जब शिक्षार्थी को सही शब्द याद न आए और वह पर्यायवाची, हाव-भाव या दूसरे शब्दों का प्रयोग करे, तो यह कैनेल और स्वेन के मॉडल का कौन-सा घटक है?",
+   "options": [
+    "Grammatical",
+    "Sociolinguistic",
+    "Discourse",
+    "Strategic"
+   ],
+   "optionsHi": [
+    "व्याकरणिक",
+    "सामाजिक-भाषावैज्ञानिक",
+    "विमर्श",
+    "रणनीतिक"
+   ],
+   "correctIndex": 3,
+   "explanation": "Strategic competence is the ability to use compensation strategies to overcome communication breakdowns. Grammatical concerns form, sociolinguistic concerns appropriateness, discourse concerns cohesion and coherence.",
+   "explanationHi": "रणनीतिक सक्षमता संप्रेषण में आई बाधा को दूर करने की क्षतिपूरक युक्तियों का प्रयोग है। व्याकरणिक सक्षमता रूप से, सामाजिक-भाषावैज्ञानिक उपयुक्तता से और विमर्श सक्षमता संगति से जुड़ी है।"
+  },
+  {
+   "id": "t19-ped-07",
+   "part": "A",
+   "section": "ped",
+   "topic": "Error analysis",
+   "question": "Which of the following is an intralingual error caused by over-generalisation of a target-language rule?",
+   "questionHi": "निम्न में से कौन-सी अंतःभाषिक (intralingual) त्रुटि है, जो लक्ष्य-भाषा के नियम के अति-सामान्यीकरण से होती है?",
+   "options": [
+    "He goed to the market.",
+    "I am agree with you.",
+    "Open the light.",
+    "My hairs are black."
+   ],
+   "optionsHi": [
+    "He goed to the market.",
+    "I am agree with you.",
+    "Open the light.",
+    "My hairs are black."
+   ],
+   "correctIndex": 0,
+   "explanation": "'Goed' applies the regular '-ed' rule to an irregular verb: over-generalisation within English. The other errors typically come from first-language transfer (interlingual).",
+   "explanationHi": "'Goed' में अनियमित क्रिया पर नियमित '-ed' नियम लगाया गया है, यानी अंग्रेज़ी के भीतर ही अति-सामान्यीकरण। अन्य त्रुटियाँ प्रायः मातृभाषा के प्रभाव (interlingual) से होती हैं।"
+  },
+  {
+   "id": "t19-ped-08",
+   "part": "A",
+   "section": "ped",
+   "topic": "Asher's Total Physical Response",
+   "question": "In Asher's Total Physical Response (TPR) method, learners at the beginning stage mainly",
+   "questionHi": "आशेर की टोटल फिज़िकल रिस्पांस (TPR) विधि में आरंभिक अवस्था के शिक्षार्थी मुख्यतः क्या करते हैं?",
+   "options": [
+    "repeat sentences in chorus until memorised",
+    "translate sentences into the mother tongue",
+    "respond physically to spoken commands before being required to speak",
+    "write dictated paragraphs"
+   ],
+   "optionsHi": [
+    "पूरे समूह में वाक्य दोहराकर रटते हैं",
+    "वाक्यों का मातृभाषा में अनुवाद करते हैं",
+    "बोलने की अपेक्षा से पहले मौखिक आदेशों पर शारीरिक क्रिया करके प्रतिक्रिया देते हैं",
+    "श्रुतलेख में लिखे अनुच्छेद लिखते हैं"
+   ],
+   "correctIndex": 2,
+   "explanation": "TPR links language with physical action: learners first show comprehension by acting on commands, and speaking comes later when they are ready. Choral repetition belongs to Audio-lingualism, translation to Grammar-Translation.",
+   "explanationHi": "TPR में भाषा को शारीरिक क्रिया से जोड़ा जाता है: शिक्षार्थी पहले आदेशों पर क्रिया करके समझ दिखाते हैं और बोलना बाद में तैयार होने पर आता है। समूह में दोहराव श्रव्य-भाषिक विधि और अनुवाद व्याकरण-अनुवाद विधि से जुड़े हैं।"
+  },
+  {
+   "id": "t19-ped-09",
+   "part": "A",
+   "section": "ped",
+   "topic": "Bruner's LASS",
+   "question": "Bruner's concept of the Language Acquisition Support System (LASS) stresses",
+   "questionHi": "ब्रूनर की भाषा अर्जन सहायता प्रणाली (LASS) की अवधारणा किस पर बल देती है?",
+   "options": [
+    "an innate device containing universal grammar",
+    "the supportive social interaction from caregivers that helps children acquire language",
+    "reinforcement of correct responses",
+    "the central role of formal grammar teaching"
+   ],
+   "optionsHi": [
+    "सार्वभौमिक व्याकरण वाली जन्मजात युक्ति",
+    "देखभालकर्ताओं की सहायक सामाजिक अंतःक्रिया जो बच्चों को भाषा अर्जित करने में मदद करती है",
+    "सही अनुक्रियाओं का पुनर्बलन",
+    "औपचारिक व्याकरण-शिक्षण की केंद्रीय भूमिका"
+   ],
+   "correctIndex": 1,
+   "explanation": "Bruner proposed LASS as a social counterpart to Chomsky's LAD: routines, games and scaffolded interaction with caregivers help children learn language. The innate-device view is Chomsky's and reinforcement is Skinner's.",
+   "explanationHi": "ब्रूनर ने LASS को चॉम्स्की के LAD के सामाजिक पूरक के रूप में प्रस्तावित किया: देखभालकर्ताओं के साथ दिनचर्या, खेल और सहारा देने वाली अंतःक्रिया से बच्चे भाषा सीखते हैं। जन्मजात युक्ति का विचार चॉम्स्की का और पुनर्बलन स्किनर का है।"
+  },
+  {
+   "id": "t19-ped-10",
+   "part": "A",
+   "section": "ped",
+   "topic": "Krashen's Monitor Hypothesis",
+   "question": "According to Krashen's Monitor Hypothesis, the consciously learnt system functions mainly as",
+   "questionHi": "क्रैशेन की मॉनिटर परिकल्पना के अनुसार सचेत रूप से सीखी गई प्रणाली मुख्यतः किस रूप में कार्य करती है?",
+   "options": [
+    "the source of fluent spontaneous speech",
+    "the initiator of utterances",
+    "a motivator for the learner",
+    "an editor that checks output when time, focus on form and rule knowledge are available"
+   ],
+   "optionsHi": [
+    "धाराप्रवाह सहज वाणी का स्रोत",
+    "कथनों की शुरुआत करने वाली",
+    "शिक्षार्थी की प्रेरक",
+    "संपादक जो समय, रूप पर ध्यान और नियम-ज्ञान उपलब्ध होने पर अभिव्यक्ति की जाँच करता है"
+   ],
+   "correctIndex": 3,
+   "explanation": "Krashen holds that fluent utterances are initiated by acquired competence; learnt knowledge only monitors or edits output, and only under conditions of time, form-focus and rule knowledge.",
+   "explanationHi": "क्रैशेन के अनुसार धाराप्रवाह अभिव्यक्ति अर्जित क्षमता से शुरू होती है; सीखा हुआ ज्ञान केवल समय, रूप-ध्यान और नियम-ज्ञान की स्थिति में अभिव्यक्ति की निगरानी या संपादन करता है।"
+  },
+  {
+   "id": "t19-ped-11",
+   "part": "A",
+   "section": "ped",
+   "topic": "Revised Bloom taxonomy",
+   "question": "In the Revised Bloom's Taxonomy (Anderson and Krathwohl), a task asking learners to write an original short story using given story elements demands which cognitive level?",
+   "questionHi": "संशोधित ब्लूम वर्गीकरण (एंडरसन व क्रेथवोल) में दिए गए कथा-तत्वों से मौलिक लघुकथा लिखवाना किस संज्ञानात्मक स्तर की माँग करता है?",
+   "options": [
+    "Applying",
+    "Analysing",
+    "Creating",
+    "Evaluating"
+   ],
+   "optionsHi": [
+    "प्रयोग करना (Applying)",
+    "विश्लेषण करना (Analysing)",
+    "सृजन करना (Creating)",
+    "मूल्यांकन करना (Evaluating)"
+   ],
+   "correctIndex": 2,
+   "explanation": "Producing an original work by combining elements is 'Creating', the highest level in the revised taxonomy. Evaluating involves judging, analysing involves breaking down, applying involves using in a given context.",
+   "explanationHi": "तत्वों को जोड़कर मौलिक रचना करना 'सृजन' है, जो संशोधित वर्गीकरण का सर्वोच्च स्तर है। मूल्यांकन में निर्णय, विश्लेषण में विभाजन और प्रयोग में दी गई स्थिति में उपयोग होता है।"
+  },
+  {
+   "id": "t19-ped-12",
+   "part": "A",
+   "section": "ped",
+   "topic": "CLIL",
+   "question": "Which of the following is NOT one of the '4Cs' of the CLIL framework?",
+   "questionHi": "निम्न में से कौन CLIL ढाँचे के '4Cs' में शामिल नहीं है?",
+   "options": [
+    "Correction",
+    "Cognition",
+    "Culture",
+    "Communication"
+   ],
+   "optionsHi": [
+    "सुधार (Correction)",
+    "संज्ञान (Cognition)",
+    "संस्कृति (Culture)",
+    "संप्रेषण (Communication)"
+   ],
+   "correctIndex": 0,
+   "explanation": "The 4Cs of CLIL (Coyle) are Content, Cognition, Communication and Culture/Community. Correction is not one of them.",
+   "explanationHi": "CLIL के 4Cs (कॉयल) हैं: Content, Cognition, Communication और Culture/Community। Correction इनमें नहीं है।"
+  },
+  {
+   "id": "t19-ped-13",
+   "part": "A",
+   "section": "ped",
+   "topic": "Scaffolding and ZPD",
+   "question": "Which classroom practice best exemplifies scaffolding?",
+   "questionHi": "कौन-सी कक्षा-गतिविधि स्कैफ़ोल्डिंग का सर्वोत्तम उदाहरण है?",
+   "options": [
+    "Giving the same worksheet to every learner and marking it strictly",
+    "Allowing learners to attempt tasks only after memorising all grammar rules",
+    "Providing sentence frames and models first and gradually withdrawing them as learners become independent",
+    "Asking learners to copy the teacher's model essay repeatedly"
+   ],
+   "optionsHi": [
+    "सभी शिक्षार्थियों को एक ही कार्यपत्रक देकर सख़्ती से जाँचना",
+    "सारे व्याकरण-नियम रटने के बाद ही कार्य करने देना",
+    "पहले वाक्य-ढाँचे और नमूने देना तथा शिक्षार्थी के स्वतंत्र होने पर उन्हें धीरे-धीरे हटाना",
+    "शिक्षक के आदर्श निबंध की बार-बार नकल करवाना"
+   ],
+   "correctIndex": 2,
+   "explanation": "Scaffolding (Bruner, from Vygotsky's ZPD) means temporary, adjustable support that is faded as competence grows. The other practices offer no graduated support.",
+   "explanationHi": "स्कैफ़ोल्डिंग (ब्रूनर, वाइगोत्स्की के ZPD पर आधारित) का अर्थ है अस्थायी, समायोज्य सहायता जो क्षमता बढ़ने पर घटाई जाती है। अन्य गतिविधियों में क्रमिक सहायता नहीं है।"
+  },
+  {
+   "id": "t19-ped-14",
+   "part": "A",
+   "section": "ped",
+   "topic": "Multilingual classroom",
+   "question": "Allowing learners to move between their home language and English to understand and discuss a text is best described as",
+   "questionHi": "पाठ को समझने और चर्चा करने के लिए शिक्षार्थियों को घर की भाषा और अंग्रेज़ी के बीच आवाजाही की छूट देना सबसे उचित रूप से क्या कहलाता है?",
+   "options": [
+    "a fossilised error",
+    "the Direct Method",
+    "Grammar-Translation",
+    "translanguaging"
+   ],
+   "optionsHi": [
+    "फॉसिलाइज़्ड त्रुटि",
+    "प्रत्यक्ष विधि",
+    "व्याकरण-अनुवाद",
+    "ट्रांसलैंग्वेजिंग (translanguaging)"
+   ],
+   "correctIndex": 3,
+   "explanation": "Translanguaging uses the learner's whole linguistic repertoire as a resource for meaning-making. The Direct Method avoids the mother tongue, and Grammar-Translation focuses on rule-based translation of sentences.",
+   "explanationHi": "ट्रांसलैंग्वेजिंग में शिक्षार्थी की पूरी भाषाई पूँजी का अर्थ-निर्माण में उपयोग होता है। प्रत्यक्ष विधि मातृभाषा से बचती है और व्याकरण-अनुवाद नियम-आधारित अनुवाद पर केंद्रित है।"
+  },
+  {
+   "id": "t19-ped-15",
+   "part": "A",
+   "section": "ped",
+   "topic": "Diagnostic and remedial teaching",
+   "question": "In diagnostic-remedial teaching of English, the most logical sequence is",
+   "questionHi": "अंग्रेज़ी के निदानात्मक-उपचारात्मक शिक्षण में सबसे तर्कसंगत क्रम कौन-सा है?",
+   "options": [
+    "Identify the learning gap -> locate its cause -> plan targeted activities -> re-test",
+    "Plan activities -> identify the gap -> re-test -> locate cause",
+    "Re-test -> plan activities -> locate cause -> identify gap",
+    "Locate cause -> re-test -> identify gap -> plan activities"
+   ],
+   "optionsHi": [
+    "अधिगम-कमी पहचानना -> कारण खोजना -> लक्षित गतिविधियाँ बनाना -> पुनः परीक्षण",
+    "गतिविधियाँ बनाना -> कमी पहचानना -> पुनः परीक्षण -> कारण खोजना",
+    "पुनः परीक्षण -> गतिविधियाँ बनाना -> कारण खोजना -> कमी पहचानना",
+    "कारण खोजना -> पुनः परीक्षण -> कमी पहचानना -> गतिविधियाँ बनाना"
+   ],
+   "correctIndex": 0,
+   "explanation": "Remedial work must follow diagnosis: first detect the weakness, find its cause, design suitable activities, and finally check whether the gap is closed.",
+   "explanationHi": "उपचार निदान के बाद ही होता है: पहले कमजोरी पहचानें, कारण खोजें, उपयुक्त गतिविधियाँ बनाएँ और अंत में जाँचें कि कमी दूर हुई या नहीं।"
+  }
+ ]
+}

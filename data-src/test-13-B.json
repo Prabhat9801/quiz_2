@@ -1,0 +1,349 @@
+{
+ "questions": [
+  {
+   "id": "t13-psych-01",
+   "part": "B",
+   "section": "psych",
+   "topic": "Erikson",
+   "question": "According to Erikson, the psychosocial crisis of middle adulthood is ___.",
+   "questionHi": "एरिक्सन के अनुसार मध्य वयस्कता का मनोसामाजिक संकट ___ है।",
+   "options": [
+    "integrity versus despair",
+    "generativity versus stagnation",
+    "intimacy versus isolation",
+    "industry versus inferiority"
+   ],
+   "optionsHi": [
+    "अखंडता बनाम निराशा",
+    "उत्पादकता (generativity) बनाम ठहराव",
+    "घनिष्ठता बनाम अलगाव",
+    "उद्यमशीलता बनाम हीनता"
+   ],
+   "correctIndex": 1,
+   "explanation": "In middle adulthood the crisis is generativity versus stagnation. Integrity versus despair belongs to late adulthood, intimacy versus isolation to young adulthood, and industry versus inferiority to middle childhood.",
+   "explanationHi": "मध्य वयस्कता में संकट उत्पादकता बनाम ठहराव का होता है। अखंडता बनाम निराशा वृद्धावस्था का, घनिष्ठता बनाम अलगाव युवा वयस्कता का और उद्यमशीलता बनाम हीनता मध्य बाल्यावस्था का संकट है।"
+  },
+  {
+   "id": "t13-psych-02",
+   "part": "B",
+   "section": "psych",
+   "topic": "Erikson",
+   "question": "A 14-year-old keeps changing her style, friend groups and career ideas while asking 'Who am I?'. According to Erikson, she is facing the crisis of ___.",
+   "questionHi": "एक 14 वर्षीय लड़की बार-बार अपना पहनावा, मित्र-समूह और करियर-विचार बदलती है और पूछती है 'मैं कौन हूँ?'। एरिक्सन के अनुसार वह किस संकट का सामना कर रही है?",
+   "options": [
+    "industry vs inferiority",
+    "initiative vs guilt",
+    "intimacy vs isolation",
+    "identity vs role confusion"
+   ],
+   "optionsHi": [
+    "उद्यमिता बनाम हीनता",
+    "पहल बनाम अपराध-बोध",
+    "आत्मीयता बनाम अलगाव",
+    "पहचान बनाम भूमिका-भ्रम"
+   ],
+   "correctIndex": 3,
+   "explanation": "Adolescence (about 12-18 years) is the stage of identity versus role confusion. Industry vs inferiority is for school age, initiative vs guilt for early childhood, and intimacy vs isolation for young adulthood.",
+   "explanationHi": "किशोरावस्था (लगभग 12-18 वर्ष) पहचान बनाम भूमिका-भ्रम की अवस्था है। उद्यमिता बनाम हीनता विद्यालय-आयु की, पहल बनाम अपराध-बोध प्रारंभिक बाल्यावस्था की और आत्मीयता बनाम अलगाव युवावस्था की अवस्था है।"
+  },
+  {
+   "id": "t13-psych-03",
+   "part": "B",
+   "section": "psych",
+   "topic": "Piaget substages",
+   "question": "A 15-month-old repeatedly drops a spoon from the high chair in different ways to see what happens. This is Piaget's ___.",
+   "questionHi": "15 माह का बच्चा चम्मच को ऊँची कुर्सी से अलग-अलग तरीकों से बार-बार गिराकर देखता है कि क्या होता है। यह पियाजे की ___ है।",
+   "options": [
+    "primary circular reactions",
+    "secondary circular reactions",
+    "tertiary circular reactions",
+    "reflex activity"
+   ],
+   "optionsHi": [
+    "प्राथमिक वृत्तीय प्रतिक्रियाएँ",
+    "द्वितीयक वृत्तीय प्रतिक्रियाएँ",
+    "तृतीयक वृत्तीय प्रतिक्रियाएँ",
+    "सहज प्रतिवर्त क्रियाएँ"
+   ],
+   "correctIndex": 2,
+   "explanation": "Tertiary circular reactions (about 12-18 months) involve deliberate experimentation with variations. Primary ones centre on the child's own body, and secondary ones repeat interesting effects on objects without variation.",
+   "explanationHi": "तृतीयक वृत्तीय प्रतिक्रियाओं (लगभग 12-18 माह) में बच्चा जानबूझकर अलग-अलग प्रयोग करता है। प्राथमिक अपने शरीर पर केंद्रित और द्वितीयक वस्तुओं पर प्रभावों की बिना बदलाव दोहराव होती हैं।"
+  },
+  {
+   "id": "t13-psych-04",
+   "part": "B",
+   "section": "psych",
+   "topic": "Ausubel",
+   "question": "Ausubel's 'advance organiser' is ___.",
+   "questionHi": "ऑसुबेल का 'अग्रिम संगठक' (advance organiser) ___ है।",
+   "options": [
+    "a general introductory framework presented before new material to link it with prior knowledge",
+    "a reward given after a correct response",
+    "a summary test taken at the end of a unit",
+    "a group activity for peer teaching"
+   ],
+   "optionsHi": [
+    "नई सामग्री से पहले दिया गया सामान्य परिचयात्मक ढाँचा, जो उसे पूर्व ज्ञान से जोड़ता है",
+    "सही उत्तर के बाद दिया गया पुरस्कार",
+    "इकाई के अंत में लिया गया सारांश-परीक्षण",
+    "सहपाठी-शिक्षण के लिए समूह गतिविधि"
+   ],
+   "correctIndex": 0,
+   "explanation": "Advance organisers are introduced before the lesson to provide a conceptual bridge to prior knowledge, supporting meaningful reception learning. The other options describe reinforcement, a test or peer work.",
+   "explanationHi": "अग्रिम संगठक पाठ से पहले दिया जाता है और पूर्व ज्ञान से वैचारिक पुल बनाता है, जिससे सार्थक ग्रहण अधिगम में मदद मिलती है। अन्य विकल्प पुनर्बलन, परीक्षण या सहपाठी कार्य का वर्णन करते हैं।"
+  },
+  {
+   "id": "t13-psych-05",
+   "part": "B",
+   "section": "psych",
+   "topic": "Cattell",
+   "question": "Which of the following is the best example of fluid intelligence?",
+   "questionHi": "निम्नलिखित में से तरल बुद्धि (fluid intelligence) का सर्वोत्तम उदाहरण कौन-सा है?",
+   "options": [
+    "Knowing the meanings of many words",
+    "Recalling dates of historical events",
+    "Solving a novel pattern problem for the first time",
+    "Reciting a learnt poem"
+   ],
+   "optionsHi": [
+    "अनेक शब्दों के अर्थ जानना",
+    "ऐतिहासिक घटनाओं की तिथियाँ याद करना",
+    "पहली बार एक नई पैटर्न-समस्या हल करना",
+    "सीखी हुई कविता सुनाना"
+   ],
+   "correctIndex": 2,
+   "explanation": "Fluid intelligence (Cattell) is the capacity to reason and solve new problems independent of prior knowledge. The other options depend on accumulated learning, i.e. crystallised intelligence.",
+   "explanationHi": "कैटल की तरल बुद्धि पूर्व ज्ञान से स्वतंत्र होकर तर्क करने और नई समस्याएँ हल करने की क्षमता है। अन्य विकल्प संचित सीख पर निर्भर हैं, यानी क्रिस्टलित बुद्धि।"
+  },
+  {
+   "id": "t13-psych-06",
+   "part": "B",
+   "section": "psych",
+   "topic": "Guilford and creativity",
+   "question": "Asking students to list as many uses of a brick as they can think of mainly measures ___ (Guilford).",
+   "questionHi": "विद्यार्थियों से ईंट के अधिक से अधिक उपयोग बताने को कहना मुख्यतः ___ (गिल्फ़ोर्ड) को मापता है।",
+   "options": [
+    "convergent thinking",
+    "divergent thinking",
+    "rote memory",
+    "emotional intelligence"
+   ],
+   "optionsHi": [
+    "अभिसारी चिंतन",
+    "अपसारी चिंतन",
+    "रटने की स्मृति",
+    "भावात्मक बुद्धि"
+   ],
+   "correctIndex": 1,
+   "explanation": "Generating many varied responses to an open-ended prompt is divergent thinking, a core component of creativity. Convergent thinking seeks a single correct answer.",
+   "explanationHi": "खुले प्रश्न पर अनेक भिन्न उत्तर देना अपसारी चिंतन है, जो सृजनात्मकता का मूल घटक है। अभिसारी चिंतन में एक ही सही उत्तर खोजा जाता है।"
+  },
+  {
+   "id": "t13-assess-01",
+   "part": "B",
+   "section": "assess",
+   "topic": "Reliability",
+   "question": "Correlating the scores on the odd-numbered and even-numbered items of the same test estimates which type of reliability?",
+   "questionHi": "एक ही परीक्षण के विषम और सम प्रश्नों के प्राप्तांकों का सह-संबंध निकालने से किस प्रकार की विश्वसनीयता का आकलन होता है?",
+   "options": [
+    "Test-retest reliability",
+    "Parallel-forms reliability",
+    "Split-half reliability",
+    "Inter-rater reliability"
+   ],
+   "optionsHi": [
+    "परीक्षण-पुनर्परीक्षण विश्वसनीयता",
+    "समानांतर-रूप विश्वसनीयता",
+    "अर्ध-विभाजन (split-half) विश्वसनीयता",
+    "अंतर-मूल्यांकनकर्ता विश्वसनीयता"
+   ],
+   "correctIndex": 2,
+   "explanation": "Splitting one test into two halves (odd-even) and correlating them gives split-half reliability (internal consistency). Test-retest needs two administrations, parallel forms need two versions, and inter-rater compares scorers.",
+   "explanationHi": "एक परीक्षण को दो भागों (विषम-सम) में बाँटकर सह-संबंध निकालना अर्ध-विभाजन विश्वसनीयता (आंतरिक संगति) देता है। टेस्ट-रीटेस्ट में दो बार परीक्षण, समानांतर रूप में दो रूप और अंतर-मूल्यांकनकर्ता में अंक देने वालों की तुलना होती है।"
+  },
+  {
+   "id": "t13-assess-02",
+   "part": "B",
+   "section": "assess",
+   "topic": "Item analysis",
+   "question": "If more students of the low-scoring group than of the high-scoring group answer an item correctly, the item has ___.",
+   "questionHi": "यदि किसी प्रश्न का सही उत्तर उच्च-प्राप्तांक समूह की तुलना में निम्न-प्राप्तांक समूह के अधिक विद्यार्थी देते हैं, तो उस प्रश्न में ___ है।",
+   "options": [
+    "negative discrimination index",
+    "high validity",
+    "perfect difficulty",
+    "positive discrimination index"
+   ],
+   "optionsHi": [
+    "ऋणात्मक विभेदन सूचकांक",
+    "उच्च वैधता",
+    "पूर्ण कठिनाई",
+    "धनात्मक विभेदन सूचकांक"
+   ],
+   "correctIndex": 0,
+   "explanation": "A good item is answered correctly by more high scorers (positive discrimination). When low scorers do better, the discrimination index is negative and the item should be revised or dropped.",
+   "explanationHi": "अच्छे प्रश्न का सही उत्तर अधिक उच्च-प्राप्तांक वाले देते हैं (धनात्मक विभेदन)। जब निम्न वाले बेहतर करते हैं तो विभेदन सूचकांक ऋणात्मक होता है और प्रश्न बदलना या हटाना चाहिए।"
+  },
+  {
+   "id": "t13-assess-03",
+   "part": "B",
+   "section": "assess",
+   "topic": "Norm vs criterion referencing",
+   "question": "Declaring a learner 'competent' because she scored 80 per cent or above, irrespective of how others scored, is an example of ___.",
+   "questionHi": "किसी विद्यार्थी को 'सक्षम' घोषित करना क्योंकि उसने 80 प्रतिशत या अधिक अंक पाए, चाहे दूसरों के अंक कुछ भी हों, ___ का उदाहरण है।",
+   "options": [
+    "norm-referenced interpretation",
+    "percentile ranking",
+    "diagnostic testing",
+    "criterion-referenced interpretation"
+   ],
+   "optionsHi": [
+    "मानक-संदर्भित व्याख्या",
+    "प्रतिशतक क्रम",
+    "निदानात्मक परीक्षण",
+    "कसौटी-संदर्भित व्याख्या"
+   ],
+   "correctIndex": 3,
+   "explanation": "Criterion-referenced assessment compares performance with a fixed standard. Norm-referenced and percentile methods compare a learner with other learners.",
+   "explanationHi": "कसौटी-संदर्भित आकलन में प्रदर्शन की तुलना पूर्व-निर्धारित मानक से होती है। मानक-संदर्भित और प्रतिशतक विधियाँ विद्यार्थी की तुलना अन्य विद्यार्थियों से करती हैं।"
+  },
+  {
+   "id": "t13-assess-04",
+   "part": "B",
+   "section": "assess",
+   "topic": "Validity",
+   "question": "Preparing a blueprint so that test items sample all content areas in proportion to their importance mainly improves ___.",
+   "questionHi": "ऐसा ब्लू-प्रिंट बनाना जिससे प्रश्न सभी विषय-क्षेत्रों का उनके महत्व के अनुपात में प्रतिनिधित्व करें, मुख्यतः ___ को बढ़ाता है।",
+   "options": [
+    "objectivity only",
+    "content validity",
+    "test-retest reliability",
+    "predictive validity"
+   ],
+   "optionsHi": [
+    "केवल वस्तुनिष्ठता",
+    "विषयवस्तु वैधता (content validity)",
+    "परीक्षण-पुनर्परीक्षण विश्वसनीयता",
+    "भविष्यवाणी वैधता"
+   ],
+   "correctIndex": 1,
+   "explanation": "Content validity is the extent to which items represent the whole syllabus; a blueprint ensures this. Predictive validity concerns forecasting future performance.",
+   "explanationHi": "विषयवस्तु वैधता यह है कि प्रश्न पूरे पाठ्यक्रम का कितना प्रतिनिधित्व करते हैं; ब्लू-प्रिंट इसे सुनिश्चित करता है। भविष्यवाणी वैधता भावी प्रदर्शन के पूर्वानुमान से जुड़ी है।"
+  },
+  {
+   "id": "t13-pedag-01",
+   "part": "B",
+   "section": "pedag",
+   "topic": "NEP 2020",
+   "question": "Under NEP 2020, PARAKH has been proposed as ___.",
+   "questionHi": "NEP 2020 के अंतर्गत PARAKH को ___ के रूप में प्रस्तावित किया गया है।",
+   "options": [
+    "a teacher eligibility test",
+    "a scholarship scheme for rural girls",
+    "a national assessment centre to set norms and standards for assessment",
+    "a board for approving school textbooks"
+   ],
+   "optionsHi": [
+    "शिक्षक पात्रता परीक्षा",
+    "ग्रामीण बालिकाओं के लिए छात्रवृत्ति योजना",
+    "मूल्यांकन के मानदंड और मानक तय करने वाला राष्ट्रीय मूल्यांकन केंद्र",
+    "स्कूली पाठ्यपुस्तकों को मंज़ूरी देने वाला बोर्ड"
+   ],
+   "correctIndex": 2,
+   "explanation": "NEP 2020 proposed PARAKH as a national assessment centre that sets norms, standards and guidelines for assessment across school boards. It is not a teacher test, scholarship or textbook board.",
+   "explanationHi": "NEP 2020 ने PARAKH को राष्ट्रीय मूल्यांकन केंद्र के रूप में प्रस्तावित किया, जो स्कूल बोर्डों के लिए मूल्यांकन के मानदंड और मानक तय करता है। यह शिक्षक परीक्षा, छात्रवृत्ति या पाठ्यपुस्तक बोर्ड नहीं है।"
+  },
+  {
+   "id": "t13-pedag-02",
+   "part": "B",
+   "section": "pedag",
+   "topic": "5E model",
+   "question": "In the constructivist 5E model, students apply the learnt concept to a new situation during the ___ phase.",
+   "questionHi": "रचनावादी 5E मॉडल में विद्यार्थी सीखी हुई अवधारणा को नई परिस्थिति में ___ चरण में लागू करते हैं।",
+   "options": [
+    "Elaborate",
+    "Engage",
+    "Explain",
+    "Evaluate"
+   ],
+   "optionsHi": [
+    "विस्तार (Elaborate)",
+    "रुचि जगाना (Engage)",
+    "व्याख्या (Explain)",
+    "मूल्यांकन (Evaluate)"
+   ],
+   "correctIndex": 0,
+   "explanation": "Elaborate extends and applies the concept to new contexts. Engage arouses curiosity, Explain formalises the concept, and Evaluate checks understanding.",
+   "explanationHi": "विस्तार चरण में अवधारणा को नए संदर्भों में लागू किया जाता है। रुचि जगाना जिज्ञासा पैदा करता है, व्याख्या अवधारणा स्पष्ट करती है और मूल्यांकन समझ की जाँच करता है।"
+  },
+  {
+   "id": "t13-pedag-03",
+   "part": "B",
+   "section": "pedag",
+   "topic": "Lesson planning",
+   "question": "Which of the following is the best-written lesson objective?",
+   "questionHi": "निम्नलिखित में से कौन-सा पाठ-उद्देश्य सबसे अच्छी तरह लिखा गया है?",
+   "options": [
+    "To teach paragraph writing",
+    "To make students love writing",
+    "Learners will be able to write a five-sentence descriptive paragraph on 'My School' using at least three adjectives",
+    "To help students understand paragraphs"
+   ],
+   "optionsHi": [
+    "अनुच्छेद-लेखन पढ़ाना",
+    "विद्यार्थियों में लेखन के प्रति प्रेम जगाना",
+    "विद्यार्थी 'मेरा विद्यालय' पर कम से कम तीन विशेषणों का उपयोग करते हुए पाँच वाक्यों का वर्णनात्मक अनुच्छेद लिख सकेंगे",
+    "विद्यार्थियों को अनुच्छेद समझने में सहायता करना"
+   ],
+   "correctIndex": 2,
+   "explanation": "A good objective is learner-centred, specific and measurable, as in option C. The others describe the teacher's activity or vague, unobservable outcomes.",
+   "explanationHi": "अच्छा उद्देश्य विद्यार्थी-केंद्रित, विशिष्ट और मापनीय होता है, जैसा विकल्प C में है। अन्य विकल्प शिक्षक की गतिविधि या अस्पष्ट, अप्रेक्षणीय परिणाम बताते हैं।"
+  },
+  {
+   "id": "t13-attitude-01",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Constructivism",
+   "question": "In a constructivist classroom, the teacher's main role is that of ___.",
+   "questionHi": "रचनावादी कक्षा में शिक्षक की मुख्य भूमिका ___ की होती है।",
+   "options": [
+    "the sole source of knowledge",
+    "a facilitator who designs experiences for learners to build understanding",
+    "a strict supervisor who permits no talk",
+    "a judge who only ranks learners"
+   ],
+   "optionsHi": [
+    "ज्ञान के एकमात्र स्रोत की",
+    "सुविधादाता की, जो विद्यार्थियों के लिए समझ बनाने वाले अनुभव रचता है",
+    "कठोर पर्यवेक्षक की, जो बोलने नहीं देता",
+    "न्यायाधीश की, जो केवल रैंक देता है"
+   ],
+   "correctIndex": 1,
+   "explanation": "Constructivism holds that learners actively build knowledge, so the teacher guides and creates meaningful experiences. Transmission, silence and ranking belong to traditional approaches.",
+   "explanationHi": "रचनावाद के अनुसार विद्यार्थी स्वयं ज्ञान का निर्माण करते हैं, इसलिए शिक्षक मार्गदर्शन करता है और सार्थक अनुभव रचता है। प्रसारण, चुप्पी और रैंकिंग परंपरागत उपागम के हैं।"
+  },
+  {
+   "id": "t13-attitude-02",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Gender perspective",
+   "question": "A teacher always asks boys to answer questions and girls to distribute notebooks. This best illustrates ___.",
+   "questionHi": "शिक्षक हमेशा लड़कों से प्रश्नों के उत्तर पूछता है और लड़कियों से कॉपियाँ बाँटने को कहता है। यह सर्वोत्तम रूप से ___ को दर्शाता है।",
+   "options": [
+    "the hidden curriculum reinforcing gender stereotypes",
+    "an inclusive classroom practice",
+    "a child-centred approach",
+    "formative assessment"
+   ],
+   "optionsHi": [
+    "छिपा पाठ्यक्रम (hidden curriculum) जो लैंगिक रूढ़ियों को मज़बूत करता है",
+    "समावेशी कक्षा-व्यवहार",
+    "बाल-केंद्रित उपागम",
+    "रचनात्मक मूल्यांकन"
+   ],
+   "correctIndex": 0,
+   "explanation": "Unplanned messages conveyed through everyday teacher behaviour that assign different roles to boys and girls form a hidden curriculum that strengthens stereotypes. The other options are not described by this behaviour.",
+   "explanationHi": "शिक्षक के रोज़ के व्यवहार से लड़के-लड़कियों को अलग भूमिकाएँ मिलना बिना योजना का छिपा पाठ्यक्रम है जो रूढ़ियाँ मज़बूत करता है। अन्य विकल्प इस व्यवहार से मेल नहीं खाते।"
+  }
+ ]
+}

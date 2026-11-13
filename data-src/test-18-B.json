@@ -1,0 +1,349 @@
+{
+ "questions": [
+  {
+   "id": "t18-psych-01",
+   "part": "B",
+   "section": "psych",
+   "topic": "Erikson",
+   "question": "A 15-year-old girl tries out different roles and peer groups while struggling to decide who she is. According to Erikson, which crisis is she facing?",
+   "questionHi": "एक 15 वर्षीय लड़की स्वयं को समझने के लिए अलग-अलग भूमिकाएँ और मित्र-समूह आज़माती है। एरिक्सन के अनुसार वह किस संकट का सामना कर रही है?",
+   "options": [
+    "Industry vs inferiority",
+    "Identity vs role confusion",
+    "Intimacy vs isolation",
+    "Initiative vs guilt"
+   ],
+   "optionsHi": [
+    "उद्यमिता बनाम हीनता",
+    "पहचान बनाम भूमिका-भ्रम",
+    "घनिष्ठता बनाम अलगाव",
+    "पहल बनाम अपराध-बोध"
+   ],
+   "correctIndex": 1,
+   "explanation": "Adolescence (about 12-18 years) is the stage of identity vs role confusion. Industry vs inferiority belongs to 6-12 years, intimacy vs isolation to young adulthood, initiative vs guilt to 3-6 years.",
+   "explanationHi": "किशोरावस्था (लगभग 12-18 वर्ष) पहचान बनाम भूमिका-भ्रम की अवस्था है। उद्यमिता बनाम हीनता 6-12 वर्ष, घनिष्ठता बनाम अलगाव युवावस्था और पहल बनाम अपराध-बोध 3-6 वर्ष की अवस्था है।"
+  },
+  {
+   "id": "t18-psych-02",
+   "part": "B",
+   "section": "psych",
+   "topic": "Vygotsky — private speech",
+   "question": "According to Vygotsky, private speech (self-talk) in young children serves mainly to:",
+   "questionHi": "वाइगोत्स्की के अनुसार छोटे बच्चों की निजी वाणी (self-talk) मुख्यतः किसलिए होती है?",
+   "options": [
+    "disturb other children in class",
+    "show a delay in language development",
+    "imitate adults without any meaning",
+    "guide and regulate the child's own thinking and action"
+   ],
+   "optionsHi": [
+    "कक्षा में अन्य बच्चों को परेशान करना",
+    "भाषा-विकास में देरी दिखाना",
+    "बिना अर्थ के बड़ों की नकल करना",
+    "बच्चे की अपनी सोच और क्रिया को निर्देशित व नियंत्रित करना"
+   ],
+   "correctIndex": 3,
+   "explanation": "Vygotsky saw private speech as a tool of thought that later becomes silent inner speech, helping children plan and self-regulate. Piaget, by contrast, called it egocentric speech. It is not a sign of delay or mere imitation.",
+   "explanationHi": "वाइगोत्स्की ने निजी वाणी को चिंतन का साधन माना जो आगे चलकर मौन आंतरिक वाणी बन जाती है और बच्चे को योजना बनाने व स्व-नियमन में मदद करती है। पियाजे इसे अहंकेंद्रित वाणी कहते थे। यह देरी या केवल नकल का संकेत नहीं है।"
+  },
+  {
+   "id": "t18-psych-03",
+   "part": "B",
+   "section": "psych",
+   "topic": "Sternberg",
+   "question": "Sternberg's triarchic theory of intelligence consists of which three components?",
+   "questionHi": "स्टर्नबर्ग के त्रिसूत्री बुद्धि सिद्धांत (triarchic theory) के तीन घटक कौन-से हैं?",
+   "options": [
+    "Analytical, creative and practical",
+    "Verbal, numerical and spatial",
+    "Fluid, crystallised and emotional",
+    "Linguistic, musical and kinesthetic"
+   ],
+   "optionsHi": [
+    "विश्लेषणात्मक, सृजनात्मक और व्यावहारिक",
+    "शाब्दिक, संख्यात्मक और स्थानिक",
+    "तरल, मूर्त और भावनात्मक",
+    "भाषिक, संगीतात्मक और गतिबोधी"
+   ],
+   "correctIndex": 0,
+   "explanation": "Sternberg's three aspects are analytical (componential), creative (experiential) and practical (contextual) intelligence. The other sets belong to different models (Thurstone-type, Cattell, Gardner).",
+   "explanationHi": "स्टर्नबर्ग के तीन पक्ष हैं: विश्लेषणात्मक, सृजनात्मक और व्यावहारिक बुद्धि। अन्य समुच्चय दूसरे मॉडलों (थर्स्टन-प्रकार, कैटेल, गार्डनर) के हैं।"
+  },
+  {
+   "id": "t18-psych-04",
+   "part": "B",
+   "section": "psych",
+   "topic": "Cattell",
+   "question": "Which ability, according to Cattell, tends to decline after early adulthood, while accumulated knowledge continues to grow?",
+   "questionHi": "कैटेल के अनुसार कौन-सी योग्यता प्रारंभिक वयस्कता के बाद घटने लगती है, जबकि संचित ज्ञान बढ़ता रहता है?",
+   "options": [
+    "Crystallised intelligence",
+    "Emotional intelligence",
+    "Fluid intelligence",
+    "Practical intelligence"
+   ],
+   "optionsHi": [
+    "मूर्त (Crystallised) बुद्धि",
+    "भावनात्मक बुद्धि",
+    "तरल (Fluid) बुद्धि",
+    "व्यावहारिक बुद्धि"
+   ],
+   "correctIndex": 2,
+   "explanation": "Fluid intelligence (novel reasoning, speed) peaks early and declines, while crystallised intelligence (knowledge and vocabulary from experience) continues to grow. Emotional and practical intelligence are not Cattell's terms.",
+   "explanationHi": "तरल बुद्धि (नई समस्याओं में तर्क, गति) जल्दी चरम पर पहुँचकर घटती है, जबकि मूर्त बुद्धि (अनुभव से प्राप्त ज्ञान व शब्दावली) बढ़ती रहती है। भावनात्मक और व्यावहारिक बुद्धि कैटेल की शब्दावली नहीं हैं।"
+  },
+  {
+   "id": "t18-psych-05",
+   "part": "B",
+   "section": "psych",
+   "topic": "Guilford — divergent thinking",
+   "question": "Which test best measures Guilford's \"divergent production\"?",
+   "questionHi": "गिलफोर्ड के \"अपसारी उत्पादन\" (divergent production) को कौन-सा परीक्षण सबसे अच्छे ढंग से मापता है?",
+   "options": [
+    "A multiple-choice analogy test",
+    "A memory-span test",
+    "A typing-speed test",
+    "A task asking students to list as many uses of a brick as possible"
+   ],
+   "optionsHi": [
+    "बहुविकल्पीय सादृश्य परीक्षण",
+    "स्मृति-विस्तार परीक्षण",
+    "टंकण-गति परीक्षण",
+    "एक ईंट के अधिकाधिक उपयोग सूचीबद्ध करने का कार्य"
+   ],
+   "correctIndex": 3,
+   "explanation": "Divergent production means generating many varied answers to an open problem (fluency, flexibility, originality), as in the \"alternate uses\" task. The other tests have a single correct answer or measure memory or speed.",
+   "explanationHi": "अपसारी उत्पादन का अर्थ खुली समस्या के अनेक विविध उत्तर देना (प्रवाह, लचीलापन, मौलिकता) है, जैसे \"वैकल्पिक उपयोग\" कार्य। अन्य परीक्षणों में एक सही उत्तर होता है या स्मृति/गति मापी जाती है।"
+  },
+  {
+   "id": "t18-psych-06",
+   "part": "B",
+   "section": "psych",
+   "topic": "Piaget — sensorimotor substages",
+   "question": "A 6-month-old baby repeatedly shakes a rattle to hear the sound. In Piaget's scheme this is:",
+   "questionHi": "6 माह का शिशु आवाज़ सुनने के लिए झुनझुने को बार-बार हिलाता है। पियाजे की योजना में यह है:",
+   "options": [
+    "primary circular reaction",
+    "secondary circular reaction",
+    "tertiary circular reaction",
+    "reflex activity"
+   ],
+   "optionsHi": [
+    "प्राथमिक वृत्तीय प्रतिक्रिया",
+    "द्वितीयक वृत्तीय प्रतिक्रिया",
+    "तृतीयक वृत्तीय प्रतिक्रिया",
+    "सहज-क्रिया"
+   ],
+   "correctIndex": 1,
+   "explanation": "Secondary circular reactions (about 4-8 months) repeat actions to produce interesting effects on objects outside the body. Primary ones centre on the infant's own body, tertiary ones (12-18 months) involve deliberate variation and experimentation.",
+   "explanationHi": "द्वितीयक वृत्तीय प्रतिक्रियाएँ (लगभग 4-8 माह) शरीर के बाहर की वस्तुओं पर रोचक प्रभाव पैदा करने के लिए क्रियाओं की पुनरावृत्ति हैं। प्राथमिक का केंद्र शिशु का अपना शरीर और तृतीयक (12-18 माह) में जानबूझकर बदलाव व प्रयोग होते हैं।"
+  },
+  {
+   "id": "t18-assess-01",
+   "part": "B",
+   "section": "assess",
+   "topic": "Reliability",
+   "question": "A teacher gives the same test to the same group after two weeks and correlates the two sets of scores. This estimates:",
+   "questionHi": "एक शिक्षक वही परीक्षण उसी समूह को दो सप्ताह बाद देता है और दोनों अंक-समूहों का सहसंबंध निकालता है। इससे क्या आकलित होता है?",
+   "options": [
+    "test-retest reliability",
+    "split-half reliability",
+    "content validity",
+    "inter-rater reliability"
+   ],
+   "optionsHi": [
+    "परीक्षण-पुनर्परीक्षण विश्वसनीयता",
+    "अर्ध-विभाजन विश्वसनीयता",
+    "विषय-वस्तु वैधता",
+    "अंतर-मूल्यांकनकर्ता विश्वसनीयता"
+   ],
+   "correctIndex": 0,
+   "explanation": "Repeating the same test after an interval and correlating scores gives test-retest reliability (stability). Split-half divides one administration; inter-rater compares scorers; content validity is about coverage.",
+   "explanationHi": "वही परीक्षण अंतराल के बाद दोहराकर अंकों का सहसंबंध निकालने से परीक्षण-पुनर्परीक्षण विश्वसनीयता (स्थिरता) मिलती है। अर्ध-विभाजन एक ही प्रशासन को बाँटता है; अंतर-मूल्यांकनकर्ता में मूल्यांकनकर्ताओं की तुलना होती है।"
+  },
+  {
+   "id": "t18-assess-02",
+   "part": "B",
+   "section": "assess",
+   "topic": "Item analysis",
+   "question": "In item analysis, a discrimination index close to zero means that the item:",
+   "questionHi": "प्रश्न-विश्लेषण (item analysis) में विभेदन-सूचकांक शून्य के निकट होने का अर्थ है कि प्रश्न:",
+   "options": [
+    "is very easy for everyone",
+    "is extremely difficult",
+    "does not distinguish between high and low scorers",
+    "has a perfect answer key"
+   ],
+   "optionsHi": [
+    "सभी के लिए बहुत सरल है",
+    "अत्यंत कठिन है",
+    "उच्च और निम्न अंक पाने वालों में अंतर नहीं करता",
+    "का उत्तर-कुंजी पूर्ण है"
+   ],
+   "correctIndex": 2,
+   "explanation": "Discrimination index shows how well an item separates high scorers from low scorers; near zero means both groups do equally well or badly. Ease or difficulty is shown by the difficulty index, not the discrimination index.",
+   "explanationHi": "विभेदन-सूचकांक बताता है कि प्रश्न उच्च और निम्न अंक वालों को कितना अलग करता है; शून्य के निकट का अर्थ है दोनों समूहों का प्रदर्शन समान। सरलता/कठिनता कठिनाई-सूचकांक से पता चलती है।"
+  },
+  {
+   "id": "t18-assess-03",
+   "part": "B",
+   "section": "assess",
+   "topic": "Validity",
+   "question": "A table of specifications (blueprint) in test construction mainly ensures:",
+   "questionHi": "परीक्षण-निर्माण में विनिर्देश-तालिका (blueprint) मुख्यतः क्या सुनिश्चित करती है?",
+   "options": [
+    "predictive validity",
+    "content validity",
+    "inter-scorer reliability",
+    "concurrent validity"
+   ],
+   "optionsHi": [
+    "भविष्यसूचक वैधता",
+    "विषय-वस्तु वैधता",
+    "अंतर-अंककर्ता विश्वसनीयता",
+    "समवर्ती वैधता"
+   ],
+   "correctIndex": 1,
+   "explanation": "A blueprint distributes items across content areas and objectives, so the test samples the syllabus properly: content validity. Predictive and concurrent validity need an external criterion.",
+   "explanationHi": "Blueprint विषय-क्षेत्रों और उद्देश्यों में प्रश्नों का वितरण करता है ताकि परीक्षण पाठ्यक्रम का उचित प्रतिनिधित्व करे: यही विषय-वस्तु वैधता है। भविष्यसूचक व समवर्ती वैधता के लिए बाहरी कसौटी चाहिए।"
+  },
+  {
+   "id": "t18-assess-04",
+   "part": "B",
+   "section": "assess",
+   "topic": "NEP 2020 — assessment",
+   "question": "The \"Holistic Progress Card\" proposed in NEP 2020 is meant to report:",
+   "questionHi": "NEP 2020 में प्रस्तावित \"समग्र प्रगति कार्ड\" (Holistic Progress Card) किसका प्रतिवेदन देने के लिए है?",
+   "options": [
+    "only marks in annual examination",
+    "only attendance and discipline",
+    "only rank in class",
+    "a 360-degree view of cognitive, affective and psychomotor progress, including self and peer assessment"
+   ],
+   "optionsHi": [
+    "केवल वार्षिक परीक्षा के अंक",
+    "केवल उपस्थिति और अनुशासन",
+    "केवल कक्षा में रैंक",
+    "आत्म और सहपाठी आकलन सहित संज्ञानात्मक, भावात्मक व मनोगत्यात्मक प्रगति का 360-डिग्री चित्र"
+   ],
+   "correctIndex": 3,
+   "explanation": "NEP 2020 envisages a multidimensional report with self-assessment, peer assessment and teacher assessment across domains, moving away from marks-only reporting.",
+   "explanationHi": "NEP 2020 में आत्म, सहपाठी और शिक्षक आकलन के साथ सभी क्षेत्रों की बहुआयामी रिपोर्ट की परिकल्पना है, जो केवल अंकों वाली रिपोर्टिंग से हटकर है।"
+  },
+  {
+   "id": "t18-pedag-01",
+   "part": "B",
+   "section": "pedag",
+   "topic": "5E model",
+   "question": "In the 5E instructional model, which phase comes immediately after \"Engage\"?",
+   "questionHi": "5E शिक्षण-प्रतिमान में \"Engage\" के तुरंत बाद कौन-सा चरण आता है?",
+   "options": [
+    "Explain",
+    "Elaborate",
+    "Explore",
+    "Evaluate"
+   ],
+   "optionsHi": [
+    "व्याख्या (Explain)",
+    "विस्तार (Elaborate)",
+    "अन्वेषण (Explore)",
+    "मूल्यांकन (Evaluate)"
+   ],
+   "correctIndex": 2,
+   "explanation": "The sequence is Engage, Explore, Explain, Elaborate, Evaluate. After arousing curiosity, learners explore materials or problems before explanations are formalised.",
+   "explanationHi": "क्रम है: Engage, Explore, Explain, Elaborate, Evaluate। जिज्ञासा जगाने के बाद शिक्षार्थी व्याख्या से पहले सामग्री या समस्याओं का अन्वेषण करते हैं।"
+  },
+  {
+   "id": "t18-pedag-02",
+   "part": "B",
+   "section": "pedag",
+   "topic": "NCF-SE 2023",
+   "question": "NCF-SE 2023 organises school education into which four stages, in order?",
+   "questionHi": "NCF-SE 2023 स्कूली शिक्षा को किन चार चरणों में, क्रमानुसार, व्यवस्थित करती है?",
+   "options": [
+    "Foundational, Preparatory, Middle, Secondary",
+    "Pre-primary, Primary, Upper primary, Secondary",
+    "Preparatory, Foundational, Secondary, Middle",
+    "Nursery, Primary, Middle, Higher secondary"
+   ],
+   "optionsHi": [
+    "आधारभूत, तैयारी, मध्य, माध्यमिक",
+    "पूर्व-प्राथमिक, प्राथमिक, उच्च प्राथमिक, माध्यमिक",
+    "तैयारी, आधारभूत, माध्यमिक, मध्य",
+    "नर्सरी, प्राथमिक, मध्य, उच्चतर माध्यमिक"
+   ],
+   "correctIndex": 0,
+   "explanation": "NCF-SE 2023 follows the 5+3+3+4 design of NEP 2020: Foundational (ages 3-8), Preparatory (8-11), Middle (11-14) and Secondary (14-18).",
+   "explanationHi": "NCF-SE 2023 NEP 2020 की 5+3+3+4 संरचना का पालन करती है: आधारभूत (3-8 वर्ष), तैयारी (8-11), मध्य (11-14) और माध्यमिक (14-18)।"
+  },
+  {
+   "id": "t18-pedag-03",
+   "part": "B",
+   "section": "pedag",
+   "topic": "NCF 2005 — textbook",
+   "question": "In line with NCF 2005's move away from rote learning, the textbook should be treated as:",
+   "questionHi": "NCF 2005 के रटंत-शिक्षा से दूर जाने के अनुरूप, पाठ्यपुस्तक को किस रूप में देखा जाना चाहिए?",
+   "options": [
+    "the only source of knowledge",
+    "one of many learning resources",
+    "a list of questions for examination",
+    "a substitute for the teacher"
+   ],
+   "optionsHi": [
+    "ज्ञान का एकमात्र स्रोत",
+    "अनेक अधिगम-संसाधनों में से एक",
+    "परीक्षा के प्रश्नों की सूची",
+    "शिक्षक का विकल्प"
+   ],
+   "correctIndex": 1,
+   "explanation": "NCF 2005 recommends that the textbook be one of several resources (along with local material, libraries, activities) and not the sole source or the basis of examinations.",
+   "explanationHi": "NCF 2005 कहती है कि पाठ्यपुस्तक कई संसाधनों (स्थानीय सामग्री, पुस्तकालय, गतिविधियाँ) में से एक हो, न कि एकमात्र स्रोत या परीक्षा का आधार।"
+  },
+  {
+   "id": "t18-attitude-01",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Constructivism",
+   "question": "Which classroom practice best reflects a constructivist view of learning?",
+   "questionHi": "रचनावादी अधिगम-दृष्टि को कक्षा का कौन-सा अभ्यास सबसे अच्छी तरह दर्शाता है?",
+   "options": [
+    "Dictating notes for memorisation",
+    "Weekly rote recitation tests",
+    "Teacher solving every problem on the board",
+    "Students investigating a problem in groups with the teacher as facilitator"
+   ],
+   "optionsHi": [
+    "याद करने के लिए नोट्स लिखवाना",
+    "साप्ताहिक रटंत पाठ-परीक्षण",
+    "शिक्षक द्वारा बोर्ड पर हर समस्या हल करना",
+    "छात्रों द्वारा समूह में समस्या की जाँच, शिक्षक सुगमकर्ता के रूप में"
+   ],
+   "correctIndex": 3,
+   "explanation": "Constructivism holds that learners build knowledge actively through experience and social interaction, with the teacher guiding. The other options are transmission-based.",
+   "explanationHi": "रचनावाद के अनुसार शिक्षार्थी अनुभव और सामाजिक अंतःक्रिया से सक्रिय रूप से ज्ञान गढ़ते हैं और शिक्षक मार्गदर्शन देता है। अन्य विकल्प सूचना-हस्तांतरण पर आधारित हैं।"
+  },
+  {
+   "id": "t18-attitude-02",
+   "part": "B",
+   "section": "attitude",
+   "topic": "Gender perspective",
+   "question": "Which approach best helps address gender stereotypes in the classroom?",
+   "questionHi": "कक्षा में लैंगिक रूढ़ियों को दूर करने के लिए कौन-सा तरीका सबसे उपयुक्त है?",
+   "options": [
+    "Seating boys and girls separately",
+    "Assigning cleaning duties only to girls",
+    "Using gender-neutral language and examples and ensuring equal participation",
+    "Avoiding the topic altogether"
+   ],
+   "optionsHi": [
+    "लड़के-लड़कियों को अलग बैठाना",
+    "सफ़ाई का कार्य केवल लड़कियों को सौंपना",
+    "लिंग-निरपेक्ष भाषा व उदाहरणों का प्रयोग और समान भागीदारी सुनिश्चित करना",
+    "विषय से बचना"
+   ],
+   "correctIndex": 2,
+   "explanation": "Gender-sensitive teaching challenges stereotypes through inclusive language, varied role models and equal opportunities. Segregation and role-assignment reinforce stereotypes; avoidance leaves them unchallenged.",
+   "explanationHi": "लिंग-संवेदनशील शिक्षण समावेशी भाषा, विविध आदर्शों और समान अवसरों से रूढ़ियों को चुनौती देता है। अलगाव और भूमिकाओं का बँटवारा रूढ़ियों को मजबूत करते हैं; बचना उन्हें अनछुआ छोड़ देता है।"
+  }
+ ]
+}

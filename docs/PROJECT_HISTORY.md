@@ -25,3 +25,6 @@ Forked from `quiz-ITI` (ITI Electronic Mechanic quiz app: 170 topics, ~5.9k Hind
 - **History storage rewritten.** Dropped sql.js/WASM (extra failure point, no benefit) for `idb-keyval` + localStorage + in-memory fallbacks; saving never throws or blocks navigation; Review shows a warning banner if nothing could be persisted (private mode). Also asks `navigator.storage.persist()`. Old attempts saved in the previous sql.js DB are not migrated.
 - **`/tests` route renamed `/series`.** `public/tests/` (question data) made nginx redirect a direct open/refresh of `/tests` to `http://host:10000/tests/` (Render's internal port) → page never loaded. nginx now has `absolute_redirect off`.
 - Fixed bottom bar safe-area padding for iPhone (`viewport-fit=cover`).
+
+## 2026-11-12 — Advanced series (tests 11–20)
+User asked for 10 more tests, "moderate to hard, not basics". Same blueprint/marking/PDF/history as tests 1–10; spec extended with an "ADVANCED series" difficulty section; validator now covers tests 01–20 and checks redundancy across all of them; test metadata has `level: standard|advanced` (shown in the picker). History-storage question (server-side vs client-only) is still open — user hasn't chosen yet.

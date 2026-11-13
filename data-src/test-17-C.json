@@ -1,0 +1,499 @@
+{
+ "questions": [
+  {
+   "id": "t17-hindi-01",
+   "part": "C",
+   "section": "hindi",
+   "topic": "संधि",
+   "question": "'जगदीश' का सही संधि-विच्छेद क्या है?",
+   "options": [
+    "जगद् + ईश",
+    "जगत् + ईश",
+    "जग + दीश",
+    "जगदि + ईश"
+   ],
+   "correctIndex": 1,
+   "explanation": "'जगत् + ईश' में त् के बाद स्वर 'ई' आने पर त् का द् हो जाता है, इसलिए 'जगदीश' बनता है। यह व्यंजन संधि है। अन्य विभाजन नियम के अनुसार सही नहीं हैं।"
+  },
+  {
+   "id": "t17-hindi-02",
+   "part": "C",
+   "section": "hindi",
+   "topic": "समास",
+   "question": "'चौराहा' में कौन-सा समास है?",
+   "options": [
+    "बहुव्रीहि",
+    "कर्मधारय",
+    "अव्ययीभाव",
+    "द्विगु"
+   ],
+   "correctIndex": 3,
+   "explanation": "'चौराहा' का विग्रह 'चार राहों का समूह' है। पूर्वपद संख्यावाचक है और पूरा पद समूह का बोध कराता है, इसलिए द्विगु समास है।"
+  },
+  {
+   "id": "t17-hindi-03",
+   "part": "C",
+   "section": "hindi",
+   "topic": "लोकोक्ति",
+   "question": "लोकोक्ति 'थोथा चना बाजे घना' का अर्थ क्या है?",
+   "options": [
+    "कम गुण वाला व्यक्ति अधिक दिखावा करता है",
+    "बहुत मेहनत से सफलता मिलती है",
+    "अनाज खाने से शक्ति बढ़ती है",
+    "एकता में बल होता है"
+   ],
+   "correctIndex": 0,
+   "explanation": "'थोथा' का अर्थ खोखला है। खोखला चना ज़्यादा बजता है, यानी जिसमें गुण कम होते हैं वह अधिक शोर और दिखावा करता है।"
+  },
+  {
+   "id": "t17-hindi-04",
+   "part": "C",
+   "section": "hindi",
+   "topic": "श्रुतिसम भिन्नार्थक शब्द",
+   "question": "'नदी के कूल पर बैठकर उसने भोजन किया।' इस वाक्य में 'कूल' का अर्थ क्या है?",
+   "options": [
+    "वंश",
+    "कुल योग",
+    "किनारा",
+    "पानी की धारा"
+   ],
+   "correctIndex": 2,
+   "explanation": "'कूल' का अर्थ किनारा है, जबकि 'कुल' का अर्थ वंश या संपूर्ण होता है। दोनों शब्द सुनने में समान लगते हैं पर अर्थ भिन्न हैं।"
+  },
+  {
+   "id": "t17-hindi-05",
+   "part": "C",
+   "section": "hindi",
+   "topic": "कारक",
+   "question": "'पेड़ से पत्ते गिरे' - इस वाक्य में 'पेड़ से' में कौन-सा कारक है?",
+   "options": [
+    "अपादान",
+    "करण",
+    "संप्रदान",
+    "अधिकरण"
+   ],
+   "correctIndex": 0,
+   "explanation": "यहाँ 'से' अलग होने का भाव बताता है (पेड़ से पत्तों का अलग होना), इसलिए अपादान कारक है। करण कारक में 'से' साधन के अर्थ में आता है (कलम से लिखा)।"
+  },
+  {
+   "id": "t17-english-01",
+   "part": "C",
+   "section": "english",
+   "topic": "One-word substitution",
+   "question": "Choose the one word for: \"An abnormal fear of open or crowded public spaces\".",
+   "options": [
+    "claustrophobia",
+    "agoraphobia",
+    "xenophobia",
+    "acrophobia"
+   ],
+   "correctIndex": 1,
+   "explanation": "\"Agoraphobia\" is fear of open or crowded places. Claustrophobia is fear of closed spaces, xenophobia of strangers, acrophobia of heights."
+  },
+  {
+   "id": "t17-english-02",
+   "part": "C",
+   "section": "english",
+   "topic": "Prepositions",
+   "question": "Fill in the blank: \"After the war, the village was bereft ___ all its young men.\"",
+   "options": [
+    "of",
+    "from",
+    "with",
+    "by"
+   ],
+   "correctIndex": 0,
+   "explanation": "\"Bereft\" is followed by \"of\" (bereft of hope/friends)."
+  },
+  {
+   "id": "t17-english-03",
+   "part": "C",
+   "section": "english",
+   "topic": "Spot the error",
+   "question": "Find the part with the error: \"Hardly had he reached the station (A) / when the train (B) / had left (C) / No error (D)\".",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "correctIndex": 2,
+   "explanation": "With \"Hardly had ... when\", the second clause takes the simple past: \"when the train left\". \"Had left\" is wrong."
+  },
+  {
+   "id": "t17-english-04",
+   "part": "C",
+   "section": "english",
+   "topic": "Idioms",
+   "question": "The idiom \"to be at sixes and sevens\" means:",
+   "options": [
+    "to be exactly alike",
+    "to be in a state of confusion or disorder",
+    "to be very rich",
+    "to be at the age of thirteen"
+   ],
+   "correctIndex": 1,
+   "explanation": "The idiom describes disorder or confusion; the other options are literal guesses."
+  },
+  {
+   "id": "t17-english-05",
+   "part": "C",
+   "section": "english",
+   "topic": "Active-Passive",
+   "question": "Change into the passive voice: \"Who taught you this song?\"",
+   "options": [
+    "By whom is this song taught to you?",
+    "Who has this song been taught by you?",
+    "By whom was this song taught to you?",
+    "By whom has this song been taught to you?"
+   ],
+   "correctIndex": 2,
+   "explanation": "The simple past \"taught\" becomes \"was taught\"; \"Who\" becomes \"By whom\" at the start. The other options change the tense or the structure."
+  },
+  {
+   "id": "t17-mental-01",
+   "part": "C",
+   "section": "mental",
+   "topic": "Mixed series",
+   "question": "Find the next term: 3, 6, 5, 10, 9, 18, 17, ?",
+   "questionHi": "अगला पद ज्ञात कीजिए: 3, 6, 5, 10, 9, 18, 17, ?",
+   "options": [
+    "33",
+    "35",
+    "36",
+    "34"
+   ],
+   "optionsHi": [
+    "33",
+    "35",
+    "36",
+    "34"
+   ],
+   "correctIndex": 3,
+   "explanation": "The pattern alternates: x2, then -1. 3x2=6, 6-1=5, 5x2=10, 10-1=9, 9x2=18, 18-1=17, 17x2=34.",
+   "explanationHi": "श्रेणी में बारी-बारी से x2 और -1 है। 3x2=6, 6-1=5, 5x2=10, 10-1=9, 9x2=18, 18-1=17, 17x2=34।"
+  },
+  {
+   "id": "t17-mental-02",
+   "part": "C",
+   "section": "mental",
+   "topic": "Coding-decoding",
+   "question": "If TEACHER is coded as VGCEJGT, how is STUDENT coded?",
+   "questionHi": "यदि TEACHER को VGCEJGT लिखा जाता है, तो STUDENT को कैसे लिखा जाएगा?",
+   "options": [
+    "UVWFGNV",
+    "UVWFGPV",
+    "UWVFGPV",
+    "RSTCDMS"
+   ],
+   "optionsHi": [
+    "UVWFGNV",
+    "UVWFGPV",
+    "UWVFGPV",
+    "RSTCDMS"
+   ],
+   "correctIndex": 1,
+   "explanation": "Each letter is shifted two places forward: S-U, T-V, U-W, D-F, E-G, N-P, T-V, giving UVWFGPV.",
+   "explanationHi": "प्रत्येक अक्षर को दो स्थान आगे बढ़ाया गया है: S-U, T-V, U-W, D-F, E-G, N-P, T-V, अतः UVWFGPV।"
+  },
+  {
+   "id": "t17-mental-03",
+   "part": "C",
+   "section": "mental",
+   "topic": "Blood relations",
+   "question": "A is the sister of B. C is the mother of B. D is the father of C. E is the mother of D. How is A related to E?",
+   "questionHi": "A, B की बहन है। C, B की माता है। D, C का पिता है। E, D की माता है। A का E से क्या संबंध है?",
+   "options": [
+    "Great-granddaughter",
+    "Granddaughter",
+    "Daughter",
+    "Great-grandmother"
+   ],
+   "optionsHi": [
+    "परपोती",
+    "पोती",
+    "पुत्री",
+    "परदादी"
+   ],
+   "correctIndex": 0,
+   "explanation": "A and B are children of C. C is the child of D, and D is the child of E. So E is the great-grandmother of A, and A is E's great-granddaughter.",
+   "explanationHi": "A और B, C की संतान हैं। C, D की संतान है और D, E की संतान है। इसलिए E, A की परदादी है और A, E की परपोती है।"
+  },
+  {
+   "id": "t17-mental-04",
+   "part": "C",
+   "section": "mental",
+   "topic": "Direction and distance",
+   "question": "Ravi walks 10 m south, turns right and walks 24 m. How far is he from the starting point?",
+   "questionHi": "रवि 10 मी दक्षिण चलता है, दाएँ मुड़कर 24 मी चलता है। वह आरंभिक बिंदु से कितनी दूर है?",
+   "options": [
+    "34 m",
+    "14 m",
+    "26 m",
+    "28 m"
+   ],
+   "optionsHi": [
+    "34 मी",
+    "14 मी",
+    "26 मी",
+    "28 मी"
+   ],
+   "correctIndex": 2,
+   "explanation": "Facing south, a right turn leads west. The two legs are perpendicular, so distance = sqrt(10^2 + 24^2) = sqrt(676) = 26 m.",
+   "explanationHi": "दक्षिण की ओर मुख करके दाएँ मुड़ने पर पश्चिम दिशा होती है। दोनों दूरियाँ लंबवत हैं, इसलिए दूरी = sqrt(10^2 + 24^2) = sqrt(676) = 26 मी।"
+  },
+  {
+   "id": "t17-mental-05",
+   "part": "C",
+   "section": "mental",
+   "topic": "Calendar",
+   "question": "If 5 March 2023 was a Sunday, which day of the week was 5 March 2021?",
+   "questionHi": "यदि 5 मार्च 2023 को रविवार था, तो 5 मार्च 2021 को सप्ताह का कौन-सा दिन था?",
+   "options": [
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Wednesday"
+   ],
+   "optionsHi": [
+    "गुरुवार",
+    "शुक्रवार",
+    "शनिवार",
+    "बुधवार"
+   ],
+   "correctIndex": 1,
+   "explanation": "From 5 March 2021 to 5 March 2023 there are 365 + 365 = 730 days (2022 is not a leap year). 730 = 104 weeks + 2 days, so 2021 was two days earlier in the week: Sunday - 2 = Friday.",
+   "explanationHi": "5 मार्च 2021 से 5 मार्च 2023 तक 365 + 365 = 730 दिन हैं (2022 अधिवर्ष नहीं है)। 730 = 104 सप्ताह + 2 दिन, अतः 2021 में दिन दो दिन पीछे था: रविवार - 2 = शुक्रवार।"
+  },
+  {
+   "id": "t17-computer-01",
+   "part": "C",
+   "section": "computer",
+   "topic": "Excel",
+   "question": "If cell C1 contains =A1*$B$1 and is copied to C2, the formula in C2 becomes:",
+   "questionHi": "यदि सेल C1 में =A1*$B$1 है और इसे C2 में कॉपी किया जाए, तो C2 में सूत्र क्या होगा?",
+   "options": [
+    "=A2*$B$1",
+    "=A2*$B$2",
+    "=A1*$B$1",
+    "=A2*B2"
+   ],
+   "optionsHi": [
+    "=A2*$B$1",
+    "=A2*$B$2",
+    "=A1*$B$1",
+    "=A2*B2"
+   ],
+   "correctIndex": 0,
+   "explanation": "A1 is a relative reference and changes to A2, while $B$1 is an absolute reference and stays fixed.",
+   "explanationHi": "A1 सापेक्ष संदर्भ है, इसलिए A2 हो जाता है, जबकि $B$1 निरपेक्ष संदर्भ है और स्थिर रहता है।"
+  },
+  {
+   "id": "t17-computer-02",
+   "part": "C",
+   "section": "computer",
+   "topic": "File extensions",
+   "question": "What is the default file extension of a presentation saved in PowerPoint 2016?",
+   "questionHi": "PowerPoint 2016 में सहेजी गई प्रस्तुति का डिफ़ॉल्ट फ़ाइल एक्सटेंशन क्या है?",
+   "options": [
+    ".ppt",
+    ".pps",
+    ".pptx",
+    ".potx"
+   ],
+   "optionsHi": [
+    ".ppt",
+    ".pps",
+    ".pptx",
+    ".potx"
+   ],
+   "correctIndex": 2,
+   "explanation": ".pptx is the default Open XML presentation format. .ppt is the older 97-2003 format, .pps is a slide show and .potx is a template.",
+   "explanationHi": ".pptx डिफ़ॉल्ट Open XML प्रस्तुति फ़ॉर्मेट है। .ppt पुराना 97-2003 फ़ॉर्मेट है, .pps स्लाइड शो है और .potx टेम्पलेट है।"
+  },
+  {
+   "id": "t17-computer-03",
+   "part": "C",
+   "section": "computer",
+   "topic": "Malware",
+   "question": "Which malware replicates itself independently and spreads across networks without attaching to a host file?",
+   "questionHi": "कौन-सा मैलवेयर किसी होस्ट फ़ाइल से जुड़े बिना स्वयं की प्रतिलिपि बनाकर नेटवर्क में फैलता है?",
+   "options": [
+    "Boot sector virus",
+    "Worm",
+    "Spyware",
+    "Macro virus"
+   ],
+   "optionsHi": [
+    "बूट सेक्टर वायरस",
+    "वर्म (Worm)",
+    "स्पाईवेयर",
+    "मैक्रो वायरस"
+   ],
+   "correctIndex": 1,
+   "explanation": "A worm is standalone and self-replicating. Boot sector and macro viruses attach to a boot sector or document; spyware secretly collects information.",
+   "explanationHi": "वर्म स्वतंत्र और स्वयं-प्रतिलिपि बनाने वाला प्रोग्राम है। बूट सेक्टर और मैक्रो वायरस बूट सेक्टर या दस्तावेज़ से जुड़ते हैं; स्पाईवेयर गुप्त रूप से जानकारी एकत्र करता है।"
+  },
+  {
+   "id": "t17-computer-04",
+   "part": "C",
+   "section": "computer",
+   "topic": "Memory hierarchy",
+   "question": "Arrange from fastest to slowest: RAM, Registers, Hard disk, Cache.",
+   "questionHi": "सबसे तेज़ से सबसे धीमे के क्रम में लगाइए: RAM, Registers, Hard disk, Cache।",
+   "options": [
+    "Cache, Registers, RAM, Hard disk",
+    "Registers, RAM, Cache, Hard disk",
+    "Hard disk, RAM, Cache, Registers",
+    "Registers, Cache, RAM, Hard disk"
+   ],
+   "optionsHi": [
+    "Cache, Registers, RAM, Hard disk",
+    "Registers, RAM, Cache, Hard disk",
+    "Hard disk, RAM, Cache, Registers",
+    "Registers, Cache, RAM, Hard disk"
+   ],
+   "correctIndex": 3,
+   "explanation": "Registers inside the CPU are the fastest, then cache, then main memory (RAM), and secondary storage like a hard disk is the slowest.",
+   "explanationHi": "CPU के अंदर के रजिस्टर सबसे तेज़ होते हैं, फिर कैश, फिर मुख्य मेमोरी (RAM) और हार्ड डिस्क जैसा द्वितीयक संग्रहण सबसे धीमा होता है।"
+  },
+  {
+   "id": "t17-computer-05",
+   "part": "C",
+   "section": "computer",
+   "topic": "Cloud computing",
+   "question": "A company rents virtual servers, storage and networks over the internet but manages its own operating systems and applications. This is:",
+   "questionHi": "एक कंपनी इंटरनेट पर वर्चुअल सर्वर, स्टोरेज और नेटवर्क किराये पर लेती है, पर अपने ऑपरेटिंग सिस्टम और एप्लिकेशन स्वयं सँभालती है। यह है:",
+   "options": [
+    "SaaS",
+    "PaaS",
+    "DaaS only",
+    "IaaS"
+   ],
+   "optionsHi": [
+    "SaaS",
+    "PaaS",
+    "केवल DaaS",
+    "IaaS"
+   ],
+   "correctIndex": 3,
+   "explanation": "Infrastructure as a Service provides raw computing resources. SaaS delivers ready software, and PaaS supplies a platform for developing applications.",
+   "explanationHi": "IaaS मूल कंप्यूटिंग संसाधन देता है। SaaS तैयार सॉफ़्टवेयर देता है और PaaS एप्लिकेशन विकसित करने का प्लेटफ़ॉर्म देता है।"
+  },
+  {
+   "id": "t17-gk-01",
+   "part": "C",
+   "section": "gk",
+   "topic": "Indian Polity",
+   "question": "Which Article of the Indian Constitution defines a \"Money Bill\"?",
+   "questionHi": "भारतीय संविधान का कौन-सा अनुच्छेद \"धन विधेयक\" को परिभाषित करता है?",
+   "options": [
+    "Article 108",
+    "Article 112",
+    "Article 110",
+    "Article 368"
+   ],
+   "optionsHi": [
+    "अनुच्छेद 108",
+    "अनुच्छेद 112",
+    "अनुच्छेद 110",
+    "अनुच्छेद 368"
+   ],
+   "correctIndex": 2,
+   "explanation": "Article 110 defines a Money Bill. Article 108 provides for a joint sitting, Article 112 for the annual financial statement (Budget), and Article 368 for constitutional amendment.",
+   "explanationHi": "अनुच्छेद 110 धन विधेयक को परिभाषित करता है। अनुच्छेद 108 संयुक्त बैठक, 112 वार्षिक वित्तीय विवरण (बजट) और 368 संविधान संशोधन से संबंधित है।"
+  },
+  {
+   "id": "t17-gk-02",
+   "part": "C",
+   "section": "gk",
+   "topic": "Modern History",
+   "question": "The Ilbert Bill controversy of 1883 was about:",
+   "questionHi": "1883 का इल्बर्ट बिल विवाद किससे संबंधित था?",
+   "options": [
+    "the right of Indian judges to try European offenders in criminal cases",
+    "the ban on the Indian-language press",
+    "the partition of Bengal",
+    "the reduction of import duty on cotton"
+   ],
+   "optionsHi": [
+    "भारतीय न्यायाधीशों को यूरोपीय अपराधियों के आपराधिक मामलों की सुनवाई का अधिकार देना",
+    "भारतीय भाषा के समाचार-पत्रों पर प्रतिबंध",
+    "बंगाल का विभाजन",
+    "कपास पर आयात शुल्क में कमी"
+   ],
+   "correctIndex": 0,
+   "explanation": "During Viceroy Ripon's time, the bill proposed to let Indian judges try Europeans and met strong European opposition. The Vernacular Press Act was 1878 and the partition of Bengal 1905.",
+   "explanationHi": "वायसराय रिपन के समय इस विधेयक में भारतीय न्यायाधीशों को यूरोपीयों के मुकदमे सुनने का अधिकार देने का प्रस्ताव था, जिसका यूरोपीयों ने कड़ा विरोध किया। वर्नाक्युलर प्रेस एक्ट 1878 और बंगाल विभाजन 1905 में हुआ।"
+  },
+  {
+   "id": "t17-gk-03",
+   "part": "C",
+   "section": "gk",
+   "topic": "Geography of India",
+   "question": "Black cotton soil (regur) is mainly formed by the weathering of:",
+   "questionHi": "काली कपास मिट्टी (रेगुर) मुख्यतः किसके अपक्षय से बनती है?",
+   "options": [
+    "alluvium brought by Himalayan rivers",
+    "basaltic lava rocks of the Deccan Trap",
+    "coral deposits",
+    "wind-blown sand of the desert"
+   ],
+   "optionsHi": [
+    "हिमालयी नदियों द्वारा लाई गई जलोढ़ मिट्टी",
+    "दक्कन ट्रैप की बेसाल्ट लावा चट्टानें",
+    "प्रवाल निक्षेप",
+    "मरुस्थल की पवन-वाहित रेत"
+   ],
+   "correctIndex": 1,
+   "explanation": "Regur develops from Deccan Trap basalt, is rich in clay and retains moisture, so it suits cotton. Alluvium forms the northern plains.",
+   "explanationHi": "रेगुर दक्कन ट्रैप के बेसाल्ट से बनती है, इसमें चिकनी मिट्टी अधिक होती है और नमी बनाए रखती है, इसलिए कपास के लिए उपयुक्त है। जलोढ़ मिट्टी उत्तरी मैदानों में बनती है।"
+  },
+  {
+   "id": "t17-gk-04",
+   "part": "C",
+   "section": "gk",
+   "topic": "Science",
+   "question": "The blue colour of the clear daytime sky is mainly due to:",
+   "questionHi": "दिन के साफ़ आकाश का नीला रंग मुख्यतः किस कारण होता है?",
+   "options": [
+    "total internal reflection",
+    "refraction by water in clouds",
+    "absorption of blue light by ozone",
+    "Rayleigh scattering of sunlight by air molecules"
+   ],
+   "optionsHi": [
+    "पूर्ण आंतरिक परावर्तन",
+    "बादलों के जल द्वारा अपवर्तन",
+    "ओज़ोन द्वारा नीले प्रकाश का अवशोषण",
+    "वायु के अणुओं द्वारा सूर्य-प्रकाश का रेले प्रकीर्णन"
+   ],
+   "correctIndex": 3,
+   "explanation": "Shorter (blue) wavelengths are scattered much more strongly by air molecules (Rayleigh scattering), so blue light reaches the eye from all directions.",
+   "explanationHi": "छोटी तरंगदैर्ध्य (नीला) का वायु-अणुओं द्वारा अधिक प्रकीर्णन होता है (रेले प्रकीर्णन), इसलिए नीला प्रकाश सभी दिशाओं से आँख तक पहुँचता है।"
+  },
+  {
+   "id": "t17-gk-05",
+   "part": "C",
+   "section": "gk",
+   "topic": "Chhattisgarh GK",
+   "question": "Indravati National Park (Tiger Reserve) is located in which district of Chhattisgarh?",
+   "questionHi": "इंद्रावती राष्ट्रीय उद्यान (टाइगर रिज़र्व) छत्तीसगढ़ के किस जिले में स्थित है?",
+   "options": [
+    "Jashpur",
+    "Bijapur",
+    "Mahasamund",
+    "Rajnandgaon"
+   ],
+   "optionsHi": [
+    "जशपुर",
+    "बीजापुर",
+    "महासमुंद",
+    "राजनांदगाँव"
+   ],
+   "correctIndex": 1,
+   "explanation": "Indravati National Park lies in Bijapur district of the Bastar region, named after the Indravati river that forms part of its boundary.",
+   "explanationHi": "इंद्रावती राष्ट्रीय उद्यान बस्तर क्षेत्र के बीजापुर जिले में है; इसका नाम इंद्रावती नदी पर पड़ा है, जो इसकी सीमा का भाग बनाती है।"
+  }
+ ]
+}
